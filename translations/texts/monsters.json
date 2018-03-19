@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "BUBBLE BLAST"
+      "Eng": "BUBBLE BLAST",
+      "Por": "EXPLOSÃO DE BOLHAS"
     }
   },
   {
@@ -33,7 +34,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Testing rotating monster"
+      "Eng": "Testing rotating monster",
+      "Por": "Testando monstro giratório"
     }
   }
 ]
