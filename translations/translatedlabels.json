@@ -9907,7 +9907,7 @@
       "towerinvincible.questtemplate.json": 0,
       "verdantruins.questtemplate.json": 0
     },
-    "quests.json": 0,
+    "quests.json": 1,
     "radiomessages": {
       "fu_chemlab.radiomessages.json": 0,
       "fu_elder.radiomessages.json": 0,
