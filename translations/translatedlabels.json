@@ -494,7 +494,7 @@
     "fm_musicplayer": {
       "shared_fm_musicplayer..json": 0
     },
-    "generic.json": 0,
+    "generic.json": 1,
     "glitchEmotes.json": 0,
     "interface": {
       "ai": {
