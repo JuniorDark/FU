@@ -4958,7 +4958,7 @@
       "shared_violiumcrystal.mat.json": 0,
       "shared_wastestone.mat.json": 0
     },
-    "materials.json": 0,
+    "materials.json": 3,
     "monsters": {
       "bees": {
         "adaptivebee": {
