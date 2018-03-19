@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hello adventurer, mind if I join you?"
+      "Eng": "Hello adventurer, mind if I join you?",
+      "Por": "Olá aventureiro, se importa se eu me juntar a você?"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll just wait here."
+      "Eng": "I'll just wait here.",
+      "Por": "Vou esperar aqui."
     }
   }
 ]
