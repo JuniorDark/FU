@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bioworld/biodirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alive with potential, this soil is fertile and mildly mutagenic."
+    }
+  }
+]

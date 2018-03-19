@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byostechstation/fu_byostechstation.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/fu_byostechstationTier0/fu_byostechstationTier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "S.A.I.L"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byostechstation/fu_byostechstationdeco.object": [
+        "/description"
+      ],
+      "objects/ship/fu_byostechstationTier0/fu_byostechstationTier0.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short."
+    }
+  }
+]

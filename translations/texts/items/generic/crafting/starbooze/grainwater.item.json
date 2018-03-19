@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/grainwater.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle filled with the basis of yeast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/grainwater.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grain Water"
+    }
+  }
+]

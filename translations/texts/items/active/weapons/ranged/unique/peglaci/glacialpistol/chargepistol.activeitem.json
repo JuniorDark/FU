@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/glacialpistol/chargepistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eject super-cold fun at enemies.\n^yellow;Charge increases damage^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/glacialpistol/chargepistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glacial Pistol"
+    }
+  }
+]

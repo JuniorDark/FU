@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/x10/xeno.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Headlamp, Gas Immunity.  Set Bonus:\n^cyan;20% Ice and Physical Resist^reset;\n^#e43774;Immunity: Oxygen, Liq. Nitrogen, Cold^reset;\n^green;+25% Damage and +2% Crit(Assault/Energy Rifle)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/x10/xeno.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "X10 Power Helm"
+    }
+  }
+]

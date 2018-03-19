@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/puscorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pus Core"
+    }
+  }
+]

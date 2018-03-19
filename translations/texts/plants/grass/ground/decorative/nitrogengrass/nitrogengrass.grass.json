@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/nitrogengrass/nitrogengrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Plantlife"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/nitrogengrass/nitrogengrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "some frozen plantlife."
+    }
+  }
+]

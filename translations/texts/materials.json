@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glowglassmaterial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/glowglass.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection... it's hideous!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redsand.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/redsand2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/honey/goldensand.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/honey/goldensand.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/redsand2.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/retexsand2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fujellyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pixelgoods/fujellyblock2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thickened jelly. It's really tempting to eat it."
+    }
+  }
+]

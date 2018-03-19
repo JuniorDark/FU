@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shockshroom.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock Shroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shockshroom.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toss this shroom and shock your foes."
+    }
+  }
+]

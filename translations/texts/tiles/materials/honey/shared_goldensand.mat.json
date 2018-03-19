@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldensand.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/goldensand.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Sand"
+    }
+  }
+]

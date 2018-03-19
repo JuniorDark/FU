@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexaetherdustpillar.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dreamy beige pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexaetherdustpillar.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beige pillars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexaetherdustpillar.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Columnssss."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderpipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Pipe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderpipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What ichor was carried through this?"
+    }
+  }
+]

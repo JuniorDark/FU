@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/thoriumrod.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This radioactive isotope is typically found on Threat 4+ planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/thoriumrod.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorium Rod"
+    }
+  }
+]

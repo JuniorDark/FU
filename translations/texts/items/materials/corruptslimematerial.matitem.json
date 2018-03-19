@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptslimematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that remains after being contaminated by dark water."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/cosmicresistance.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that resists the Cosmic element, ^green;+10% Cosmic Resist^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/cosmicresistance.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cosmic Barrier"
+    }
+  }
+]

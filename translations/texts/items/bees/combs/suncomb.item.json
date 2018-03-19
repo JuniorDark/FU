@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/suncomb.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solar Honeycomb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/suncomb.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Too hot for the honey extractor."
+    }
+  }
+]

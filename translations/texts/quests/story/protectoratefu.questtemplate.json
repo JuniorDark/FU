@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/scriptConfig/descriptions/graduate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attend your graduation ceremony"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/scriptConfig/descriptions/escape"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape the destruction"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have some thing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/scriptConfig/descriptions/matterManipulator"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take the matter manipulator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got the thing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectoratefu.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a thing"
+    }
+  }
+]

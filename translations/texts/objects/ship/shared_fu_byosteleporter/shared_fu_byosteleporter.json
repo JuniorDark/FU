@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosteleporter/fu_byosteleporterdeco.object": [
+        "/description"
+      ],
+      "objects/ship/fu_byosteleporterTier0/fu_byosteleporterTier0.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trusty teleporter, what would we do without you?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/junglecomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious jungle honeycomb! Decent healing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/junglecomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle Honeycomb"
+    }
+  }
+]

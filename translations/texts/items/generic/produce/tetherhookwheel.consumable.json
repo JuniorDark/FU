@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tetherhookwheel.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;Emergency Warp - When near death, teleport^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tetherhookwheel.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tetherhook Wheel"
+    }
+  }
+]

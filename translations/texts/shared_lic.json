@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalichits.matitem": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/metallic/metallicmachine3.object": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avalichits.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Data Storage"
+    }
+  }
+]

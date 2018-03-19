@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/nomadaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomad Axe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/nomadaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The weapon of a desert nomad"
+    }
+  }
+]

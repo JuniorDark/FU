@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fu_craftinfo/fu_craftinfo.object": [
+        "/ponexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, someone end my eternal torment. My pain is ceaseless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fu_craftinfo/fu_craftinfo.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel shows which materials produce results with your various lab stations. Must place near Extractor or Xenolab."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fu_craftinfo/fu_craftinfo.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Lab Directory^reset;"
+    }
+  }
+]

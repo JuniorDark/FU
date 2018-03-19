@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasterytile.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiling of Shoji design."
+    }
+  }
+]

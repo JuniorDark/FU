@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/partytimecollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "....wtf?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/partytimecollar.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLUR Collar"
+    }
+  }
+]

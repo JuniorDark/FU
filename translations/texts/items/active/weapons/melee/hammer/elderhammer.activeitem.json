@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/elderhammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Hammer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/elderhammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warp reality with murder!"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bioworld/biostone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone, yet organic material saturates it."
+    }
+  }
+]

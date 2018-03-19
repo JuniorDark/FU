@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/fuqueenstinger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Queen Stinger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/fuqueenstinger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The stinger of a giant queen bee, seriously?"
+    }
+  }
+]

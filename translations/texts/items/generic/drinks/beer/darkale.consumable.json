@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/beer/darkale.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of mild ale. The alcohol content is around 5%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/beer/darkale.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mild Ale"
+    }
+  }
+]

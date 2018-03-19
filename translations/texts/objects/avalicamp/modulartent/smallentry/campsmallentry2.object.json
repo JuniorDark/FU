@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nanocanvas sheet with some poles. Would make a good awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent Awning"
+    }
+  }
+]

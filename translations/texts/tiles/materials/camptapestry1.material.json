@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camptapestry1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, decorative tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camptapestry1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Tapestry"
+    }
+  }
+]

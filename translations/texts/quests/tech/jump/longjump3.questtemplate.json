@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/longjump3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even more fluttery!"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_adaptivecell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adaptive Cells"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_adaptivecell.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These cells aren't hardy, but they adapt quickly to survive."
+    }
+  }
+]

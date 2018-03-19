@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/minercomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious coal filled honeycomb! Increases max health by 25%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/minercomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deep Earth Honeycomb"
+    }
+  }
+]

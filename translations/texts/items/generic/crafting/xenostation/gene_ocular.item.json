@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_ocular.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eyes where there shouldn't be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_ocular.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Optics"
+    }
+  }
+]

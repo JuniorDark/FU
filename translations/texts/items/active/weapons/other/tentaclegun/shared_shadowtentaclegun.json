@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Lurch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun2.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle Burst"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/other/tentaclegun/shadowtentaclegun2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This creation fires controlled shadow threads. Weird.\n^cyan;Debilitating debuffs. Elder/Bio^reset;\n^green;alt-fire Dooms enemies^reset;"
+    }
+  }
+]

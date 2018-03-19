@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/sulphur.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphur"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/sulphur.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphur, a surprisingly useful compound."
+    }
+  }
+]

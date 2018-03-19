@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mineralcannonadv2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hyperion Particle Cannon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mineralcannonadv2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsurpassed in its weapon class.\n^yellow;Utterly eradicates tiles^reset;"
+    }
+  }
+]

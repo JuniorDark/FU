@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/feroziumcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A honeycomb with high ferozium contents. Increases critical chance for 60 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/feroziumcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferozium Honeycomb"
+    }
+  }
+]

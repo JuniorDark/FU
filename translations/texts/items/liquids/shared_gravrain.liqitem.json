@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidgravrain.liqitem": [
+        "/description"
+      ],
+      "items/liquids/liquidorangegravrain.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of grav-liquid, manipulating gravity upon touch. How does this liquid even exist!?"
+    }
+  }
+]

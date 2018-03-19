@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/thickjunglegrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle grasses"
+    }
+  }
+]

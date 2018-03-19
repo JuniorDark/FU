@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/vashtagun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weird and unique weapon guaranteed to turn heads. And remove them.\n^yellow;Boomerang-blasts^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/vashtagun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vashta Cutter"
+    }
+  }
+]

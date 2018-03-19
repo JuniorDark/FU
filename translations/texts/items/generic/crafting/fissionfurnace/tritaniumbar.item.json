@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/tritaniumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fantastic alloy composed of various metals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/tritaniumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Tritanium Bar^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic10.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone reads as inorganic, yet bleeds if cut."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic10.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Akashic Stone^white;"
+    }
+  }
+]

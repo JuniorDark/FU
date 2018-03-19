@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/thesauce.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protects you from the ravages of pain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/thesauce.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Sauce"
+    }
+  }
+]

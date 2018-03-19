@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldenfleece.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rare and enormously expensive fabric"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldenfleece.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Fleece"
+    }
+  }
+]

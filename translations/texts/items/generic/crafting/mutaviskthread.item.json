@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mutaviskthread.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A versatile, resistant thread made from Mutavisk plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mutaviskthread.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bio Thread"
+    }
+  }
+]

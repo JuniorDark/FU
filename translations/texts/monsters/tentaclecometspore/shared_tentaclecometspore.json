@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/unique/tentaclecometspore/tentaclecometsporefu.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/tentaclecometspore/tentaclecometspore.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its tentacles contain a poison that stops targets in their tracks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/unique/tentaclecometspore/tentaclecometsporefu.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/walkers/tentaclecometspore/tentaclecometspore.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacool"
+    }
+  }
+]

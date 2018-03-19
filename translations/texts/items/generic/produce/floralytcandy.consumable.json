@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/floralytcandy.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;Heal 70 health^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/floralytcandy.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floralyt Candy"
+    }
+  }
+]

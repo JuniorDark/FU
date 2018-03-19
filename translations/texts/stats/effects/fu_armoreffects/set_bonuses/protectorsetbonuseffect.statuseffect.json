@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/protectorsetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+4% Crit Chance (Bladed Weapons)"
+    }
+  }
+]

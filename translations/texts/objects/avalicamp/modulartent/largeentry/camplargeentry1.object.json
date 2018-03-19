@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A set of decorative sheets, suitable for an entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decorative Entrance"
+    }
+  }
+]

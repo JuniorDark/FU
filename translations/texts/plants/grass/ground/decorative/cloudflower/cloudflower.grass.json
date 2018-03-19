@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudflower/cloudflower.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cloudy spiral flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudflower/cloudflower.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty flower."
+    }
+  }
+]

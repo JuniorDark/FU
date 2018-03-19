@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/rocketboots/rocketboots.tech": [
+        "/description"
+      ],
+      "tech/jump/rocketboots/rocketboots2.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press and hold jump while in the air to fly."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/bloodroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Root"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/bloodroot.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;+10% Physical Resistance^reset;"
+    }
+  }
+]

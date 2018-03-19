@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/effigiumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effigium Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/effigiumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light has issues refracting off of this shadowy surface, rendering this metal nearly invisible."
+    }
+  }
+]

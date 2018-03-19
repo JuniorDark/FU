@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/fu_redhoneycombblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/fu_redhoneycombblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Honeycomb Block"
+    }
+  }
+]

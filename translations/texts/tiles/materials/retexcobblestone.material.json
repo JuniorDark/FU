@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexcobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblessstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexcobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexcobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexcobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard stones, smooth to the touch."
+    }
+  }
+]

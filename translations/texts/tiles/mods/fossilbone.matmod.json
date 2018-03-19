@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/fossilbone.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilized bone."
+    }
+  }
+]

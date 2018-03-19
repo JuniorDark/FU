@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier5/fudiver3/fudiver3.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leviathan Leggings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier5/fudiver3/fudiver3.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immunity: Acid, Poison/Bio, Gas, Pressure^reset;\n^#e43774;Swim Boost 3, Oxygen^reset;\n^green;+5% Crit, +15% Power, +5% Speed (Ocean/Tidewater)^reset;"
+    }
+  }
+]

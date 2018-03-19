@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/deathblossom.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deathblossom Mushroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/deathblossom.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toss this hideous thing, and enjoy the mayhem."
+    }
+  }
+]

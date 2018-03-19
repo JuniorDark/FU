@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/xenostationadvnew/xenostationadvnew.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top of the line Quantum Xeno Lab for efficiently extracting genes from seeds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/xenostationadvnew/xenostationadvnew.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Advanced Xenolab^white;"
+    }
+  }
+]

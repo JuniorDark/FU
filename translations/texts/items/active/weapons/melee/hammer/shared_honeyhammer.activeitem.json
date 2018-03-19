@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/fuhoneyhammer.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/hammer/fumegahoneyhammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truly solid amber condensed into a mallet."
+    }
+  }
+]

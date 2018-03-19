@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/ff_focusingarray.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An array that can redirect passing particle streams."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/ff_focusingarray.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Focusing Array^white;"
+    }
+  }
+]

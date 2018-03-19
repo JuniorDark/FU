@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mutavisksilk.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mutavisk Silk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mutavisksilk.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Superior, resistant and durable silk fibres."
+    }
+  }
+]

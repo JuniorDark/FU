@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/wastewater.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ew. Filthy water."
+    }
+  }
+]

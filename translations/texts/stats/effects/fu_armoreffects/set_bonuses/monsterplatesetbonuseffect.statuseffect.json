@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/monsterplatesetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid, Tar, Sting and Acid Immunity. +15% Bow/Crossbow Damage, +5% Crit (Bow/Crossbow)"
+    }
+  }
+]

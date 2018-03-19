@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/c4explosive.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-payload Explosive. Be sure to stand clear. Detonation requires impact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/c4explosive.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "C4 Plastic Explosive"
+    }
+  }
+]

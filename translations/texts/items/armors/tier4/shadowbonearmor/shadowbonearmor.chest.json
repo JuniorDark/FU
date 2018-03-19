@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/shadowbonearmor/shadowbonearmor.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus: \n^cyan;30% Shadow Resist^reset;\n^green;+30% Damage (Axe / Hammer /Scythe)^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/shadowbonearmor/shadowbonearmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Chestplate"
+    }
+  }
+]

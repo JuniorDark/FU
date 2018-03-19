@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/energyblade2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antimatter Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/energyblade2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Highly destructive. Don't poke your eye out.\n^cyan;Epic Swooshy Alt^reset;"
+    }
+  }
+]

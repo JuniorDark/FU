@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/cultiststaffmelee.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A charming bone and wood staff dripping with poison."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/cultiststaffmelee.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist Battle Staff"
+    }
+  }
+]

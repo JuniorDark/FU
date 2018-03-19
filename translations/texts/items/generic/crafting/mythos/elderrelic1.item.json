@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What purpose could this thing serve?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Unknown Technology^white;"
+    }
+  }
+]

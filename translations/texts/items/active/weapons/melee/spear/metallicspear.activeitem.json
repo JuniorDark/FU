@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/metallicspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made from all sorts of junk"
+    }
+  }
+]

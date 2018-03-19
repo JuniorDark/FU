@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ionrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ion Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ionrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reliable infantry weapon for anti-robot warfare.\n^yellow;Inflicts Electrified^reset;\n^green;Area-Denial Alt^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ionrifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock Grenade"
+    }
+  }
+]

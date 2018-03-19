@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/warriorrobessetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+0.5% Critical Chance, +8% Speed, +8% Jump, 20% Reduced hunger"
+    }
+  }
+]

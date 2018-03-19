@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/longjump2.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high jump with post-jump microbursts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/longjump2.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flutter Jump"
+    }
+  }
+]

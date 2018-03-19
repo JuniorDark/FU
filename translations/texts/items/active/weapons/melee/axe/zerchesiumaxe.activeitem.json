@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/zerchesiumaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nearly unbreakable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/zerchesiumaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Axe"
+    }
+  }
+]

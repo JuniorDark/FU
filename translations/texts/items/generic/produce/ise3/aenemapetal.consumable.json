@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/aenemapetal.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aenema Petal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/aenemapetal.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grants a fiery, protective nova effect. Spicy."
+    }
+  }
+]

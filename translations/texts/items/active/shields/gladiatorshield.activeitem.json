@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/gladiatorshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gladiator Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/gladiatorshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+4 protection^reset;"
+    }
+  }
+]

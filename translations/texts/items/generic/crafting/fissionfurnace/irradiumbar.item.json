@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/irradiumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compressed, purified irradium. Generally found on Irradiated worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/irradiumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium Bar"
+    }
+  }
+]

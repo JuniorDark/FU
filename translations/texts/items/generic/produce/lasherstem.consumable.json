@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/lasherstem.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;+40% Rage^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/lasherstem.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lasher Stem"
+    }
+  }
+]

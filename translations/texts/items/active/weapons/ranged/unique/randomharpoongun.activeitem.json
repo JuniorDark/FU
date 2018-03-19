@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/randomharpoongun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harpoon Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/randomharpoongun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impale your enemies, rather than just killing them.\n^yellow;Inflicts bleeding^reset;"
+    }
+  }
+]

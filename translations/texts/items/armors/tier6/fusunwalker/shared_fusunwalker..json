@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/fusunwalker/fusunwalker.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/fusunwalker/fusunwalker.head": [
+        "/description"
+      ],
+      "items/armors/tier6/fusunwalker/fusunwalker.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;40% Radiation Resist^reset;\n^#e43774;Immune: Radiation, Heat, Cold, Pressure, Breath^reset;\n^green;+15% Plasma damage"
+    }
+  }
+]

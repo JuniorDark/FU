@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/coil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A special electrical coil. It has the ability to charge itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/coil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coil"
+    }
+  }
+]

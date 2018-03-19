@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/podbush/podbush.bush": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange alien pod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/podbush/podbush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Funny sssquishy pod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/podbush/podbush.bush": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pod appears to be organic."
+    }
+  }
+]

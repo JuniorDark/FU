@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/elderaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Axe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/elderaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sinister and ancient."
+    }
+  }
+]

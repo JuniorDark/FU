@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/deadwood.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/deadwoodmoon.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadwood"
+    }
+  }
+]

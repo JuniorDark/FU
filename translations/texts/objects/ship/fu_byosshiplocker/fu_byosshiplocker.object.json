@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshiplocker/fu_byosshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device that holds many items for safe keeping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshiplocker/fu_byosshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker. That's handy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshiplocker/fu_byosshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship's storage system is indeed useful."
+    }
+  }
+]

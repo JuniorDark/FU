@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/hydrotilled.matmod": [
+        "/description"
+      ],
+      "tiles/mods/hydrotilleddry.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "hydroponically specialized soil"
+    }
+  }
+]

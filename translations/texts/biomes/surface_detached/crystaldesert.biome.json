@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/crystaldesert.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline Desert"
+    }
+  }
+]

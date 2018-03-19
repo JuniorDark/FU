@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/sweetscoop.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;+20% Max Energy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/sweetscoop.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweetscoop"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/rocklarge/rocklarge.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biggy rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/rocklarge/rocklarge.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large rocks."
+    }
+  }
+]

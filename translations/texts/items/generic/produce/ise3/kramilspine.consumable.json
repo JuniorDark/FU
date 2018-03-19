@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/kramilspine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immunity to Ice, Slush, Snow and Deadly Cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/kramilspine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kramil Spine"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalistairs.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avalistairs.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Stair Platform"
+    }
+  }
+]

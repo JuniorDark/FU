@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/fieldoftomato.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomato Garden"
+    }
+  }
+]

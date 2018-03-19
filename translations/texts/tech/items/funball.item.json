@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/funball.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well...I guess it could be useful. It sure is *fun*! ^red;Dangerous^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/funball.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Oddball Sphere^reset;"
+    }
+  }
+]

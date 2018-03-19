@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/hunter/wasteland2.chest": [
+        "/description"
+      ],
+      "items/armors/tier4/hunter/wasteland2.head": [
+        "/description"
+      ],
+      "items/armors/tier4/hunter/wasteland2.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus: \n^cyan;20% damage (Rocket / Grenade Launcher)^reset;\n^#e43774;+6% Crit Chance^reset;"
+    }
+  }
+]

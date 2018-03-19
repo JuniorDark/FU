@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/zerchesiumhammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny, dangerous, and fun!"
+    }
+  }
+]

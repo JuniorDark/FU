@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/cutewhip.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Whip"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/cutewhip.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderfully, colorfully dangerous\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  }
+]

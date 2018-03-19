@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thorns/fireburst.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thorns/fireburstmonster.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thorns/iceburst.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thorns/burstfayshroom.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thorns/thornsstranglevine.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thorns/thornsstranglevinesuper.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorns"
+    }
+  }
+]

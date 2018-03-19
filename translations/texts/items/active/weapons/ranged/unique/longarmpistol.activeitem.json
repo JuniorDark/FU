@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/longarmpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shotgun. In a pistol. Definitely fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/longarmpistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Longarm Pistol"
+    }
+  }
+]

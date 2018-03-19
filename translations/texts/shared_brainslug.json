@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/uniques/brainslug/brainslug.head": [
+        "/shortdescription"
+      ],
+      "stats/effects/fu_armoreffects/brainslug.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brain Slug"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/hellfirefield.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hellfire Field"
+    }
+  }
+]

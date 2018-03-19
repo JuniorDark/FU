@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/elderripper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capable of firing shadow-forged harpoons\n^yellow;Piercing attack^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/elderripper.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ripper Gun"
+    }
+  }
+]

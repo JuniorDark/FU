@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/translocator/translocator.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/translocator2/translocator2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires teleport-node discs. Quite useful."
+    }
+  }
+]

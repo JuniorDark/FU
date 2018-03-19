@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bloodstone/bloodstonetile2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystallized Blood Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bloodstone/bloodstonetile2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mythical, creepy Blood Stone."
+    }
+  }
+]

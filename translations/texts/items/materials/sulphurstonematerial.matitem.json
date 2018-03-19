@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sulphurstonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loaded with useful minerals."
+    }
+  }
+]

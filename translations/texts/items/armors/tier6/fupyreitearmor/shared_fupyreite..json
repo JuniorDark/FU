@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/fupyreitearmor/fupyreite.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/fupyreitearmor/fupyreite.head": [
+        "/description"
+      ],
+      "items/armors/tier6/fupyreitearmor/fupyreite.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immune: Cold, Ice Slip, Snow, Freeze, Nitrogen^reset;\n^#e43774;60% Ice Resist^reset;\n^green;+25% Damage (Pyreite weapons)^reset;"
+    }
+  }
+]

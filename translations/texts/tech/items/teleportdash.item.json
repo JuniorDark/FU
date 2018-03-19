@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/teleportdash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport 30 tiles away. Best across gaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/teleportdash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Blink Dash II^reset;"
+    }
+  }
+]

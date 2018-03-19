@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/emptyhoneyjar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty honey jar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/emptyhoneyjar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Honey Jar"
+    }
+  }
+]

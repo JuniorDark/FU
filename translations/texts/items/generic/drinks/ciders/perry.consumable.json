@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/ciders/perry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of sweet perry!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/ciders/perry.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perry"
+    }
+  }
+]

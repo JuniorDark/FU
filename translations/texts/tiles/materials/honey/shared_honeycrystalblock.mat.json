@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeycrystalblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/honeycrystalblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Crystal Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeycrystalblock.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/honey/honeycrystalblock.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny block."
+    }
+  }
+]

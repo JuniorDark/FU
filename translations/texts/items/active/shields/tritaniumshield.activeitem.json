@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/tritaniumshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tritanium Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/tritaniumshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;-30% Fall Damage^reset;"
+    }
+  }
+]

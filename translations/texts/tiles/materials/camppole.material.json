@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camppole.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A literal stick in the mud."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camppole.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent Pole"
+    }
+  }
+]

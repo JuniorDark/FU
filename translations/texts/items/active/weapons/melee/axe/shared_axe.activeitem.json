@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/bountyaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/axe/fuboneaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for those lost in the wilds."
+    }
+  }
+]

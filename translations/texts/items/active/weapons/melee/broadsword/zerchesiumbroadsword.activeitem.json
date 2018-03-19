@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/zerchesiumbroadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack with absolute certainty that your foe will fall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/zerchesiumbroadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Broadsword"
+    }
+  }
+]

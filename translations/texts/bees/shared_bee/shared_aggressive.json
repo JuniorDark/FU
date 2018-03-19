@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/aggressive/aggressivedrone.item": [
+        "/description"
+      ],
+      "monsters/bees/aggressivebee/aggressivebee.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning: Do not provoke these bees."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/pyreiteaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hack them into burning bits.\n^cyan;Inflicts Napalm^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/pyreiteaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyreite Axe"
+    }
+  }
+]

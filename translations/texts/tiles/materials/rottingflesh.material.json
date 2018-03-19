@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rottingflesh.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay...ew."
+    }
+  }
+]

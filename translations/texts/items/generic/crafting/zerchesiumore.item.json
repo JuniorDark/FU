@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/zerchesiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be refined into a nearly unmeltable alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/zerchesiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Ore"
+    }
+  }
+]

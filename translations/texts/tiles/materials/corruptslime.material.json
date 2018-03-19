@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/corruptslime.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that remains after being touched by Dark Water."
+    }
+  }
+]

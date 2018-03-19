@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodstonewall.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Crystal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodstonewall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contains valuable quietus essence."
+    }
+  }
+]

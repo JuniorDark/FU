@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/berliniteore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ore that can be used to produce phosphorus via extraction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/berliniteore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berlinite"
+    }
+  }
+]

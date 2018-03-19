@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltenmetal.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltenmetal.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ouch ouch ouch. Hot!"
+    }
+  }
+]

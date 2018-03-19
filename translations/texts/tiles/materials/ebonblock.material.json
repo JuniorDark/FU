@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/ebonblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "wonderful shiny ebon stone."
+    }
+  }
+]

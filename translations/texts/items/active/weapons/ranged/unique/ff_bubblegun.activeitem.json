@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ff_bubblegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubblegun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ff_bubblegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like a harmless bubble gun. It isn't.\n^yellow;Inflicts poison^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better capacity Grabber. Grabs items from the world. Range: 8.\n^blue;Input: ^white;power switch\n^red;Output: ^white;item network^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grabber v2"
+    }
+  }
+]

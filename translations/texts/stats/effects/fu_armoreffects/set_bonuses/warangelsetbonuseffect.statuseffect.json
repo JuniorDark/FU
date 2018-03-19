@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/warangelsetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "100% Fall Reduction, 100% Knockback Resist, 35% Physical Resist. +250% Chain Sword dmg, +2% Chainsword crit"
+    }
+  }
+]

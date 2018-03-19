@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fadesprint.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sprint without threat of harm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fadesprint.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Phase Sprint^reset;"
+    }
+  }
+]

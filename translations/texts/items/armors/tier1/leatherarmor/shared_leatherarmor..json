@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier1/leatherarmor/leatherarmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier1/leatherarmor/leatherarmor.head": [
+        "/description"
+      ],
+      "items/armors/tier1/leatherarmor/leatherarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^green;+2% Crit, 5% Spd, +6% Ice & Elec Resistance^reset;\n^cyan;Bow/Crossbow: +5% Crit, +5% Dmg^reset; \n^#e43774;(Lush/Forest biomes) +5 Energy, +5% Knockback Resist^reset;"
+    }
+  }
+]

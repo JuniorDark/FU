@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/tinselbushsprout.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fun to throw at living things to make them not alive anymore. Oddly, also tills dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/tinselbushsprout.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tinselbush Dart"
+    }
+  }
+]

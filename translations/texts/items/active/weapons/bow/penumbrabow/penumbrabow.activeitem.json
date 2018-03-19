@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/penumbrabow/penumbrabow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enigma Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/penumbrabow/penumbrabow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made of penumbrite and rage."
+    }
+  }
+]

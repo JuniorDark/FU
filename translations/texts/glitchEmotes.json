@@ -1,0 +1,4747 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aegisaltcrystal.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/violiumcrystal.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/aegisaltcrystal.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/violiumcrystal.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_glowgel/isn_glowgel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_b.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_g.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_p.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_r.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_y.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adventurous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/3/glitchEmote",
+        "/scriptConfig/flee/dialog/helpthem/glitch/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agreeable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brittlemetal.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/brittlemetal.material": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousepillar.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/dollhousewood.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousepillar.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousewood.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/treatedgoldenwood.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/treatedgoldenwood.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambitious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lights/avalistriplight.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambivalent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutekurukuruplush/cutekurukuruplush.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/hecksign/hecksign.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_masterlogic.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosterflamekirhos/boosterflamekirhos.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_largethruster/fu_largethruster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_smallthruster/fu_smallthruster.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacicableconnector.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacicablenexus.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacigiantekblock.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacihexpane.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacihorcable.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglaciicecolumn.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglaciinscribedpykreteblock.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacimetalblock.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacimetalpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacimetalscreen.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacipykreteblock.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacipykretedecor.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacipykretefoundation.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacipykretestrip.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/peglacivertcable.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/decorations/avalibottle1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/holograms/avalihologramsml2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/holograms/avalihologramsml3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/hecklight2/hecklight2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/podbush/podbush.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/honeycrystalblock.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/honeycrystalblock.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramtiny2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/power/isn_solarpanel/isn_solarpanel.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedlogic/swtjc_wp_advancedand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedand3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedor3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i12h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i1h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i2h.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_lowfrictionstrip/isn_lowfrictionstrip.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_brokencompacthwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_brokencompactvwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_brokenwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhoscaptainschair/kirhoscaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anticipation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/heckaltar/heckaltar.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anxious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apprehensive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minedoor/minedoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/vanity/bamboo/bambootable.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/decorations/avalicrystal1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avarice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenwoodpanelling.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenwoodpanelling.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baffled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/pixelgoods/fuokeahitechbed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blissful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boastful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebathroomtable/cutebathroomtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutetable/cutetable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cuteteatable/cuteteatable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "npcs/crew/crewmemberjanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "objects/avaligeneric/doors/avalidarkdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/kitchen/avalikitchencupboard.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/eggstra/largetrough/irontrough.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/eggstra/largetrough/largetrough.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/4/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bragging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mines/poisonmine.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike1/elderceilingspike1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike2/elderceilingspike2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike3/elderceilingspike3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike4/elderceilingspike4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike5/elderceilingspike5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike6/elderceilingspike6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike7/elderceilingspike7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike8/elderceilingspike8.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike1/elderfloorspike1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike2/elderfloorspike2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike3/elderfloorspike3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike4/elderfloorspike4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike5/elderfloorspike5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike6/elderfloorspike6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike7/elderfloorspike7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike8/elderfloorspike8.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/traps/extrabonespike/extrabonespike.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_cripplerturret/fu_cripplerturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_flameturret/fu_flameturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_gaussturret/fu_gaussturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_laserturret/fu_laserturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_rocketturret/fu_rocketturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/fu_turrets/fu_teslaturret/fu_teslaturret.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhouseflooring.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhouseflooring.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutedesk/cutedesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedoor/cutedoor1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedoor/cutedoor2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concern."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "objects/farmables/crystalplant/crystalplantseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/crystalplant/wildcrystalplantseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkness.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "objects/crafting/extraweaponupgradeanvil/extraweaponupgradeanvil.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_accelgel/isn_accelgel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_bouncegel/isn_bouncegel.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutearmoire/cutearmoire1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutearmoire/cutearmoire2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutebathroomcabinet/cutebathroomcabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutebathroomsink/cutebathroomsink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/power/isn_incinerator/isn_incinerator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/no_latch/swtjc_wp_advancedand_nolatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/no_latch/swtjc_wp_advancedor_nolatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedlogic/no_latch/swtjc_wp_advancedxor_nolatch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fairylights/fairylights_blackorange.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_blue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_green.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_lightblue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_magenta.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_magentawhite.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_orange.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_pink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_purple.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_purplewhite.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_red.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_redgreen.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_redyellow.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_teal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_white.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/fairylights/fairylights_whiteblue.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contentment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coquettish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobasehunter.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryptic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/buglike/buglike.bush": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curiosity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutechest/cutechest1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutechest/cutechest2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/raincloudmat.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmote"
+      ],
+      "objects/farmables/dunestalk/dunestalkseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/dunestalk/wildedunestalkseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/furniture/grassbed/grassbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/swtjc_wp_persistentswitch_withnot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/mods/cloud.matmod": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curmudgeonly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lab/avalisample2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cutesy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dazed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dazzled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/sweetscoop/sweetscoopseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/sweetscoop/wildsweetscoopseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewindow1.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousewindow1.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fuhoneycrystaltable/fuhoneycrystaltable.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/8/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Determined."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byosteleporterTier0/fu_byosteleporterTier0.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckchest/heckchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/cookedflesh.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgust."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutechair/cutechair.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramtiny1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismissive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/beesilkwallpaper.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/beesilkwallpaper.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disquieted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distinguished."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/chairs/avalichair1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distress."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshiplockerTier0/fu_byosshiplockerTier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byostechstationTier0/fu_byostechstationTier0.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutesupport/cutesupport.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disturbed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebed/cutebed1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutebed/cutebed2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutebed/cutebed3.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drowsy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchenstove.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dubious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembercollector.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembercultist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberhobo.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembermagicalgirl.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberradien.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmote"
+      ],
+      "npcs/volcanobase/volcanobaselord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/7/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earnest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhosteleporter/kirhosteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhosteleportertier0/kirhosteleportertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Educate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarrassed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encourage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmote"
+      ],
+      "npcs/volcanobase/volcanobasehostage.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encouraging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/dispensers/extraenergycanister.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "objects/farmables/flowerred/flowerred.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/floweryellow/floweryellow.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutepicture/cutepicture.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexwallcables.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembercollector.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembercultist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembermagicalgirl.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberradien.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
+      ],
+      "objects/ship/fu_byosbrokenfuelhatch/fu_byosbrokenfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschairdeco.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byosfuelhatch/fu_byosfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhosfuelhatch/kirhosfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexwallcables.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/1/glitchEmote"
+      ],
+      "objects/questmaps/alienjunglemap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/ancienttemplemap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/avianhydromap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/evernightmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/forestoffaemap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/grandarenamap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/infiltrationmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/japaneseruinsmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/letheiafacilitymap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/lethialabsmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/magickaforestmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/pavillionmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/penguinhighwaymap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/skytemplemap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/snowcrashmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/sunsetridersmap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/towerinvinciblemap.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questmaps/verdantruinsmap.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excitement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/candle/bluecandle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/bees/candle/flowercandle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/bees/candle/ghostcandle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/bees/candle/redcandle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/bees/candle/waxcandle.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explanation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousetiles.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousetiles.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Familiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthdlatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvdlatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer2bith.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer2bithinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer2bitv.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer2bitvinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bith.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bithinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bitv.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bitvinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bith.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bithinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bitv.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bitvinputs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenwoodbridge.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenwoodbridge.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/0/glitchEmote",
+        "/scriptConfig/flee/dialog/helpthem/glitch/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ignuschili2/ignuschili2seed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberguardian.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmote"
+      ],
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch_noninteractive.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobaselord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gallant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/accuse/default/default/0",
+        "/accuse/default/default/5",
+        "/accuse/default/default/9",
+        "/attack/default/default/13",
+        "/attack/default/default/4",
+        "/attack/default/default/8",
+        "/beacon/default/default/0",
+        "/beacon/default/default/5",
+        "/beacon/default/default/9",
+        "/cantReach/default/default/12",
+        "/cantReach/default/default/4",
+        "/cantReach/default/default/8",
+        "/cheerOn/default/default/12",
+        "/cheerOn/default/default/4",
+        "/cheerOn/default/default/8",
+        "/combatBenefit/default/default/12",
+        "/combatBenefit/default/default/4",
+        "/combatBenefit/default/default/8",
+        "/converse/default/default/0",
+        "/converse/default/default/4",
+        "/converse/default/default/8",
+        "/enclosedArea/default/default/0",
+        "/enclosedArea/default/default/4",
+        "/enclosedArea/default/default/8",
+        "/final/default/default/0",
+        "/final/default/default/4",
+        "/final/default/default/8",
+        "/killedTarget/default/default/12",
+        "/killedTarget/default/default/4",
+        "/killedTarget/default/default/8",
+        "/lostTarget/default/default/12",
+        "/lostTarget/default/default/4",
+        "/lostTarget/default/default/8",
+        "/otherDeed/default/default/0",
+        "/otherDeed/default/default/4",
+        "/otherDeed/default/default/8",
+        "/outOfSight/default/default/13",
+        "/outOfSight/default/default/4",
+        "/outOfSight/default/default/9",
+        "/reattack/default/default/12",
+        "/reattack/default/default/4",
+        "/reattack/default/default/8",
+        "/rent/default/default/0",
+        "/rent/default/default/4",
+        "/rent/default/default/8",
+        "/severe/default/default/0",
+        "/severe/default/default/4",
+        "/severe/default/default/8",
+        "/tagCriteria/default/default/0",
+        "/tagCriteria/default/default/4",
+        "/tagCriteria/default/default/8"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/7/glitchEmote",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/7/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/7/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/7/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/7/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/5/glitchEmote"
+      ],
+      "npcs/volcanobase/volcanobasehunter.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grizzled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gruff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grumpy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutedrape/cutedrape1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cutedrape/cutedrape2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cuteribbons/cuteribbons1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "a_notyetadded/cute/cuteribbons/cuteribbons2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byospethouse/fu_byospethouse.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byostechstation/fu_byostechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byostechstation/fu_byostechstationdeco.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobaselord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Haughty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembercollector.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembercultist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembermagicalgirl.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberradien.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Helpful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime2material.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/slime2.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/6/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bleachedbonematerial.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/charredbonematerial.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/bleachedbonematerial.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/charredbonematerial.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/terminal/avaliterminal1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/terminal/avaliterminal2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horror."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/eggstra/chickennest/chickennest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/eggstra/eggincubator/eggincubator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/crafting/xenostation/xenolab.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Identify."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impatient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhouseroofing.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmote"
+      ],
+      "objects/ancient/ancientconsole/fuancientconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/arttrophies/radmodelportrait/radmodelportrait.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/augmentextractor/aex.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/power/isn_radiostation/isn_radiostation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/elderliquidsensor/elderliquidsensor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/extraforcepad/extrajumppad.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/liquidsensor/swtjc_wp_advancedliquidsensor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/dollhouseroofing.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incorrigible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/vendingmachine/labvendingmachine.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indecisive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minebelt/minebelt2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
+      ],
+      "objects/crafting/eggstra/cowbell/cowbell.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhostechstation/kirhostechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_countdowndelay.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshipdoor/fu_byosshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byosshipdoor/fu_byosshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousecrosshatch.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousecrosshatch.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extraavianaugments/extraavianaugments.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/portals/extrateleportradar/extrateleportradarreturn.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/1/glitchEmote",
+        "/scriptConfig/flee/dialog/helpthem/glitch/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/gemglow/gemglowseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/gemglow/wildgemglowseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembercollector.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembercultist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembermagicalgirl.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberradien.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_propulsionstrip/isn_propulsionstrip_l.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/gels/isn_propulsionstrip/isn_propulsionstrip_r.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/power/isn_atmoscondenser/isn_atmoscondenser.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4/glitchEmote"
+      ],
+      "objects/generic/bandittent1/bandittent1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/bandittent2/bandittent2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercultist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/ribbons/avaliribbon1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/ribbons/avaliribbon2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melancholy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobasehunter.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Murderous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ],
+      "objects/power/isn_fissionreactornew/isn_fissionreactornew.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doors/extramissiledoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/tinylocker/tinylocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthrelay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvrelay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delay1s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delay2s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delay3s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delay4s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delay5s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_delayqs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_relay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lab/avalisample3.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nonchalant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/unrefinedgoldenwood.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/unrefinedgoldenwood.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Novel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obedient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obliging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutestool/cutestool.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/dollhousewindow2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/avaligeneric/doors/avalidarkverticaldoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/doors/avalitechverticaldoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecontainer/emptyminecontainer2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecontainer/minecontainer2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecrusher/cmineduct.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecrusher/hmineduct.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecrusher/minecrusher.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecrusher/mineduct.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minecrusher/smineduct.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/mining/minefence/minefence.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousewindow2.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/doors/campdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/decorations/avalidreamcatcher1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/decorations/avaliemblem.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/decorations/avaliemblembig.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/lab/avalisample1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/avaligundisplay1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/avaligundisplay2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/bows/avalibowdisplay01_tier1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/bows/avalibowdisplay01_tier2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/bows/avalibowdisplay01_tier3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/bows/avalibowdisplay01_tier4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/guns/avaligundisplay3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/guns/avaligundisplay4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/table/avalitable1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bolbohn/bolbohnseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bolbohn/wildbolbohnseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/crates/smallwoodencrate1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/honey/fugoldenoakcabinet/fugoldenoakcabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthnand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthnor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthnxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvnand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvnor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvnxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/compact_logic_vertical/swtjc_wp_compactvxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_and3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulser.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer1s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer2s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer3s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer4s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer5s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_invertedpulsetimerqs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nand3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nor3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nxor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nxor3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nxor3i12h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nxor3i1h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_nxor3i2h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_or3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulser.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer1s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer2s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer3s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer4s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimer5s.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_pulsetimerqs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_xor3i.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_xor3i12h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_xor3i1h.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/logic/swtjc_wp_xor3i2h.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Optimistic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch_nolatch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overwhelmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewall.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousewall.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
+      ],
+      "objects/crafting/wiringstation/wiringstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byosshiplocker/fu_byosshiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitchinteractive.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitchinteractive.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/swtjc_wp_persistentswitchinteractive.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/persistentswitch/swtjc_wp_persistentswitchinteractive_withnot.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramsml1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wasteland/techbush3/techbush3.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pondering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lights/avaliaerogellight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/lights/avalilightblock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/lights/avalilightpanel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/lights/avalisolidlightblock.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ponderingly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/racks/avaliweapondisplay1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier10daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier1daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier2daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier3daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier4daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier5daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier6daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/avalitier8daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/unused/avalitier7daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/frameddagger/unused/avalitier9daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier10hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier1hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier2hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier3hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier4hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/avalitier8hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/unused/avalitier5hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/unused/avalitier6hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/unused/avalitier7hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hammer/unused/avalitier9hammerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier10daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier1daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier2daggerdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier3daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier4daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier5daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier6daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/avalitier8daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/unused/avalitier7daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/hangingdagger/unused/avalitier9daggerhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/pilum/avalitier1pilumdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/pilum/avalitier2pilumdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/pilum/avalitier3pilumdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier10speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier1speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier2speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier3speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier4speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/avalitier8speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/unused/avalitier5speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/unused/avalitier6speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/unused/avalitier7speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/spears/unused/avalitier9speardisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier10broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier10shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier1broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier1shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier2broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier2shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier3broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier3shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier4broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier4shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier8broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/avalitier8shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/theforgottenhero.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier5broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier5shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier6broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier6shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier7broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier7shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier9broadswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/racks/swords/unused/avalitier9shortswordhanging.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pride."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmote"
+      ],
+      "objects/farmables/mothtrap2/mothtrap2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/vanity/bamboo/bamboobed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/mlitcometsofa.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wasteland/techbush5/techbush5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wasteland/techbush6/techbush6.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minehazardsign/minehazardsign.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregulator.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reassured."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologram2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recollective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchenfridge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/ribbons/testribbon.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/bamboo/bamboochair.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/hecklight1/hecklight1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repulsion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Request."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmote"
+      ],
+      "npcs/volcanobase/volcanobasehostage.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resigned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/bamboo/bamboochest.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resolute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/heckbush1/heckbush1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush10/heckbush10.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush2/heckbush2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush3/heckbush3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush4/heckbush4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush5/heckbush5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush6/heckbush6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush7/heckbush7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush8/heckbush8.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckbush9/heckbush9.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revulsion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpthem/glitch/5/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Righteous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush1/techbush1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/questturnins/alienjungleturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/ancienttempleturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/avianhydroturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs1turnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs2turnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs3turnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs4turnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/evernightturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/forestoffaeturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/grandarenaturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/infiltrationturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/japaneseruinsturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/letheiafacilityturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/letheiafleetturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/lethialabsturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/magickaforestturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/penguinhighwayturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/skytempleturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/sunsetridersturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/towerinvincibleturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/questturnins/verdantruinsturnin.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saddened."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/labfurniture/labtable/labtable.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcasm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewood2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "objects/spawner/tinytether/multitether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/spawner/tinytether/multitinytether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/spawner/tinytether/statuetether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/spawner/tinytether/tinytether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/dollhousewood2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenplanks/goldenplank.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenplanks/goldenplank.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_crewbed2/fu_crewbed2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/5/glitchEmote",
+        "/scriptConfig/flee/dialog/helpthem/glitch/4/glitchEmote"
+      ],
+      "npcs/volcanobase/volcanobasehostage.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/crystalmoon/crystalcavebush10.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush11.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush12.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush13.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush14.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush15.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush16.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush17.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush8.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush9.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/crystalmoon/crystallarge3.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shrewd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/emitter/swtjc_wp_brokenemitter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/emitter/swtjc_wp_emitter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skeptical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobaselord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmote"
+      ],
+      "objects/ship/fu_byosteleporter/fu_byosteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/fu_byosteleporter/fu_byosteleporterdeco.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/table/avalitable2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/table/avalitable3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avaligeneric/table/avalitable4.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembercyborg.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solemn."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalwart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalicable.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avaliplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avalistairs.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/bamboo.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/brittlejunk.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/darkstone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/energywood.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/peglacialloyplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/redhotcobblestone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/redsand.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/redsand2.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/retexaetherdustpillar.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/retexironpipe.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/retexredsandstone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/retexsandstone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/unrefinedandesite.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedarkose.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedchert.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedconglomerate.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefineddacite.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedgabbro.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedgneiss.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedgritstone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedlimestone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/unrefinedmudstone.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/wastestone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmote",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmote",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberhobo.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmote",
+        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmote"
+      ],
+      "objects/avaligeneric/containers/avalichest2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckpillar1/heckpillar1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/heck/heckpillar2/heckpillar2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/flowerblue/flowerblue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/flowerspring/flowerspring.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generic/flagkirhos/flagkirhos.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhosshipdoor/kirhosshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/kirhostechstationtier0/kirhostechstationtier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ceiling/ceilingbuglike/ceilingbuglike.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/cloudbush/cloudbush.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/nightly/alpinestone/alpinestone.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/nightly/bioroots/bioroots.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/rocklarge/rocklarge.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/swampshrub/swampshrub.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/bushes/ground/thorns2/thorns2.bush": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/grass/ground/crispy/crispy.grass": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/grass/ground/decorative/cloudflower/cloudflower.grass": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/grass/ground/decorative/cloudspin/cloudspin.grass": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/brittlejunk.material": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/energywood.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldensand.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldensand.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/redsand2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexcobblestone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexdirt.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexironpipe.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexredsandstone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexrock12.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexrock17.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexsand2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/retexsandstone01.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/springvines.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologram1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Studious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/terminal/avaliterminal3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/minibiome/precursor/precursordatabox/precursordatabox.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprise."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/swtjc_wp_compacthwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_compactvwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/doors/avalitechdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorscanner/precursorscanner.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/4/glitchEmote",
+        "/scriptConfig/flee/dialog/helpthem/glitch/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/advancedlightsensor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberfubees.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberfuhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmote"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/chairs/avalichair2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trepidation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/magickaforest/magickaguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncertain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncertainty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fustomachblock.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "tiles/materials/fustomachblock.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomforatble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenwoodplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenwoodplatform.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncommon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberjanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwhelmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush2/techbush2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uneasy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebin/cutebin.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutemirror/cutemirror.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsatisfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenwood.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/goldenwood.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsettled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/questmaps/zelpicture.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/volcanobase/volcanobasehostage.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upset."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationassassin.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationcommander.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationdevastator.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationmercenary.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmember_spacestationwarmonger.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ],
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vengeful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/portals/extrateleportradar/extrateleportradar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/portals/extrateleportradar/extrateleportradarhome.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/wasteland/techbush4/techbush4.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/glitchdescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watchful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/3/glitchEmote"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/2/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalicuttingboard.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/dispensers/pixeldispenser.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crystalminer.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "World-weary."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/craftsawblade/craftsawblade.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried."
+    }
+  }
+]

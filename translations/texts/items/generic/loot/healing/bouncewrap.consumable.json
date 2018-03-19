@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/bouncewrap.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gives you tremendous bounce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/bouncewrap.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Bounce Wrap^white;"
+    }
+  }
+]

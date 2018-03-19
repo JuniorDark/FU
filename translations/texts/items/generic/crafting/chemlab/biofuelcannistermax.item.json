@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannistermax.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protocite Fuel Canister"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannistermax.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "a truly amazing fuel source."
+    }
+  }
+]

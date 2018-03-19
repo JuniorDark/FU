@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalidarkmetal.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark metal support beam."
+    }
+  }
+]

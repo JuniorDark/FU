@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/cutechakram.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Chakram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/cutechakram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Bounces off walls^reset;\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  }
+]

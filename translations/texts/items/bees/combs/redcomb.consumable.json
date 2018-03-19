@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/redcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious red honeycomb! Eat it! No real reason to though..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/redcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Honeycomb"
+    }
+  }
+]

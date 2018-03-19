@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/beer.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The purest, finest, tastiest of fluids."
+    }
+  }
+]

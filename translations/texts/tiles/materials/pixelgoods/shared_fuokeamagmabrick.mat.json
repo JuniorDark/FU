@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeamagmabrick.material": [
+        "/description"
+      ],
+      "tiles/materials/pixelgoods/fuokeamagmabrick.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made out of magmastone and hellfire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeamagmabrick.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pixelgoods/fuokeamagmabrick.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hellfire Bricks"
+    }
+  }
+]

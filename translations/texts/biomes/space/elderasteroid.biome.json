@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/elderasteroid.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "elderasteroid"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "White Wax"
+    }
+  }
+]

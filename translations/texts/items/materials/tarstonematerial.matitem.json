@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tarstonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky, tarry rock."
+    }
+  }
+]

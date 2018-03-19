@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A luxurious cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cushion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It beats straw bedding..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lie on them, sleep on them, pile them up, make a fort out of them... cushions, the building blocks of furniture!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most practical furnishings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssssssssssssoft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furnishing it structurally unstable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truly, Avali civilization is beyond doubt, they have beanie chairs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What exquisite material!"
+    }
+  }
+]

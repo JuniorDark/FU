@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_chloroplast.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chloroplast Boost"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_chloroplast.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong photosynthetic ability means a hardy plant."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_hydrogen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hydrogen (H)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_hydrogen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful applications exist for this element."
+    }
+  }
+]

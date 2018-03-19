@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/petfood/petfood3.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mr. Chow's Troll Food"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/petfood/petfood3.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Do Not Consume.^reset; Side effects include obsessive behavior and bad body odor."
+    }
+  }
+]

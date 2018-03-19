@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/bouncesphere.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bouncing distortion sphere. Quite useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/bouncesphere.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Bounce Sphere^reset;"
+    }
+  }
+]

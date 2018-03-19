@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labsupport.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labsupport.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Support Beam"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/quietusspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/tristab.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fantastic foe-stabber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/ancientspear.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/spear/tristab.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cosmic Blast"
+    }
+  }
+]

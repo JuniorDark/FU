@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmawall4.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooled Volcanic Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmawall4.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can touch this without losing a hand."
+    }
+  }
+]

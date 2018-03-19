@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkwort.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Wort"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkwort.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wort! Used for making lager!"
+    }
+  }
+]

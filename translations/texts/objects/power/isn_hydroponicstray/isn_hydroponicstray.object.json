@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_hydroponicstray/isn_hydroponicstray.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An hydroponic powered growing tray. ^cyan;Requires ^orange;2W ^cyan;power^reset;, seeds and water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_hydroponicstray/isn_hydroponicstray.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Hydro Tray^reset;"
+    }
+  }
+]

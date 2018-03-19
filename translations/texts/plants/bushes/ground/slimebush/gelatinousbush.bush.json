@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/slimebush/gelatinousbush.bush": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gelatinous bush."
+    }
+  }
+]

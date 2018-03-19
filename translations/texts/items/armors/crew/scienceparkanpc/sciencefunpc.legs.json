@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/scienceparkanpc/sciencefunpc.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repels even the most extreme cold temperatures. Prevents effects from ice, snow and slush."
+    }
+  }
+]

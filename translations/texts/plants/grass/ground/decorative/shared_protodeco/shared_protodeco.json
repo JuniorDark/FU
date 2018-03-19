@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/protodeco1/protodeco1.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/protodeco2/protodeco2.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto-grass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/protodeco1/protodeco1.grass": [
+        "/description"
+      ],
+      "plants/grass/ground/decorative/protodeco2/protodeco2.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange looking grass."
+    }
+  }
+]

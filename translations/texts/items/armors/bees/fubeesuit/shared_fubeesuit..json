@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/bees/fubeesuit/fubeesuit.chest": [
+        "/description"
+      ],
+      "items/armors/bees/fubeesuit/fubeesuit.head": [
+        "/description"
+      ],
+      "items/armors/bees/fubeesuit/fubeesuit.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prevents nasty bee stings!"
+    }
+  }
+]

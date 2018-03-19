@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/lightless/lightless.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bizarre plant with no need for sunlight. What does it eat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/lightless/lightless.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pulsating Plant"
+    }
+  }
+]

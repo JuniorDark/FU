@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A set of nanocanvas sheets, perfect for building a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Sheet"
+    }
+  }
+]

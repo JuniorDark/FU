@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/plutoniumcomb.item": [
+        "/description"
+      ],
+      "items/bees/combs/radioactivecomb.item": [
+        "/description"
+      ],
+      "items/bees/combs/solariumcomb.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "RADIOACTIVE! DO NOT EAT!"
+    }
+  }
+]

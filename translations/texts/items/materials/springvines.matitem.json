@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/springvines.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowery vines. Pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/springvines.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spring Vine Block"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/neuromancer/kirhostier6manipulator.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/neuromancer/kirhostier6manipulator.head": [
+        "/description"
+      ],
+      "items/armors/tier6/neuromancer/kirhostier6manipulator.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immunity: Heat, Proto^reset;\n^#e43774;+30% Electric Resist^reset;\n^green;+25% Damage, Dual-Wield +30% Crit Dmg (Energy)^reset;"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/nitrogencorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nitrogen Core"
+    }
+  }
+]

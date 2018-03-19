@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weathereffects/weakenworld/weakenweather.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_weathereffects/weakenworld/weakenweather2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sap Dmg"
+    }
+  }
+]

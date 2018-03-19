@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorchest/precursorchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stores stuff."
+    }
+  }
+]

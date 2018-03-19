@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/longjump2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A few tweaks to this implant and I can adjust gravities effect on the user!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/longjump2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flutter Jump I"
+    }
+  }
+]

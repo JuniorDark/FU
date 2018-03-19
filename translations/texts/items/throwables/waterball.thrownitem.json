@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/waterball.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throw these to water your crops."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/waterball.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water Ball"
+    }
+  }
+]

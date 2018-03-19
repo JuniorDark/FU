@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/poisonresistance.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that resists various Poisons, ^green;+25% Poison Resist, Poison Immunity, Proto-poison Immunity, Bio-ooze Immunity^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/poisonresistance.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Barrier"
+    }
+  }
+]

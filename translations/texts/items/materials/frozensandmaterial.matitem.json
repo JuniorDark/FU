@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozensandmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen sand, topped off with ice."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedbootsweak.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Injects performance-enhancing drugs directly into your body. Grants speed and dash. Passive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedbootsweak.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Stimulant Rig I^reset;"
+    }
+  }
+]

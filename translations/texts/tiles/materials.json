@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fujellyblock.material": [
+        "/description"
+      ],
+      "tiles/materials/pixelgoods/fujellyblock2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick jelly. It's tempting to eat it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fujellyblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pixelgoods/fujellyblock2.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pixelgoods/fujellyblock2.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gelatinous Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldensand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/honey/goldensand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/redsand2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/retexsand2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sand."
+    }
+  }
+]

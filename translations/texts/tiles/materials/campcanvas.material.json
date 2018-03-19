@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/campcanvas.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali tent fabric can stop bullets!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/campcanvas.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent Fabric"
+    }
+  }
+]

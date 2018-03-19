@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/nocturnalhoneyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark jar of honey! +30% Shadow Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/nocturnalhoneyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Honey Jar"
+    }
+  }
+]

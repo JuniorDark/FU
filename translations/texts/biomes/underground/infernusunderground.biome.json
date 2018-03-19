@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/infernusunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorching Caverns"
+    }
+  }
+]

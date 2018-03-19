@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexdirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt. Clarification. Just dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexdirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty looking dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexdirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy dirt!"
+    }
+  }
+]

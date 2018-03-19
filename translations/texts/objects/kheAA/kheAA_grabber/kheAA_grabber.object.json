@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic Grabber. Grabs items from the world. Range: 4.\n^blue;Input: ^white;power switch^reset;\n^red;Output: ^white;item network^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grabber v1"
+    }
+  }
+]

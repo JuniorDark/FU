@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/elder/eldergrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "eldergrass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/elder/eldergrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "strange grass"
+    }
+  }
+]

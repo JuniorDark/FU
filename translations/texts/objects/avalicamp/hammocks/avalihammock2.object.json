@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy place to stow your loot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nest for boxes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Argh, keep that net away from me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging Storage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess that's one alternative to shelves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like the Avali have space travel off-pat too, keep supplies tied down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These hunters caught themselves a herd of wild boxes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trap for boxes!"
+    }
+  }
+]

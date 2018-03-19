@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking Physics III"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure how this even works. But it is absolutely ^orange;amaze-balls^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use extreme caution with this tech. It is both a great bonus and a dangerous tool."
+    }
+  }
+]

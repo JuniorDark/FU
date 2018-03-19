@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/devtools/ItemScanner/ItemScanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Debug tool to print all that an item is to the log."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/devtools/ItemScanner/ItemScanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Item Scanner"
+    }
+  }
+]

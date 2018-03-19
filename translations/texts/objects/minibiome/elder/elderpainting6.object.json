@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderpainting6.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vaguely man-shaped aberration that has a terrifyingly powerful presence. It feels as if touching the painting...would touch him as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderpainting6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lord Nyarlathotep"
+    }
+  }
+]

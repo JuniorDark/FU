@@ -1,0 +1,337 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/ok/caption"
+      ],
+      "interface/scripted/fu_tutorialQuestList/fu_tutorialQuestList.config": [
+        "/gui/questButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accept"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/editBookmarkFrame/children/close/caption",
+        "/gui/jumpDialog/children/cancel/caption"
+      ],
+      "interface/scripted/miningbench/miningbench.config": [
+        "/gui/cancel/caption"
+      ],
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/cancel/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cancel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gunkevin.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/gun2.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Shot:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/bow2.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gunkevin.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/gun2.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Per Shot:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/bees/alveary/alveary.config": [
+        "/gui/count/value"
+      ],
+      "interface/bees/apiary/apiary.config": [
+        "/gui/count/value"
+      ],
+      "interface/bees/industrialcentrifuge/industrialcentrifuge.config": [
+        "/gui/countinput/value"
+      ],
+      "interface/bees/ironcentrifuge/ironcentrifuge.config": [
+        "/gui/countinput/value"
+      ],
+      "interface/bees/woodencentrifuge/woodencentrifuge.config": [
+        "/gui/countinput/value"
+      ],
+      "interface/extractor/extractor.config": [
+        "/gui/count/value"
+      ],
+      "interface/xenolab/xenolab.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Input"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/knockbackTitleLabel/value"
+      ],
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/knockbackTitleLabel/value"
+      ],
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/forceTitleLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/knockbackTitleLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/knockbackTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knockback:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/bees/alveary/alveary.config": [
+        "/gui/countoutput/value"
+      ],
+      "interface/bees/apiary/apiary.config": [
+        "/gui/countoutput/value"
+      ],
+      "interface/extractor/extractor.config": [
+        "/gui/countoutput/value"
+      ],
+      "interface/xenolab/xenolab.config": [
+        "/gui/countoutput/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Output"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/shieldHealthTitleLabel/value"
+      ],
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/healthTitleLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/shieldHealthTitleLabel/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/healthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Health:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/fist2.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/sword2.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/swordunique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/fist2.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speed:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/bow2.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/fist2.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gunkevin.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/sword2.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/swordunique.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/fist2.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/gun2.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/sword2.tooltip": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/swordunique.tooltip": [
+        "/critChanceTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Crit %^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/bow2.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/fist2.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gunkevin.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/sword2.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/swordunique.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/fist2.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/gun2.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/sword2.tooltip": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/swordunique.tooltip": [
+        "/critBonusTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Dmg +^reset;"
+    }
+  }
+]

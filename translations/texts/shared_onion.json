@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/onion.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/gurnonion/onionseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gurn Onion"
+    }
+  }
+]

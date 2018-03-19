@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/prophetsetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regen 0.6% H/s, Wands and Staves gain 25% damage. 24% Poison Resist. Glow in dark."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/aliensoil.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange neon-like soil"
+    }
+  }
+]

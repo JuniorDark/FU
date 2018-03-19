@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/jungledirt2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "moist leafy dirt."
+    }
+  }
+]

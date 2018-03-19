@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/penumbriteshard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfectly refined shard of penumbrite, located on Penumbra planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/penumbriteshard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penumbrite Shard"
+    }
+  }
+]

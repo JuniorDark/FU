@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mineralpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny version of its larger cousins. Always handy.\n^yellow;Destroys tiles^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mineralpistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Particle Pistol"
+    }
+  }
+]

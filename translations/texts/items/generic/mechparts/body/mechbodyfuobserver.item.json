@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfuobserver.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For hostile environment exploration. Highly resistant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfuobserver.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observer Mech Body"
+    }
+  }
+]

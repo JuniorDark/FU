@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/quadjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Four jumps for four times the Awesome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/quadjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quad Jump"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/dashcombat.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "End your dash witha damage boost!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/dashcombat.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Lance Dash^reset;"
+    }
+  }
+]

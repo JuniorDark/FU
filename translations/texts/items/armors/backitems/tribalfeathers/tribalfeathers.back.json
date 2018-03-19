@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/tribalfeathers/tribalfeathers.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primitive feather fetishes are all the rage. Increases energy by +25."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/tribalfeathers/tribalfeathers.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tribal Feathers"
+    }
+  }
+]

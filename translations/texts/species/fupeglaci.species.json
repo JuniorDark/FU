@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fupeglaci.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immune to cold and nasty such things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fupeglaci.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peglaci"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/distanceTitleLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/distanceTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Max Distance:"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeycrystalblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shining amber block of made of crystals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeycrystalblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is made of hardened honey."
+    }
+  }
+]

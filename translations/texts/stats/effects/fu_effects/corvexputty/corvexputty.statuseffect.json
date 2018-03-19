@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/corvexputty/corvexputty.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Stick"
+    }
+  }
+]

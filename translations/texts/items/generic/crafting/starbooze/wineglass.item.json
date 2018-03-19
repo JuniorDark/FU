@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/wineglass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a glass. For wine. Duh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/wineglass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wine Glass"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_arcsmelter/isn_arcsmelter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This incredibly efficient furnace can extract rare materials while quickly smelting ores. ^cyan;Requires ^orange;40W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_arcsmelter/isn_arcsmelter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Arc Smelter^white;"
+    }
+  }
+]

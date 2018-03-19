@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/tsmd/mage_shield/wretchelshield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "D-Shield"
+    }
+  }
+]

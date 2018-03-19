@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/advalloybroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/fucultistbroadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forged from carbon.\n^cyan;Inflicts bleeding^reset;"
+    }
+  }
+]

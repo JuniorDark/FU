@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/fuenergyzone.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/unique/peglaci/furailgun/furailgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/unique/warden/warden.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Zone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/spreadshot/swtjc_ewg_spreadshot.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/unique/mechgun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spread Shot"
+    }
+  }
+]

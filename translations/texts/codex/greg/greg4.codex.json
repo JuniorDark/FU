@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/greg/greg4.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "After twenty assorted tests on the genome markers for this curative agent, we were unable to determine what caused C7 to go ballistic and attack, kill, mutilate and devour the other rats at random. The viral load in his cells is not present, nor is there any trace of change in his physiology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/greg/greg4.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lab Notes 1"
+    }
+  }
+]

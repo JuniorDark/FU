@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/atropus/atropuschest.object": [
+        "/description"
+      ],
+      "objects/minibiome/atropus/fuunderworldchest.object": [
+        "/description"
+      ],
+      "objects/minibiome/atropus/fuunderworldchest2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bit gross, but useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/atropus/atropuschest.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/atropus/fuunderworldchest.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/atropus/fuunderworldchest2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atropus Chest"
+    }
+  }
+]

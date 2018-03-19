@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/biooozegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ooze Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/biooozegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spews toxic poison. Fun!"
+    }
+  }
+]

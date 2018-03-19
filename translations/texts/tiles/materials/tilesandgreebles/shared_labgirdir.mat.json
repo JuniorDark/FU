@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labgirdir.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labgirdir.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong looking plasteel girder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labgirdir.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labgirdir.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Girder"
+    }
+  }
+]

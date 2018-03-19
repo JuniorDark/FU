@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/beer/champagne.consumable": [
+        "/description"
+      ],
+      "objects/generic/crates/champagnebucket.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Break out the bubbly!"
+    }
+  }
+]

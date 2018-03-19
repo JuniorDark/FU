@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/poisongas.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really poisonous gas."
+    }
+  }
+]

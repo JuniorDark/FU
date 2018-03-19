@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biostonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dense and loaded with minerals."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/magmatile/magmatile4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooled Volcanic Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/magmatile/magmatile4.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid, unyielding stone."
+    }
+  }
+]

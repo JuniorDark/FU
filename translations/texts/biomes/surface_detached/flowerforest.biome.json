@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/flowerforest.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flower Forest"
+    }
+  }
+]

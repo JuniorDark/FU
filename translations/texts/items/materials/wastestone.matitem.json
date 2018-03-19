@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wastestone.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wastessstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wastestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wastestone."
+    }
+  }
+]

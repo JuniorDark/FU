@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/campcanvas.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanocanvas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/campcanvas.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultra light, yet ultra strong. Avali tents can stop bullets!"
+    }
+  }
+]

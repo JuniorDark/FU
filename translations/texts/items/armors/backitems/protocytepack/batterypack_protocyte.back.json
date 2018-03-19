@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/protocytepack/batterypack_protocyte.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blocks proto-poison. Grants +20 energy, 5% energy regen and a slight glow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/protocytepack/batterypack_protocyte.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protocite Energy Pack"
+    }
+  }
+]

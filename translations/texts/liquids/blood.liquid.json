@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/blood.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be blood. Wonderful."
+    }
+  }
+]

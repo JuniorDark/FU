@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/solariblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent crystal weapon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/solariblade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunari Dagger"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/hauntedforest.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Haunted Forest"
+    }
+  }
+]

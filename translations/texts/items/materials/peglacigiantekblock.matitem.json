@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacigiantekblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dense panel packed with processing power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacigiantekblock.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An incomprehensibly dense panel - it's emitting a radio signal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacigiantekblock.matitem": [
+        "/peglaciDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giantek. The building material of our creators. Functionally indestructible, and packed down to the molecular level with processing power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacigiantekblock.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard block - make Floran feel funny."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/gravitystaff/gravitystaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "From ^cyan;quiqksilver^reset;. Primary: Foreground blocks. Secondary: Background blocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/gravitystaff/gravitystaff.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Siphon (R)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/gravitystaff/gravitystaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Staff"
+    }
+  }
+]

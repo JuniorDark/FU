@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhoneyplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A red, sticky platform."
+    }
+  }
+]

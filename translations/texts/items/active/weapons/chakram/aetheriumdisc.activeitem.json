@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/aetheriumdisc.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Defender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/aetheriumdisc.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Disc"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/aetheriumdisc.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Derision be thy shield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/aetheriumdisc.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slice em up with cosmic power."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/freezecannon/fufreezecannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cloud-laying ice weapon\n^yellow;Blasts cause targets to slip^reset;\n^cyan;Alt-fire freezes enemies^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/freezecannon/fufreezecannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coldsnap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/freezecannon/fufreezecannon.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freeze Ball Blast"
+    }
+  }
+]

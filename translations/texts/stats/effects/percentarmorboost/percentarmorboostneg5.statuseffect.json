@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/percentarmorboost/percentarmorboostneg5.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Def -50%"
+    }
+  }
+]

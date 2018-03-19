@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/boozekit/boozekit.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your very own homebrewing kit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/boozekit/boozekit.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Booze Kit^white;"
+    }
+  }
+]

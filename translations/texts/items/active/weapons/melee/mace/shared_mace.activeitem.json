@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/fucommonmace.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/mace/furaremace.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/mace/fuuncommonmace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A face-whacker!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/isogenmace.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/mace/pyreitemace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Masterful crafting, deadly edges."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/ironmace.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/mace/zerchesiummace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well crafted, but heavy."
+    }
+  }
+]

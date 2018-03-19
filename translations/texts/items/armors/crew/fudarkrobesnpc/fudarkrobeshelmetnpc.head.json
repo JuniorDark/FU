@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/fudarkrobesnpc/fudarkrobeshelmetnpc.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadly hood. Armor that really demands attenSHUN!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/fudarkrobesnpc/fudarkrobeshelmetnpc.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealker's Hood"
+    }
+  }
+]

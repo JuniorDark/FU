@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/helium3gas.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Handy energy-infused gas. Great for fusion."
+    }
+  }
+]

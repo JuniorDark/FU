@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "ARMORY"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create deadly weapons & armor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PRODUCT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffffff;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffffff;PRODUCT"
+    }
+  }
+]

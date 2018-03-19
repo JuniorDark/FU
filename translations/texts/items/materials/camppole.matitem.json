@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/camppole.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight tent support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/camppole.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanofibre Pole"
+    }
+  }
+]

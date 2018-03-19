@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/moontoxicunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "moontoxicunderground"
+    }
+  }
+]

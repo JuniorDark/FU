@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/applejuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sweet juice made of apples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/applejuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apple Juice"
+    }
+  }
+]

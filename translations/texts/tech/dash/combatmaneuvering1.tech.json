@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/combatmaneuvering1.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A short doubletap dodge."
+    }
+  }
+]

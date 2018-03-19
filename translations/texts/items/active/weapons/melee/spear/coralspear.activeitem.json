@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/coralspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/coralspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerously sharp bits of coral. Stabby!"
+    }
+  }
+]

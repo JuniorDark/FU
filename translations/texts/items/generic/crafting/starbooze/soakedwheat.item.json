@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/soakedwheat.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very soggy wheat seed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/soakedwheat.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soaked Wheat Seed"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/calichewall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rich in saltpeter."
+    }
+  }
+]

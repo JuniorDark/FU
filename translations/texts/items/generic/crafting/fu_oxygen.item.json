@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_oxygen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for combustibles, and oxygenation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_oxygen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oxygen (O2)"
+    }
+  }
+]

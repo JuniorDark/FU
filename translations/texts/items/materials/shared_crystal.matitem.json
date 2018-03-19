@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aegisaltcrystal.matitem": [
+        "/description"
+      ],
+      "items/materials/violiumcrystal.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light seems to twist inside these crystals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aegisaltcrystal.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/violiumcrystal.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty cryssstals."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/fucoralcavern.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Caverns"
+    }
+  }
+]

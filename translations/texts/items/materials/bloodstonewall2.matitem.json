@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bloodstonewall2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is probably worth something, somewhere."
+    }
+  }
+]

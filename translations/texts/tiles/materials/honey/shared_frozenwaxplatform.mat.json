@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/frozenwaxplatform.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/frozenwaxplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Wax Platform"
+    }
+  }
+]

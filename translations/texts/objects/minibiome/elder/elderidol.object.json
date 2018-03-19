@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderidol.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A putrid idol of a horrific deity-like creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderidol.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Altar to Cthulhu"
+    }
+  }
+]

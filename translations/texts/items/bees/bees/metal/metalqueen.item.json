@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/metal/metalqueen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A robotic bee queen. Fascinating."
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/homeBreadcrumb/value"
+      ],
+      "interface/ai/fu_byosai.config": [
+        "/gui/homeBreadcrumb/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HOME"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/windowtitle/title"
+      ],
+      "interface/ai/fu_byosai.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "S.A.I.L."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/windowtitle/subtitle"
+      ],
+      "interface/ai/fu_byosai.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-based Artificial Intelligence Lattice"
+    }
+  }
+]

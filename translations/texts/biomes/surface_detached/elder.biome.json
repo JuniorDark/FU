@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/elder.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eldritch Field"
+    }
+  }
+]

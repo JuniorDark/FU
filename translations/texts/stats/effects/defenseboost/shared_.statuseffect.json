@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/defenseboost/defenseboost10.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/defenseboost/defenseghostweave.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Def +10"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/defenseboost/defense6.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/defenseboost/defenseboostgreg.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Def +8"
+    }
+  }
+]

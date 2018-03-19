@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labroof.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labroof.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Roofing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labroof.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labroof.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel roofing."
+    }
+  }
+]

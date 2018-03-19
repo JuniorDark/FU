@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/hoplitesetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Shield Regen. +15% Spear/Shortspear damage.  +10% Shield Bash/Push. With Spears and Shortspears get +3% crit. +2.5% Crit on Mountainous biomes"
+    }
+  }
+]

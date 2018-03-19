@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/cpu.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-end processor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/cpu.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Advanced Processor^white;"
+    }
+  }
+]

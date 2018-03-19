@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/estuary.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/estuarydark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Estuary"
+    }
+  }
+]

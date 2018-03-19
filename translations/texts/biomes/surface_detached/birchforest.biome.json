@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/birchforest.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Birch Forest"
+    }
+  }
+]

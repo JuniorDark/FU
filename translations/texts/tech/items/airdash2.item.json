@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/airdash2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash further in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/airdash2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Air Dash II^reset;"
+    }
+  }
+]

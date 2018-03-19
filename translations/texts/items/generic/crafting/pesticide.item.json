@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/pesticide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kills bugs dead. Can act as fertilizer (Growth 3, Yield 2, Fluid 2, Seed -1)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/pesticide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pesticide"
+    }
+  }
+]

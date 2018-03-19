@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/teleportdash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blink Dash II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/teleportdash.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ultimate Blink tech! Cooldown: 1.35s"
+    }
+  }
+]

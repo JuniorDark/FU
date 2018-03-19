@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/icefire.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icefire Forest"
+    }
+  }
+]

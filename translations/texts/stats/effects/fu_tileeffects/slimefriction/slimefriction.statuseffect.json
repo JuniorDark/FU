@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_tileeffects/slimefriction/slimefriction.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slimed"
+    }
+  }
+]

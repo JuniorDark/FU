@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/microsphereprecursor.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've uncovered a unique tech! The Precursor Microsphere! You get wall-cling, increased movement speed, and pressing ^green;[FIRE]^reset; will cause a Repulsor Blast that stuns and pushes enemies. It has been equipped."
+    }
+  }
+]

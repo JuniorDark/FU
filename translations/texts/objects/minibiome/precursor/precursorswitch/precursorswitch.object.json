@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorswitch/precursorswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Interface"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorswitch/precursorswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What secrets does this ancient switch reveal?"
+    }
+  }
+]

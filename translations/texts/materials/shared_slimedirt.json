@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slimedirtmaterial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fublueslimedirt.material": [
+        "/description"
+      ],
+      "tiles/materials/slimedirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ew. Slimy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slimedirtmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slimedirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slimy Soil"
+    }
+  }
+]

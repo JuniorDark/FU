@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small shard from a larger blade. Ancient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Blade Shard^white;"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/cloudforest.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Forest"
+    }
+  }
+]

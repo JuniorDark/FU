@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregulatornew.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generates a field that protects against environmental hazards. Requires 120W of power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregulatornew.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Atmospheric Regulator^white;"
+    }
+  }
+]

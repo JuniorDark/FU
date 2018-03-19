@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/mutaviskbandage.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heals 85 health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/mutaviskbandage.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Mutavisk Bandage^white;"
+    }
+  }
+]

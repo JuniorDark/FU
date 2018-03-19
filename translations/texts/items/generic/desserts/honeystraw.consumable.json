@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/honeystraw.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious honey straw. Get a sugar high!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/honeystraw.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Straw"
+    }
+  }
+]

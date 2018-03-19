@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cellmateria.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A material produced from various mixtures of cells."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cellmateria.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cell Material"
+    }
+  }
+]

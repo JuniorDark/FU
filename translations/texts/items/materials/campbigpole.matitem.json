@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/campbigpole.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavyweight tent support."
+    }
+  }
+]

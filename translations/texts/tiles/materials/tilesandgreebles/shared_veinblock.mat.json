@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/veinblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/veinblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bloodvein Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/veinblock.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/veinblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange veins course through this stone."
+    }
+  }
+]

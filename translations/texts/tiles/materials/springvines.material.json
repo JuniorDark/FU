@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/springvines.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick coil of vines, with flowers. They look strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/springvines.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like vinesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/springvines.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some flowering vines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/springvines.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spring Vine"
+    }
+  }
+]

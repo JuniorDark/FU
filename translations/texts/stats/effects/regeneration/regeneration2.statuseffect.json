@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regeneration2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Average Regen"
+    }
+  }
+]

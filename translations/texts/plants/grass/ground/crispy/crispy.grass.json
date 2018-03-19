@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/crispy/crispy.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crispy shrub."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/crispy/crispy.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crissspy."
+    }
+  }
+]

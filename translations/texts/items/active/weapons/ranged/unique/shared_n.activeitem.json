@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fuplasmacannon.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/fuplasmagun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Focuses energy for supreme damage output\n^yellow;Destroys tiles^reset;"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/scienceoutpostfu.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Science Outpost is an important research center situated on a lush, vibrant rainforest world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/scienceoutpostfu.aimission": [
+        "/speciesText/default/buttonText",
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Visit Science Outpost"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/corruption.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "corruption"
+    }
+  }
+]

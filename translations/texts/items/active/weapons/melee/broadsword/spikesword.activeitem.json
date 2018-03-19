@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/spikesword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covered in sharp poisoned barbs. Cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/spikesword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thornitox Sword"
+    }
+  }
+]

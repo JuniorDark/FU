@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/honeyjar.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious jar of healing honey! Gobble it down, or bake with it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/honeyextractor/honeyjar.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Jar"
+    }
+  }
+]

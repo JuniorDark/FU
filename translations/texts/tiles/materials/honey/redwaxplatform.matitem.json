@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/redwaxplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made of red bees wax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/redwaxplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Wax Platform"
+    }
+  }
+]

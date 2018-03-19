@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/mercuryliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Definitely unsafe levels of mercury."
+    }
+  }
+]

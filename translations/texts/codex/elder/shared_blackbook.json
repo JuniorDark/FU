@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/elder/blackbook1k.codex": [
+        "/description"
+      ],
+      "codex/elder/blackbook3k.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems to be a hint of some sort."
+    }
+  }
+]

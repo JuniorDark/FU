@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/neptuniumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's neptunium, commonly used as fuel or in weapons development."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/neptuniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neptunium (Np)"
+    }
+  }
+]

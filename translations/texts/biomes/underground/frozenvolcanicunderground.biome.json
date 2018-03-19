@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/frozenvolcanicunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Volcanic Cavern"
+    }
+  }
+]

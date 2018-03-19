@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/darkwater.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This probably isn't swim-safe."
+    }
+  }
+]

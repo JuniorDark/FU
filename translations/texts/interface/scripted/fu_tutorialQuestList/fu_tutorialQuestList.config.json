@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_tutorialQuestList/fu_tutorialQuestList.config": [
+        "/gui/textScrollArea/children/rewardList/schema/listTemplate/rewardsLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rewards:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_tutorialQuestList/fu_tutorialQuestList.config": [
+        "/gui/questlineNoSelected/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Select a questline"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_tutorialQuestList/fu_tutorialQuestList.config": [
+        "/gui/lblScience/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "lblScience"
+    }
+  }
+]

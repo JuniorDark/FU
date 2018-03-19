@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/mutagene1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potent mutagenic extract, laced with various single-celled experiments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/mutagene1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potent Mutagene"
+    }
+  }
+]

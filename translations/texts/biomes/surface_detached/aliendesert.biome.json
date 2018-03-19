@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/aliendesert.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Desert"
+    }
+  }
+]

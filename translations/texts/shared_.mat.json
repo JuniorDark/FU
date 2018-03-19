@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/amberplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/amberplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/fancywoodstairs.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rich amber platform"
+    }
+  }
+]

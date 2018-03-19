@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/lumivine/lumivineseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/lumivine/wildlumivineseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lumivine Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/lumivine/lumivineseed.object": [
+        "/description"
+      ],
+      "objects/farmables/lumivine/wildlumivineseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fortitude of these leaves is, frankly, incredible."
+    }
+  }
+]

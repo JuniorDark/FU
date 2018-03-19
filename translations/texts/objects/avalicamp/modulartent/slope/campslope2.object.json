@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nanocanvas sheet, suitable for putting a roof on a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Topsheet"
+    }
+  }
+]

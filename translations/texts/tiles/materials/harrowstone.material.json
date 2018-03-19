@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/harrowstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rough, sharp and irregular stone flecked with impurities."
+    }
+  }
+]

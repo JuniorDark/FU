@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/frozenstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice-covered stone."
+    }
+  }
+]

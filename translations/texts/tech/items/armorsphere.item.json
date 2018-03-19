@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/armorsphere.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavily armored distortion sphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/armorsphere.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Armor Sphere^reset;"
+    }
+  }
+]

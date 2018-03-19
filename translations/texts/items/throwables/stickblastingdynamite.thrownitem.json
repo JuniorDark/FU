@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/stickblastingdynamite.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throwing Dynamite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/stickblastingdynamite.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toss to mine out blocks at a distance. Fire in the hole!"
+    }
+  }
+]

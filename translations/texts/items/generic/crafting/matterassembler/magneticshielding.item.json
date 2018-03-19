@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/magneticshielding.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A material shielded against electromagnetic waves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/magneticshielding.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electromagnetic Shielding"
+    }
+  }
+]

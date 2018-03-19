@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/isn_heatshell/isn_heatshell.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protects against deadly cold, heat, lava and fire. Grants 20% Ice and Fire resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/isn_heatshell/isn_heatshell.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thermal Shell"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalidisplay.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These LED displays are a thin adhesive film that can be stuck on any surface."
+    }
+  }
+]

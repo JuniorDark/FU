@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/beeflowerhead.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flower Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/beeflowerhead.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The head of a Beeflower. Contains traces of anti-mite poison!"
+    }
+  }
+]

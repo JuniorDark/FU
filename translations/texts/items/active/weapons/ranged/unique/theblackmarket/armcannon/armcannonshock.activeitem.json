@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonshock.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attaches to the forearm. Fires electric blasts.\n^yellow;Counts as 'electric' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonshock.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ce64de;Arm Cannon (Shock)"
+    }
+  }
+]

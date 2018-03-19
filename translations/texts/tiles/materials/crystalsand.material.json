@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/crystalsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline Sand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/crystalsand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "sparkling crystalline sand."
+    }
+  }
+]

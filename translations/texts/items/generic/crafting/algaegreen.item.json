@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/algaegreen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent fuel source once refined. Can act as fertilizer (Growth 1.25, Fluid 0.5, Seed -1)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/algaegreen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Algae"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/atmosphere/iceclouds.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Clouds"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/chromaticunderground.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chromatic Underground"
+    }
+  }
+]

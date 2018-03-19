@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/crystalmoon.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline World"
+    }
+  }
+]

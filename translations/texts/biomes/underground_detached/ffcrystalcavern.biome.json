@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffcrystalcavern.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Cavern"
+    }
+  }
+]

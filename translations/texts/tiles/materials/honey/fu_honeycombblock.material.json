@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/fu_honeycombblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of honeycombs! Yum!"
+    }
+  }
+]

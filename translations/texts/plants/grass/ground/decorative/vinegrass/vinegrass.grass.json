@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vinegrass/vinegrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long, sinewy weed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vinegrass/vinegrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Grass"
+    }
+  }
+]

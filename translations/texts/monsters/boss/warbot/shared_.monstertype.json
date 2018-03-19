@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/warbot/warbot.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/warbot/warbot2.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resilient robot built for the battlefield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/warbot/warbot.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/warbot/warbot2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "War Bot"
+    }
+  }
+]

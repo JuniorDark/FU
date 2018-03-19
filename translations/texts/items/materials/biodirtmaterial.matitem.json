@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biodirtmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is some mighty strange dirt."
+    }
+  }
+]

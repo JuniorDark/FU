@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/protostim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long-lasting energy enhancer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/protostim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Organic Energy Stim"
+    }
+  }
+]

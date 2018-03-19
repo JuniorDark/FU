@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/rapier/aetheriumrapier.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aetherium Puncturer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/rapier/aetheriumrapier.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aetherium Rapier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/rapier/aetheriumrapier.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "My name is..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/rapier/aetheriumrapier.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vengeance be thy pursuit."
+    }
+  }
+]

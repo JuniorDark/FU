@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/quintjump.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five jumps is best jumps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/quintjump.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Quint Jump^reset;"
+    }
+  }
+]

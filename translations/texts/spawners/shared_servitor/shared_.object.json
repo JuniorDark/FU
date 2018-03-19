@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "spawners/sentrybotservitor/sentrybotcraft.object": [
+        "/description"
+      ],
+      "spawners/sentrybotservitor/sentrybotcraft2.object": [
+        "/description"
+      ],
+      "spawners/sentrybotservitor/sentrybotcraft3.object": [
+        "/description"
+      ],
+      "spawners/servitorscanners/scannercombo3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reliable sidekick. Will keep you protected from a distance."
+    }
+  }
+]

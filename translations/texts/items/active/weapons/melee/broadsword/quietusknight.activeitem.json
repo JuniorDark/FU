@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/quietusknight.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy-duty quietus weapon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/quietusknight.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knight Blade"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/quietusknave.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/quietusrogue.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine quietus weapon"
+    }
+  }
+]

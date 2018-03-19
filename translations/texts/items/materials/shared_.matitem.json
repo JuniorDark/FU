@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglaciicecolumn.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/peglacipykretedecor.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/peglacipykretefoundation.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/peglacipykretestrip.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lick ice, tongue get stuck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redsand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/redsand2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red sand."
+    }
+  }
+]

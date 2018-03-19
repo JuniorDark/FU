@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/blinkdash2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enhancing Inferior Tech II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/blinkdash2.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to this device I can apply the same principles to my ^orange;Blink Dash^reset; tech! With the ^orange;Air Blink^reset; I can teleport around a little better!"
+    }
+  }
+]

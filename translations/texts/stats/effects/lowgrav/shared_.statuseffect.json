@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lowgrav/lowgrav_intrepid.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/lowgrav/lowgrav_stim.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light"
+    }
+  }
+]

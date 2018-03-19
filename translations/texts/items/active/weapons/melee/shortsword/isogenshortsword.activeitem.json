@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/isogenshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frosting foes since 2200\n^cyan;Inflicts Freezing^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/isogenshortsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isogen Shortsword"
+    }
+  }
+]

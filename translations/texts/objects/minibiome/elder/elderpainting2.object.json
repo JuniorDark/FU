@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderpainting2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cthulhu Rising"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/elderpainting2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some hideous creature rises from the sea, largely unseen. It's scale must be enormous."
+    }
+  }
+]

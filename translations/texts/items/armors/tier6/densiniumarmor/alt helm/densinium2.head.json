@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/densiniumarmor/alt helm/densinium2.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Densinium X7 Helm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/densiniumarmor/alt helm/densinium2.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+30% Physical Resist^reset;\n^#e43774;Immune: Heat, Radiation, Poison, Oxygen^reset;\n^green;+6 Crit, +25% Damage (Densinium weapons)^reset;"
+    }
+  }
+]

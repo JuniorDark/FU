@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumossyrock.matitem": [
+        "/description"
+      ],
+      "items/materials/fumossyrock2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock covered in moss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumossyrock.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/fumossyrock2.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Rock"
+    }
+  }
+]

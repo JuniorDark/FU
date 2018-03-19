@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/arkaendart.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arkaen Dart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/arkaendart.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive, deadly biological darts."
+    }
+  }
+]

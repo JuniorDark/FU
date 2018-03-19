@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/smartbox/halver/halver.object": [
+        "/subtitle"
+      ],
+      "objects/smartbox/singular/singular.object": [
+        "/subtitle"
+      ],
+      "objects/smartbox/splitter/splitter.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smartbox"
+    }
+  }
+]

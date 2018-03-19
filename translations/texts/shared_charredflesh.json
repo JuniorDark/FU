@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/charredflesh.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/charredflesh.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/charredfleshmaterial.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charred Flesh"
+    }
+  }
+]

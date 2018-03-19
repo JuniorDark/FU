@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_muscle.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Muscle control, strength or enhancement come from this gene."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_muscle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Musculature"
+    }
+  }
+]

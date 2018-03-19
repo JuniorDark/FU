@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craft all sorts of complex gear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create advanced technology"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create more complicated gear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/description"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;(Frackin' Universe main table)^reset; Craft all sorts of useful gear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Auto-Assembler^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Machining Table^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/matterassembler/prototyper.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ],
+      "objects/crafting/matterassembler/prototyperoutpost.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Matter Assembler^white;"
+    }
+  }
+]

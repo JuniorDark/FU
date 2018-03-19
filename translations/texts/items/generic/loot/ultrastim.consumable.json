@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/ultrastim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A superior stim, providing shield regen, health regen, defense boost and gravity manipulation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/ultrastim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "X-Stim"
+    }
+  }
+]

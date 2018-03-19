@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/lasherwhip.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lasher Whip"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/lasherwhip.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made from a Lasher plant."
+    }
+  }
+]

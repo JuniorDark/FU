@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/clawfern/clawfern.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Claw Fern"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/clawfern/clawfern.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is an interesting plant..."
+    }
+  }
+]

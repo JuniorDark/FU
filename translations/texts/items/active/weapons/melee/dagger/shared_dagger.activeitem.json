@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/glowstickgreendagger.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/dagger/glowstickyellowdagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowstick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/advalloydagger.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/dagger/fucultistdagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Masters Knife"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/glowstickgreendagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/glowstickyellowdagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLUR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/advalloydagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/carbondagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/fucultistdagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sturdy, and keeps a keen edge."
+    }
+  }
+]

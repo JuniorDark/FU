@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/lasereyestaff/fu_lasereyestaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fairly interesting technological weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/lasereyestaff/fu_lasereyestaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cane of Eyes"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/pyreiteshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lash out with fire and doom\n^cyan;Inflicts Napalm^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/pyreiteshortsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyreite Shortsword"
+    }
+  }
+]

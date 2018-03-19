@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier1/fubonearmor/fubone.chest": [
+        "/description"
+      ],
+      "items/armors/tier1/fubonearmor/fubone.head": [
+        "/description"
+      ],
+      "items/armors/tier1/fubonearmor/fubone.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+7.5% Fall Damage Resist, +5 Health^reset; \n^green;(Lush/Forest biomes) +5 Health, 5% Power, 5% Physical Resistance^reset;"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/aetheriumkatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aetherium Katana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/aetheriumkatana.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aetherium Soulslasher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/aetheriumkatana.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holy be thy spirit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/aetheriumkatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "There isn't any katana that can top this.\n^cyan;Massive 10-hit combo!"
+    }
+  }
+]

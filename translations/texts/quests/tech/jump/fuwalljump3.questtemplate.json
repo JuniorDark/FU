@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwalljump3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultimate Grip!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwalljump3.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "With tech used in the Arc Smelter I could ^green;replace the Wall Jump tech^reset; with an ^orange;ultimate upgrade^reset;!"
+    }
+  }
+]

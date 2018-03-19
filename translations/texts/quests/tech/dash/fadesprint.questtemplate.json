@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/fadesprint.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazing Speed, Amazing Tech"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/fadesprint.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Using ^orange;Advanced Techniques and resources^reset; I can alter reality around me as I run. This should provide invulnerability!"
+    }
+  }
+]

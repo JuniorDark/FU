@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/pteropodish/pteropod2/pteropod2.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Able to super-charge itself to spew micro plasma blasts."
+    }
+  }
+]

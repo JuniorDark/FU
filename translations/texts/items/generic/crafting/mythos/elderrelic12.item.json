@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic12.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lost knowledge of an unknown race."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic12.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Elder Fragment^white;"
+    }
+  }
+]

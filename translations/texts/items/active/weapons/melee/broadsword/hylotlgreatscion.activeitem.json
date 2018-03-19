@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hylotlgreatscion.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional Hylotl weapon of war.\n^cyan;Huge striking power. Cold edged^reset;.\n^green;Slowing Alt^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hylotlgreatscion.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great Scion"
+    }
+  }
+]

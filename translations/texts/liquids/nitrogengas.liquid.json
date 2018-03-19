@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/nitrogengas.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pure nitrogen gas"
+    }
+  }
+]

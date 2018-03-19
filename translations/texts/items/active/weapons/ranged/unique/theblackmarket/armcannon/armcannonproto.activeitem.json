@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonproto.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attaches to the forearm. Fires quantum blasts.\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonproto.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Arm Cannon (Fusion)"
+    }
+  }
+]

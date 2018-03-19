@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_salt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extremely useful in many, many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_salt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salt (NaCl)"
+    }
+  }
+]

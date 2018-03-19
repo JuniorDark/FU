@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/irradiumarmor/irradiumarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium Chest"
+    }
+  }
+]

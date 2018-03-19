@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonbroken.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arm Cannon [Broken] "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonbroken.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken af"
+    }
+  }
+]

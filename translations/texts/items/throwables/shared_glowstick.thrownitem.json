@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/purpleglowstick.thrownitem": [
+        "/description"
+      ],
+      "items/throwables/redglowstick.thrownitem": [
+        "/description"
+      ],
+      "items/throwables/whiteglowstick.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An effective and waterproof way to light up a dark cave before you dive into it."
+    }
+  }
+]

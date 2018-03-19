@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbriteblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid block of penumbrite alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbriteblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penumbrite block"
+    }
+  }
+]

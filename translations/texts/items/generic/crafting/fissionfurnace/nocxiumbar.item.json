@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/nocxiumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An abhorrent metal created of raw chaos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/nocxiumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Nocxium Bar^white;"
+    }
+  }
+]

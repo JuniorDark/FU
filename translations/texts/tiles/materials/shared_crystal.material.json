@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/aegisaltcrystal.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/violiumcrystal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty cryssstal."
+    }
+  }
+]

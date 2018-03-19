@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/erithianalgae.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent biofuel, even better if processed."
+    }
+  }
+]

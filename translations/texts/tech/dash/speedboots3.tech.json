@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/speedboots3.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stimulant Rig IV"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/speedboots3.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Superior narcotics provide insane speeds."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/mooncomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A honeycomb from a moon hive. Makes you floaty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/mooncomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moon Honeycomb"
+    }
+  }
+]

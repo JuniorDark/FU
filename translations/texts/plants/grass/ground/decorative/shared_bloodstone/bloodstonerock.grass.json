@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bloodstonerock/bloodstonerock.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/bloodstonestuff/bloodstonerock.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "a stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bloodstonerock/bloodstonerock.grass": [
+        "/description"
+      ],
+      "plants/grass/ground/decorative/bloodstonestuff/bloodstonerock.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "stone"
+    }
+  }
+]

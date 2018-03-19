@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/irradiumhammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forged from carbon and irradium. Quite dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/irradiumhammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium Hammer"
+    }
+  }
+]

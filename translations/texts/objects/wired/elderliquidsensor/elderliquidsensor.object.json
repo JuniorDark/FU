@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/elderliquidsensor/elderliquidsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't use your finger! This ssensor indicatesss the presence of liquidss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/elderliquidsensor/elderliquidsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't use your finger! This trusty sensor indicates the presence of liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/elderliquidsensor/elderliquidsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Sensor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/elderliquidsensor/elderliquidsensor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trusty sensor indicates the presence of liquids."
+    }
+  }
+]

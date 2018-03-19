@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bioworld/biogravel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Silt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bioworld/biogravel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange, pulsating granules of... something... swirl within this silty material."
+    }
+  }
+]

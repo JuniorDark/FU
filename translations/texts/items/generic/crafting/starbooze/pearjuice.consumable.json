@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/pearjuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sweet juice made from pears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/pearjuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pear Juice"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/atropusdark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Atropus"
+    }
+  }
+]

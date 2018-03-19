@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labbeam.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labbeam.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Beam"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fustingergun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gene-spliced living weapon. Fires boney stingers\n^yellow;Inflicts Slow^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fustingergun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sting Needler"
+    }
+  }
+]

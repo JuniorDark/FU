@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/woodencentrifuge/woodencentrifuge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An effective device for extraction involving liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/woodencentrifuge/woodencentrifuge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Wooden Centrifuge^reset;"
+    }
+  }
+]

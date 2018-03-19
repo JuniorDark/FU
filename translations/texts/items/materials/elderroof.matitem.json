@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderroof.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roofing of Elder origin."
+    }
+  }
+]

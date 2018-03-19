@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_fish.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cells of a fish or other water-dweller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_fish.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Osteichthyes"
+    }
+  }
+]

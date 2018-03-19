@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arm Cannon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attaches to the forearm. Fires energy blasts.\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  }
+]

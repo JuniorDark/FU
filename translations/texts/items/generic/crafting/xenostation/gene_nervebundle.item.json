@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_nervebundle.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extra connecting tissues."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_nervebundle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nerve Bundle"
+    }
+  }
+]

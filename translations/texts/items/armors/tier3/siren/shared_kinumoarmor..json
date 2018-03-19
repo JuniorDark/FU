@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/siren/kinumoarmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier3/siren/kinumoarmor.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+21% Poison Resist, +15% Shield Regen^reset;\n^#e43774;Immune: Breath^reset;\n^green;Ocean/Tidewater: +25% Health, +5 protection^reset;"
+    }
+  }
+]

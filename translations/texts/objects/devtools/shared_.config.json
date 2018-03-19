@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/devtools/ClockTest/ItemScanner.config": [
+        "/gui/scanButton/caption"
+      ],
+      "objects/devtools/ItemGenerator/ItemGenerator.config": [
+        "/gui/scanButton/caption"
+      ],
+      "objects/devtools/ItemScanner/ItemScanner.config": [
+        "/gui/scanButton/caption"
+      ],
+      "objects/devtools/ItemScanner/ItemScannerTransferLib.config": [
+        "/gui/scanButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scan"
+    }
+  }
+]

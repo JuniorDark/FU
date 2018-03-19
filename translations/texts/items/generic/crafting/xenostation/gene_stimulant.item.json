@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_stimulant.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creates powerful effects on the body."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_stimulant.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stimulant"
+    }
+  }
+]

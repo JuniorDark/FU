@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbmoonstone/magnorbmoonstone.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blasts foes with these energy-infused pellucid orbs. One handed. ^cyan;Counts as 'energy' weapon^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbmoonstone/magnorbmoonstone.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Telebrium Orbs"
+    }
+  }
+]

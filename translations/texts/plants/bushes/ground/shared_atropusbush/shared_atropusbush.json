@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/atropusbush1/atropusbush1.bush": [
+        "/description"
+      ],
+      "plants/bushes/ground/atropusbush2/atropusbush2.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange fleshy stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/atropusbush1/atropusbush1.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/atropusbush2/atropusbush2.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What in the...just being near this is uncomfortable."
+    }
+  }
+]

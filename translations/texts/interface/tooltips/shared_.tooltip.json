@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/sword2.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/swordunique.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack Speed:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/gunkevin.tooltip": [
+        "/typeLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/typeLabel/value"
+      ],
+      "interface/tooltips/swordunique.tooltip": [
+        "/typeLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique"
+    }
+  }
+]

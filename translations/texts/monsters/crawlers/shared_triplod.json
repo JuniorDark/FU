@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/triplod/triplodpet.monstertype": [
+        "/description"
+      ],
+      "monsters/crawlers/triplodish/spiderwalker/spiderwalkerpet.monstertype": [
+        "/description"
+      ],
+      "monsters/crawlers/triplodish/spiderwalker2/spiderwalker2pet.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It watches you through its big lens."
+    }
+  }
+]

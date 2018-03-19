@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fublackbat/fublackbat.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These highly aggressive blood suckers prefer dark places."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/fublackbat/fublackbat.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vampire Bat"
+    }
+  }
+]

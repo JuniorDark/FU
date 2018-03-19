@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/uberstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides you with high dosage of performance enhancers. A VERY high dosage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/uberstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uber-Stim"
+    }
+  }
+]

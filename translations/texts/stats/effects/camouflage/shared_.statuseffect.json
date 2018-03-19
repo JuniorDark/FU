@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/camouflage/camouflage05.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/camouflage/camouflage55.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/camouflage/camouflage85.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/camouflage/camouflage99.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Camouflage"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/bulbopish/bulbopflesh/bulbopflesh.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/bulbopish/bulbopflesh/bulbopflesh.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meatbag"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, decorative tent sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decorative Sheet"
+    }
+  }
+]

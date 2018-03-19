@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/petfood/petfood4.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energize your pet! Don't ask what it's made from. ^red;Do Not Consume.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/petfood/petfood4.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soylent Periwinkle"
+    }
+  }
+]

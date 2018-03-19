@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ghostmushroom.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ghostmushroom/ghostmushroomseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ghostmushroom/wildghostmushroomseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghost Mushroom"
+    }
+  }
+]

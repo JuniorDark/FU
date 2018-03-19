@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_battery_t1/isn_battery_t1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A power storage unit. Stores up to 1000J of power and dispenses 4W when connected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_battery_t1/isn_battery_t1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;1000J 4W Battery Unit^reset;"
+    }
+  }
+]

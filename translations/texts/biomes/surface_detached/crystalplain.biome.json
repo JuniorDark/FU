@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/crystalplain.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline Volcanic"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/generated/skills/ranged/bubbleBlastAttack.monsterskill": [
+        "/label"
+      ],
+      "monsters/skills/ranged/slimeBubbleAttack.monsterskill": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "BUBBLE BLAST"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/eyejellies/eyejellyroller/eyejellyroller.monstertype": [
+        "/description"
+      ],
+      "monsters/ghosts/debugsphere/debugsphere.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/spheresnaketest/spheresnaketesthead.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/spheresnaketest/spheresnaketestsegment.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/spheretest/spheretest.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Testing rotating monster"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_skeletal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones and plates and increased bone toughness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_skeletal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skeletal Structure"
+    }
+  }
+]

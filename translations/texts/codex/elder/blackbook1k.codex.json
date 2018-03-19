@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/elder/blackbook1k.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foul liquids, toxic.\nChained and helpless.\nOne, the lock pick.\nBe patient, and judge each in turn.\nAwait the Old Ones decision."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/elder/blackbook1k.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passage"
+    }
+  }
+]

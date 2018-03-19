@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/mmgravgun2.beamaxe": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It doesn't get any better than this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/mmgravgun2.beamaxe": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b84cbc;Quantum Manipulator^white;"
+    }
+  }
+]

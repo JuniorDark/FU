@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/radioactiveresistance.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that resists the Radioactive element, ^green;+25% Rad Resist, Rad-Burn Immunity^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/radioactiveresistance.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Barrier"
+    }
+  }
+]

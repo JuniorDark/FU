@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tissueculture.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carefully extracted, ready for research."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tissueculture.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tissue Culture"
+    }
+  }
+]

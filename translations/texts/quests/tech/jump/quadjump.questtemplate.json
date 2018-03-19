@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/quadjump.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've come up with a way to double a double-jump tech!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/quadjump.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Harness"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/quadjump.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Using some fancy ancient tech I think I can produce a Quad-Jump tech!"
+    }
+  }
+]

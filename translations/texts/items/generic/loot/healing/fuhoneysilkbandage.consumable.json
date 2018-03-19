@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/fuhoneysilkbandage.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heals 120 hp over 20 seconds and removes most elemental statuses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/fuhoneysilkbandage.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honeysilk Bandage"
+    }
+  }
+]

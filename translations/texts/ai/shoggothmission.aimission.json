@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/shoggothmission.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no communication from this remote outpost. Investigate why."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/shoggothmission.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#7fac66;Delta Freya II^reset; (7+)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/shoggothmission.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#7fac66;Delta Freya II^reset; (7+)(R)"
+    }
+  }
+]

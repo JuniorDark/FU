@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_holodisc.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encoded Research"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_holodisc.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your hard-earned work, ready for use in experiments and blueprints"
+    }
+  }
+]

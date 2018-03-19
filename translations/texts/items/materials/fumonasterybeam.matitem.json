@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasterybeam.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beam of Shoji design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasterybeam.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoji Beam"
+    }
+  }
+]

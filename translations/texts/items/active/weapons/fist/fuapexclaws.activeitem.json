@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/fuapexclaws.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A deadly fist weapon that projects kinetic force."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/fuapexclaws.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Gauntlet"
+    }
+  }
+]

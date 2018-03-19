@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltensteel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be used to cook with, if desperate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltensteel.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Steel Stone"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_resist.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_resist.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resistant to outside forces."
+    }
+  }
+]

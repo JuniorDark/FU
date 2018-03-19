@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/densiniumshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Densinium Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/densiniumshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+0.07% HP regen, +5% Energy regen^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/zeroburst.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Double-tap up to explode upward! Harms foes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/zeroburst.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zero Burst I"
+    }
+  }
+]

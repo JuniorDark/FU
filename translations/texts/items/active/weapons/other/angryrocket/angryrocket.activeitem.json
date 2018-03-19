@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/angryrocket/angryrocket.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadly rockets. Internal energy source.\n^cyan;Heat-Seeking Alt (3 tick lock-on)^reset;\n^yellow;Alt slows, irradiates and burns!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/angryrocket/angryrocket.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life Seeker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/angryrocket/angryrocket.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spankr"
+    }
+  }
+]

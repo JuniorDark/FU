@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aliensoil.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange soil with an almost neon glow."
+    }
+  }
+]

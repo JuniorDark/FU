@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/quarterstaff/commonqs.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/quarterstaff/copperquarterstaff.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/quarterstaff/ironquarterstaff.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/quarterstaff/rareqs.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/quarterstaff/tungstenquarterstaff.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/quarterstaff/uncommonqs.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This quarterstaff is perfect for enemies just out of reach."
+    }
+  }
+]

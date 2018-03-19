@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gives an absolutely insane speed boost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Physics Field III^reset;"
+    }
+  }
+]

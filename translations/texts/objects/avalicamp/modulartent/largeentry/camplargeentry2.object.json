@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rainproof sheet, suitable for putting a roof on a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent Entrance"
+    }
+  }
+]

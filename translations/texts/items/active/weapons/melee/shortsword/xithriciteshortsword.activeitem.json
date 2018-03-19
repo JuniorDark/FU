@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/xithriciteshortsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cosmic Shortsword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/xithriciteshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Murder with cosmic power\n^cyan;Inflicts Vulnerability^reset;"
+    }
+  }
+]

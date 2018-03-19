@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/grapehoneystraw.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grape honey straw! More nutritious and delicious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/grapehoneystraw.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Straw Grape"
+    }
+  }
+]

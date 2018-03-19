@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/abilities/spear/drillcharge/drillcharge.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/other/drillspear/drillspear.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill Charge"
+    }
+  }
+]

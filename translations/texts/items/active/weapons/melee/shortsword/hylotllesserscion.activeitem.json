@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/hylotllesserscion.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral and steel. Blood and glory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/hylotllesserscion.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scion Clawblade"
+    }
+  }
+]

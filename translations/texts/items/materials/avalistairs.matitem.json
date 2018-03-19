@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalistairs.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avali set of stairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalistairs.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalistairs.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stairs of Avali Design."
+    }
+  }
+]

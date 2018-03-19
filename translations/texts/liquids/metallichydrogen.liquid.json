@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/metallichydrogen.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Degenerate matter. Extremely valuable quantum/electrical conductor."
+    }
+  }
+]

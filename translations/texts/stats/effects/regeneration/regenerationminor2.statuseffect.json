@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regenerationminor2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minor Regen II"
+    }
+  }
+]

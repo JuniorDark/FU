@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/hydrotube.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hydroponic Tube"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/hydrotube.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once tilled, automatically hydrates soil for growing."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avalidarkmetal.material": [
+        "/description"
+      ],
+      "tiles/materials/avalidarkmetal2.material": [
+        "/description"
+      ],
+      "tiles/materials/avalidarkmetal3.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal, darkly."
+    }
+  }
+]

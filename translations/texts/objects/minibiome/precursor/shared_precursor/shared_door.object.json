@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorbackgroundoor/precursorbackgrounddoor.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/precursor/precursordoor/precursordoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Door"
+    }
+  }
+]

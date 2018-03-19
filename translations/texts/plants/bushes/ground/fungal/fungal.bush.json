@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fungal/fungal.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mushroom of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fungal/fungal.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mushroom."
+    }
+  }
+]

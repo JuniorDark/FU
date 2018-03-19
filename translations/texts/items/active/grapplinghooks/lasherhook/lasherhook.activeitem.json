@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/lasherhook/lasherhook.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lasher Hook"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/lasherhook/lasherhook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zip through the air like a boss, and slice foes too!"
+    }
+  }
+]

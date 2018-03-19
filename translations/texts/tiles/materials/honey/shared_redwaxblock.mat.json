@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/redwaxblock.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/redwaxblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A red block of wax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/redwaxblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/redwaxblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Wax Block"
+    }
+  }
+]

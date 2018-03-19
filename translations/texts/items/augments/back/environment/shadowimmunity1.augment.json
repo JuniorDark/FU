@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/shadowimmunity1.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that protects against the horrific taint of Shadow. ^cyan;Immune: Shadow Taint^reset;"
+    }
+  }
+]

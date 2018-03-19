@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/bloodgulch.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Gulch"
+    }
+  }
+]

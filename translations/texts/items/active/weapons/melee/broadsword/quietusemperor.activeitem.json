@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/quietusemperor.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Emperor Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/quietusemperor.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy-duty quietus weapon. Slow as molasses, but brutally deadly."
+    }
+  }
+]

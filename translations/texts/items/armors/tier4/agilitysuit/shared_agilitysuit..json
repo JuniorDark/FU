@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/agilitysuit/agilitysuit.chest": [
+        "/description"
+      ],
+      "items/armors/tier4/agilitysuit/agilitysuit.head": [
+        "/description"
+      ],
+      "items/armors/tier4/agilitysuit/agilitysuit.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+25% Speed and Jump^reset;\n^#e43774;+4% Crit Chance (Dagger / Pistol)^reset;"
+    }
+  }
+]

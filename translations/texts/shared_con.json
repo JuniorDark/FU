@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chests/chest3.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/genechest128.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/chests/voidchest200.config": [
+        "/gui/clear/caption"
+      ],
+      "interface/extractor/extractor.config": [
+        "/gui/clear/caption"
+      ],
+      "objects/power/fu_liquidcondenser/fu_liquidcondenser.config": [
+        "/gui/clear/caption"
+      ],
+      "objects/power/isn_atmoscondenser/isn_atmoscondenser.config": [
+        "/gui/clear/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take all"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/exceptionalcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious and amazing honey comb! Eat it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/exceptionalcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exceptional Honeycomb"
+    }
+  }
+]

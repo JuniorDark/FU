@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/greenslimegrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green slime"
+    }
+  }
+]

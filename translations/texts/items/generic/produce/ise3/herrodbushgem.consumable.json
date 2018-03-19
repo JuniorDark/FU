@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/herrodbushgem.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Counteracts dangerous Shadow effects and makes you immune for a while."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/herrodbushgem.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Herrod Bush Gem"
+    }
+  }
+]

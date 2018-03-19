@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/breathprotection.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that recycles air at 100% efficiency. ^cyan;Immune: Breathing^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/breathprotection.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Re-Breather"
+    }
+  }
+]

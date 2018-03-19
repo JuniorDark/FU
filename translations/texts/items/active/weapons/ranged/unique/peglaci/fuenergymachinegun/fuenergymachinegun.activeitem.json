@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuenergymachinegun/fuenergymachinegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brutal violium-derived blasts shred opponents\n^yellow;Inflicts electrified status^reset;\n^cyan;Inflicts Slow status^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuenergymachinegun/fuenergymachinegun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Static Shocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuenergymachinegun/fuenergymachinegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thresher"
+    }
+  }
+]

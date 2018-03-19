@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/protection/fudefenseaugment2.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that reduces damage taken by 7%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/protection/fudefenseaugment2.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kinetic Field II"
+    }
+  }
+]

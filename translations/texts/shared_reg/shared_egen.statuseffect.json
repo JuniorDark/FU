@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_atmosregulator/isn_atmosregen.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regenerationAtmosRegen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atmospheric Healing"
+    }
+  }
+]

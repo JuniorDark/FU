@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/quadjump.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get up to four mid-air jumps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/quadjump.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Quad Jump^reset;"
+    }
+  }
+]

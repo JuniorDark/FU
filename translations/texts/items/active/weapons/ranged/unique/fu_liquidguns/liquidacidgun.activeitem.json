@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/liquidacidgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/liquidacidgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gun shoots sulphuric acid! Fun!"
+    }
+  }
+]

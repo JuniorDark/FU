@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/fuwallcling.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allows you to grip onto walls and double jump."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/fuwallcling.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magnet Grip I"
+    }
+  }
+]

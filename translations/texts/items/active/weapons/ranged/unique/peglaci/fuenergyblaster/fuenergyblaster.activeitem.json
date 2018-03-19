@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuenergyblaster/fuenergyblaster.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely useful weapon utilizing controlled energy\n^yellow;Exceptional utility^reset;\n^cyan;Inflicts Electrified status^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuenergyblaster/fuenergyblaster.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Lobber"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/bountynpc/fuoperativenpc.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/tier2/operative/fuoperative.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Operative Chest Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/bountynpc/fuoperativenpc.legs": [
+        "/shortdescription"
+      ],
+      "items/armors/tier2/operative/fuoperative.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Operative Leg Armor"
+    }
+  }
+]

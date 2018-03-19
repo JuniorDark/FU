@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Further details on the strange happenings..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lamentations"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've confined MacReady to the labs. He's totally lost it. At least we can seal the door remotely and he can be holed up with that...thing. We all decided that I should investigate beyond where I found the thing...see if there is anything more to this strangeness beyond the cliffs. I'll need a ^orange;grappling hook of some sort^white; to make any real progress."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/strangedevice1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange Device"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/strangedevice1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange machine appears to be...actually, I can't even imagine what is within."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/titaniumwallblockmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A titanium wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/titaniumwallblockmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Wall"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative sheet with some poles to prop it up, would make a good awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decorative Awning"
+    }
+  }
+]

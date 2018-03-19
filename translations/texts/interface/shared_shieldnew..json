@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/energy2Label/value",
+        "/hp2Label/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/energy2Label/value",
+        "/hp2Label/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/shieldBashTitleLabel/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/shieldbashTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bash Bonus:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/blockTitleLabel/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/blockTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect Block Time:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/stamTitleLabel/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/stamTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Regen Bonus:"
+    }
+  }
+]

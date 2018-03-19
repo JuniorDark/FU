@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/ironshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/ironshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+20% Fall Reduction^reset;"
+    }
+  }
+]

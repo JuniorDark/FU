@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/napalmcannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Napalm Launcher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/napalmcannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the sort of thing you fire indoors at a carpentry show.\n^yellow;Inflicts burning^reset;"
+    }
+  }
+]

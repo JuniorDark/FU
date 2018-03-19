@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/mantiziroyalguardornate/royalguardornate.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/mantiziroyalguardornate/royalguardornate.head": [
+        "/description"
+      ],
+      "items/armors/tier2/mantiziroyalguardornate/royalguardornate.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^green;+17% Shield Regen, Blocking, Stamina^reset;\n^#e43774;Sword/Mace and Shield: +2% Crit, +15 Crit Dmg^reset;\n^cyan;+15% Fire Res, 15% Knockback Res^reset;"
+    }
+  }
+]

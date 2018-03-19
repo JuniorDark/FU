@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbrastone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone reflects no light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbrastone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbral Stone"
+    }
+  }
+]

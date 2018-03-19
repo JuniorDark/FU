@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bloodstone/ff_bloodstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood-red stone!"
+    }
+  }
+]

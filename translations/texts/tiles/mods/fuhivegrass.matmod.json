@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/fuhivegrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "hive grass"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/lightregen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Daylight Regen"
+    }
+  }
+]

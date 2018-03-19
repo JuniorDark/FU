@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_genes.radiomessages": [
+        "/pickupgene2/text"
+      ],
+      "radiomessages/fu_isotopes.radiomessages": [
+        "/pickupEnrichedplutonium/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Much more viable as a fuel and resource than its unrefined self. Enriched Plutonium can help you reach the stars."
+    }
+  }
+]

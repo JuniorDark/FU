@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/waxchunk.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of beeswax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/waxchunk.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beeswax"
+    }
+  }
+]

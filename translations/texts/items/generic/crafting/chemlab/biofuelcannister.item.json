@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannister.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent biofuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/biofuelcannister.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biofuel Canister"
+    }
+  }
+]

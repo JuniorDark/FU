@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/frozenwaxblock.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/frozenwaxblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of frozen wax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/frozenwaxblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/frozenwaxblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Wax Block"
+    }
+  }
+]

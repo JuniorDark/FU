@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/moltenblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning with a need for blood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/moltenblade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Sword"
+    }
+  }
+]

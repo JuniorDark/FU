@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bonemealblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Meal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bonemealblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "mixed bone powder and... gore."
+    }
+  }
+]

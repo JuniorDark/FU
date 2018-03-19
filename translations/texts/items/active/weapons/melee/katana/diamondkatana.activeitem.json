@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/diamondkatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Diamond Katana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/diamondkatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Two-handed, shining diamond. Exceptionally beautiful and deadly.\n^yellow;8 hit combo^reset;"
+    }
+  }
+]

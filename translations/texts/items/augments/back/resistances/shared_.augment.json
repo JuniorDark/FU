@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/aaa.augment": [
+        "/shortdescription"
+      ],
+      "items/augments/back/resistances/shadowresistance.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Barrier"
+    }
+  }
+]

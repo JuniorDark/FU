@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/uniques/starmasterhelm/starmasterhelm.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Star Master Helm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/uniques/starmasterhelm/starmasterhelm.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vengeance is sweet when you look this good."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rawminerals.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's raw minerals. What more can be said?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rawminerals.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Minerals"
+    }
+  }
+]

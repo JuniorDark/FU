@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/isn_magmavulcan.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ejects deadly balls of burning iron and magma\n^yellow;Spawns molten metal. Evil!^reset;\n^green;Destroys tiles, lives and dreams."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/isn_magmavulcan.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyre Vulcan"
+    }
+  }
+]

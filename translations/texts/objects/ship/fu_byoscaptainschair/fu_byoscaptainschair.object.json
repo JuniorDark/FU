@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain's Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain sits here to fly the ship."
+    }
+  }
+]

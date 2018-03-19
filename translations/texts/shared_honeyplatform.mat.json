@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/honeyplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/honeyplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Platform"
+    }
+  }
+]

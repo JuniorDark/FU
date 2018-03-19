@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/throwawayteleporter/fuonewayteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/throwawayteleporter/fuonewayteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small, handy and cheap! Gets you up to your ship again, no matter where you are!"
+    }
+  }
+]

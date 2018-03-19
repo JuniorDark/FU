@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/fuchiropterror/fuchiropterror.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a chiropterror"
+    }
+  }
+]

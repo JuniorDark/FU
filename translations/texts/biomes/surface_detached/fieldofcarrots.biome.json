@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/fieldofcarrots.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Crop"
+    }
+  }
+]

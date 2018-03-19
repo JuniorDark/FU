@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/abilities/stormprojectile/elementstorm.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "<elementalName> Storm"
+    }
+  }
+]

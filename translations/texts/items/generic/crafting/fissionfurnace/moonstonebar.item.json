@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/moonstonebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forged Telebrium, commonly found on moons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/moonstonebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Telebrium Bar"
+    }
+  }
+]

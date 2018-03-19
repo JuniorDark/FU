@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/densiniumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A multi-phasic super-dense metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/densiniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Densinium Ore"
+    }
+  }
+]

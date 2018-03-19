@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fusteampunkgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pulse-blaster fueled by steam\n^yellow;Fast projectiles^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fusteampunkgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock Rifle"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/irradiumblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Built for conquest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/irradiumblade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium War Knife"
+    }
+  }
+]

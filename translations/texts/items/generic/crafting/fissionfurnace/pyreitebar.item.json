@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/pyreitebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A naturally hot metal with high durability. Typically found on Infernus worlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/pyreitebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyreite Bar"
+    }
+  }
+]

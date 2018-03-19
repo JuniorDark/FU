@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_woodensifter/fu_woodensifter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This advanced Sifter efficiently extracts materials from loose or powdery materials. ^cyan;Requires ^orange;2W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fu_woodensifter/fu_woodensifter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Sifter^white;"
+    }
+  }
+]

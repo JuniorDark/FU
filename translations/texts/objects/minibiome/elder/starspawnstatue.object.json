@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/starspawnstatue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some strange creature out of a nightmare."
+    }
+  }
+]

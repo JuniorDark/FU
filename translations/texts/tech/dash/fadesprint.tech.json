@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/fadesprint.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sprint that grants protection from harm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/fadesprint.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phase Sprint"
+    }
+  }
+]

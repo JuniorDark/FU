@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/longsword/commonlongsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/longsword/rarelongsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/longsword/uncommonlongsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful one-handed sword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/longsword/telebriumlongsword.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/longsword/theluslongsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Telebrium Longsword"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/forceTitleLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/forceTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maneuverability:"
+    }
+  }
+]

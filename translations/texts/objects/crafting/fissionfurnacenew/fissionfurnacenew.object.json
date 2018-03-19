@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fissionfurnacenew/fissionfurnacenew.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This reliable unit is capable of making even the toughest alloys into usable metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fissionfurnacenew/fissionfurnacenew.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Fission Furnace^white;"
+    }
+  }
+]

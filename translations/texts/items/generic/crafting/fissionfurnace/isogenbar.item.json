@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/isogenbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A super-cold alloy with numerous powerful applications. Often located on Ice Wastes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/isogenbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isogen Bar"
+    }
+  }
+]

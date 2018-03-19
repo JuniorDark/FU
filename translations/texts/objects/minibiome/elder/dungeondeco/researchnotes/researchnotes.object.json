@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/researchnotes/researchnotes.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "MacReady's Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/dungeondeco/researchnotes/researchnotes.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "a pile of lab notes and some sort of strange experiment gone wrong."
+    }
+  }
+]

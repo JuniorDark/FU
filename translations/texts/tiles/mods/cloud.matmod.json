@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/cloud.matmod": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/cloud.matmod": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe I can eat?"
+    }
+  }
+]

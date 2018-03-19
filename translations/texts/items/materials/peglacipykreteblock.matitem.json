@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteblock.matitem": [
+        "/peglaciDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pykrete is made from a mixture of clean snow and pureed vegetation - hard as concrete, and much easier to make in the cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteblock.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woodsnow block. Very hard."
+    }
+  }
+]

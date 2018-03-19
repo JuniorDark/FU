@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/shadowburst.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soul-cleaver of ageless, unknown materials"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/shadowburst.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Reaper"
+    }
+  }
+]

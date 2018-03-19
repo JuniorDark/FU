@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fadesprint2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage foes with your sprint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fadesprint2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Phase Sprint II^reset;"
+    }
+  }
+]

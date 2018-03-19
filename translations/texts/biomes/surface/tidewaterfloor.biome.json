@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tidewaterfloor.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocky tidewater floor"
+    }
+  }
+]

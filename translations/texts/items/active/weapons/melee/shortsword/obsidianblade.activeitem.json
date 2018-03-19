@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/obsidianblade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obsidian Sword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/obsidianblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic glass is so lovely and sharp."
+    }
+  }
+]

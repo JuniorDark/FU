@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/funball.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nearly useless, but fun! ^green;[F]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/funball.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oddball Sphere"
+    }
+  }
+]

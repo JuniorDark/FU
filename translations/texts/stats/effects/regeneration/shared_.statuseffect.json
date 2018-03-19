@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/darkregen.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/darkregenproduce.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkheal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regeneration3.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration4.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regeneration5.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regenmomma.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "High Regen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/lightregenenergy.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/lightregenproduce.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightheal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/regeneration/regeneration01.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/regeneration/regenerationminor.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minor Regen"
+    }
+  }
+]

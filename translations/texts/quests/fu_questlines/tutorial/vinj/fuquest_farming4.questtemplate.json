@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/fuquest_farming4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Animals do not produce resources unless they are fed and happy. Keeping them fed means lots of resources. The happier they are, the faster they will produce for you! Just feed them what they actually eat! Mooshu do not enjoy meat, and a raptor hates a carrot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/fuquest_farming4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeding Livestock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/fuquest_farming4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Livestock^reset; grow a whole lot faster when you toss them some ^orange;Cattle Feed^reset; to munch on. ^orange;Grind up corn^reset; in your ^orange;Hand Mill^reset; to get some. Then place it in a ^orange;Trough^reset; crafted from a ^green;Foraging Table^reset;."
+    }
+  }
+]

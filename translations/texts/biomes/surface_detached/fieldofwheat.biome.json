@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/fieldofwheat.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat Field"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidnitrogen.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid nitrogen is a teency bit cold."
+    }
+  }
+]

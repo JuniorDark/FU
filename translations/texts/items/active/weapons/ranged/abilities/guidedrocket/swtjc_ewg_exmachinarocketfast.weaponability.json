@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/guidedrocket/swtjc_ewg_exmachinarocketfast.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fast Laser-Guided Rocket"
+    }
+  }
+]

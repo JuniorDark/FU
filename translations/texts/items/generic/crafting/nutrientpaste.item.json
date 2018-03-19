@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/nutrientpaste.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nutrient paste derived from basic nutrients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/nutrientpaste.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nutrient Paste"
+    }
+  }
+]

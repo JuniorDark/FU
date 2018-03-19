@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dang, if those honeystone bricks aren't the purdiest little things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honeystone Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honeystone has been crafted into charming bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small bricks made of honeystone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/brick/honeystonebrick.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/honey/brick/honeystonebrick.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmall brickss made of honeysstone."
+    }
+  }
+]

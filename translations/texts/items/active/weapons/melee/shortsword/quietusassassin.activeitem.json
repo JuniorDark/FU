@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietusassassin.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assassin's Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietusassassin.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quietus forged for a killer."
+    }
+  }
+]

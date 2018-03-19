@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblockglow.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of soft, glowing fungus."
+    }
+  }
+]

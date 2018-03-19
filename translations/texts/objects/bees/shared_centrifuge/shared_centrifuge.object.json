@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/industrialcentrifuge/industrialcentrifuge.object": [
+        "/subtitle"
+      ],
+      "objects/bees/ironcentrifuge/ironcentrifuge.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powered Centrifuge"
+    }
+  }
+]

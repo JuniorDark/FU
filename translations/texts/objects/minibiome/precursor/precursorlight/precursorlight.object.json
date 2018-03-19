@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorlight/precursorlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light."
+    }
+  }
+]

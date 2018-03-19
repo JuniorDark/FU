@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/irradiumpistol/irradiumpistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium Pistol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/irradiumpistol/irradiumpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation has never been so adorably lethal.\n^yellow;Inflicts radiation burn^reset;"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/gelatinousgrassceiling/gelatinousgrassceiling.grass": [
+        "/description",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/gelatinousgrass/gelatinousgrass.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "gelatinous plants"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/coffeemachine/americancoffee.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drip Coffee. Clear, but not very intense"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/coffeemachine/americancoffee.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dripped Coffee"
+    }
+  }
+]

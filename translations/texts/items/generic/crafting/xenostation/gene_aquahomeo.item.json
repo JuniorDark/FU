@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_aquahomeo.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aquatic Homeostasis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_aquahomeo.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water survival is impossible without it."
+    }
+  }
+]

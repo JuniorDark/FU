@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/servitorlaser.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potential weapon system for a droid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/servitorlaser.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon System Parts"
+    }
+  }
+]

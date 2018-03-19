@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/maxhealthboost/sulphurattack.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25 Health"
+    }
+  }
+]

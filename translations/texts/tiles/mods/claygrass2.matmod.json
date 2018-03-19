@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/claygrass2.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clay"
+    }
+  }
+]

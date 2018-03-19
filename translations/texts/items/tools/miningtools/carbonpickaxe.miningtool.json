@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/carbonpickaxe.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carbon Pickaxe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/carbonpickaxe.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tool will last long, and I'll be able to dig pretty fast with it."
+    }
+  }
+]

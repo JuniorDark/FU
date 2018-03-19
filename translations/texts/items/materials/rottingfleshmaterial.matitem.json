@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rottingfleshmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, ew."
+    }
+  }
+]

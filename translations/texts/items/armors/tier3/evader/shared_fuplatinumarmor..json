@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/evader/fuplatinumarmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier3/evader/fuplatinumarmor.head": [
+        "/description"
+      ],
+      "items/armors/tier3/evader/fuplatinumarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+25% Shield Regen, Stamina, Block^reset;\n^green;10% Physical Resist^reset;\n^c74eff;+8% Physical Resist with Shield and Sword^reset;"
+    }
+  }
+]

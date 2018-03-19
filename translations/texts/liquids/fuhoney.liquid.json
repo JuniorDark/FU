@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/fuhoney.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pure, golden honey."
+    }
+  }
+]

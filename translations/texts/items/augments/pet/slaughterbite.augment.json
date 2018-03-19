@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/slaughterbite.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collar that makes your pet do radius damage when harmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/slaughterbite.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slaughterbite"
+    }
+  }
+]

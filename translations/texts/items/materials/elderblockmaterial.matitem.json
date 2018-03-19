@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderblockmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Carved Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderblockmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This feels...wrong."
+    }
+  }
+]

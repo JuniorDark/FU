@@ -1,0 +1,451 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/fupeglaci.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "CH4"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/5"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/5"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "HAIR COLOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "HAIR STYLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/10"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/10"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "HUMAN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/thelusian.species": [
+        "/charGenTextLabels/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legwear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/thelusian.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legwear colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fudarkizku.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/fuizku.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/fukirhos.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/fumantizi.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ne"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fudarkizku.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fuizku.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fumantis.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fumantizi.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fupeglaci.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "PANTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fudarkizku.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fuizku.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fumantis.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fumantizi.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fupeglaci.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "PANTS COLOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fudarkizku.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fuizku.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fumantis.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fumantizi.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fupeglaci.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/11"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/11"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "PERSONALITY"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/3"
+      ],
+      "species/radien.species": [
+        "/charGenTextLabels/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pants"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/7"
+      ],
+      "species/radien.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pants Color"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/nightar.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/radien.species": [
+        "/charGenTextLabels/9"
+      ],
+      "species/thelusian.species": [
+        "/charGenTextLabels/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Personality"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fudarkizku.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fuizku.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fumantis.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fumantizi.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fupeglaci.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "SHIRT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuanodyne.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fudarkizku.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fuizku.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fumantis.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fumantizi.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fupeglaci.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/8"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/8"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "SHIRT COLOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "SKIN COLOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/nightar.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/radien.species": [
+        "/charGenTextLabels/2"
+      ],
+      "species/thelusian.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/radien.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shirt Color"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/nightar.species": [
+        "/charGenTextLabels/6"
+      ],
+      "species/thelusian.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shirt colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuphotonpoptop.species": [
+        "/charGenTextLabels/4"
+      ],
+      "species/precursor.species": [
+        "/charGenTextLabels/4"
+      ],
+      "species/spiderdroid.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNDY COLOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/precursor.species": [
+        "/charCreationTooltip/subTitle"
+      ],
+      "species/thelusian.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warrior race from the Kortakk nebula"
+    }
+  }
+]

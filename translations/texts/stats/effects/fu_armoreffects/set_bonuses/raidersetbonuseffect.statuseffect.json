@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/raidersetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+7.5% Pistol and Machine Pistol damage(per hand), +25% Crit Damage(Daggers). +12% Speed"
+    }
+  }
+]

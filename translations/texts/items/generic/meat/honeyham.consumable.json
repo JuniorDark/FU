@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/honeyham.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A haunch of honey roasted ham."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/honeyham.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Ham"
+    }
+  }
+]

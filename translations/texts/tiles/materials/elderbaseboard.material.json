@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderbaseboard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Etched with strange language. Kinda creepy, too."
+    }
+  }
+]

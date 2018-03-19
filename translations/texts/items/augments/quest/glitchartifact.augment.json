@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/glitchartifact.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Royal Medallion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/glitchartifact.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+5%^reset; Shield Bash \n^green;+12%^reset; Protection\n^orange;Immunity to Poison^reset;"
+    }
+  }
+]

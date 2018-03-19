@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/densinium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ultra-dense dimensional ore"
+    }
+  }
+]

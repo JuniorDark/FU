@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/laspistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A common sidearm in the galaxy\n^yellow;Reliable^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/laspistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laser Pistol"
+    }
+  }
+]

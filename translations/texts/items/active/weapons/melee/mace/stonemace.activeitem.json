@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/stonemace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Literally a rock tied to a stick. Design by Dagnez"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/stonemace.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Club"
+    }
+  }
+]

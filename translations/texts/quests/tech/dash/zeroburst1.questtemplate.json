@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/zeroburst1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive Redirection"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/zeroburst1.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a bit of tinkering I think I could adapt rapid-burn of fuel safely to create a ^orange;Zero Burst Tech^reset;! With it equipped, I should ^orange;tap up twice^reset; to boost."
+    }
+  }
+]

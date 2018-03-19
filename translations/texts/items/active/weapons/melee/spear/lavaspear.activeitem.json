@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/lavaspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/lavaspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Searing heat, and puncture-fresh lethality."
+    }
+  }
+]

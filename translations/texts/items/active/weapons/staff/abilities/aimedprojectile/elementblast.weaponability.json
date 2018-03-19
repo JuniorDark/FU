@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/abilities/aimedprojectile/elementblast.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "<elementalName> Blast"
+    }
+  }
+]

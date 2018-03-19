@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/coral.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "live coral"
+    }
+  }
+]

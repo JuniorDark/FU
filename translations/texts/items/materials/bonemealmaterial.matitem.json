@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonemealmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of bone gritted down into dust."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonemealmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonemeal"
+    }
+  }
+]

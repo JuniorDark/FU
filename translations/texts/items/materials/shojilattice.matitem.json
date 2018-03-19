@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojilattice.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicate lattice made of wood."
+    }
+  }
+]

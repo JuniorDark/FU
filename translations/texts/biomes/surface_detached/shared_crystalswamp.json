@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/crystalswamp.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/crystalswampaether.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline Swamp"
+    }
+  }
+]

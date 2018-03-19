@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  For the less crafty, the lost and the... curious"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Frackin' Universe Lab Crafting Directory"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/materialList/children/materials/schema/listTemplate/text/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bug! Report it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/btnFindInput/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "As input"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/btnFindOutput/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "As output"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/recipeList/children/recipes/schema/listTemplate/text/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oops. Buggy recipe for this item in this crafting station..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/recipeList/children/empty/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Select a material^reset; then ^cyan;choose whether it's input or output.^reset;\n\nAvailable conversions will be listed here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_craftinfo/fu_craftinfo.config": [
+        "/gui/recipeList/children/nostations/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;There are no suitable lab stations nearby.^reset;\n\nPlace one or more withn range or move this display panel."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/longjump3.questtemplate": [
+        "/title"
+      ],
+      "tech/jump/longjump3.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flutter Jump II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/quintjump.questtemplate": [
+        "/title"
+      ],
+      "tech/jump/quintjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quint Jump"
+    }
+  }
+]

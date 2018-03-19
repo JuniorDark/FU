@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/dblade/dblade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy, techy one-handed sword."
+    }
+  }
+]

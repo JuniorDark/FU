@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteblock.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/peglacipykretedecor.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/peglacipykretefoundation.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panelling is made from a mixture of ice and finely ground wood pulp."
+    }
+  }
+]

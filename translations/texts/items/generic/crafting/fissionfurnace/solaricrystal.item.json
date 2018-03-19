@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/solaricrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Condensed and hardened Lunari crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/solaricrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunari Crystal"
+    }
+  }
+]

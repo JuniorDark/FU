@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/lowgravcollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floaty pet. Okay then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/lowgravcollar.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Harness"
+    }
+  }
+]

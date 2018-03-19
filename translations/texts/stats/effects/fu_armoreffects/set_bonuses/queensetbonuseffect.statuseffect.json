@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/queensetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+8% Crit / x3 Crit Damage /+20% Damage (bee weapons), +25% speed and + 15% jump. Immune to deadly radiation and bees."
+    }
+  }
+]

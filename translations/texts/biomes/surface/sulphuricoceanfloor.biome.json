@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/sulphuricoceanfloor.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphuric Ocean"
+    }
+  }
+]

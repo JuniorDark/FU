@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmawall1.matitem": [
+        "/description"
+      ],
+      "items/materials/magmawall2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning hot magma stone. Don't touch!"
+    }
+  }
+]

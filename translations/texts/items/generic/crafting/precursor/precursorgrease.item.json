@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/precursor/precursorgrease.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange fluid with no true stable state."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/precursor/precursorgrease.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quantum-State Fluid"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/hellfirebow/hellfirebow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn your hunt targets to cinders. Counterproductive, but fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/hellfirebow/hellfirebow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hellfire Bow"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/imperius/chargemachinegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exceptionally powerful.\n^yellow;Alt-Fire slows enemies^reset;\n^green;+Sustained Fire^reset;\n^red;-Slowed^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/imperius/chargemachinegun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Shot"
+    }
+  }
+]

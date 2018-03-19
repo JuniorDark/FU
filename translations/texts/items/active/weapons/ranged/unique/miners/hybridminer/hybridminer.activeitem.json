@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/hybridminer/hybridminer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adds protocite for an improved energy output."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/hybridminer/hybridminer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "B-97 Miner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/hybridminer/hybridminer.activeitem": [
+        "/upgradeParameters2/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;B-97 Miner^reset; ^cyan;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/hybridminer/hybridminer.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;B-97 Miner^reset; ^green;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/hybridminer/hybridminer.activeitem": [
+        "/upgradeParameters3/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;B-97 Miner^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

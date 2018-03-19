@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/reptileshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reptilian Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/reptileshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+0.04% Health Regen, Immunity: Acid^reset;"
+    }
+  }
+]

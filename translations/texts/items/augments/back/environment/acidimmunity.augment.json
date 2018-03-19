@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/acidimmunity.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/acidimmunity.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that protects against sulphuric acid. ^cyan;Immune: Acid^reset;"
+    }
+  }
+]

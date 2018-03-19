@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bloodstone/bloodstonetile.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stuff is literally legendary."
+    }
+  }
+]

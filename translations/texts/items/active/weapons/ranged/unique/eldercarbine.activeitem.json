@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/eldercarbine.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brutally deadly elder technology.\n^cyan;Splitting impact^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/eldercarbine.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Disruptor"
+    }
+  }
+]

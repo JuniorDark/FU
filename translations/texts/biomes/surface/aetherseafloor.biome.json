@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/aetherseafloor.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Sea Floor"
+    }
+  }
+]

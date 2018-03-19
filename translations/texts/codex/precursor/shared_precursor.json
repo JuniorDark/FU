@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/precursor/precursor10.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor11.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor12.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor13.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor14.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor15.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor16.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor17.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor2.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor3.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor4.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor5.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor6.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor7.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor8.codex": [
+        "/description"
+      ],
+      "codex/precursor/precursor9.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient precursor text"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/bees/industrialcentrifuge/industrialcentrifuge.config": [
+        "/gui/countoutput/value"
+      ],
+      "interface/bees/ironcentrifuge/ironcentrifuge.config": [
+        "/gui/countoutput/value"
+      ],
+      "interface/bees/woodencentrifuge/woodencentrifuge.config": [
+        "/gui/countoutput/value"
+      ],
+      "objects/bees/honeyjarrer/honeyjarrer.config": [
+        "/gui/countoutput/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Items"
+    }
+  }
+]

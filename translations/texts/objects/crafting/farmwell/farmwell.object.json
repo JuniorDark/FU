@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/farmwell/farmwell.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generates water for use around your home. Stores up to 200 water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/farmwell/farmwell.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well"
+    }
+  }
+]

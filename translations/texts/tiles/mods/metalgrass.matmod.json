@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/metalgrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Debris"
+    }
+  }
+]

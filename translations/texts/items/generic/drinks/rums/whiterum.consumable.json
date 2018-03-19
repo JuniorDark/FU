@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/drinks/rums/whiterum.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "White Rum"
+    }
+  }
+]

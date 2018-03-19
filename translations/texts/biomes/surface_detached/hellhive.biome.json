@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/hellhive.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hell Hive"
+    }
+  }
+]

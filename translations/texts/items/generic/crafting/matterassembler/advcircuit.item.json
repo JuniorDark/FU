@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/advcircuit.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A robust and advanced circuit board."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matterassembler/advcircuit.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Advanced Circuit^white;"
+    }
+  }
+]

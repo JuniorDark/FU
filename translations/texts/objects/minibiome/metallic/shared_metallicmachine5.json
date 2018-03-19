@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/metallic/metallicmachine5.object": [
+        "/description"
+      ],
+      "objects/minibiome/metallic/metallicmachine5bottom2.object": [
+        "/description"
+      ],
+      "objects/minibiome/metallic/metallicmachine5top.object": [
+        "/description"
+      ],
+      "objects/minibiome/metallic/metallicmachine5top2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A functioning antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/metallic/metallicmachine5.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/metallic/metallicmachine5bottom2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/metallic/metallicmachine5top.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/metallic/metallicmachine5top2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna"
+    }
+  }
+]

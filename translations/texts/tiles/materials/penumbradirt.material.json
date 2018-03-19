@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbradirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dirt reflects no light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/penumbradirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Umbral Dirt"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protorockmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange sort of rock."
+    }
+  }
+]

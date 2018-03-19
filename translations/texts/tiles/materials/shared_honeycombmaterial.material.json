@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honeycombmaterial.material": [
+        "/description"
+      ],
+      "tiles/materials/redhoneycombmaterial.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The walls are dripping in gold!"
+    }
+  }
+]

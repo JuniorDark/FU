@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_tileeffects/webstick/webstick.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_tileeffects/webstick/webstickgrappler.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky Webs"
+    }
+  }
+]

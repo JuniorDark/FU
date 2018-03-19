@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/unrefinedgritstone.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gritstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/unrefinedgritstone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough, unrefined gritstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/unrefinedgritstone.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unrefined Gritstone"
+    }
+  }
+]

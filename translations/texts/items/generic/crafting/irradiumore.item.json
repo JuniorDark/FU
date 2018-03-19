@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/irradiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rare and valuable radioactive metal. Handle with care!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/irradiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium Ore"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eldertile.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown stone that joins perfectly."
+    }
+  }
+]

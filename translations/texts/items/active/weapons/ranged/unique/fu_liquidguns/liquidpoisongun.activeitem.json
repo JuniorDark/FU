@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/liquidpoisongun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fu_liquidguns/liquidpoisongun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gun shoots poison!"
+    }
+  }
+]

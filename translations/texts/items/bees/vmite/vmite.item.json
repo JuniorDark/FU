@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/vmite/vmite.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Varroa Mite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/vmite/vmite.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Varroa mites are deadly to bees. Place an Anti-Mite Frame in your Apiary to kill them."
+    }
+  }
+]

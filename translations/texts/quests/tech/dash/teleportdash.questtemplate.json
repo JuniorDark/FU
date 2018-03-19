@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/teleportdash.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinating. The artifact has taught me the ^orange;Teleport Dash^reset; tech. It should really keep the enemy guessing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/teleportdash.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zip! Pew! Kableeeeew! Pew!"
+    }
+  }
+]

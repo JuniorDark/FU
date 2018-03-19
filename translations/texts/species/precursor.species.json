@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/precursor.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/precursor.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruthless and cunning."
+    }
+  }
+]

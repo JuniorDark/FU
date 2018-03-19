@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexaetherdust.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strangely glittering dust."
+    }
+  }
+]

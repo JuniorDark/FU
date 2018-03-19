@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allows basic manipulation of physics when holding Jump."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Physics Field I^reset;"
+    }
+  }
+]

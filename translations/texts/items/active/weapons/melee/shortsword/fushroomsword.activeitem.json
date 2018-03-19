@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/fushroomsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm unsure how this is useful"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/fushroomsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Blade"
+    }
+  }
+]

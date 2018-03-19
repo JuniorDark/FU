@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliglass.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliglass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful orange-tinted glass."
+    }
+  }
+]

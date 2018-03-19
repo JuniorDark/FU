@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/irradiumliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazing, glistening liquid irradium."
+    }
+  }
+]

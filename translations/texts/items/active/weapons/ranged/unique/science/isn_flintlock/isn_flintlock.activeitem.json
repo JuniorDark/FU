@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/isn_flintlock/isn_flintlock.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": ".45 Revolver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/isn_flintlock/isn_flintlock.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old-style sidearm with tons of stopping power."
+    }
+  }
+]

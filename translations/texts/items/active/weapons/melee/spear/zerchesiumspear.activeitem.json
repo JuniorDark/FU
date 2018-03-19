@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/zerchesiumspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wonderfully made tool of war."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/zerchesiumspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Spear"
+    }
+  }
+]

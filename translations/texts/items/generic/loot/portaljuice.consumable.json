@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/portaljuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "If near death, warps you elsewhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/portaljuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Portal Juice"
+    }
+  }
+]

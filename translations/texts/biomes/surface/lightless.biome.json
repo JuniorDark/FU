@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/lightless.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightless Sphere"
+    }
+  }
+]

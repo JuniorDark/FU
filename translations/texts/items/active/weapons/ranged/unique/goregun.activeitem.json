@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/goregun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repulsive weapon that spews putrid blood. Awesome.\n^yellow;Alt shoots vomit! Fun!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/goregun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gore Gun"
+    }
+  }
+]

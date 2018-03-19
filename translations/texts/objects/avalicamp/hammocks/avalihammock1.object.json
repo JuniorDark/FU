@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A suspended nest, what interesting idea!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bed displays low structural integrity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheat the creepy-crawlies by sleeping suspended in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hehe, bed tries flee from floran when sitting on it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess it'll do. I would rather have a proper pile of bedding to spread out on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't be caught dead in a bed like that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to set this up between a couple palm trees on a tropical world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/hammocks/avalihammock1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've slept in a few of these on resistance ships, no room for luxury"
+    }
+  }
+]

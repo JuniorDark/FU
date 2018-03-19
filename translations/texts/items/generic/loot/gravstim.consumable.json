@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/gravstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grav-Stim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/gravstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temporarily alters your gravity. Don't ask how."
+    }
+  }
+]

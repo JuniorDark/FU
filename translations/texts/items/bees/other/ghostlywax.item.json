@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/ghostlywax.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of semi transparent white wax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/ghostlywax.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghostly Beeswax"
+    }
+  }
+]

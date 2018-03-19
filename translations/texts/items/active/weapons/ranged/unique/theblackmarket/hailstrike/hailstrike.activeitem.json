@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/hailstrike/hailstrike.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harness the power of the cosmos, in machinegun form.\n^yellow;Homing energy weapon.^reset;\n^green;Alt ignores walls^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/hailstrike/hailstrike.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfection.\n^cyan;+2 projectiles^reset;  \n^yellow;Homing projectiles^reset;\n^green;Alt ignores walls^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/hailstrike/hailstrike.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#bb39ce;Hail Strike"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/hailstrike/hailstrike.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Deathstrike^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

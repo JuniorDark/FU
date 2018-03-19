@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/quietusore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange ore that is both mineral and biological."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/quietusore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quietus Ore"
+    }
+  }
+]

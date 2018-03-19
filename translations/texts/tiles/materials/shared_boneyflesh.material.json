@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/boneyflesh.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cookedboneyflesh.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boney Flesh"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/boneyflesh.material": [
+        "/description"
+      ],
+      "tiles/materials/cookedboneyflesh.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh boy. This is pleasant."
+    }
+  }
+]

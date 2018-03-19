@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacihexpane.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appears to be ice, but is actually a sturdier crystalline metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacihexpane.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can see self many times in reflections."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacihexpane.matitem": [
+        "/peglaciDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hexpane - each individual pane is made from a crystalline metal."
+    }
+  }
+]

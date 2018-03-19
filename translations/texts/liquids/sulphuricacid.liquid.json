@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/sulphuricacid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphuric acid pools are best avoided."
+    }
+  }
+]

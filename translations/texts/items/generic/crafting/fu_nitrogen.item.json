@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_nitrogen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nitrogen (N)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fu_nitrogen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pure nitrogen gas."
+    }
+  }
+]

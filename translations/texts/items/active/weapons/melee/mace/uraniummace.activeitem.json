@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/uraniummace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completely non-toxic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/uraniummace.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uranium Mace"
+    }
+  }
+]

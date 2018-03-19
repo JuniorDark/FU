@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/elderplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/elderplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever this is made from, it's not normal."
+    }
+  }
+]

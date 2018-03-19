@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/honeycombmaterial.matitem": [
+        "/description"
+      ],
+      "items/materials/redhoneycombmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waxy!"
+    }
+  }
+]

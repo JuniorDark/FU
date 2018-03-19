@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/oceanbush/oceanbush.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sea anemone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/oceanbush/oceanbush.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anemone."
+    }
+  }
+]

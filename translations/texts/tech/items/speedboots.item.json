@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Higher dose. Now grants +25% speed and dash. Passive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Stimulant Rig II^reset;"
+    }
+  }
+]

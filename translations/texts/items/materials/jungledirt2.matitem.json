@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jungledirt2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is some nice dirt."
+    }
+  }
+]

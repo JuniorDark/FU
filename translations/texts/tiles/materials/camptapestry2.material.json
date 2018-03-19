@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camptapestry2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, decorative trim material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/camptapestry2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Trim"
+    }
+  }
+]

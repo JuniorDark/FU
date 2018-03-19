@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/blinkdash2.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Air Blink"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/blinkdash2.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blink dash in the air! Cooldown: 2.0s"
+    }
+  }
+]

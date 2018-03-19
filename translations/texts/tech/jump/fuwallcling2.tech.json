@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/fuwallcling2.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase Defense during Grip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/fuwallcling2.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magnet Grip II"
+    }
+  }
+]

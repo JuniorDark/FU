@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/peachjuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sweet juice made from peaches."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/peachjuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peach Juice"
+    }
+  }
+]

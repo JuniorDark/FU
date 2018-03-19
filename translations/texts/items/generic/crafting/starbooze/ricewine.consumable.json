@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/ricewine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bitter, low quality wine. But it works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/ricewine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rice Wine"
+    }
+  }
+]

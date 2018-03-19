@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isogenore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual metal that cools its environment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isogenore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isogen Ore"
+    }
+  }
+]

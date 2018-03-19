@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/deadleaves.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "dead leaves"
+    }
+  }
+]

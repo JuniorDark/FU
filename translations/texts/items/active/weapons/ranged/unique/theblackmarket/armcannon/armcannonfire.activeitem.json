@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonfire.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attaches to the forearm. Fires incendiary blasts.\n^yellow;Counts as 'flamethrower' and 'machinepistol' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/armcannon/armcannonfire.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Arm Cannon (Fire)"
+    }
+  }
+]

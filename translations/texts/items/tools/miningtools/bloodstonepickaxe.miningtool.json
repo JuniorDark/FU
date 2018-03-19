@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/bloodstonepickaxe.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Diamond Pickaxe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/bloodstonepickaxe.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is one heck of a mining tool."
+    }
+  }
+]

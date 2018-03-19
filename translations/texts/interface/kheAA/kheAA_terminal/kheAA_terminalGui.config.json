@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/requestAmount/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "------"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/refresh/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refresh"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/request/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Request"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/requestAllButOne/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Request All-1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/requestOne/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Request X"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/requestAmount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "\\d{0,6}"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/filterBox/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "filter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/amount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "x999"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/saltpeter.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saltpeter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/saltpeter.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful for various compounds."
+    }
+  }
+]

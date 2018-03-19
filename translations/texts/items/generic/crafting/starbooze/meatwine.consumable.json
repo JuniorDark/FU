@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/meatwine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you sure this is worth drinking?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/meatwine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meat Wine"
+    }
+  }
+]

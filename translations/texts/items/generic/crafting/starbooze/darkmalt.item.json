@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkmalt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Malt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkmalt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roasted malt!"
+    }
+  }
+]

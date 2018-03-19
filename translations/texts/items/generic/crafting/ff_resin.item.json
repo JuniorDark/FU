@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ff_resin.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ff_resin.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful for adhesives, and hardening certain materials."
+    }
+  }
+]

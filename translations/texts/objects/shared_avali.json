@@ -1,0 +1,325 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of tightly woven carbon-nanofibre weave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/humanDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/humanDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/humanDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/humanDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "But what is camping without marshmallows?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/floranDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/floranDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/floranDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/floranDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Funny material, what plant isss it from?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/avaliDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/avaliDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/avaliDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/avianDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/avianDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/avianDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/avianDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminds me of a market on Avos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such primitive lifeforms!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/apexDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/apexDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/apexDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/apexDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/apexDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/apexDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a crude structure"
+    }
+  }
+]

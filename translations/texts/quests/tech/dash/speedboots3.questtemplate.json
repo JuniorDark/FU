@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't recommend allowing anyone else to use this. They would probably die."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may be nearly lethal, but this upgrade could certainly boost effectiveness."
+    }
+  }
+]

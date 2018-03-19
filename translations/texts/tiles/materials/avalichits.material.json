@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avalichits.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holo-archives, data chits and other removable data storage."
+    }
+  }
+]

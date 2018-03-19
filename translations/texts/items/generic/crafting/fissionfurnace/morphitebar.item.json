@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/morphitebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lab-created and highly malleable metal that can serve many uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/morphitebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Morphite Bar"
+    }
+  }
+]

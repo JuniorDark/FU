@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortspear/advalloyshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/durasteelshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/ironshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/titaniumshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/tungstenshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/zerchesiumshortspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't feel so short to enemies."
+    }
+  }
+]

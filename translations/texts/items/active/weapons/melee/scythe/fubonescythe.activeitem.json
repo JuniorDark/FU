@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/scythe/fubonescythe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A jagged and cruel edge. Not friendly, but bad-assed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/scythe/fubonescythe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Scythe"
+    }
+  }
+]

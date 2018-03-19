@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spiralling spiky plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A twisted spike plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspinny and ssspiky."
+    }
+  }
+]

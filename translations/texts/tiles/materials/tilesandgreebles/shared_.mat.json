@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/hitechmetalblock.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/hitechmetalblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labbeam.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labbeam.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced metals form a fantastic building alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labsupport.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labsupport.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labtile.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labtile.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwall.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwall1.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwall1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwallfence.material": [
+        "/description"
+      ],
+      "tiles/materials/tilesandgreebles/labwallfence.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sturdy plasteel. Great for building."
+    }
+  }
+]

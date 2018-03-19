@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/aggressive/aggressivedrone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive Drone"
+    }
+  }
+]

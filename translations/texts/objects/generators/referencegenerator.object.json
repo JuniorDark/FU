@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude protection device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield generator. Protective!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shieldsss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generates a shield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll keep me safe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who needs a shield anyhow?"
+    }
+  }
+]

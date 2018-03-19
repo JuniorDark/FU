@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/fuhoplite/fuhoplite.chest": [
+        "/description"
+      ],
+      "items/armors/tier3/fuhoplite/fuhoplite.head": [
+        "/description"
+      ],
+      "items/armors/tier3/fuhoplite/fuhoplite.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+3% Crit(Short Spears, Spears), +2.5% Crit (Mountainous)^reset;\n^#e43774;Immune: Proto-Poison, +20% Shield Regen ^reset;\n^green;+15% Physical Resistance. +10% Shield Bash/Push^reset;"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfuexplorer.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer Mech Body"
+    }
+  }
+]

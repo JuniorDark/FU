@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fulabsupport.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A load-bearing lab pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fulabsupport.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lab Pillar"
+    }
+  }
+]

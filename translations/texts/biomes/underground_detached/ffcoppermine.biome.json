@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffcoppermine.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Mine"
+    }
+  }
+]

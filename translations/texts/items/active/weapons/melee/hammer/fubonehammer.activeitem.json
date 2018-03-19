@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/fubonehammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Cudgel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/fubonehammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primitive murder in the palm of your hand."
+    }
+  }
+]

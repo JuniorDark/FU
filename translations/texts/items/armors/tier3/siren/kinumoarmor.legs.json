@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/siren/kinumoarmor.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siren's Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/siren/kinumoarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swim Speed boost.  Set Bonus:\n^cyan;+21% Poison Resist, +15% Shield Regen^reset;\n^#e43774;Immune: Breath^reset;\n^green;Ocean/Tidewater: +25% Health, +5 protection^reset;"
+    }
+  }
+]

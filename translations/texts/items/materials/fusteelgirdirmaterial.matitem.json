@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fusteelgirdirmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A girder made of steel."
+    }
+  }
+]

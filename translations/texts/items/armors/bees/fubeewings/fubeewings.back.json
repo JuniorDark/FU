@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/bees/fubeewings/fubeewings.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pair of giant bee wings. Increases air agility, reduces fall speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/bees/fubeewings/fubeewings.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bee Wings"
+    }
+  }
+]

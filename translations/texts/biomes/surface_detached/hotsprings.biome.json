@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/hotsprings.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hot Springs"
+    }
+  }
+]

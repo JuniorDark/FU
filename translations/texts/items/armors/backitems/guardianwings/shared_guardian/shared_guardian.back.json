@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/guardianwings/blueguardian/blueguardian.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/guardianwings/greenguardian/greenguardian.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/guardianwings/pinkguardian/pinkguardian.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/guardianwings/yellowguardian/yellowguardian.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardian Wings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/guardianwings/blueguardian/blueguardian.back": [
+        "/description"
+      ],
+      "items/armors/backitems/guardianwings/greenguardian/greenguardian.back": [
+        "/description"
+      ],
+      "items/armors/backitems/guardianwings/pinkguardian/pinkguardian.back": [
+        "/description"
+      ],
+      "items/armors/backitems/guardianwings/yellowguardian/yellowguardian.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ancient crystals hum with energy. They release a gentle, healing light."
+    }
+  }
+]

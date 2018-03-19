@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/wyrdgrass/wyrdgrass.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arboreal Plant"
+    }
+  }
+]

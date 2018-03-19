@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labwallfence.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labwallfence.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Fencing"
+    }
+  }
+]

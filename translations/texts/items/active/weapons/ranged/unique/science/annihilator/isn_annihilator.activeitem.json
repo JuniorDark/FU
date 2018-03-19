@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/annihilator/isn_annihilator.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires unusual blasts that ignore physics\n^yellow;Multiple damage types^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/annihilator/isn_annihilator.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wave Gun"
+    }
+  }
+]

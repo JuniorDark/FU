@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/geologistsetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25%/+150% Mining Beam damage (1h/2h). Immune to Liq. Nitrogen , poison and pus."
+    }
+  }
+]

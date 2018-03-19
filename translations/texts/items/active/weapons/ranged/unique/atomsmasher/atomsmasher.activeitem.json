@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/atomsmasher/atomsmasher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atom Smasher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/atomsmasher/atomsmasher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The most powerful beam cannon in existence.\n^yellow;11/10 Would Kill Again^reset;"
+    }
+  }
+]

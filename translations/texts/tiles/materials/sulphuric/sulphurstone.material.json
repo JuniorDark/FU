@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sulphuric/sulphurstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jam-packed with goodness."
+    }
+  }
+]

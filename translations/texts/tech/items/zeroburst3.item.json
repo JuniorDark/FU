@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/zeroburst3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A super blast jump."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/zeroburst3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Zero Burst III^reset;"
+    }
+  }
+]

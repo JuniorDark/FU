@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/isogendagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isogen Knife"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/isogendagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Share your cold feelings.\n^cyan;Inflicts Freezing^reset;"
+    }
+  }
+]

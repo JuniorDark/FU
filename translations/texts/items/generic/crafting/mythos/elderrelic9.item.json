@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic9.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bust of a hideous alien. Probably not the best decoration. Unless you're evil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic9.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Elder Bust^white;"
+    }
+  }
+]

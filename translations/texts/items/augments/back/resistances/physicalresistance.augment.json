@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/physicalresistance.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that resists the Physical element, ^green;+10% Physical Resist, +10% Knockback Resist^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/resistances/physicalresistance.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Physical Barrier"
+    }
+  }
+]

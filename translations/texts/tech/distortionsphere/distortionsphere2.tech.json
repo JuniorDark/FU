@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/distortionsphere2.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distortion Sphere II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/distortionsphere2.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now your ball can drop bombs with [Fire]! ^green;[F]"
+    }
+  }
+]

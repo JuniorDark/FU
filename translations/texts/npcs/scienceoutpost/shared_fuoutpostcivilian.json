@@ -1,0 +1,699 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dogs are incapable of flight. Who knew? Sorry, Fluffy! *sob*"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ever wonder why humans record their acts of mating for entertainment ?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Everything you know is wrong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopefully this location will be a good place for my research into what happened to Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I REQUIRE SUSTENANCE!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am currently designing a bio-agent keyed to Kevin's immune system. It will give him chronic vomiting issues for a long, long time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am recording all of our social interactions for data. I hope you don't mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no qualms about flight. It's the landing that presents the issue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have obtained no less than 11 scientific accolades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I lie all the time. By the way, I'm Kevin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I often wonder at how much force it would take to crush Kevins windpipe. That guy sucks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I often wonder exactly what is wrong with people that think sentient mystical ponies are acceptable entertainment sources."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ssswears I am reformified and no longer eatsss fleshes of sssentients. Mostly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish these glasses fit me properly. But they don't. As a result, I look like an idiot. Thanks, Kevin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to skin a ponex and stuff its rotting carcass. Taxidermy is a hobby of mine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to ssskin a ponex and ssstuff its rotting carcassss. Taxidermy isss a hobby of mine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm Kevin. Everyone here hates me. This pleases me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantizi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm Kevin. I am well loved around here. It is known."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm going to strangle Kevin to death while he sleeps if he licks my lab notes again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm hesssitant to publisssh these findings. Sssome things should not be shared, but instead...ssstabbed!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not quite sure yet, but I think my hypothesis is correct. More testing is required."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/0",
+        "/scriptConfig/dialog/converse/novakid/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/0",
+        "/scriptConfig/dialog/converse/novakid/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/0",
+        "/scriptConfig/dialog/converse/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm pretty sure my intellect surpasses your paltry, pathetic knowledge base."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm writing a research paper on biodiversity. It will be extremely important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I see Kevin before lunch, I am going to get Thorlokk to pummel him into pulp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you annoy me, I'll beat the stupid right out of you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My statistics are accurate. Which means we're all going to die. Soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Personally, I think religion is a sham and should be erased from existence. My people, shamefully, disagree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/thelusian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do not breathe in my personal space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased to meet you. Might we exchange pleasantries when I am not studying?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silicon? That's easy. Loose Silt sand, in an extractor. How do you not know this by now?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes I sneak into your ship at night and watch you sleep. For science. You understand, I'm sure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are 1,682 follicles on your nose. Each more hateful than the last."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fukirhos/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no greater threat to sanity than boredom. You're boring me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no reality in which you are better than I am. Except K4VC-9."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fudarkizku/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no reality in which you are smarter than I."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's so much data for me to record around here. It is fascinating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fumantis/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underneath my carapace is a heart of gold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Universal Constants are that way for a reason. Why am I trying to change one?!?! Oh yea...I'm a GENIUS!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuizku/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We should hang out sometime. Get smashed. Eat garflipps. Avoid Kevin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are a well respected member of this research community."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/fuanodyne/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You stepped on my damned flower! Why! WHY?!?!!?"
+    }
+  }
+]

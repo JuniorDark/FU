@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/shieldPowerTitleLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/shieldPowerTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Special:"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic5.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange glyph with an embossed symbol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Ancient Glyph^white;"
+    }
+  }
+]

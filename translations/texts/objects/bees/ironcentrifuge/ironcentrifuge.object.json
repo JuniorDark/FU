@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/ironcentrifuge/ironcentrifuge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This powered upgrade of the wooden centrifuge more efficiently performs extraction involving liquids. ^cyan;Requires ^orange;4W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/ironcentrifuge/ironcentrifuge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Iron Centrifuge^reset;"
+    }
+  }
+]

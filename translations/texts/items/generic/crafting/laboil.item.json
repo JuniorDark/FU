@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/laboil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barrel of Oil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/laboil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be extracted for measures of oil."
+    }
+  }
+]

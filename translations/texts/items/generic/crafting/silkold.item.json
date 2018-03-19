@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silkold.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft silk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silkold.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silk"
+    }
+  }
+]

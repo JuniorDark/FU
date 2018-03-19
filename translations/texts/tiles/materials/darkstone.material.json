@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stone of solid darkness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/darkstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkstone"
+    }
+  }
+]

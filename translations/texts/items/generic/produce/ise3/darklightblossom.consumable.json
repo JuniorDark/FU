@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/darklightblossom.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darklight Blossom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ise3/darklightblossom.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's said that this flower can ^cyan;cure insanity^reset; and dispel ^orange;unbreachable darkness^reset;."
+    }
+  }
+]

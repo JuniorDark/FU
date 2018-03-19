@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/zeroburst.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A explosive jump that blasts foes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/zeroburst.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Zero Burst I^reset;"
+    }
+  }
+]

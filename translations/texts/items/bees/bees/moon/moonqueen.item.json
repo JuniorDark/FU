@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/moon/moonqueen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A moon queen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/moon/moonqueen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moon Queen"
+    }
+  }
+]

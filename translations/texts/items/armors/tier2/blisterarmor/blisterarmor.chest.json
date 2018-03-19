@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/blisterarmor/blisterarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blister Chest"
+    }
+  }
+]

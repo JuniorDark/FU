@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalitechplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polymer panels used to protect and hide sensitive electronics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalitechplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Platform"
+    }
+  }
+]

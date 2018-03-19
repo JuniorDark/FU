@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/protominer/protominer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reliable beam-miner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/protominer/protominer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-7 Miner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/protominer/protominer.activeitem": [
+        "/upgradeParameters2/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;P-7 Miner^reset; ^cyan;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/protominer/protominer.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;P-7 Miner^reset; ^green;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/protominer/protominer.activeitem": [
+        "/upgradeParameters3/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;P-7 Miner^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

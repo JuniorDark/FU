@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/alienjuice.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange, milk-like liquid of unknown composition."
+    }
+  }
+]

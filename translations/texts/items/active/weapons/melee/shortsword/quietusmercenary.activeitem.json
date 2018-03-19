@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietusmercenary.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary's Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietusmercenary.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quietus forged for a warrior."
+    }
+  }
+]

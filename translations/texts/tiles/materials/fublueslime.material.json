@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fublueslime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. This seems to be a healy-slime."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fublueslime.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "extremely viscous blue slime."
+    }
+  }
+]

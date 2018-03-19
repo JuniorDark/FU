@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/waterstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deepwater Stim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/waterstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drastically increases swimming speed."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weaponeffects/firelight/firelight.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn"
+    }
+  }
+]

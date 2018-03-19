@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/metalchunk.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of solid metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/metalchunk.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chunk of Metal"
+    }
+  }
+]

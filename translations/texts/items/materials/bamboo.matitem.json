@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bundle of bamboo."
+    }
+  }
+]

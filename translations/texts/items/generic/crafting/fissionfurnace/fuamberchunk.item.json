@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/fuamberchunk.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of solid amber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/fuamberchunk.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber Chunk"
+    }
+  }
+]

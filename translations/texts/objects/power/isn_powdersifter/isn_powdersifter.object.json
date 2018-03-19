@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_powdersifter/isn_powdersifter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This advanced Sifter efficiently extracts materials from loose or powdery materials. ^cyan;Requires ^orange;10W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_powdersifter/isn_powdersifter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Powder Sifter^white;"
+    }
+  }
+]

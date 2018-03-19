@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliaeroponics.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once tilled, these tubes transport a nutrient aerosol for growing plants within."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliaeroponics.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Aeroponic Tubing^reset;"
+    }
+  }
+]

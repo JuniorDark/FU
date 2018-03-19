@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacimetalblock.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of a secret Peglaci alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacimetalblock.matitem": [
+        "/peglaciDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of one of our alloys - no stronger than steel, but well suited for cold temperatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacimetalblock.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spiky metal block. Cold."
+    }
+  }
+]

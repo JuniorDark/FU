@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/honeyplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/redhoneyplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Step sweetly on these honey platforms."
+    }
+  }
+]

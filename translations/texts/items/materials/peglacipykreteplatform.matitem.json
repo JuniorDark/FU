@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/peglacidescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy platform made of Pykrete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold platform - don't ssslip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Pykrete platform looks somewhat slippery."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/thoriumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's thorium. Commonly used as fuel or in weapons development."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/isotopes/thoriumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorium (Th)"
+    }
+  }
+]

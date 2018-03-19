@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_effects/brainreboot/brainreboot.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reboot"
+    }
+  }
+]

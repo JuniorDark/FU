@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/corruptasteroid.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "corruptasteroid"
+    }
+  }
+]

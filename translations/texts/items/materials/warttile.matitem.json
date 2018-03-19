@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of purple warts, seemingly growing out of itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chunk of slimy warts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slimy wartsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/warttile.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warts"
+    }
+  }
+]

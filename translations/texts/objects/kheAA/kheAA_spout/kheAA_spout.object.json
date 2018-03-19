@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_spout/kheAA_spout.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pours Liquids into the world.\n^blue;Input^white;1^blue;: ^white;power switch\n^blue;Input^white;2^blue;: ^white;liquid network^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_spout/kheAA_spout.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spout"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderblock1.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/elderblock2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Temple Wall"
+    }
+  }
+]

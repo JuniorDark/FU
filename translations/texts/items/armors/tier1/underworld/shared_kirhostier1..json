@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier1/underworld/kirhostier1.chest": [
+        "/description"
+      ],
+      "items/armors/tier1/underworld/kirhostier1.head": [
+        "/description"
+      ],
+      "items/armors/tier1/underworld/kirhostier1.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+6% Ice, Electric Resistance^reset;\n^green;+2% Crit Chance (Per Machine Pistol or Pistol), +4% with Rifles^reset;"
+    }
+  }
+]

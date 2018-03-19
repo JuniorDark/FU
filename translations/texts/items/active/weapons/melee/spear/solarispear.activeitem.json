@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/solarispear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline lunari to pierce foes throats."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/solarispear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunari Spear"
+    }
+  }
+]

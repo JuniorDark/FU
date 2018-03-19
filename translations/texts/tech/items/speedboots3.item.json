@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An implant that genetically alters your speed and reaction time. Passive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Stimulant Rig IV^reset;"
+    }
+  }
+]

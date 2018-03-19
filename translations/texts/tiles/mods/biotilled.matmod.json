@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/biotilled.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tilled mutated soil"
+    }
+  }
+]

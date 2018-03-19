@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/circuitboard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Board"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/circuitboard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a typical circuit board, used in many electronics."
+    }
+  }
+]

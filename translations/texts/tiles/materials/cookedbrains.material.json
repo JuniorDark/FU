@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedbrains.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooked brains"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedbrains.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmm. Delicious."
+    }
+  }
+]

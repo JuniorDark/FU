@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/aethercorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Core"
+    }
+  }
+]

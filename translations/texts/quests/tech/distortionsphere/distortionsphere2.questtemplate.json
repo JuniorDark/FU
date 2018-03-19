@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/distortionsphere2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blastball"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/distortionsphere2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you are in ball form, you can now drop bombs by pressing ^orange;[FIRE]^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/distortionsphere2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a few simple tweaks to the quantum-displacement regulator used to make the Distortion Sphere work I could probably provide added deadliness..."
+    }
+  }
+]

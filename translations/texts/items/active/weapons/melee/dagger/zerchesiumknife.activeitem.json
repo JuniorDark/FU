@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/zerchesiumknife.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impale and stab with razor-sharp zerchesium steel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/zerchesiumknife.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Knife"
+    }
+  }
+]

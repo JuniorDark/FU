@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/waxplatform.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/waxplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wax Platform"
+    }
+  }
+]

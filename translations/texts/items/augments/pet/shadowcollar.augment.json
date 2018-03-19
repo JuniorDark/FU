@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/shadowcollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collar that makes your pet almost invisible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/shadowcollar.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Collar"
+    }
+  }
+]

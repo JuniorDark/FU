@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/fusioncannon/isn_fusioncannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A super-heavy fusion rocket launcher.\n^yellow;Huge radius^reset;\n^green;Destroys tiles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/fusioncannon/isn_fusioncannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fusion Cannon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/fusioncannon/isn_fusioncannon.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased projectile speed and knockback.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/fusioncannon/isn_fusioncannon.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Blastmark^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

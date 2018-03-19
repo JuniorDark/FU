@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/plasmabeam/isn_plasmabeam.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Beam Cannon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/plasmabeam/isn_plasmabeam.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow but devastating. Forbidden in the Helyn Sector\n^cyan;Counts as plasma weapon for set bonuses^reset;  \n^yellow;Extreme explosion^reset;\n^red;Heavy^reset;"
+    }
+  }
+]

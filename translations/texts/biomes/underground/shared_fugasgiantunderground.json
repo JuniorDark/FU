@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/fugasgiantunderground.biome": [
+        "/friendlyName"
+      ],
+      "biomes/underground/fugasgiantunderground2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/underground/fugasgiantunderground3.biome": [
+        "/friendlyName"
+      ],
+      "biomes/underground/fugasgiantunderground4.biome": [
+        "/friendlyName"
+      ],
+      "biomes/underground/fugasgiantunderground5.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gas Giant Underground"
+    }
+  }
+]

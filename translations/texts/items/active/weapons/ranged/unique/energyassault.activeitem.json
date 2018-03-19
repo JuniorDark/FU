@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "F4 Energy Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/energyassault.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "One of the most reliable energy rifles known on the galactic market\n^yellow;High efficiency^reset;"
+    }
+  }
+]

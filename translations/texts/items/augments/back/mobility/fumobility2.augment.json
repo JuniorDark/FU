@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/mobility/fumobility2.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that removes the slowing and slipping effects of mud, clay, jungle, snow, slush and ice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/mobility/fumobility2.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mobility II"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/goldcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Honeycomb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/goldcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This honeycomb is full of gold. Great long-term healing"
+    }
+  }
+]

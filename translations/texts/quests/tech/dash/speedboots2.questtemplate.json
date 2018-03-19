@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've devised another upgrade to the Stimulant Rig!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "While the narcotics are rather potent at this point, I'll be really swift."
+    }
+  }
+]

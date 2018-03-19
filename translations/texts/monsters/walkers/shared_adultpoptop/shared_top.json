@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/adultpoptop/adultpoptop.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/adultpoptop/motherpoptop.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/adultpoptopish/adultshadowtop/adultshadowtop.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's huge..."
+    }
+  }
+]

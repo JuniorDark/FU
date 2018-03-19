@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/zeroburst4.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lift off like a rocket! Watch those landings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/zeroburst4.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zero Burst IV"
+    }
+  }
+]

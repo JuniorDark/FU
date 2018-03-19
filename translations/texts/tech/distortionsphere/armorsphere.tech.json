@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/armorsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An armored sphere! Drop power-bombs with ^green;[Fire]^reset;. ^green;[F]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/armorsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor Sphere"
+    }
+  }
+]

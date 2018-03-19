@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/waterbot/waterbotpet.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This robot serves one purpose: Moisten."
+    }
+  }
+]

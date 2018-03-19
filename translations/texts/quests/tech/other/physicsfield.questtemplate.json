@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking Physics"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've devised a way to quite literally ignore physics to a mild degree!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/other/physicsfield.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With this tech I should be able to hold jump and reduce my inertia."
+    }
+  }
+]

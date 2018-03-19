@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/longjump2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-burst jump with a fluttery secondary jump. Useful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/longjump2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Flutter Jump^reset;"
+    }
+  }
+]

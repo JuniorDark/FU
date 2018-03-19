@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/fuironliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ocean of deadly molten metal."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/sunstream/isn_sunstream.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polaris"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/sunstream/isn_sunstream.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sun, in your hands. Truly deadly, and unique.\n^yellow;Homing alt^reset;\n^green;Bouncing projectiles"
+    }
+  }
+]

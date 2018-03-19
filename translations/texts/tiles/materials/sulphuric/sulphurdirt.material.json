@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sulphuric/sulphurdirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lovely sulphur-rich dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/sulphuric/sulphurdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphuric dirt"
+    }
+  }
+]

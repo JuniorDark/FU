@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/health/feedaugment1.augment": [
+        "/description"
+      ],
+      "items/augments/back/health/feedaugment2.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that reduces hunger rate."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_smallthruster/fu_smallthruster.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thruster used for non-FTL travel. Increases ship speed slightly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_smallthruster/fu_smallthruster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Ship Thruster"
+    }
+  }
+]

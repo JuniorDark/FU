@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/ff_fertilizer2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A step above lesser fertilizers. (Growth +2.5, Yield 2, Seed -1)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/ff_fertilizer2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced Fertilizer"
+    }
+  }
+]

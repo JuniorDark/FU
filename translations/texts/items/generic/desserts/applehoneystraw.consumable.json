@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/applehoneystraw.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An apple honey straw! More nutritious and delicious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/desserts/applehoneystraw.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey Straw Apple"
+    }
+  }
+]

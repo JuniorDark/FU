@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic8.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This seems to be a hand-sized power source. Origin unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/elderrelic8.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Unknown Reactor^white;"
+    }
+  }
+]

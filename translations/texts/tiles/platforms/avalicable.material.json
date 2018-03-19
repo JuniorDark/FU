@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avalicable.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine, yet incredibly strong cable formed from carbon nanotubes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avalicable.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanotube Cable"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/aquapod/wildaquapodseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its fruit enables rapid movement when suspended in liquid."
+    }
+  }
+]

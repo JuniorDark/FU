@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/rocketboots.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold jump to blast off. Performs poorly in high gravity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/rocketboots.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Rocket Boots^reset;"
+    }
+  }
+]

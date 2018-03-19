@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/mutagene2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful mutagenic extract with multiple lab applications."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/mutagene2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powerful Mutagene"
+    }
+  }
+]

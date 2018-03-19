@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier5/hellfire/hellfire.chest": [
+        "/description"
+      ],
+      "items/armors/tier5/hellfire/hellfire.legs": [
+        "/description"
+      ],
+      "items/armors/tier5/hellfire/hellfirehelm.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+35% Fire Resist^reset;\n^#e43774;+25% Damage (Flamethrower), Fire Nova^reset;\n^green;Immunity: Heat, Burning^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/bouncesphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mobile ball capable of great jumping! ^green;[F]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/bouncesphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounce Sphere"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/metallichydrogenliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquefied metallic hydrogen."
+    }
+  }
+]

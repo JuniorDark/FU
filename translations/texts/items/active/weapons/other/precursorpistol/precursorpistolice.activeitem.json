@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/precursorpistol/precursorpistolice.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frickin' Freezing!\n^yellow;Freeze enemies with cold^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/precursorpistol/precursorpistolice.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Freeze Gun"
+    }
+  }
+]

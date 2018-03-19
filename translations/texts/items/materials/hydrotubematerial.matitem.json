@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hydrotubematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just till these and you'll have auto-watered soil! Quite useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hydrotubematerial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Hydroponic Tubing^reset;"
+    }
+  }
+]

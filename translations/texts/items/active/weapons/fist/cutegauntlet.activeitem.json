@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/cutegauntlet.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lesson in hard love.\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/cutegauntlet.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Gauntlet"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/rocketboots.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've had an epiphany, and subconciously invented ^green;the greatest thing ever: ^orange;ROCKET BOOTS^reset;! As a tech! Woohoo!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/rocketboots.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocket Boots?!?!"
+    }
+  }
+]

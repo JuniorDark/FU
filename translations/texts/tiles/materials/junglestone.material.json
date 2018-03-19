@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/junglestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone covered in vines and roots."
+    }
+  }
+]

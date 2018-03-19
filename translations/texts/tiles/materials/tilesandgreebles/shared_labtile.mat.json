@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/labtile.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/labtile.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel"
+    }
+  }
+]

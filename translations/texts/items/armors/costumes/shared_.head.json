@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/costumes/metalhair/metalhead.head": [
+        "/description"
+      ],
+      "items/armors/costumes/sharkmask/sharkmask.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adorable man-eater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/costumes/herocowl/herocowl.head": [
+        "/shortdescription"
+      ],
+      "items/armors/costumes/jokeglasses/jokeglasses.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joke Glasses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/costumes/herocowl/herocowl.head": [
+        "/description"
+      ],
+      "items/armors/costumes/jokeglasses/jokeglasses.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laugh it up."
+    }
+  }
+]

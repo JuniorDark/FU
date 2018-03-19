@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/table/avalitable2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather low but large desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/table/avalitable2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/table/avalitable2.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a desk, not much to say about it really."
+    }
+  }
+]

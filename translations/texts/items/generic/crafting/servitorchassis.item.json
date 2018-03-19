@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/servitorchassis.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A servitor chassis. Perhaps I could build my own droid!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/servitorchassis.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Servitor Chassis"
+    }
+  }
+]

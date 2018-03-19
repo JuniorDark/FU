@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/fucoralcleaver.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Cleaver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/fucoralcleaver.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp and dangerous. Give to a friend!"
+    }
+  }
+]

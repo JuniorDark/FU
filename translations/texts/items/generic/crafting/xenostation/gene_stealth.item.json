@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_stealth.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shhhh. Be vewy vewy quiet."
+    }
+  }
+]

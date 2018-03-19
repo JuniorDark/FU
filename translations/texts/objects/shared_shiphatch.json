@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/shiphatch/shiphatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/fu_byosshipdoor/fu_byosshiphatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Hatch"
+    }
+  }
+]

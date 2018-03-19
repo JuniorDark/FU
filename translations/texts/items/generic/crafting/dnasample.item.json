@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/dnasample.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sampled DNA sequence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/dnasample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "DNA Sample"
+    }
+  }
+]

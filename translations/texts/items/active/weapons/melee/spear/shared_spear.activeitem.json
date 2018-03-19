@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/advalloyspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/npchuntingspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dense metal spear for puncturing enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/carbonspear.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/spear/npchuntingspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carbon Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/deadbeatspear.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/spear/metallicspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/elderspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/hellfirespear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made from the stuff of raw Chaos"
+    }
+  }
+]

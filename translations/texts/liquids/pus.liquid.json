@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/pus.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A putrid, repulsive pool of pus."
+    }
+  }
+]

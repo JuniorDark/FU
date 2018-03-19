@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_assimilate.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assimilation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_assimilate.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can convert certain cells into itself."
+    }
+  }
+]

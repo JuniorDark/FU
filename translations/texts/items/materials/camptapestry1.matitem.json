@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/camptapestry1.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A luxurious soft fabric for wall hangings or carpets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/camptapestry1.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft Tapestry"
+    }
+  }
+]

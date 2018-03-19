@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/gravitonpistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Graviton Pistol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/gravitonpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Micro-gravity turned into a weapon\n^yellow;Short-ranged^reset;\n^green;Huge knockback^reset;"
+    }
+  }
+]

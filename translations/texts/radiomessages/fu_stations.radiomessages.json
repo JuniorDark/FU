@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_stations.radiomessages": [
+        "/pickupextractor/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Extraction Lab is perhaps your most important basic lab station. With it you can gather hidden resources from most types of soils, produce, meats and so on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_stations.radiomessages": [
+        "/pickupfissionfurnace/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a Fission Furnace you can produce the highest quality metals known, allowing you access to a vastly expanded tree of equipment."
+    }
+  }
+]

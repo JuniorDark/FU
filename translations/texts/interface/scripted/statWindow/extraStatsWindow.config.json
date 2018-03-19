@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/statWindow/extraStatsWindow.config": [
+        "/gui/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced stats"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/statWindow/extraStatsWindow.config": [
+        "/gui/sec1/value",
+        "/gui/sec2/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "sec"
+    }
+  }
+]

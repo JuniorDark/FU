@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/penumbriteminer/penumbriteminer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A-7C Miner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/penumbriteminer/penumbriteminer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "High-powered with a durable titanium/telebrium body."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/penumbriteminer/penumbriteminer.activeitem": [
+        "/upgradeParameters2/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;A-7C Miner^reset; ^cyan;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/penumbriteminer/penumbriteminer.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;A-7C Miner^reset; ^green;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/penumbriteminer/penumbriteminer.activeitem": [
+        "/upgradeParameters3/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;A-7C Miner^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

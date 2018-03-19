@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwalljump2.item": [
+        "/description"
+      ],
+      "tech/items/fuwalljump3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases grip, leap and capability of Wall Jump."
+    }
+  }
+]

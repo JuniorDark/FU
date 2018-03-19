@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arborealdark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Primeval Forest"
+    }
+  }
+]

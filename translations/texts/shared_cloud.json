@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/raincloudmat.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/mods/cloud.matmod": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Block"
+    }
+  }
+]

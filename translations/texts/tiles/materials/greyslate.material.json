@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/greyslate.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grey Slate Stone"
+    }
+  }
+]

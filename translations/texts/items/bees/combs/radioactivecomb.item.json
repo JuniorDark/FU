@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/radioactivecomb.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Honeycomb"
+    }
+  }
+]

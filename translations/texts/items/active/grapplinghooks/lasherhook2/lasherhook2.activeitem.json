@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/lasherhook2/lasherhook2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A more advanced lasher hook that also deals more damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/lasherhook2/lasherhook2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lasher Hook II"
+    }
+  }
+]

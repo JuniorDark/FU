@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/solarishard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sparkling yellow crystal shard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/solarishard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunari Shard"
+    }
+  }
+]

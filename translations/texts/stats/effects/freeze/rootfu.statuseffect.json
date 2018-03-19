@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/freeze/rootfu.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rooted"
+    }
+  }
+]

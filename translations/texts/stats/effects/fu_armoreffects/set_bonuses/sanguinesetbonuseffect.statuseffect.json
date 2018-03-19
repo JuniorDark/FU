@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_armoreffects/set_bonuses/sanguinesetbonuseffect.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+4% Crit (Whips, Strikers and Daggers). +10% Speed, 0.2% Regen"
+    }
+  }
+]

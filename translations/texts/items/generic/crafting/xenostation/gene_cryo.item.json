@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_cryo.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brr. Chalked full of icy goodness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_cryo.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryogenic"
+    }
+  }
+]

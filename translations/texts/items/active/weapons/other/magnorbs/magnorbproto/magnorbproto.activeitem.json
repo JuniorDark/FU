@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbproto/magnorbproto.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tauntra Orbs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbproto/magnorbproto.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unusual weapon is quite dangerous. ^cyan;Counts as 'energy' weapon^reset;"
+    }
+  }
+]

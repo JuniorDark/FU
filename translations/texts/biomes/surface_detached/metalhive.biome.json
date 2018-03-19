@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/metalhive.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Hive"
+    }
+  }
+]

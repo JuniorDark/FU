@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/titaniummace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Expensive and painful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/mace/titaniummace.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Mace"
+    }
+  }
+]

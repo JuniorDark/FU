@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ears"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair Color"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hairstyle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "KIRHOS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kirhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skin Color"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fukirhos.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rodentlike species exhausted their homeworld's natural resources. Most now live in corporate-run city-buildings called arcologies."
+    }
+  }
+]

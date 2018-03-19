@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/distortionsphere2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drop bombs while in ball form with [down]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/distortionsphere2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Distortion Sphere II^reset;"
+    }
+  }
+]

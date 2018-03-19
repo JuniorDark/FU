@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/thorns2/thorns2.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thorn bush."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/thorns2/thorns2.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspiky bush."
+    }
+  }
+]

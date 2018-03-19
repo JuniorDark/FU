@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fumantizi.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle-hardened beetle-men."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fumantizi.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mantizi"
+    }
+  }
+]

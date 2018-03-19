@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/fudarkrobesnpc/fudarkrobeschestnpc.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/tier3/stalkers/fudarkrobeschest.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Robe"
+    }
+  }
+]

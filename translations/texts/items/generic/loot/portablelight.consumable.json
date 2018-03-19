@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/portablelight.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy portable light source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/portablelight.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disposable Light"
+    }
+  }
+]

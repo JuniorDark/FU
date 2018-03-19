@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ignuschili.thrownitem": [
+        "/description"
+      ],
+      "items/throwables/ignuschili2.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toss this pepper and burn your foes."
+    }
+  }
+]

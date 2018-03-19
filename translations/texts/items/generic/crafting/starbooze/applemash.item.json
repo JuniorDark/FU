@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/applemash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apple Mash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/applemash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apple Mash, the product of crushed and squeezed apples."
+    }
+  }
+]

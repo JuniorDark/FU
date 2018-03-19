@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/bouncesphere.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bouncy Ball"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/distortionsphere/bouncesphere.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I've devised a way to get the ^orange;distortion sphere^reset;! powered up a tad. I can attach some ^orange;anti-grav jets^reset; to give it jump capability!"
+    }
+  }
+]

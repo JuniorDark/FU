@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/ghostmushroom.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effect:\n^cyan;Invisible (60s), and Invisible to Erchius Horrors (300s)^reset;"
+    }
+  }
+]

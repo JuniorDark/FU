@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/bouncingorbitals/swtjc_ewg_bouncingorbitals.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bouncing Orbitals"
+    }
+  }
+]

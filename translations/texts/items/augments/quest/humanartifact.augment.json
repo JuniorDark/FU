@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/humanartifact.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Master Manipulator^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/quest/humanartifact.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+10%^reset; Damage\n^green;+20%^reset; Energy\n^green;+20%^reset; Cosmic Resist"
+    }
+  }
+]

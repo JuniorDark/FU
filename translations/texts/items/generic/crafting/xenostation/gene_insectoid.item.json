@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_insectoid.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creepy crawly properties infuse this cell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_insectoid.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insectoid"
+    }
+  }
+]

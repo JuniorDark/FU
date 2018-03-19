@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/fu_gated/fu_gated.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An overly-complicated gate! Who knows what inputs are needed..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/fu_gated/fu_gated.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Black Box Logic Gate"
+    }
+  }
+]

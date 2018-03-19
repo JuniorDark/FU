@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/fishingrod/profishingrod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pro-level rod with long line length and fast reeling time. Also durable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/fishingrod/profishingrod.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pro Fishing Rod"
+    }
+  }
+]

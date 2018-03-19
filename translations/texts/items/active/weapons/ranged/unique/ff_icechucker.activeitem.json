@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ff_icechucker.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be cruel and shoot freezing icicles at enemies\n^yellow;Icy fun!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/ff_icechucker.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Blaster"
+    }
+  }
+]

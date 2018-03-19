@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/nomad/fudesertwalker.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/nomad/fudesertwalker.head": [
+        "/description"
+      ],
+      "items/armors/tier2/nomad/fudesertwalker.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immune: Burns, Deserts. +15% Fire Resist^reset;\n^#e43774;+20% Shield Regen, +15% Damage (Dagger,Shortspear)^reset;\n^green;Desert biomes: +15% Fire Resist^reset;"
+    }
+  }
+]

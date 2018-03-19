@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/beesting/beesting.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bee Stings"
+    }
+  }
+]

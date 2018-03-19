@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/metallicash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metallic Ash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/metallicash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic ash filled with bits of metal."
+    }
+  }
+]

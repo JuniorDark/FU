@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/fureinforcedglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass reinforced with durasteel wire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/fureinforcedglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasteel Reinforced Glass"
+    }
+  }
+]

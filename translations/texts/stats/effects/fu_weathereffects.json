@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weathereffects/crystalmoon/crystalmoonfx.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_weathereffects/new/cold/ffbiomecold0.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weathereffects/ffextremeheat/cultistblastfx.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_weathereffects/ffextremeheat/ffextremeheat.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_weathereffects/new/heat/ffbiomeheat3.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadly Heat"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fungalstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone covered in fungal spores."
+    }
+  }
+]

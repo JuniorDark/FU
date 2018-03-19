@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/powderkeg.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude explosive for mining. Detonation requires impact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/powderkeg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powder Keg"
+    }
+  }
+]

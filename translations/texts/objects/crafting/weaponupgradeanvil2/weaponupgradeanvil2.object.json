@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/weaponupgradeanvil2/weaponupgradeanvil2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient technology capable of enhancing weapons, armor and equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/weaponupgradeanvil2/weaponupgradeanvil2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cosmic Crucible"
+    }
+  }
+]

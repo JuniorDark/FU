@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/estuaryaether.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Estuary"
+    }
+  }
+]

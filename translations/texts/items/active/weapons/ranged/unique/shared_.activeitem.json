@@ -1,0 +1,89 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fugaussmachinegun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/fugausspistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/fugaussrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brutally effective magnet-based weaponry\n^yellow;Explosive rounds^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/lunaripistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/lunaririfle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline blasts charged with lunari energy\n^yellow;Lights areas^reset;\n^green;Long-lived projectiles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/nitrogengun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/nitrogenpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effective in most situations, though somewhat chilling.\n^yellow;Inflicts freezing^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/blistergun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/blisterpistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires repulsive glowy goo-globs.\n^green;Targets glow\n^yellow;+Pus effect"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/crankrifle.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unique/fugrinder.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grinder"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/manstopper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/manstoppersmg.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Styled after the classics but updated with smart ammo.\n^cyan;Homing bullets^reset;"
+    }
+  }
+]

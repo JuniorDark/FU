@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_mimetic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mimicry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_mimetic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gene copies others around it."
+    }
+  }
+]

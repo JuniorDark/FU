@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/titaniumkatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An exceptionally fine sword.\n^yellow;4 hit combo^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/titaniumkatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Katana"
+    }
+  }
+]

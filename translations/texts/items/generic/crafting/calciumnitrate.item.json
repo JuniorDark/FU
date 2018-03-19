@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/calciumnitrate.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compound that could prove useful in fertilizers and other chemical compounds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/calciumnitrate.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calcium Nitrate"
+    }
+  }
+]

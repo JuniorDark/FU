@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/fudarkrobesnpc/fudarkrobeschestnpc.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Death themed body armor!"
+    }
+  }
+]

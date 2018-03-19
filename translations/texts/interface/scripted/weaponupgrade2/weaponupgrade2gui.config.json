@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Precursor Crucible"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Upgrade most equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/essenceCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED ESSENCE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any weapons to upgrade!"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ff_spareparts.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Handy bits. probably worth extracting, too."
+    }
+  }
+]

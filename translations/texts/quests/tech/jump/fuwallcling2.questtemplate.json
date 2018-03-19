@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwallcling2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've managed to think of a cool upgrade to the Magnet Grip! I should be able to apply some advanced science to it and really grip with power!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwallcling2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, when I grip walls, I should get defensive bonuses and increased energy...sapped right from the material itself! Also, W and S allow me to travel up and down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwallcling2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Power Grip"
+    }
+  }
+]

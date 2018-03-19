@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/cutedagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Favorite weapon of colorful assassins\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/cutedagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Dagger"
+    }
+  }
+]

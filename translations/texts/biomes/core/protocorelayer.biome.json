@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/core/protocorelayer.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Core"
+    }
+  }
+]

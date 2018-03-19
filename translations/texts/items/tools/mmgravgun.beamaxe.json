@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/mmgravgun.beamaxe": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vastly superior upgrade to the Matter Manipulator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/mmgravgun.beamaxe": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b84cbc;Morphite Manipulator^white;"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/labbookcase/labbookcase.object": [
+        "/description"
+      ],
+      "objects/scienceoutpost/guidestorage/guidestorage.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It should be stocked full of science journals and lab reports."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/labfurniture/labbookcase/labbookcase.object": [
+        "/shortdescription"
+      ],
+      "objects/scienceoutpost/guidestorage/guidestorage.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lab Bookcase"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extractionlab/extractionlab.object": [
+        "/subtitle"
+      ],
+      "objects/crafting/extractionlabadv/extractionlabadv.object": [
+        "/subtitle"
+      ],
+      "objects/crafting/fuincubator/fuincubator.object": [
+        "/subtitle"
+      ],
+      "objects/minibiome/precursor/precursorconverter/console.object": [
+        "/subtitle"
+      ],
+      "objects/minibiome/precursor/precursorconverter/console2.object": [
+        "/subtitle"
+      ],
+      "objects/power/quantumextractor/quantumextractor.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resource converter"
+    }
+  }
+]

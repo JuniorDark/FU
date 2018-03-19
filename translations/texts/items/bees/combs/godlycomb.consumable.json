@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/godlycomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A honeycomb forged high in the sky. Peerless healing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/godlycomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Godly Honeycomb"
+    }
+  }
+]

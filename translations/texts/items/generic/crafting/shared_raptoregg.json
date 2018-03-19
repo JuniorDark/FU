@@ -1,0 +1,48 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/raptoregg.item": [
+        "/shortdescription"
+      ],
+      "items/generic/crafting/raptoregg2.item": [
+        "/shortdescription"
+      ],
+      "items/generic/crafting/raptoregg3.item": [
+        "/shortdescription"
+      ],
+      "items/generic/crafting/raptoregg4.item": [
+        "/shortdescription"
+      ],
+      "items/generic/crafting/raptoregg5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dinosaur Egg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/raptoregg.item": [
+        "/description"
+      ],
+      "items/generic/crafting/raptoregg2.item": [
+        "/description"
+      ],
+      "items/generic/crafting/raptoregg3.item": [
+        "/description"
+      ],
+      "items/generic/crafting/raptoregg4.item": [
+        "/description"
+      ],
+      "items/generic/crafting/raptoregg5.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jammed full of genetic materials."
+    }
+  }
+]

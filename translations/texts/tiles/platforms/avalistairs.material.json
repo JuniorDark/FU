@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avalistairs.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hardened aerogel platform, this time designed so that the slopes are shaped like stairs."
+    }
+  }
+]

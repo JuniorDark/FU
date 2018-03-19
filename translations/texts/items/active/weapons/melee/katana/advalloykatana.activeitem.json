@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/advalloykatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finely made.\n^cyan;Combo Strikes causes targets to bleed^reset;.\n^yellow;8 hit combo^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/advalloykatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Masters Katana"
+    }
+  }
+]

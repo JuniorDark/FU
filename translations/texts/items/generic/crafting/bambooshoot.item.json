@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bambooshoot.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Shoot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bambooshoot.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo for crafting goods."
+    }
+  }
+]

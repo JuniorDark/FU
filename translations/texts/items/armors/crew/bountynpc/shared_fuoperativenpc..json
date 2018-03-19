@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/bountynpc/fuoperativenpc.chest": [
+        "/description"
+      ],
+      "items/armors/crew/bountynpc/fuoperativenpc.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stylish, classy, and dangerous."
+    }
+  }
+]

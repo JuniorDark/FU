@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/bladetreeblade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blade Tree Dart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/bladetreeblade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp and super-duper fun!"
+    }
+  }
+]

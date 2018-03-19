@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/blisterarmor/blisterarmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/blisterarmor/blisterarmor.head": [
+        "/description"
+      ],
+      "items/armors/tier2/blisterarmor/blisterarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immune: Poison, Proto Poison. +21% Poison Resist^reset;\n^#e43774;Blister Weapons: +3% Crit and 15% Dmg^reset;\n^green;Emits a purple glow^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/swimcollar.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aqua Collar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/pet/swimcollar.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase your pet's liquid agility."
+    }
+  }
+]

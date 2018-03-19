@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasteryroofing.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A roof of Shoji design."
+    }
+  }
+]

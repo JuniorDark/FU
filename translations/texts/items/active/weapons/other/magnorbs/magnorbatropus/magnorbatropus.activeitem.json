@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbatropus/magnorbatropus.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Bola"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/magnorbs/magnorbatropus/magnorbatropus.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gruesome, yet fun."
+    }
+  }
+]

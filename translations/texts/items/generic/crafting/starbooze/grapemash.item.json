@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/grapemash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grape Mash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/grapemash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grape Mash, the product of crushed and squeezed grapes."
+    }
+  }
+]

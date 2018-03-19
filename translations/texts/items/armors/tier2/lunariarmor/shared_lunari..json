@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/lunariarmor/lunari.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/lunariarmor/lunari.head": [
+        "/description"
+      ],
+      "items/armors/tier2/lunariarmor/lunari.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+15% Damage and +4% Crit (Lunari weapons)^reset; \n^#e43774;+15% Cosmic Resist^reset;\n^green;+12% Energy Regen, 10% Fuel Cost Reduction^reset;"
+    }
+  }
+]

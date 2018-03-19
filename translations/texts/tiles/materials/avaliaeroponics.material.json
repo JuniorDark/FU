@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avaliaeroponics.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeroponics Tubing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avaliaeroponics.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tubes transport a nutrient aerosol for growing plants indoors."
+    }
+  }
+]

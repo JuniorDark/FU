@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/petfood/petfood1.consumable": [
+        "/description"
+      ],
+      "items/generic/petfood/petfood2.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the ship pet in your life. ^red;Do Not Consume.^reset;"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/battletotem/beararmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/battletotem/beararmor.head": [
+        "/description"
+      ],
+      "items/armors/tier2/battletotem/beararmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immune to slush. Set Bonus:\n^cyan;+3.5 Crit Chance, +15% Dmg with 2-handed melee and axes^reset;\n^green;+15% Ice Resistance, Ice status effects."
+    }
+  }
+]

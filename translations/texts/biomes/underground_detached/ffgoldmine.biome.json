@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffgoldmine.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Mine"
+    }
+  }
+]

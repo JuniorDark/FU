@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/crudebomb.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A specially crafted explosive for mining. Detonation requires impact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/crudebomb.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crude Bomb"
+    }
+  }
+]

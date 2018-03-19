@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_fissionreactornew/isn_fissionreactornew.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FUEL SLOTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_fissionreactornew/isn_fissionreactornew.config": [
+        "/gui/countwaste/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "WASTE SLOT"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/replicant/kirhostier6accelerator.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/replicant/kirhostier6accelerator.head": [
+        "/description"
+      ],
+      "items/armors/tier6/replicant/kirhostier6accelerator.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+2% Crit (Swords), Dual-wield for +25% damage^reset;\n^cyan;30% Shadow Resistance^reset;\n^green;Immune: Gas, Shadow, Tar^reset;"
+    }
+  }
+]

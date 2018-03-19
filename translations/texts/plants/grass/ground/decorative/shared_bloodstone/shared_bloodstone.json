@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bloodstoneplant/bloodstoneplant.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/bloodstonesprout/bloodstonesprout.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/bloodstonestuff/bloodstoneplant.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/bloodstonestuff/bloodstonesprout.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "a bloodstone sprout"
+    }
+  }
+]

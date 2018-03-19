@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/chargecannon/chargecannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charge and release radioactive-electric blasts.\n^yellow;Increases damage with charge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/chargecannon/chargecannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rad Charger"
+    }
+  }
+]

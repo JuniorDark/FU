@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhoneyplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/redhoneyplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Honey Platform"
+    }
+  }
+]

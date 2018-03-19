@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/arid/aridqueen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sandy bee queen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/arid/aridqueen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arid Queen"
+    }
+  }
+]

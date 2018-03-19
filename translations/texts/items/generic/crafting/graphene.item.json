@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/graphene.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durable, flexible and conductive. A near-magical material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/graphene.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Graphene^white;"
+    }
+  }
+]

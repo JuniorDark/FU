@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwalljump.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall jump improvement. Double Jump!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwalljump.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Wall Jump II^reset;"
+    }
+  }
+]

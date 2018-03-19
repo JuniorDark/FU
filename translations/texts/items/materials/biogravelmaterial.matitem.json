@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biogravelmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Gravel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biogravelmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strangely-colored gravel."
+    }
+  }
+]

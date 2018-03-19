@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/xithricitecrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pan-dimensional powerhouse often found in aether seas."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grabber v3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabber3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Highest capacity Grabber. Grabs items from the world. Range: 12.\n^blue;Input: ^white;power switch \n^red;Output: ^white;item network^reset;"
+    }
+  }
+]

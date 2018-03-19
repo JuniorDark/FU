@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_tileeffects/darkstalker/darkstalker.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Tainted"
+    }
+  }
+]

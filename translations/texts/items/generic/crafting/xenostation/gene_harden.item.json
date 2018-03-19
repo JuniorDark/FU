@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_harden.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened Shell"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_harden.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough cells built to withstand stress."
+    }
+  }
+]

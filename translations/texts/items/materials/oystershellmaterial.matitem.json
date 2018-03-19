@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/oystershellmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of crushed oyster shells."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/oystershellmaterial.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oystershell"
+    }
+  }
+]

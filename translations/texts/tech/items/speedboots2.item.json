@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Near lethal levels of drugs, superior speed and dash. Passive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedboots2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Stimulant Rig III^reset;"
+    }
+  }
+]

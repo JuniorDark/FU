@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/banespear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piercing weapon of great style and sophistication."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/banespear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bane Spear"
+    }
+  }
+]

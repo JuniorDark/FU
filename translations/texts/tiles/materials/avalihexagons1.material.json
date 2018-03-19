@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avalihexagons1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Metal Hexagons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avalihexagons1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's like a Glitch beehive!"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/mythicalcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mythical honeycomb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/mythicalcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mythical Honeycomb"
+    }
+  }
+]

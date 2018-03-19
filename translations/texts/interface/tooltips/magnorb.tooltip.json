@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/magnorb.tooltip": [
+        "/forceTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force:"
+    }
+  }
+]

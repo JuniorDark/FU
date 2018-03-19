@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/scoutarmor/ff_scoutarmor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scout Chestpiece"
+    }
+  }
+]

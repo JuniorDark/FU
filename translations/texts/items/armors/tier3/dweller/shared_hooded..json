@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier3/dweller/hooded.chest": [
+        "/description"
+      ],
+      "items/armors/tier3/dweller/hooded.head": [
+        "/description"
+      ],
+      "items/armors/tier3/dweller/hooded.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^#c74eff;Immune: Slime, Mud, Ice, Snow, Tar^reset;\n^green;+120% Mining Laser damage^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ff_plastic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced Plastic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ff_plastic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Synthetic compound enhanced through science!"
+    }
+  }
+]

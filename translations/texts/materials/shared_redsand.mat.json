@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redsand.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/redsand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fine Sand"
+    }
+  }
+]

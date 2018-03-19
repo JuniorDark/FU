@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/biospore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual spore that produces its own light. It might prove useful in experiments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/biospore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bioluminescent Spore"
+    }
+  }
+]

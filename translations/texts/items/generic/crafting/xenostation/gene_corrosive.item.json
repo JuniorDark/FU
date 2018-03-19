@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_corrosive.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corrosive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_corrosive.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corrosive toxin, or similar mechanisms, come from this gene."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeamagmastone.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pixelgoods/fuokeamagmastone.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hellfire Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeamagmastone.material": [
+        "/description"
+      ],
+      "tiles/materials/pixelgoods/fuokeamagmastone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone made out of magmastone and hellfire."
+    }
+  }
+]

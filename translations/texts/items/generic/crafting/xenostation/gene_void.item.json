@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_void.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nether-Touched"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_void.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown. What is this?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedbootsprecursor.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Booster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/speedbootsprecursor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Precursor Rig^reset;"
+    }
+  }
+]

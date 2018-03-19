@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeagrass.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pixelgoods/fuokeagrass.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/pixelgoods/fuokeagrass.material": [
+        "/description"
+      ],
+      "tiles/materials/pixelgoods/fuokeagrass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's grass. I don't think it needs describing. Do you?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fubeamgun/fubeamgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid beam guaranteed to roast your foes. It's also a wonderful hue, so murder is pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fubeamgun/fubeamgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Gun"
+    }
+  }
+]

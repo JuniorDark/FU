@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/jumpboost/jumpboostwarriorrobes.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Boost"
+    }
+  }
+]

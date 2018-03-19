@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold ssmooth sstoness ssmell like honey."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/description"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden stones saturated with honey, smooth to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honeystone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These smooth stones seem to be imbued with honey."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/honeystone.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/honey/honeystone.matitem": [
+        "/novakiddescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a buncha weird-smelling rocks."
+    }
+  }
+]

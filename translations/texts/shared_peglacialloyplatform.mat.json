@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacialloyplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/peglacialloyplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made of an advanced alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacialloyplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/peglacialloyplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alloy Platform"
+    }
+  }
+]

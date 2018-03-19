@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/fufireangelwings/fufireangelwings.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning Wings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/fufireangelwings/fufireangelwings.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rise like the phoenix. +30% Fire Resist"
+    }
+  }
+]

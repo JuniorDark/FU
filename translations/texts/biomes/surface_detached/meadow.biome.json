@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/meadow.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meadow"
+    }
+  }
+]

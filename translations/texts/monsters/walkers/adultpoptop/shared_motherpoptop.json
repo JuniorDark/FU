@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/adultpoptop/motherpoptop.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/walkers/adultpoptop/motherpoptop2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mother Poptop"
+    }
+  }
+]

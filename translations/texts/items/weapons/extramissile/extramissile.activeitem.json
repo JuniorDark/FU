@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/weapons/extramissile/extramissile.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Garuda Missile Launcher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/weapons/extramissile/extramissile.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select missile and press the fire button."
+    }
+  }
+]

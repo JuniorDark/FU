@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/heatImmunity.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that repels heat up to 500 Kelvin. ^cyan;Immune: Heat^reset; ^red;15% Fire Resistance^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/heatImmunity.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heat Shield I"
+    }
+  }
+]

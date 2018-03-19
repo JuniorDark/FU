@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/protocitebar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bar of compressed protocite, found on Protoworlds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/protocitebar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protocite Bar"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thorns/novax10.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorchest/precursorchest.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/precursor/precursorchest/precursorchest2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Chest"
+    }
+  }
+]

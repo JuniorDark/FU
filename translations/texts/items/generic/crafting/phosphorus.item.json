@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/phosphorus.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An essential non-metallic chemical element."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/phosphorus.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phosphorus"
+    }
+  }
+]

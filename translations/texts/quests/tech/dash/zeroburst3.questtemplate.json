@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/zeroburst3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another upgrade to the Zero Burst tech!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/zeroburst3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive Redirection III"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/zeroburst3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can now boost exceptionally high!"
+    }
+  }
+]

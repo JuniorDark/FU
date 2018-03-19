@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junglestonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine-covered stones."
+    }
+  }
+]

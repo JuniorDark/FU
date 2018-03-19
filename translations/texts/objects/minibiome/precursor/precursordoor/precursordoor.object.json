@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursordoor/precursordoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is made of light."
+    }
+  }
+]

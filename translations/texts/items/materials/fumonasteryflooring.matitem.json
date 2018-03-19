@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasteryflooring.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flooring of Shoji design."
+    }
+  }
+]

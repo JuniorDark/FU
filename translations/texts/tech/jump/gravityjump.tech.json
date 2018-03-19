@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/gravityjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A damaging, low-grav mega jump with flutter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/gravityjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Jump"
+    }
+  }
+]

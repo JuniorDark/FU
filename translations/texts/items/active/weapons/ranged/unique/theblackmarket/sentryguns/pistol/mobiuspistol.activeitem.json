@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/sentryguns/pistol/mobiuspistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pistol with shrouded origins.\n^yellow;Inflicts frozen-fire^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/theblackmarket/sentryguns/pistol/mobiuspistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentry Pistol"
+    }
+  }
+]

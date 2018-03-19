@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_pump/kheAA_pump.object": [
+        "/description"
+      ],
+      "objects/kheAA/kheAA_pump/kheAA_pump_densinium.object": [
+        "/description"
+      ],
+      "objects/kheAA/kheAA_pump/kheAA_pump_iron.object": [
+        "/description"
+      ],
+      "objects/kheAA/kheAA_pump/kheAA_pump_titanium.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pumps liquids.\n^blue;Input^white;1^blue;: ^white;power switch\n^blue;Input^white;2^blue;: ^white;compression\n^red;Output^white;1^red;: ^white;item network\n^red;Output^white;2^red;: ^white;liquid network^reset;"
+    }
+  }
+]

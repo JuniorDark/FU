@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursorlight/precursorlight.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/precursor/precursorlightstrip/precursorlightstrip.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Light"
+    }
+  }
+]

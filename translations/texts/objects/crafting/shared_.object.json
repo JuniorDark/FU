@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/sproutingtable/sproutingtable.object": [
+        "/subtitle"
+      ],
+      "objects/crafting/xenostation/xenolab.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seed Extractor"
+    }
+  }
+]

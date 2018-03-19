@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fumonasterywall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall of Shoji design."
+    }
+  }
+]

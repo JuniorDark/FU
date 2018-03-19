@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/corvexputty.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coat yourself in no-stick putty to prevent slipping and sticking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/healing/corvexputty.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Corvex Putty^white;"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/camouflage/camouflage100.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invisible"
+    }
+  }
+]

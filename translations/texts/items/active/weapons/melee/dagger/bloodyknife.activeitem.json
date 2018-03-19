@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/bloodyknife.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covered in blood and creepy carvings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/bloodyknife.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sacrificial Blade"
+    }
+  }
+]

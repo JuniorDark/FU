@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali living spaces are soft and warm, you can just sleep on the floor curled up with your pack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hear humansssss fight with these. Which end is pointy end?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think there's been a terrible mistake, I only seem to have received half my bedding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if the avali use their own down to fill these?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll freeze to death without bed clothes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll need more of these to make a nest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this for sitting or sleeping on?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/cushions/avalicushion2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where's the rest of the bedding?"
+    }
+  }
+]

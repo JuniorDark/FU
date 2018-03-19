@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/magmabomb.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma Nodule"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/magmabomb.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma in a bomb. Nice."
+    }
+  }
+]

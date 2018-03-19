@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/cripplermachinegun/chargemachinegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crippler Machinegun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/cripplermachinegun/chargemachinegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rapid fire radioactive joy!\n^yellow;Inflicts Radiation Burn^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/cripplermachinegun/chargemachinegun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Sphere"
+    }
+  }
+]

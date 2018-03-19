@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalidarkplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark metal platform."
+    }
+  }
+]

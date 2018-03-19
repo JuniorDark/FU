@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/murdermanipulator.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/murdermanipulator2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repurposed manipulator. This one murders! Yay!"
+    }
+  }
+]

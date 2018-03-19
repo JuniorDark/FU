@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/swampshrub/swampshrub.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swampy plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/swampshrub/swampshrub.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sswampy."
+    }
+  }
+]

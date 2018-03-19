@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tidewatergrass/tidewatergrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "strange flora of a tidewater planet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tidewatergrass/tidewatergrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "undersea plants"
+    }
+  }
+]

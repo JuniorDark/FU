@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/coralsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Broadsword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/coralsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Massively dangerous. Do not touch.\n^cyan;Inflicts Poison^reset;"
+    }
+  }
+]

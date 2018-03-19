@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/percenthealthboost/percenthealthboost15.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "HP +15%"
+    }
+  }
+]

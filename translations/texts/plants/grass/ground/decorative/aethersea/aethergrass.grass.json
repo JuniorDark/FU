@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/aethersea/aethergrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aetherweed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/aethersea/aethergrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "an unusual aquatic seaweed"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/penumbriteore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penumbrite Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/penumbriteore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some super-hard penumbrite, waiting to be smelted."
+    }
+  }
+]

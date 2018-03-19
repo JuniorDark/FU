@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/crutterish/crutter2/crutter2.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange mutation of the Crutter genome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/crutterish/crutter2/crutter2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nightcrutter"
+    }
+  }
+]

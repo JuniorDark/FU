@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/pyreitedagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's make some friends!\n^cyan;Inflicts Napalm^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/pyreitedagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyreite Dirk"
+    }
+  }
+]

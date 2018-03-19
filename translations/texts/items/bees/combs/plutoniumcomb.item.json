@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/plutoniumcomb.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plutonium Honeycomb"
+    }
+  }
+]

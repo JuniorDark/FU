@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/oystershell.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A layer of crushed oystershells."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/oystershell.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oystershells"
+    }
+  }
+]

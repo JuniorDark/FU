@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/blastingdynamite.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact, specially crafted explosive for mining. Detonation requires impact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/explosives/blastingdynamite.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blasting Dynamite"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_repeater/kheAA_repeater.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repeater"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_repeater/kheAA_repeater.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Links^reset; together certain inventory network nodes."
+    }
+  }
+]

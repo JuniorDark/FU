@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/amberplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/amberplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber Platform"
+    }
+  }
+]

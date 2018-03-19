@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/fugaussmecha.item": [
+        "/description"
+      ],
+      "items/generic/mechparts/arm/fumechdensinium.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rip em to shreds!"
+    }
+  }
+]

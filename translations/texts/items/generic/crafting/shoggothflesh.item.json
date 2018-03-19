@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/shoggothflesh.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chunks of flesh from a horrifying Shoggoth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/shoggothflesh.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoggoth Flesh"
+    }
+  }
+]

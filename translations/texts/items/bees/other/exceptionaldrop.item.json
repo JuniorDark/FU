@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/exceptionaldrop.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exceptional Drop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/exceptionaldrop.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The finest drop of honey, will attract only the finest insects."
+    }
+  }
+]

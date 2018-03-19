@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/corruptionseed.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scientifically manufactred metal containing chaos and entropy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/corruptionseed.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Corruption Seed^white;"
+    }
+  }
+]

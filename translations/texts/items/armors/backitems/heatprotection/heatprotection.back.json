@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Fire Resist. Helpful on ^red;low to moderate heat^reset; planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooling EPP"
+    }
+  }
+]

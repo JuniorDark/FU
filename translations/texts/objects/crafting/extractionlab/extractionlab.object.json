@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extractionlab/extractionlab.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lab-worthy successor to the Hand Mill that extracts useful materials from most block types."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extractionlab/extractionlab.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Extraction Lab^white;"
+    }
+  }
+]

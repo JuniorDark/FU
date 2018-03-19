@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/gravrain.liquid": [
+        "/description"
+      ],
+      "liquids/orangegravrain.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange, gravity-filled liquid. Likely artificial."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwallcling.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Latch onto walls for 8s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwallcling.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Magnet Grip I^reset;"
+    }
+  }
+]

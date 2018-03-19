@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/fugrimoire.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tome that feels vile and awful just to gaze upon. It appears to be inked in blood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mythos/fugrimoire.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffe50e;Tattered Grimoire^white;"
+    }
+  }
+]

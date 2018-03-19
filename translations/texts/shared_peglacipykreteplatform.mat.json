@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/peglacipykreteplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chilly - but sturdy - platform made of Pykrete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacipykreteplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/peglacipykreteplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pykrete Platform"
+    }
+  }
+]

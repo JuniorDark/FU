@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_regen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regenerative"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_regen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restore themselves."
+    }
+  }
+]

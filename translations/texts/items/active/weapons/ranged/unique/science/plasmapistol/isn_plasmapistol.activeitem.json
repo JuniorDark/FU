@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/plasmapistol/isn_plasmapistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Pistol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/plasmapistol/isn_plasmapistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unusual sidearm for an unusual age\n^cyan;Counts as plasma weapon for set bonuses^reset;\n^yellow;Bouncing projectiles^reset;"
+    }
+  }
+]

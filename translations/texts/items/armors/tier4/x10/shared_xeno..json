@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier4/x10/xeno.chest": [
+        "/description"
+      ],
+      "items/armors/tier4/x10/xeno.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;20% Ice and Physical Resist^reset;\n^#e43774;Immunity: Oxygen, Liq. Nitrogen, Cold^reset;\n^green;+25% Damage and +2% Crit(Assault/Energy Rifle)^reset;"
+    }
+  }
+]

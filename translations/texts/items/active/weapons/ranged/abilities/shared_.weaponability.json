@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/elderrailgunshotpower.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/railgunshotpower.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/shocklancepower.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/shocklancepower2.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Focused Blast"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/blisteraltshot.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/fleshbomb.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guck Spew"
+    }
+  }
+]

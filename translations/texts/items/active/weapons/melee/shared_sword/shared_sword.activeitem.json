@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/deadbeatbroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/longsword/deadbeatlongsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks crappy. Cuts deep.\n^cyan;Causes bleeding^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/xithricitebroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/longsword/xithricitelongsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powered by cosmic dust.\n^cyan;Inflicts Vulnerability^reset;"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_greenhouse.questtemplate": [
+        "/title"
+      ],
+      "tiles/materials/retexgreenhouse.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greenhouse"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/zerchesiumsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finely honed zerchesium steel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/zerchesiumsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Blade"
+    }
+  }
+]

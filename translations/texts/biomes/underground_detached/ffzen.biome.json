@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/ffzen.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zen Caves"
+    }
+  }
+]

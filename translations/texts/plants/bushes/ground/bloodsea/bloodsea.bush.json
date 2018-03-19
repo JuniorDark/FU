@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/bloodsea/bloodsea.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood sea flora and fauna. Interesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/bloodsea/bloodsea.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange undersea flora and fauna."
+    }
+  }
+]

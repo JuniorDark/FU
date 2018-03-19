@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small nanocanvas sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent Sheet"
+    }
+  }
+]

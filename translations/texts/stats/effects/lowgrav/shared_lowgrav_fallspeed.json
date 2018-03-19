@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/lowgrav/lowgrav_fallspeed.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/lowgrav/lowgrav_fallspeedup.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Float"
+    }
+  }
+]

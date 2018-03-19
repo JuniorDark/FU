@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/fleshgrass2.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "flesh grass"
+    }
+  }
+]

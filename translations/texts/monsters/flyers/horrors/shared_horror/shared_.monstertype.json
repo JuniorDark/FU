@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/horrors/horror/horror.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/horrors/horror2/horror2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floating Horror"
+    }
+  }
+]

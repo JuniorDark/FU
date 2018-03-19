@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/ashgarden.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ash Garden"
+    }
+  }
+]

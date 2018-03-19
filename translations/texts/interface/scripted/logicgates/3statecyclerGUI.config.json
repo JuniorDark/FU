@@ -1,0 +1,104 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " 3-State Cycler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Configure timers here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelLeft/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "First"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelMid/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Second"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelRight/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Third"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/inputLeft/regex",
+        "/gui/inputMid/regex",
+        "/gui/inputRight/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "\\d{0,3}"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelLoad/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^black;Load"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelReset/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^black;Reset"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/logicgates/3statecyclerGUI.config": [
+        "/gui/labelSave/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^black;Save"
+    }
+  }
+]

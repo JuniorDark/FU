@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/icegrass1.matmod": [
+        "/description"
+      ],
+      "tiles/mods/icegrass2.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "ice"
+    }
+  }
+]

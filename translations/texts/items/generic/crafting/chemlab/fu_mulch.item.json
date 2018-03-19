@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/fu_mulch.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for fertilizing a hydroponics tray (Growth + 1.25)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/chemlab/fu_mulch.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mulch"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/greyslate.matitem": [
+        "/description"
+      ],
+      "tiles/materials/greyslate.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth gray stone"
+    }
+  }
+]

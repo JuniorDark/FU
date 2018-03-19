@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/elderbaseboard.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Etched with a strange language. Kinda creepy, too."
+    }
+  }
+]

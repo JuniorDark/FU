@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful white wax platforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "white Wax Platform"
+    }
+  }
+]

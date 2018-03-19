@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/precursordecorative.matitem": [
+        "/description"
+      ],
+      "items/materials/precursordetail.matitem": [
+        "/description"
+      ],
+      "items/materials/precursorfloor.matitem": [
+        "/description"
+      ],
+      "items/materials/precursorpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/precursorwall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient panelling of unknown origin"
+    }
+  }
+]

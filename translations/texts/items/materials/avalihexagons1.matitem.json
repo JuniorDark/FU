@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalihexagons1.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hexagonal Plating"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalihexagons1.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plating in the shape of, and possibly inspired by, a Glitch hive."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/magnesiumsulfate.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extremely useful for plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/magnesiumsulfate.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magnesium Sulfate"
+    }
+  }
+]

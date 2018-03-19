@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_reproductive.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rapid-breeding gives plants a serious edge. Can act as fertilizer (Fluid -0.5, Seed -1)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_reproductive.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reproductive Boost"
+    }
+  }
+]

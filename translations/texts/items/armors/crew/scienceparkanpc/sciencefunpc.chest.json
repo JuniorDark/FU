@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/scienceparkanpc/sciencefunpc.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capable of withstanding the harshest cold, this piece also grants proto and liquid-nitrogen immunity."
+    }
+  }
+]

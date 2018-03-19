@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltentile.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning hot steel tile!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moltentile.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Steel Tile"
+    }
+  }
+]

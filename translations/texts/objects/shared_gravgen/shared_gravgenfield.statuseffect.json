@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/gravgenerator/gravgenfield.statuseffect": [
+        "/label"
+      ],
+      "objects/ship/fu_byosgravgen/fu_byosgravgenfield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Field"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/ultramesh/hytalisarmor.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/ultramesh/hytalisarmor.head": [
+        "/description"
+      ],
+      "items/armors/tier6/ultramesh/hytalisarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+40% Electric Resist, Swim Boost 2^reset;\n^#e43774;Immune: Pressure, Insanity, Aether^reset;\n^green;+35% Shield Stamina, Block, Shield Regen^reset;"
+    }
+  }
+]

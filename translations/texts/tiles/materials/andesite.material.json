@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/andesite.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "a rough volcanic stone"
+    }
+  }
+]

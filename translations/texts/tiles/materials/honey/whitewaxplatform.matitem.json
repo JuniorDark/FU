@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made of white bees wax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "White Wax Platform"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fungalstonematerial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spore-covered stone."
+    }
+  }
+]

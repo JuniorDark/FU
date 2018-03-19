@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/crystalliteshard.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystallite Shard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/ise3/crystalliteshard.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ludicrously dangerous shards."
+    }
+  }
+]

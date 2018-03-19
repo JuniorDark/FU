@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/bloodstoneseafloor.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Ocean"
+    }
+  }
+]

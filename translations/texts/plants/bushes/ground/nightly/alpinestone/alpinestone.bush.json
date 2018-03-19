@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/nightly/alpinestone/alpinestone.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of mossy stones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/nightly/alpinestone/alpinestone.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstones."
+    }
+  }
+]

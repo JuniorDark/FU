@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/frostcannonarm/frostcannonarm.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freezing mists weaponized for your enjoyment\n^yellow;Inflicts freezing^reset;\n^green;Multi-shot^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/frostcannonarm/frostcannonarm.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/frostcannonarm/frostcannonarm.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mistral Icethrower"
+    }
+  }
+]

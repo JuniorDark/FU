@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwalljump2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazing Grip!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/jump/fuwalljump2.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This new technology has made me realize I could ^green;replace the Wall Jump tech^reset; with a ^orange;useful upgrade tech^reset;"
+    }
+  }
+]

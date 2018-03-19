@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/speedblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gives you a speed boost."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier6/fuisogenarmor/fuisogen.chest": [
+        "/description"
+      ],
+      "items/armors/tier6/fuisogenarmor/fuisogen.head": [
+        "/description"
+      ],
+      "items/armors/tier6/fuisogenarmor/fuisogen.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;Immune: Heat, Lava, Burning^reset;\n^#e43774;60% Fire Resist^reset;\n^green;+15% Physical Resist and +3% Crit (Isogen weapons)^reset;"
+    }
+  }
+]

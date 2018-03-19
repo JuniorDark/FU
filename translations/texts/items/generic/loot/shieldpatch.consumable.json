@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/shieldpatch.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repairs damaged shields."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/loot/shieldpatch.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Patch"
+    }
+  }
+]

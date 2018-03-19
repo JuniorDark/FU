@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avalidisplay.material": [
+        "/description"
+      ],
+      "tiles/materials/avaliglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An LED display works away quietly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/aegisaltcrystal.material": [
+        "/description"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/description"
+      ],
+      "tiles/materials/violiumcrystal.material": [
+        "/description"
+      ],
+      "tiles/materials/warttile.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light seems to twist inside the crystals."
+    }
+  }
+]

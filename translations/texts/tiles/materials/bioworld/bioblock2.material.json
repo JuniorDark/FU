@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bioworld/bioblock2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans are inconclusive, but no doubt exists that this is intentionally-altered material."
+    }
+  }
+]

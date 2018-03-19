@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_electric.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capable of generating electric charge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_electric.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrogenic"
+    }
+  }
+]

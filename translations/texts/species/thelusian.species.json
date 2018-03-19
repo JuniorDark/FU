@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detail colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marking colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plate colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruthless and dangerous warriors who dedicate essentially their entire existince to combat, protection or other grunt-work. Incredibly unintelligent alone, they are quite efficient in large groups."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "THELUSIAN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelusian.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelusian"
+    }
+  }
+]

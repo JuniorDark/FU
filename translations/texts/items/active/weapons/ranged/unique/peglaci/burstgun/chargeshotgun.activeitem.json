@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/burstgun/chargeshotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potent incendiary weapon\n^yellow;Inflicts Burn^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/burstgun/chargeshotgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fahrenheit 451"
+    }
+  }
+]

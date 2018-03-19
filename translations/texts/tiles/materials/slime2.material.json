@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slime2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Translucent Slime Block"
+    }
+  }
+]

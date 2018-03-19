@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquidaether.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange black liquid. Feels dry. It appears to react with lava."
+    }
+  }
+]

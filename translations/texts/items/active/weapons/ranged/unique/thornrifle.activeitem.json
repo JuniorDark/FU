@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/thornrifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bio-Spawn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/thornrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stab the hell out of your foolish foes\n^yellow;Inflicts poison^reset;\n^cyan;Summons Pterobombs^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/thornrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorn Rifle"
+    }
+  }
+]

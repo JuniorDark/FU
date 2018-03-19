@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/shadowgas.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerous gas with unusual qualities."
+    }
+  }
+]

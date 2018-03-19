@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/silverseablade.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hylotl dagger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/dagger/silverseablade.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Sea Blade"
+    }
+  }
+]

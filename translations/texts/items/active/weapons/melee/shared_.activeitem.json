@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/fuatropusaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/fuatropusbroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/fuatropusdagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/greataxe/fuatropusgreataxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/greataxe/zerchesiumgreataxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/hammer/fuatropushammer.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/fuatropusshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/fuatropusshortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/fuatropusspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A revolting bio-weapon\n^cyan;Inflicts Poison^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/effigiumaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/effigiumdagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/hammer/effigiumhammer.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/rapier/effigiumrapier.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/effigiumshortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/spear/effigiumspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghostly as a spirit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/axe/stoneaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/stonebroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/dagger/stonedagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/greataxe/stonegreataxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/hammer/stonehammer.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortspear/stoneshortspear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/stoneshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for early meat and hide gathering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/zerchesiumhammer.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/mace/zerchesiummace.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium Mace"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/ff_slimearmor/ff_slimearmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Helm"
+    }
+  }
+]

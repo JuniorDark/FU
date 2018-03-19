@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_aquacelerity.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aquatic Celerity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_aquacelerity.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swim fast. Sharks are dangerous."
+    }
+  }
+]

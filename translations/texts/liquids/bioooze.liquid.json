@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/bioooze.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A particularly potent toxic sludge loaded with parasites and ickiness."
+    }
+  }
+]

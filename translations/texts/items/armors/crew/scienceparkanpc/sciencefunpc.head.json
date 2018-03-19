@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/crew/scienceparkanpc/sciencefunpc.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fully featured gas filtration mask with built-in re-breather unit."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fucellgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truly unique long-ranged rifle, firing freezing blasts of cellular matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fucellgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cellular Rifle"
+    }
+  }
+]

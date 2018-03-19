@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/liquiddeuterium.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquefied deuterium. A great quantum-state liquid."
+    }
+  }
+]

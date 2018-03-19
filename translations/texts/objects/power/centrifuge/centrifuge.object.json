@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/centrifuge/centrifuge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This advanced centrifuge efficiently separates immiscible liquids. ^cyan;Requires ^orange;20W ^cyan;power.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/centrifuge/centrifuge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Lab Centrifuge^reset;"
+    }
+  }
+]

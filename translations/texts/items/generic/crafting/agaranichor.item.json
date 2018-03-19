@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/agaranichor.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potent natural adhesive that is commonly found in certain mushrooms. Can act as fertilizer (Yield 1)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/agaranichor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Fungal Ichor^white;"
+    }
+  }
+]

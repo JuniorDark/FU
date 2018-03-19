@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_containerLink/kheAA_containerLink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Place next to container.\n^blue;Input: ^white;item network^reset;\n^red;Output: ^white;item network^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_containerLink/kheAA_containerLink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage Bridge"
+    }
+  }
+]

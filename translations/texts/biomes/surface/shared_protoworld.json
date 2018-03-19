@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/protoworld.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/protoworlddark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto-World"
+    }
+  }
+]

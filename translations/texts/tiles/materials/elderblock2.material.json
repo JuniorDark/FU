@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderblock2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yea, this looks friendly."
+    }
+  }
+]

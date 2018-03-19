@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mineralsample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mineral Sample"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/mineralsample.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful sample of nutrient-rich minerals."
+    }
+  }
+]

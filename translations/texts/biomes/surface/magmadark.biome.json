@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/magmadark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma"
+    }
+  }
+]

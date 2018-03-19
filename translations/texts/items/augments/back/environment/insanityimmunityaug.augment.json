@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/insanityimmunityaug.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An EPP module that protects against madness and insanity. ^cyan;Immune: Insanity^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/environment/insanityimmunityaug.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Madness Shield"
+    }
+  }
+]

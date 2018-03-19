@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/swampdirtffmaterial.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icky, slimy dirt."
+    }
+  }
+]

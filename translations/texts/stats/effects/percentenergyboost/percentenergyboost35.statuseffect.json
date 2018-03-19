@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/percentenergyboost/percentenergyboost35.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "+35% Energy"
+    }
+  }
+]

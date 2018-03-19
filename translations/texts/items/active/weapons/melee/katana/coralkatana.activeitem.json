@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/coralkatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Katana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/katana/coralkatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks uncomfortable to get stabbed by.\n^yellow;4 hit combo^reset;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/corruptionore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corrupted Bio-mass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/corruptionore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some strange, corrupted mineral rich in the essence of entropy and chaos."
+    }
+  }
+]

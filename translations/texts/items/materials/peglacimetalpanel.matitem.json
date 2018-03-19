@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacimetalpanel.matitem": [
+        "/peglaciDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A panel of one of our alloys - no stronger than steel, but well suited for cold temperatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacimetalpanel.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bumpy metal block. Cold."
+    }
+  }
+]

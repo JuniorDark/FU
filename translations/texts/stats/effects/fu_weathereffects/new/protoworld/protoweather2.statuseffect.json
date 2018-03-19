@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_weathereffects/new/protoworld/protoweather2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Severe Proto Poison"
+    }
+  }
+]

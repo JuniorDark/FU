@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier7/densiniumarmor_khe/densinium_khe.chest": [
+        "/description"
+      ],
+      "items/armors/tier7/densiniumarmor_khe/densinium_khe.head": [
+        "/description"
+      ],
+      "items/armors/tier7/densiniumarmor_khe/densinium_khe.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+30% Physical Resist^reset;\n^#e43774;Immune: Heat, Rads, Poison, Oxygen, Pressure, Falling^reset;\n^green;+4% Crit, +25% Damage (Densinium weapons)^reset;"
+    }
+  }
+]

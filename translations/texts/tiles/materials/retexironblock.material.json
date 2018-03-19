@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexironblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid iron block."
+    }
+  }
+]

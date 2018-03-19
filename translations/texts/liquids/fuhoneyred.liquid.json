@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/fuhoneyred.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood-colored honey."
+    }
+  }
+]

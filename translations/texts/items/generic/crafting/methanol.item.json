@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/methanol.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light, volatile alcohol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/methanol.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Methanol"
+    }
+  }
+]

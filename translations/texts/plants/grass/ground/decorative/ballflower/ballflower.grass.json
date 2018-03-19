@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/ballflower/ballflower.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "a ball flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/ballflower/ballflower.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "ball flower"
+    }
+  }
+]

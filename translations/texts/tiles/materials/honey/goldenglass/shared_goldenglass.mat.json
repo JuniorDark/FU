@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran look pretty in glasssss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Glass Block"
+    }
+  }
+]

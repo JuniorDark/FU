@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/lunaribow/lunaribow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline bow for hunting extra dangerous game."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/lunaribow/lunaribow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunari Bow"
+    }
+  }
+]

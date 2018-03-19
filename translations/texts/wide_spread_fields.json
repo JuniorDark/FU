@@ -1,0 +1,2775 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/brewmaster.config": [
+        "/reattack/default/default/2"
+      ],
+      "dialog/towndrunk.config": [
+        "/reattack/default/default/2"
+      ],
+      "npcs/evernight/froggunner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/evernight/frogrocketeer.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/evernight/frogsniper.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/towndrunk.config": [
+        "/converse/default/default/13"
+      ],
+      "interface/scripted/sbvn/games/cthululove/deepone.sbvn": [
+        "/scenes/art10/text",
+        "/scenes/art13/options/0/0",
+        "/scenes/hockey2/text"
+      ],
+      "monsters/skills/ranged/emptyfu.monsterskill": [
+        "/label"
+      ],
+      "objects/generic/crewshop/crewshop.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/apexDescription",
+        "/upgradeStages/1/itemSpawnParameters/avianDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ],
+      "objects/wired/extrasmashablepersistentswitch/extrasmashablepersistentswitch.object": [
+        "/description"
+      ],
+      "objects/wired/lightsensor/extrainvisiblelightsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/basenew.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/scripted/fm_musicplayer/fm_musicplayer.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/scripted/fu_matmodplacer/fu_matmodplacer.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/scripted/fu_tutorialQuestList/fu_tutorialQuestList.config": [
+        "/gui/textScrollArea/children/rewardList/schema/listTemplate/rewardsPixels/value"
+      ],
+      "interface/scripted/spaceStation/spaceStation.config": [
+        "/gui/shopTotalPrice/value"
+      ],
+      "interface/scripted/techshop/techshop.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/tooltips/armornew.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/armornew2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/contentPages/1"
+      ],
+      "interface/scripted/sbvn/games/cthululove/deepone.sbvn": [
+        "/scenes/intro3a/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Actually, I think it may be in the eyes. It's almost as if he sees you and...knows you. Knows you in ways he shouldn't. He remarked on Doakes's sordid past, and he wasn't there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/aethersea.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/aethersea"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arcticdark.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/arctic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arctic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberstealth.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "quests/tech/distortionsphere/powerboost.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assassin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assemble"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/iceasteroids.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/asteroids"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asteroids"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/atropus.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/atropus"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atropus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/bloodstonesea.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/bloodstonesea"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atropus Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/plurcombat.config": [
+        "/attack/default/default/0"
+      ],
+      "npcs/alienjungle/alienjunglethornhide.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/japaneseruins/japaneseruinsarcher.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/japaneseruins/japaneseruinsoni.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/letheia/letheiaboss.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/pavillion/pavillionarcher.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/pavillion/pavillionsamurai.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/pavillion/pavillionshogun.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/skytemple/skytemplegrower.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/skytemple/skytemplestargazer.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/skytemple/skytemplestarshot.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/volcanobase/volcanobasehunter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/volcanobase/volcanobaselord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/barren2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/barren3.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/barren"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barren"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fu_tutorialQuestList/questData.config": [
+        "/strings/questlines/battle/title"
+      ],
+      "npcs/crew/crewmemberwarrior.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/crewmemberwarrior2.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/crewmemberwarrior3.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidblood.liqitem": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood1.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood3.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood4.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood5.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/dungeondeco/elderblood6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/fublooddiamond/displayName"
+      ],
+      "items/generic/crafting/blooddiamond.item": [
+        "/shortdescription"
+      ],
+      "tiles/mods/fublooddiamond.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Diamond"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/bloodstone.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/bloodstone"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bloodstone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/bog.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/bog"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/woodencentrifuge/woodencentrifuge.object": [
+        "/subtitle"
+      ],
+      "quests/fu_questlines/tutorial/vinj/create_woodencentrifuge.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centrifuge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/cinnabar/displayName"
+      ],
+      "items/generic/crafting/cinnabarore.item": [
+        "/shortdescription"
+      ],
+      "tiles/mods/cinnabar.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cinnabar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/fucontrabandgoods.currency": [
+        "/shortdescription"
+      ],
+      "quests/fu_questlines/science/electronics/create_aichip.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contraband"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/corruption/displayName"
+      ],
+      "items/materials/corruptslimematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/corruptslime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corruption"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/crystalstorm/displayName"
+      ],
+      "items/active/weapons/staff/abilities/crystalstorm/crystalstorm.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Storm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/combatmaneuvering1.questtemplate": [
+        "/title"
+      ],
+      "tech/dash/combatmaneuvering1.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dodge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/bees/alveary/alveary.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/bees/apiary/apiary.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/bees/industrialcentrifuge/industrialcentrifuge.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/bees/ironcentrifuge/ironcentrifuge.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/bees/woodencentrifuge/woodencentrifuge.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/chests/genechest128.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/extractor/extractor.config": [
+        "/gui/dragDrop/value"
+      ],
+      "interface/xenolab/xenolab.config": [
+        "/gui/dragDrop/value"
+      ],
+      "objects/bees/honeyjarrer/honeyjarrer.config": [
+        "/gui/dragDrop/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drag & Drop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/eden.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/eden"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eden"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/icemoon.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/icemoon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Moon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/frozenvolcanic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/frozenvolcanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Volcanic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/fungus.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/fungus"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fungal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/fugasgiant.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/fugasgiant",
+        "/planetTypeNames/fugasgiant2",
+        "/planetTypeNames/fugasgiant3",
+        "/planetTypeNames/fugasgiant4",
+        "/planetTypeNames/fugasgiant5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gas Giant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/slimeworld.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/slimeworld"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gelatinous"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Moustache"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/gravrain/displayName"
+      ],
+      "stats/effects/fu_tileeffects/gravrain/gravrain.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/greg/greg1.codex": [
+        "/title"
+      ],
+      "items/active/weapons/other/skittlegun/skittlegun.activeitem": [
+        "/altAbility/name"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/npcname",
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/mobs/fuhobo.npctype": [
+        "/npcname"
+      ],
+      "npcs/mobs/greg.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/12"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/2",
+        "/scriptConfig/dialog/crewmember/follow/default/default/2",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/2",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+        "/scriptConfig/dialog/crewmember/offer/default/default/2",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
+        "/scriptConfig/dialog/crewmember/penguin/default/2",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/16"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/6",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/6",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/6",
+        "/scriptConfig/dialog/crewmember/follow/default/default/6",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/6",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/6",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/6",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/6",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/6",
+        "/scriptConfig/dialog/crewmember/offer/default/default/6",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/6",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/6",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/6",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
+        "/scriptConfig/dialog/crewmember/penguin/default/6",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/6",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/6",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/6",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg!? Greg. Gregga."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/11"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+        "/scriptConfig/dialog/crewmember/follow/default/default/1",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+        "/scriptConfig/dialog/crewmember/offer/default/default/1",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
+        "/scriptConfig/dialog/crewmember/penguin/default/1",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg. Greeeeg greg greg Greg?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/accuse/default/default/10",
+        "/attack/default/default/14",
+        "/beacon/default/default/10",
+        "/cantReach/default/default/13",
+        "/cheerOn/default/default/13",
+        "/combatBenefit/default/default/13",
+        "/converse/default/default/13",
+        "/converse/default/default/9",
+        "/enclosedArea/default/default/9",
+        "/final/default/default/9",
+        "/killedTarget/default/default/13",
+        "/lostTarget/default/default/13",
+        "/otherDeed/default/default/9",
+        "/outOfSight/default/default/14",
+        "/reattack/default/default/13",
+        "/rent/default/default/9",
+        "/severe/default/default/9",
+        "/tagCriteria/default/default/9"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/3",
+        "/scriptConfig/dialog/crewmember/follow/default/default/3",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/3",
+        "/scriptConfig/dialog/crewmember/offer/default/default/3",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/3",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
+        "/scriptConfig/dialog/crewmember/penguin/default/3",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg. Greg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/17"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/7",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/7",
+        "/scriptConfig/dialog/crewmember/follow/default/default/7",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/7",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/7",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/7",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/7",
+        "/scriptConfig/dialog/crewmember/offer/default/default/7",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/7",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/7",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
+        "/scriptConfig/dialog/crewmember/penguin/default/7",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/7",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg. Gregogreg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/10"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/follow/default/default/0",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+        "/scriptConfig/dialog/crewmember/offer/default/default/0",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
+        "/scriptConfig/dialog/crewmember/penguin/default/0",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/15"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/5",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/5",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/5",
+        "/scriptConfig/dialog/crewmember/follow/default/default/5",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/5",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/5",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/5",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/5",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/5",
+        "/scriptConfig/dialog/crewmember/offer/default/default/5",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/5",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/5",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/5",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
+        "/scriptConfig/dialog/crewmember/penguin/default/5",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/5",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/5",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/5",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gregggggga gregga greg greg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/helium3gasliquid.liqitem": [
+        "/shortdescription"
+      ],
+      "stats/effects/fu_tileeffects/helium3/helium3.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Helium-3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/ffhive.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/hivebeestonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/honey/hivebush/hivebush.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/games/cthululove/deepone.sbvn": [
+        "/scenes/song1/options/0/0"
+      ],
+      "npcs/crew/crewmemberarctic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmemberbiohazard.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmembergas.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmembermagicalgirl.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmemberscience.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmemberscuba.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmembershadow.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ],
+      "npcs/crew/crewmembervolcanologist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/science/flamepistol/isn_flamethrower.activeitem": [
+        "/shortdescription"
+      ],
+      "objects/power/isn_incinerator/isn_incinerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incinerator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/infernus.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/infernusdark.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/infernus"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/futentacle.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/fubuggy/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infested"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/irradiated.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/irradiated"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradiated"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/irradium/displayName"
+      ],
+      "tiles/mods/irradium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irradium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/isogen/displayName"
+      ],
+      "tiles/mods/isogen.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isogen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lvl. 100"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techshop/techshop.config": [
+        "/gui/lblProduct/value"
+      ],
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MATERIALS AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/contentPages/0"
+      ],
+      "interface/scripted/sbvn/games/cthululove/deepone.sbvn": [
+        "/scenes/intro3c/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "MacReady has been acting strange lately. I can't place my finger on it, but ever since that...thing...fell under his operating knife he's changed. It's unsettling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/mountainous.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/mountainous2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/mountainous3.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/mountainous4.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/mountainous"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mountainous"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/neptunium/displayName"
+      ],
+      "tiles/mods/neptunium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neptunium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/nitrogenseafloor.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/nitrogensea"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nitrogen Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PRODUCT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/penumbra.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/penumbra"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penumbra"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/penumbrite/displayName"
+      ],
+      "tiles/mods/penumbrite.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penumbrite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedbootsprecursor.questtemplate": [
+        "/title"
+      ],
+      "tech/dash/speedbootsprecursor.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Rig"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerblue/flowerblue.object": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/cloudspin/cloudspin.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arboreal.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/arboreal2.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/arboreal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primeval Forest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/protocite/displayName"
+      ],
+      "items/generic/crafting/protociteore.item": [
+        "/shortdescription"
+      ],
+      "tiles/mods/protocite.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protocite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/pyreite/displayName"
+      ],
+      "tiles/mods/pyreite.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyreite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/quietus/displayName"
+      ],
+      "tiles/mods/quietus.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quietus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
+        "/converse/default/default/14"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/4",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/4",
+        "/scriptConfig/dialog/crewmember/follow/default/default/4",
+        "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/4",
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/4",
+        "/scriptConfig/dialog/crewmember/offer/apex/default/4",
+        "/scriptConfig/dialog/crewmember/offer/avian/default/4",
+        "/scriptConfig/dialog/crewmember/offer/default/default/4",
+        "/scriptConfig/dialog/crewmember/offer/floran/default/4",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/4",
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
+        "/scriptConfig/dialog/crewmember/penguin/default/4",
+        "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/4",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/4",
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/thickjungle.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/thickjungle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainforest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/nocxiumore.item": [
+        "/shortdescription"
+      ],
+      "tiles/mods/nocxium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Nocxium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/kheAA/kheAA_terminal/kheAA_terminalGui.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/collections/collectionsgui.config": [
+        "/gui/scrollAreaCustom/children/customCollectionList/schema/listTemplate/collectionName/value"
+      ],
+      "interface/scripted/fm_musicplayer/fm_musicplayer.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/fu_matmodplacer/fu_matmodplacer.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/miningbench/miningbench.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/techshop/techshop.config": [
+        "/gui/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/weaponupgrade2/weaponupgrade2gui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replace Me"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit2.consumable": [
+        "/description"
+      ],
+      "stats/effects/heal/heal_long.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 125 health over 10 seconds, and instantly cures most status effects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit3.consumable": [
+        "/description"
+      ],
+      "stats/effects/heal/heal_long2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 150 health over 10 seconds, and instantly cures most status effects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit4.consumable": [
+        "/description"
+      ],
+      "stats/effects/heal/heal_long3.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 200 health over 10 seconds, and instantly cures most status effects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SCHEMATICS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/abilities/broadsword/fusuperflipslash/fuchainflipslash.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/melee/abilities/broadsword/fusuperflipslash/fusuperflipslash.weaponability": [
+        "/ability/name"
+      ],
+      "tech/screwattack/screwattack.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screw Attack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/fm_musicplayer/fm_musicplayer.config": [
+        "/gui/filter/hint"
+      ],
+      "interface/scripted/fu_matmodplacer/fu_matmodplacer.config": [
+        "/gui/filter/hint"
+      ],
+      "interface/scripted/techshop/techshop.config": [
+        "/gui/filter/hint"
+      ],
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/filter/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Search"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/moon_shadow.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/moon_metallic",
+        "/planetTypeNames/moon_shadow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Moon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/shoggoth2/shoggoth2.monstertype": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/elderpainting4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoggoth"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/snowdark.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/snow/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/junkmod/displayName"
+      ],
+      "items/generic/crafting/ff_spareparts.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spare Parts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedbootsweak.questtemplate": [
+        "/title"
+      ],
+      "tech/dash/speedbootsweak.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stimulant Rig"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots.questtemplate": [
+        "/title"
+      ],
+      "quests/tech/dash/speedboots2.questtemplate": [
+        "/title"
+      ],
+      "tech/dash/speedboots.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stimulant Rig II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedboots3.questtemplate": [
+        "/title"
+      ],
+      "tech/dash/speedboots2.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stimulant Rig III"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/strangesea.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/strangesea"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange Sea"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/sulphuric.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/sulphuricdark.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/sulphuricocean.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/sulphuric"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphuric"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tabularasa.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/tabularasa"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tabula Rasa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/thorium/displayName"
+      ],
+      "tiles/mods/thorium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tundradark.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/tundra"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tundra"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ffunknown",
+        "/threatLevelText/moon/0"
+      ],
+      "radiomessages/fu_elder.radiomessages": [
+        "/shoggothmission16/senderName",
+        "/shoggothmission17/senderName",
+        "/shoggothmission18/senderName",
+        "/shoggothmission19/senderName",
+        "/shoggothmission20/senderName",
+        "/shoggothmission21/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/scienceoutpost/moonlit_comet/moonlitcomet.object": [
+        "/shortdescription"
+      ],
+      "objects/scienceoutpost/moonlit_comet/moonlitcomet2.object": [
+        "/shortdescription"
+      ],
+      "radiomessages/fu_elder.radiomessages": [
+        "/shoggothmission0/senderName",
+        "/shoggothmission1/senderName",
+        "/shoggothmission10/senderName",
+        "/shoggothmission11/senderName",
+        "/shoggothmission12/senderName",
+        "/shoggothmission13/senderName",
+        "/shoggothmission13a/senderName",
+        "/shoggothmission14/senderName",
+        "/shoggothmission15/senderName",
+        "/shoggothmission1a/senderName",
+        "/shoggothmission2/senderName",
+        "/shoggothmission22/senderName",
+        "/shoggothmission3/senderName",
+        "/shoggothmission4/senderName",
+        "/shoggothmission5/senderName",
+        "/shoggothmission6/senderName",
+        "/shoggothmission7/senderName",
+        "/shoggothmission8/senderName",
+        "/shoggothmission9/senderName",
+        "/shoggothmissiongoretunnel/senderName",
+        "/shoggothmissionlore/senderName",
+        "/shoggothmissionlore2/senderName",
+        "/shoggothmissionmicrosphere/senderName",
+        "/shoggothmissionshootdoor/senderName",
+        "/shoggothmissionvinwagner/senderName"
+      ],
+      "radiomessages/fu_exploration.radiomessages": [
+        "/mamapoptop1/senderName",
+        "/mamapoptop2/senderName",
+        "/mamapoptop3/senderName",
+        "/mamapoptop4/senderName",
+        "/mamapoptop5/senderName",
+        "/mamapoptop6/senderName",
+        "/mamapoptopdoorshoot1/senderName",
+        "/mamapoptopdoorshoot2/senderName"
+      ],
+      "radiomessages/fu_quests.radiomessages": [
+        "/fu_outpost1/senderName",
+        "/fu_outpost2/senderName",
+        "/fu_start_Complete/senderName",
+        "/fu_start_Complete2/senderName",
+        "/fu_start_greetings0/senderName",
+        "/fu_start_greetings1/senderName",
+        "/fu_start_greetings2/senderName",
+        "/fu_start_makeElectromagnet/senderName",
+        "/fu_start_makeTable/senderName",
+        "/fu_start_makeWire/senderName",
+        "/fu_start_needstricorder/senderName",
+        "/fu_start_needstricorder2/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vinalisj"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmawall1.matitem": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/iceball/iceball_rock.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed3.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed4.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed5.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed6.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed7.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock/volcanicrockseed8.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed3.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed4.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed5.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/volcanicrock2/volcanicrock2seed6.object": [
+        "/shortdescription"
+      ],
+      "tiles/materials/magmatile/magmatile1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/urbanwasteland.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/urbanwasteland2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/wastelandmini.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/wastelandminimoon.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/urbanwasteland"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wasteland"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/mobility/fuwaterwalk.augment": [
+        "/shortdescription"
+      ],
+      "stats/effects/waterwalk/waterwalk.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/waterwalk/waterwalk2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water Walk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/shoggothdungeon/wagner2.codex": [
+        "/contentPages/2"
+      ],
+      "interface/scripted/sbvn/games/cthululove/deepone.sbvn": [
+        "/scenes/intro4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We found one of the dogs this morning. It had been strung up and vivisected. Its organs were in a neat pile beside it on the floor, stacked to resemble that malign aberration I found."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/xithricite/displayName"
+      ],
+      "items/generic/crafting/fissionfurnace/xithricitecrystal.item": [
+        "/shortdescription"
+      ],
+      "tiles/mods/xithricite.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Xithricite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/zerchesium/displayName"
+      ],
+      "tiles/mods/zerchesium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zerchesium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/bow2.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/fist2.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/gunkevin.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/shieldnew.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/sword2.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/swordunique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/boomerang.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/chakram.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/fist2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/gun2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/gunkevin.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/gununique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/magnorb.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/shieldnew.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/sword2.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/swordunique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "objects/minibiome/various/snowtree1.object": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "tree"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avalibench.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avalidisplayapparatus.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avalilathe.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avaliloom.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/extractionlab.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/kitchen.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/powerpress.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "objects/crafting/sproutingtable/sproutingtable.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "objects/crafting/xenostation/xenolab.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "objects/power/isn_radiostation/configs/isn_medicalvendor.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "objects/power/isn_radiostation/configs/isn_seedsvendor.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,3}"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/armory.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/beerefuge.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/beestation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/boozekit.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/chemlab.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/clothingfabricator.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingcrewshop.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/designlab.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/distill.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/ferment.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/fissionfurnace.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/fruitpress.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/fu_shipcraftingtable.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/fuempty.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/genesequencer.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/mash.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/medievalworkstation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/nanofabricator.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/powerstation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/prototyper.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/radienshop.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/radienshopdrug.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/samplingarray2.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/xenostation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "objects/power/isn_radiostation/configs/isn_miningvendor.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,4}"
+    }
+  }
+]

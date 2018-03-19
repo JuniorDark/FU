@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/teslagun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supreme long-ranged option for snipers\n^yellow;Inflicts Electrified^reset;\n^cyan;Amazing crowd control^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/teslagun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tesla Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/teslagun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrath of Thor"
+    }
+  }
+]

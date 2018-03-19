@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/gravgenerator/gravgen.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temporarily disabled since it ain't workin anyhow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/gravgenerator/gravgen.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Gravity Generator^white;"
+    }
+  }
+]

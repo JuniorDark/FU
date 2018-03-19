@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/speedbootsweak.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase speed, gain a dash, but suffer energy reduction. Passive."
+    }
+  }
+]

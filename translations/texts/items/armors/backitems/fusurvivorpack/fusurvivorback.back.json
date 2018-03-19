@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/fusurvivorpack/fusurvivorback.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grants +15% Health and Energy, and a mild glow. Prevents proto-poison and blocks effects of electrical storms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/fusurvivorpack/fusurvivorback.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Type-S Survival Pack"
+    }
+  }
+]

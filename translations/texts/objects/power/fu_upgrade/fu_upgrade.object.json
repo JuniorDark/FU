@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/fu_upgrade/fu_upgrade.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does nothing at all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/fu_upgrade/fu_upgrade.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'm broken. Why U Spawn?^white;"
+    }
+  }
+]

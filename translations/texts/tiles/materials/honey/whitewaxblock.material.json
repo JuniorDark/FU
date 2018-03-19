@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/whitewaxblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "White Wax Block"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/cloudbush/cloudbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shrub."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/cloudbush/cloudbush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshrub."
+    }
+  }
+]

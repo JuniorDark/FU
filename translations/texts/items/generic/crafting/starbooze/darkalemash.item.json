@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkalemash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ale mash, the product of malt, yellow petals and water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/darkalemash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Ale Mash"
+    }
+  }
+]

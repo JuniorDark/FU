@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Actually capable of cutting.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/upgradeParameters2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somewhat dangerous.\n^cyan;Gods fear it. Women crave it.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useless"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wax Sword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/upgradeParameters2/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;God Cleaver^reset; ^yellow;î¤^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/waxsword.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Wax Slasher^reset; ^yellow;î¤^reset;"
+    }
+  }
+]

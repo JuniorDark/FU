@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/peppergrass/peppergrass.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pepper Grass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/peppergrass/peppergrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spicy grass. That's new."
+    }
+  }
+]

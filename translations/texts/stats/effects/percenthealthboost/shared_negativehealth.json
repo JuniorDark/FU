@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/percenthealthboost/negativehealth.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/percenthealthboost/negativehealthirradiated.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "HP -15%"
+    }
+  }
+]

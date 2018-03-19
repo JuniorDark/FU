@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/eldertile.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown stone that meshes perfectly."
+    }
+  }
+]

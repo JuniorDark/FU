@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedbootsweak.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can probably improve on this substantially as I learn more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/tech/dash/speedbootsweak.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Using what I've learned from research, I have devised a new tech. The ^orange;Stimulant Rig^reset;! It injects ^red;unsafe levels of narcotic stimulants^reset; to provide a constant speed boost! Hurray!"
+    }
+  }
+]

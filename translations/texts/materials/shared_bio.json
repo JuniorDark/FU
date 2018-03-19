@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bioblockmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bioworld/bioblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bioworld/bioblock2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Shale"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biodirtmaterial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bioworld/biodirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Soil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biostonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bioworld/biostone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto Stone"
+    }
+  }
+]

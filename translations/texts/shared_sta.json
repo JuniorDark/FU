@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/abilities/entropicwarding/entropicwarding.weaponability": [
+        "/ability/name"
+      ],
+      "stats/effects/entropicward/entropicward.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/entropicward/myphisfx.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entropic Warding"
+    }
+  }
+]

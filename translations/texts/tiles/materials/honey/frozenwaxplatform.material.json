@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/frozenwaxplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful icy wax platforms."
+    }
+  }
+]

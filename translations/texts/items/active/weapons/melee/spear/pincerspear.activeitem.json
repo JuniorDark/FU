@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/pincerspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A two-sided blade for twice the fun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/spear/pincerspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pincer Spear"
+    }
+  }
+]

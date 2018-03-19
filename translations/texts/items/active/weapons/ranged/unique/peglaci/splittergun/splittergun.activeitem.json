@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/splittergun/splittergun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fissure Splitrifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/splittergun/splittergun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The peglaci honed them, but you perfected them. A devastating weapon."
+    }
+  }
+]

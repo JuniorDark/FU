@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/furecon/furecon.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/furecon/furecon.head": [
+        "/description"
+      ],
+      "items/armors/tier2/furecon/furecon.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+15% Damage (Rifle, Sniper Rifle), +5% Speed^reset;\n^green;+12% Radioactive Resist, Immune: Rad Burn^reset;"
+    }
+  }
+]

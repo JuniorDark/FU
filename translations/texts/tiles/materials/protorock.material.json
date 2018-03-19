@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/protorock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is most...unusual."
+    }
+  }
+]

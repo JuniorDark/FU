@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuminelayer/fuminelayer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make minced-meat with minefields\n^yellow;Inflicts burning^reset;\n^green;Devastates large area^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/peglaci/fuminelayer/fuminelayer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mine Launcher"
+    }
+  }
+]

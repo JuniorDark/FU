@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/hematite.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark black rock formed of iron."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/other/hematite.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hematite"
+    }
+  }
+]

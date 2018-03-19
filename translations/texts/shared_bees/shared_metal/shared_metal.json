@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/metal/metalqueen.item": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/fugiantbees/fugiantmetalbee/fugiantmetalbee2.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Queen"
+    }
+  }
+]

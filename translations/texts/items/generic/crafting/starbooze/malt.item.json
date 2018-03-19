@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/malt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roasted sprouted wheat!"
+    }
+  }
+]

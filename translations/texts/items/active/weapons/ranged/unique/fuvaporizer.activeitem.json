@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fuvaporizer.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bio-Disruptor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fuvaporizer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Negative energy eradicates all solid matter\n^yellow;Extreme fire speed^reset;\n^green;Paralyzing alt-Fire^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/fuvaporizer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Vaporizer"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/effigiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An almost invisible crystalline metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/effigiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Effigium Ore"
+    }
+  }
+]

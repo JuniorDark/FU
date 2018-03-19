@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderrubble.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder Rubble"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderrubble.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone rubble which appears to be debris from an old structure."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform of Avali design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avali platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avaliplatform.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floorrr."
+    }
+  }
+]

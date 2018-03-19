@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwallcling2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grip better, get buffs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/fuwallcling2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Magnet Grip II^reset;"
+    }
+  }
+]

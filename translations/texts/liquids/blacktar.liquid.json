@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/blacktar.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick, encumbering, and goopy tar."
+    }
+  }
+]

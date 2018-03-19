@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_rage.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anger and rage, and rage and anger. Grr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/xenostation/gene_rage.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Epinephrine"
+    }
+  }
+]

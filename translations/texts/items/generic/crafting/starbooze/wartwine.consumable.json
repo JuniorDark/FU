@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/wartwine.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmm. Warty alcohol. That sounds...tasty?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/wartwine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wart Wine"
+    }
+  }
+]

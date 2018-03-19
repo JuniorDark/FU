@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/emptybottle2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Glass Bottle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/emptybottle2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just an empty glass bottle."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/tilesandgreebles/hitechmetalblock.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tilesandgreebles/hitechmetalblock.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-Tech Block"
+    }
+  }
+]

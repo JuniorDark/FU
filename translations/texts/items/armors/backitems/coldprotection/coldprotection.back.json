@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/coldprotection/coldprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Ice Resist. Useful on ^red;low to moderate cold^reset; planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/coldprotection/coldprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heating EPP"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/quarterstaff/cutequarterstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beat em down.\n^yellow;Counts as 'energy' for set bonuses^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/quarterstaff/cutequarterstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Quarterstaff"
+    }
+  }
+]

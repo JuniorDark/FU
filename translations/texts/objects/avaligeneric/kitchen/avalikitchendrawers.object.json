@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "*Sigh* how do the Avali live in such dull surroundings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-Tech Drawers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think the designer was trying too hard to make these look futuristic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some things can't really be improved upon, drawers are one of those things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstabproof drawersss, cursse the not-birdmen!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These drawers are shiny, I have the over-riding urge to take them back to my nest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/avaliDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These drawers have mag-lev rails for silent gliding, air transfer to avoid feedback, automatic inventory keeping, and... are a little over-engineered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "They have little metal punch marks, I guess that makes them hi-tech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well hello there~"
+    }
+  }
+]

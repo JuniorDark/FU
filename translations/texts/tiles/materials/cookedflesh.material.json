@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedflesh.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of flesh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedflesh.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hideous, cooked block made of some kind of flesh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedflesh.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooked Flesh Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedflesh.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy pre-cooked meat block."
+    }
+  }
+]

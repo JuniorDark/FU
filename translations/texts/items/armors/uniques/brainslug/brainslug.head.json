@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/uniques/brainslug/brainslug.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attaches to your face. Grants agility and Aether immunity, but heavily impacts energy supply and increases hunger rate."
+    }
+  }
+]

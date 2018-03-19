@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/precursordecorative.material": [
+        "/description"
+      ],
+      "tiles/materials/precursordetail.material": [
+        "/description"
+      ],
+      "tiles/materials/precursorfloor.material": [
+        "/description"
+      ],
+      "tiles/materials/precursorfloor2.material": [
+        "/description"
+      ],
+      "tiles/materials/precursorpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/precursorwall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient construct of unknown origin"
+    }
+  }
+]

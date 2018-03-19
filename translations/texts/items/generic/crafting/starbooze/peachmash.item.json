@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/peachmash.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peach Mash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/peachmash.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peach Mash, the product of crushed and squeezed peaches."
+    }
+  }
+]

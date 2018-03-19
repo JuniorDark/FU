@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/magmatile/magmatile1.material": [
+        "/description"
+      ],
+      "tiles/materials/magmatile/magmatile2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning-hot magma walls. You should probably not touch this."
+    }
+  }
+]

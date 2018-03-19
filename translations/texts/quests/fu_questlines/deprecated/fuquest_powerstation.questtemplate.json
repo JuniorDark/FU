@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/deprecated/fuquest_powerstation.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Other options for power include Solar, Combustion, Fission and Quantum power generation. Each has pros and cons. You'll definitely want to try them each."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/deprecated/fuquest_powerstation.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wind Power"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/deprecated/fuquest_powerstation.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can generate power in many ways. Alternator generators are just the simplest. Try building a ^orange;Wind Turbine^reset;, and see how useful they get in a windstorm!"
+    }
+  }
+]

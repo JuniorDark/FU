@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/tier2/mantiziroyalguard/royalguard.chest": [
+        "/description"
+      ],
+      "items/armors/tier2/mantiziroyalguard/royalguard.head": [
+        "/description"
+      ],
+      "items/armors/tier2/mantiziroyalguard/royalguard.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Set Bonus:\n^cyan;+15% Damage (Short Spear, Spear,Lance)^reset; \n^green;+15% Knockback Resistance^reset;"
+    }
+  }
+]

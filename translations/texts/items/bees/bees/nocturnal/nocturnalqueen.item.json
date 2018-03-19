@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/nocturnal/nocturnalqueen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark and in charge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/bees/nocturnal/nocturnalqueen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nocturnal Queen"
+    }
+  }
+]

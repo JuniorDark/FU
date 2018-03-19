@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mechgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rifle popular in ages long-past by those known as the Precursors"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/mechgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Precursor Rifle"
+    }
+  }
+]

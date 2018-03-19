@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/parkinglot.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parking Lot"
+    }
+  }
+]

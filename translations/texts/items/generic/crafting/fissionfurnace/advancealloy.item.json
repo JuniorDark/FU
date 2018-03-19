@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/advancealloy.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compression of various metals has resulted in a super strong metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fissionfurnace/advancealloy.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#88e25b;Advanced Alloy^reset;"
+    }
+  }
+]

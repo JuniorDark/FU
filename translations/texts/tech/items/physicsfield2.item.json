@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This implant allows you to ignore the laws of physics in motion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/items/physicsfield2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Physics Field II^reset;"
+    }
+  }
+]

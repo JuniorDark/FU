@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/sciencebrochure.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An informational brochure about a science facility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/sciencebrochure.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come Visit Us!"
+    }
+  }
+]

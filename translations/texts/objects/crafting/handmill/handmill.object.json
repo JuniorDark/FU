@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/handmill/handmill.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Block Extractor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/handmill/handmill.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extracts useful materials from most block types."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/handmill/handmill.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Hand Mill^white;"
+    }
+  }
+]

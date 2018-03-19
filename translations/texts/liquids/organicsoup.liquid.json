@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/organicsoup.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique and unusual biological liquid."
+    }
+  }
+]

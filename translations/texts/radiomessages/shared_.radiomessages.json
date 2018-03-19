@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_starbooze.radiomessages": [
+        "/pickupbooze1/text"
+      ],
+      "radiomessages/fu_stations.radiomessages": [
+        "/pickupmatterassembler/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've created a Matter Assembler? Excellent. You can use this technology to create a wide assortment of technological gear, resources and lab equipment."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_immunityeffects/poisonimmunity.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_immunityeffects/poisonimmunitycrystal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_immunityeffects/poisonimmunityspongeweed.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antidote"
+    }
+  }
+]

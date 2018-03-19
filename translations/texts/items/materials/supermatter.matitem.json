@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius Crystal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extract this for some galactic standard fuel."
+    }
+  }
+]

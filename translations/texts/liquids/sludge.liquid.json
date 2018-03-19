@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/sludge.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of stench-ridden, putrid sludge."
+    }
+  }
+]

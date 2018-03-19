@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/starspawnstatue.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/starspawnstatue2.object": [
+        "/shortdescription"
+      ],
+      "objects/minibiome/elder/starspawnstatue3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrid Statue"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/protociteore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique element found only on protoworlds."
+    }
+  }
+]

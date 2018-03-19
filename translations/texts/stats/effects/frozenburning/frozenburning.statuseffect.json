@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/frozenburning/frozenburning.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "frozenburning"
+    }
+  }
+]

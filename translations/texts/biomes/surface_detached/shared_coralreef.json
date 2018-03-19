@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/coralreef.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/coralreefdark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reef"
+    }
+  }
+]

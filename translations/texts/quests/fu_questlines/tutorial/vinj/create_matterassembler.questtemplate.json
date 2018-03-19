@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/scriptConfig/descriptions/makeTable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create a ^orange;Machining Table^reset; in your ^green;[C]rafting menu^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/scriptConfig/descriptions/cavern"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the cavern aand investigate the ^orange;Energy Source^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps this friendly creature can help us repair our ship and get off of this world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Repairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to ^green;Vinalisj^reset;, you've managed your first steps towards escaping this planet. He's given you a super-useful ^orange;Personal Tricorder^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/scriptConfig/descriptions/makeWire"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the ^green;Machining Table^reset; to create ^orange;Wire^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/tutorial/vinj/create_matterassembler.questtemplate": [
+        "/scriptConfig/descriptions/makeElectromagnet"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the ^green;Machining Table^reset; to create an ^orange;Electromagnet^reset;"
+    }
+  }
+]

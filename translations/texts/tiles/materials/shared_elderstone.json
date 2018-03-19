@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/elderstone.material": [
+        "/description"
+      ],
+      "tiles/materials/elderstone2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This material feels...wrong."
+    }
+  }
+]

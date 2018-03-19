@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/longjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A huge upward leap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/longjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Power Jump"
+    }
+  }
+]

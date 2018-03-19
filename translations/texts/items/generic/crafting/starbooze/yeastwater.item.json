@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/yeastwater.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle filled with brewing yeast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/starbooze/yeastwater.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yeast Water"
+    }
+  }
+]

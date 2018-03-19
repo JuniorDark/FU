@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/boomerang.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/chakram.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/magnorb.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Base Damage:"
+    }
+  }
+]

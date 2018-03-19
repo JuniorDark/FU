@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/racks/swords/theforgottenhero.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avali sword on display, it's my first sword!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/racks/swords/theforgottenhero.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Forgotten Hero"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmawall3.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Probably not tasty."
+    }
+  }
+]

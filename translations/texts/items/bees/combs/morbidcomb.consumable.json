@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/morbidcomb.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A honeycomb, filled with the souls of the living. Increases shadow resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/bees/combs/morbidcomb.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Morbid Honeycomb"
+    }
+  }
+]

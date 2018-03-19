@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/andesite.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rough volcanic rock."
+    }
+  }
+]

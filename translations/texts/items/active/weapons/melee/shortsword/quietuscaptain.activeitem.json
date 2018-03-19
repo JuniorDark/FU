@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietuscaptain.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captains's Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/quietuscaptain.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quietus forged for a leader."
+    }
+  }
+]

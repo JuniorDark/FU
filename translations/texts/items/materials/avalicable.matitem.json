@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalicable.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A little bit of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalicable.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small bit of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalicable.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avali Hull Plating"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avalicable.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssteel."
+    }
+  }
+]

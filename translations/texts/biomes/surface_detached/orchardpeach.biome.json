@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/orchardpeach.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peach Orchard"
+    }
+  }
+]

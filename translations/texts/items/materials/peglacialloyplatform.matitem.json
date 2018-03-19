@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacialloyplatform.matitem": [
+        "/peglacidescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy platform made of a Peglaci alloy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacialloyplatform.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold platform - feelsss hard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/peglacialloyplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform is sturdy beneath my feet."
+    }
+  }
+]

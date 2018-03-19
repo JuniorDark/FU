@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/freeze/freeze.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/freeze/freezefu.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/freeze/freezefu2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen"
+    }
+  }
+]

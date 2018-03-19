@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/nitrogensea.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nitrogen Ocean"
+    }
+  }
+]

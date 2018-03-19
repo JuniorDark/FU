@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/isn_radiostation.object": [
+        "/shortdescription"
+      ],
+      "objects/power/isn_radiostation/isn_radiostationnew.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ansible Network^white;"
+    }
+  }
+]

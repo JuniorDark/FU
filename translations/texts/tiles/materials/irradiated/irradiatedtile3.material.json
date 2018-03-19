@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/irradiated/irradiatedtile3.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yea, this definitely is NOT safe to touch."
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/fumossyrock.material": [
+        "/description",
+        "/shortdescription"
+      ],
+      "tiles/materials/fumossyrock2.material": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Stone"
+    }
+  }
+]

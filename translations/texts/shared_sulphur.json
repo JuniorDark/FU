@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sulphurstonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sulphuric/sulphurstone.material": [
+        "/shortdescription"
+      ],
+      "tiles/mods/sulphuricgrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphuric Stone"
+    }
+  }
+]
