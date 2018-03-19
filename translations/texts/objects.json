@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It should be stocked full of science journals and lab reports."
+      "Eng": "It should be stocked full of science journals and lab reports.",
+      "Por": "Deve estar cheio de revistas científicas e relatórios de laboratório."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lab Bookcase"
+      "Eng": "Lab Bookcase",
+      "Por": "Lab Bookcase"
     }
   },
   {
@@ -50,7 +52,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Resource converter"
+      "Eng": "Resource converter",
+      "Por": "Conversor de recursos"
     }
   }
 ]
