@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Ice Resist. Useful on ^red;low to moderate cold^reset; planets."
+      "Eng": "+20% Ice Resist. Useful on ^red;low to moderate cold^reset; planets.",
+      "Por": "Esta melhoria adiciona a geração de calor para as capacidades do seu EPP. Útil em planetas ^red;perigosamente frios^reset;."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Heating EPP"
+      "Eng": "Heating EPP",
+      "Por": "Heating EPP Upgrade"
     }
   }
 ]

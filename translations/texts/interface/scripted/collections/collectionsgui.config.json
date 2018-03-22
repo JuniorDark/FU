@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Catalogue everything you've seen and done!"
+      "Eng": "Catalogue everything you've seen and done!",
+      "Por": "Catalogue tudo o que você viu e fez!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Collection"
+      "Eng": "Collection",
+      "Por": "Coleção"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Collections Library"
+      "Eng": "Collections Library",
+      "Por": "Biblioteca de Coleções"
     }
   },
   {
@@ -51,7 +54,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Select a collection to the left"
+      "Eng": "Select a collection to the left",
+      "Por": "Selecione uma coleção à esquerda"
     }
   }
 ]

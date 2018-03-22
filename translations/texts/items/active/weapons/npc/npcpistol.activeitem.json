@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A small semi-automatic handgun with a decent rate-of-fire and accuracy."
+      "Eng": "A small semi-automatic handgun with a decent rate-of-fire and accuracy.",
+      "Por": "Uma arma pequena."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Semi-Automatic Pistol"
+      "Eng": "NPC Semi-Automatic Pistol",
+      "Por": "NPC Pistol"
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "BOLHA EXPLOSIVA"
+    ],
     "Files": {
       "monsters/generated/skills/ranged/bubbleBlastAttack.monsterskill": [
         "/label"

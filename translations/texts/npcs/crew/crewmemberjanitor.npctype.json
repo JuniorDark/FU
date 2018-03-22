@@ -18,7 +18,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cleanliness"
+      "Eng": "Cleanliness",
+      "Por": "Limpeza"
     }
   },
   {
@@ -29,7 +30,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran is <selfname>... Floran's job is to sssweep. A lot."
+      "Eng": "Floran is <selfname>... Floran's job is to sssweep. A lot.",
+      "Por": "Floran é <selfname>... O trabalho de Floran é varrer. Muito."
     }
   },
   {
@@ -40,7 +42,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran's name is <selfname>. <selfname> the Janitor."
+      "Eng": "Floran's name is <selfname>. <selfname> the Janitor.",
+      "Por": "O nome de Floran é <selfname>. <selfname> o Zelador(a)."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm <selfname>... The janitor."
+      "Eng": "I'm <selfname>... The janitor.",
+      "Por": "Eu sou <selfname>... O zelador(a)."
     }
   },
   {
@@ -63,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Janitor"
+      "Eng": "Janitor",
+      "Por": "Zelador(a)"
     }
   },
   {
@@ -74,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The name's <selfname>, the Janitor. I take whatever work I can get round here."
+      "Eng": "The name's <selfname>, the Janitor. I take whatever work I can get round here.",
+      "Por": " Sou <selfname>, o Zelador(a). Eu pego qualquer trabalho que eu posso obter por aqui."
     }
   },
   {
@@ -85,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The name's <selfname>... The janitor."
+      "Eng": "The name's <selfname>... The janitor.",
+      "Por": " Sou <selfname>... O Zelador(a)."
     }
   },
   {
@@ -96,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "When a floor get's all dusty, someone's gotta sweep. That's the way it is."
+      "Eng": "When a floor get's all dusty, someone's gotta sweep. That's the way it is.",
+      "Por": "Quando um piso fica todo empoeirado, alguém tem que varrer. É assim que é."
     }
   }
 ]

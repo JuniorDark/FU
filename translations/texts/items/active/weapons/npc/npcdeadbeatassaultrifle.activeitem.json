@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A rusty military grade rifle."
+      "Eng": "A rusty military grade rifle.",
+      "Por": "Um rifle militar enferrujado."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Deadbeat Assault Rifle"
+      "Eng": "NPC Deadbeat Assault Rifle",
+      "Por": "NPC Deadbeat Assault Rifle"
     }
   }
 ]

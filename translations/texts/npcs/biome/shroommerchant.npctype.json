@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "  Agaran Merchant"
+      "Eng": "  Agaran Merchant",
+      "Por": "Comerciante Agaran"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "  Shroomy salesman selling stuff"
+      "Eng": "  Shroomy salesman selling stuff",
+      "Por": "Vendedor Shroomy vendendo coisas "
     }
   }
 ]

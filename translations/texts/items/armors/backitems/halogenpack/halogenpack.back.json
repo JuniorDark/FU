@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A backpack with an attached halogen light. It's very bright!"
+      "Eng": "A backpack with an attached halogen light. It's very bright!",
+      "Por": "Uma mochila com uma luz halogênica anexada. É muito brilhante!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Halogen Pack"
+      "Eng": "Halogen Pack",
+      "Por": "Halogen Pack"
     }
   }
 ]

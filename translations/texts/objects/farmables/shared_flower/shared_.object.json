@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A tintura de flores amarelas é bastante usado na cultura Avian.",
+      "As pétalas desta flor podem ser usadas para fazer tintura vermelha, uma cor versátil e poderosa."
+    ],
     "Files": {
       "objects/farmables/flowerred/flowerred.object": [
         "/avianDescription"
@@ -10,7 +13,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A cute flower."
+      "Eng": "A cute flower.",
+      "Por": "Uma flor fofa."
     }
   }
 ]

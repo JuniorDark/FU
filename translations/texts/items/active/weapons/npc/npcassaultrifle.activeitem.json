@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A fully-automatic, military grade rifle, with decent stopping power and accuracy."
+      "Eng": "A fully-automatic, military grade rifle, with decent stopping power and accuracy.",
+      "Por": "Um rifle de nível militar totalmente automático."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Assault Rifle"
+      "Eng": "NPC Assault Rifle",
+      "Por": "NPC Assault Rifle"
     }
   }
 ]

@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An automatic rifle made of organic material."
+      "Eng": "An automatic rifle made of organic material.",
+      "Por": "Um rifle automático feito de material orgânico."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Floran Assault Rifle"
+      "Eng": "NPC Floran Assault Rifle",
+      "Por": "NPC Floran Assault Rifle"
     }
   }
 ]

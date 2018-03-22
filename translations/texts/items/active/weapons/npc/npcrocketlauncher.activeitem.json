@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Rocket Launcher"
+      "Eng": "NPC Rocket Launcher",
+      "Por": "NPC Rocket Launcher"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ideal man-portable weapon of choice for taking down rampaging tanks, mecha, and giant monsters, if you can handle the long reload time."
+      "Eng": "The ideal man-portable weapon of choice for taking down rampaging tanks, mecha, and giant monsters, if you can handle the long reload time.",
+      "Por": "O poder para explodir as coisas."
     }
   }
 ]

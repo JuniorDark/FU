@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/documents/ffguide.codex": [
-        "/contentPages/20"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Finding Resources :^white; - Genetic Material is most commonly found in meats, certain plants and similar stuff. You'll find Raw Minerals in stone, ore and other things rich in mineral content. Tissue Culture is most common from plants, seeds and produce. Nutrient Paste is common in most soils."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "codex/documents/ffguide.codex": [
         "/contentPages/14"
       ]
     },
@@ -124,7 +113,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/documents/ffguide.codex": [
-        "/contentPages/21"
+        "/contentPages/20"
       ]
     },
     "Texts": {
@@ -168,7 +157,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/documents/ffguide.codex": [
-        "/contentPages/23"
+        "/contentPages/22"
       ]
     },
     "Texts": {
@@ -212,7 +201,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/documents/ffguide.codex": [
-        "/contentPages/22"
+        "/contentPages/21"
       ]
     },
     "Texts": {

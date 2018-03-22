@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Talos de bambu cortados recentemente."
+    ],
     "Files": {
       "items/materials/bamboo.matitem": [
         "/shortdescription"
@@ -11,7 +13,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bamboo"
+      "Eng": "Bamboo",
+      "Por": "Bamboo"
     }
   },
   {
@@ -25,7 +28,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssticks."
+      "Eng": "Sssticks.",
+      "Por": "Taloss de bambu fresco"
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um arbusto pantanoso."
+    ],
     "Files": {
       "plants/bushes/ground/swampplant/swampplant.bush": [
         "/description",
@@ -14,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A swampy plant."
+      "Eng": "A swampy plant.",
+      "Por": "Uma planta pantanosa."
     }
   },
   {
@@ -28,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sswampy."
+      "Eng": "Sswampy.",
+      "Por": "Pantanoso."
     }
   }
 ]

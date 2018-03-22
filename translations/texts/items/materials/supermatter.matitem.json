@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Erchius Crystal"
+      "Eng": "Erchius Crystal",
+      "Por": "Erchius Crystal"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Extract this for some galactic standard fuel."
+      "Eng": "Extract this for some galactic standard fuel.",
+      "Por": "Um cristal utilizado para alimentar a tecnologia FTL. Ainda não é totalmente compreendido."
     }
   }
 ]

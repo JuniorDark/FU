@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A material produced from various mixtures of cells."
+      "Eng": "A material produced from various mixtures of cells.",
+      "Por": "Matéria Celular, eu ouvi que você pode usar isso para criar coisas."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cell Material"
+      "Eng": "Cell Material",
+      "Por": "Cell Materia"
     }
   }
 ]

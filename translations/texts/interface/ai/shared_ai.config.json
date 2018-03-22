@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "HOME"
+      "Eng": "HOME",
+      "Por": "INÍCIO"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "S.A.I.L."
+      "Eng": "S.A.I.L.",
+      "Por": "S.A.I.L."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ship-based Artificial Intelligence Lattice"
+      "Eng": "Ship-based Artificial Intelligence Lattice",
+      "Por": "Ship-based Artificial Intelligence Lattice"
     }
   }
 ]

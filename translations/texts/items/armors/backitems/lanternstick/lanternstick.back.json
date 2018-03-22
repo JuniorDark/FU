@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lantern Stick"
+      "Eng": "Lantern Stick",
+      "Por": "Lantern Stick"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Provides light while leaving your hands free. An essential accessory for adventuring!"
+      "Eng": "Provides light while leaving your hands free. An essential accessory for adventuring!",
+      "Por": "Fornece luz enquanto deixa suas mãos livres. Um acessório essencial para aventuras!"
     }
   }
 ]

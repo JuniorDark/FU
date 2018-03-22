@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Radiation Resist. Use it on planets with ^red;low to moderate radiation levels^reset;."
+      "Eng": "+20% Radiation Resist. Use it on planets with ^red;low to moderate radiation levels^reset;.",
+      "Por": "Esta melhoria adiciona neutralização de radiação para as capacidades do seu EPP. Útil em planetas com ^red;níveis elevados de radiação^reset;."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Radiation EPP"
+      "Eng": "Radiation EPP",
+      "Por": "Radiation EPP Upgrade"
     }
   }
 ]

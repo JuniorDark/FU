@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A small fully-automatic pistol that lacks stopping power, but can be wielded in one hand with decent accuracy."
+      "Eng": "A small fully-automatic pistol that lacks stopping power, but can be wielded in one hand with decent accuracy.",
+      "Por": "Uma pistola pequena totalmente automática."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NPC Machine Pistol"
+      "Eng": "NPC Machine Pistol",
+      "Por": "NPC Machine Pistol"
     }
   }
 ]

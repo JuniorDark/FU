@@ -74,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Forge"
+      "Eng": "Forge",
+      "Por": "Forjar"
     }
   },
   {
@@ -88,7 +89,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#b9b5b2;BLUEPRINTS"
+      "Eng": "^#b9b5b2;BLUEPRINTS",
+      "Por": "^#b9b5b2;MODELOS"
     }
   },
   {
@@ -105,7 +107,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#b9b5b2;PRODUCT"
+      "Eng": "^#b9b5b2;PRODUCT",
+      "Por": "^#b9b5b2;PRODUTO"
     }
   },
   {

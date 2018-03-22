@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A delightful red flower."
+      "Eng": "A delightful red flower.",
+      "Por": "Uma flor vermelha. Vibrante, rica, bonita."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A flower with bright red petals. Useful for making dye."
+      "Eng": "A flower with bright red petals. Useful for making dye.",
+      "Por": "Uma flor com pétalas vermelhas brilhantes. Útil para fazer tintura."
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A red flower."
+      "Eng": "A red flower.",
+      "Por": "Uma flor vermelha, usada para fazer tintura vermelha. A melhor cor!"
     }
   },
   {
@@ -41,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran weak to colour red."
+      "Eng": "Floran weak to colour red.",
+      "Por": "Esta flor é um vermelho escuro. Lembra Floran de um amigo."
     }
   },
   {
@@ -63,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why do you build me up, red flower of unknown species."
+      "Eng": "Why do you build me up, red flower of unknown species.",
+      "Por": "Desta flor minúscula eu posso fazer uma tintura vermelha rica."
     }
   }
 ]

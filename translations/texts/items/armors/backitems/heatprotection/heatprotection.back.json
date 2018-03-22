@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Fire Resist. Helpful on ^red;low to moderate heat^reset; planets."
+      "Eng": "+20% Fire Resist. Helpful on ^red;low to moderate heat^reset; planets.",
+      "Por": "Esta melhoria adiciona geração de ar frio para as capacidades do seu EPP. Útil em planetas ^red;perigosamente quentes^reset;."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cooling EPP"
+      "Eng": "Cooling EPP",
+      "Por": "Cooling EPP Upgrade"
     }
   }
 ]

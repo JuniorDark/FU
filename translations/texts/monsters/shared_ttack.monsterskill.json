@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ACIDIC SPIT"
+      "Eng": "ACIDIC SPIT",
+      "Por": "CUSPE ÁCIDO"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ANCIENT FLAMES"
+      "Eng": "ANCIENT FLAMES",
+      "Por": "CHAMAS ANCESTRAIS"
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "BLOODY VOMIT"
+      "Eng": "BLOODY VOMIT",
+      "Por": "VÓMITO SANGRENTO"
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "FLY SWARM"
+      "Eng": "FLY SWARM",
+      "Por": "ENXAME DE MOSCA "
     }
   },
   {
@@ -66,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "SHADOWY VAPORS"
+      "Eng": "SHADOWY VAPORS",
+      "Por": "VAPORES SOMBRIOS"
     }
   },
   {
@@ -80,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "TOXIC REGURGITATION"
+      "Eng": "TOXIC REGURGITATION",
+      "Por": "REGURGITAÇÃO TÓXICA"
     }
   }
 ]
