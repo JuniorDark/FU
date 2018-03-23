@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Transmits power. Use with care. You may need ^cyan;Watchers^reset; to keep distant stations running."
+      "Eng": "Transmits power. Use with care. ^blue;Input^reset;1: Power switch. You may need ^cyan;Watchers^reset; to keep distant stations running."
     }
   },
   {
