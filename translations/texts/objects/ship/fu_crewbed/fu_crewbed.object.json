@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Crew Bed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_crewbed/fu_crewbed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "These cosy beds can stack on top of each other. ^yellow;Crew +1^reset;"
-    }
   }
 ]

@@ -1253,6 +1253,7 @@
               "solariumkatana.activeitem.json": 0,
               "telebriumkatana.activeitem.json": 0,
               "titaniumkatana.activeitem.json": 0,
+              "triangliumkatana.activeitem.json": 0,
               "tungstenkatana.activeitem.json": 0,
               "woodenkatana.activeitem.json": 0,
               "zerchesiumkatana.activeitem.json": 0
@@ -1341,6 +1342,7 @@
               "uncommonqs.activeitem.json": 0
             },
             "rapier": {
+              "advalloyrapier.activeitem.json": 0,
               "aetheriumrapier.activeitem.json": 0,
               "ancientrapier.activeitem.json": 0,
               "cuterapier.activeitem.json": 0,
@@ -1350,6 +1352,7 @@
               "furarerapier.activeitem.json": 0,
               "fuuncommonrapier.activeitem.json": 0,
               "goldrapier.activeitem.json": 0,
+              "hellfirerapier.activeitem.json": 0,
               "ironrapier.activeitem.json": 0,
               "irradiumrapier.activeitem.json": 0,
               "isogenrapier.activeitem.json": 0,
@@ -1357,7 +1360,9 @@
               "quietusrapier.activeitem.json": 0,
               "silverrapier.activeitem.json": 0,
               "telebriumrapier.activeitem.json": 0,
-              "tungstenrapier.activeitem.json": 0
+              "tungstenrapier.activeitem.json": 0,
+              "xithriciterapier.activeitem.json": 0,
+              "zerchesiumrapier.activeitem.json": 0
             },
             "scythe": {
               "aetheriumscythe.activeitem.json": 0,
@@ -3360,9 +3365,9 @@
             },
             "densinium.chest.json": 0,
             "densinium.head.json": 0,
-            "densinium.legs.json": 0,
-            "shared_densinium..json": 0
+            "densinium.legs.json": 0
           },
+          "densiniumarmor.json": 0,
           "fubonearmor3": {
             "fubone3.head.json": 0
           },
@@ -6849,9 +6854,6 @@
             "rainbarrel.object.json": 0
           }
         },
-        "weaponupgradeanvil2": {
-          "weaponupgradeanvil2.object.json": 0
-        },
         "wiringstation": {
           "wiringstation.object.json": 10
         },
@@ -8834,7 +8836,8 @@
           "fu_byosshiphatch.object.json": 0
         },
         "fu_byosshipdoorbroken": {
-          "fu_byosshipdoorBroken.object.json": 0
+          "fu_byosshipdoorBroken.object.json": 0,
+          "fu_byosshiphatchBroken.object.json": 0
         },
         "fu_byosshiplocker": {
           "fu_byosshiplocker.object.json": 0
@@ -8866,6 +8869,12 @@
         },
         "fu_crewbed2": {
           "fu_crewbed2.object.json": 0
+        },
+        "fu_crewbed3": {
+          "fu_crewbed3.object.json": 0
+        },
+        "fu_crewbed4": {
+          "fu_crewbed4.object.json": 0
         },
         "fu_ftldrive": {
           "fu_ftldrive.object.json": 0,
@@ -9045,7 +9054,8 @@
           }
         },
         "shared_fu_byosshipdoor": {
-          "shared_fu_byosshipdoor.json": 0
+          "shared_fu_byosshipdoor.json": 0,
+          "shared_fu_byosshiphatch.json": 0
         },
         "shared_fu_byosshiplocker": {
           "shared_fu_byosshiplocker.json": 0
@@ -9055,6 +9065,9 @@
         },
         "shared_fu_byosteleporter": {
           "shared_fu_byosteleporter.json": 0
+        },
+        "shared_fu_crewbed": {
+          "shared_fu_crewbed.json": 0
         },
         "shared_fu_ftldrive": {
           "shared_fu_ftldrive.json": 0

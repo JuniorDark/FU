@@ -1166,6 +1166,9 @@
       "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ship/fu_byosshipdoorbroken/fu_byosshiphatchBroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ship/fu_byosteleporterTier0/fu_byosteleporterTier0.object": [
         "/glitchDescription/glitchEmote"
       ]
@@ -3887,17 +3890,6 @@
     },
     "Texts": {
       "Eng": "Satisfied."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_crewbed2/fu_crewbed2.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sentimental."
     }
   },
   {
