@@ -565,7 +565,7 @@
     "fm_musicplayer": {
       "shared_fm_musicplayer..json": 1
     },
-    "generic.json": 0,
+    "generic.json": 1,
     "interface": {
       "ai": {
         "ai.config.json": 12,
