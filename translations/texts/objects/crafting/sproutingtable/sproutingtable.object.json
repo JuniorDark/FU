@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/sproutingtable/sproutingtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Sprouting Table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/sproutingtable/sproutingtable.object": [
         "/apexDescription"
       ]
     },
@@ -63,6 +52,17 @@
     },
     "Texts": {
       "Eng": "Extracts useful items from Seeds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/sproutingtable/sproutingtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Identify. A Sprouting Table."
     }
   },
   {

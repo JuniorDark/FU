@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush4/techbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This planet's history seems to be fraught with danger."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wasteland/techbush4/techbush4.object": [
         "/apexDescription"
       ]
     },
@@ -63,6 +52,17 @@
     },
     "Texts": {
       "Eng": "This sign is in disrepair, but its warning still reads clear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush4/techbush4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. This planet's history seems to be fraught with danger."
     }
   },
   {

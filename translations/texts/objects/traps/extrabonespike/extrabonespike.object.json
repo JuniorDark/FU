@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/extrabonespike/extrabonespike.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Sharp bone could penetrate Glitch shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/extrabonespike/extrabonespike.object": [
         "/shortdescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "Sharp and pointy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/traps/extrabonespike/extrabonespike.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sharp bone could penetrate Glitch shell."
     }
   },
   {

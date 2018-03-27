@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/pixelgoods/mlitcometsofa.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. Who would even need a couch this big?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/mlitcometsofa.object": [
         "/description"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "Wew lad, that's a BIG couch!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/pixelgoods/mlitcometsofa.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who would even need a couch this big?"
     }
   }
 ]

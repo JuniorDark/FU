@@ -47,22 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutesupport/cutesupport.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cute bow is cute..."
+      "Eng": "Cute sssupport."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutesupport/cutesupport.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cute sssupport."
+      "Eng": "Disturbed. Cute bow is cute..."
     }
   },
   {

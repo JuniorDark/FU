@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "A door. It appears to be disabled currently."
+      "Eng": "Cool door. Too bad it isn't opening right now."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cool door. Too bad it isn't opening right now."
+      "Eng": "Disappointed. A door. It appears to be disabled currently."
     }
   },
   {

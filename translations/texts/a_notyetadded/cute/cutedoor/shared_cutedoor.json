@@ -45,6 +45,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutedoor/cutedoor1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutedoor/cutedoor2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. It appears to be a handmade door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutedoor/cutedoor1.object": [
         "/floranDescription"
       ],
       "a_notyetadded/cute/cutedoor/cutedoor2.object": [
@@ -53,20 +67,6 @@
     },
     "Texts": {
       "Eng": "Floran alsso make similar wooden door."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutedoor/cutedoor1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutedoor/cutedoor2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears to be a handmade door."
     }
   },
   {

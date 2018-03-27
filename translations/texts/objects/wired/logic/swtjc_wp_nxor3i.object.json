@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_nxor3i.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -31,6 +30,17 @@
     },
     "Texts": {
       "Eng": "NXOR Gate (3 inputs)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_nxor3i.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. A /'NXOR'/ gate. Remains on unless an odd number of inputs are on, and the rest off."
     }
   }
 ]

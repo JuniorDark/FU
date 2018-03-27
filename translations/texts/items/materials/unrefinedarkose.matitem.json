@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedarkose.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Arkose."
+      "Eng": "Rough, unrefined arkose."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedarkose.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined arkose."
+      "Eng": "Statement. Arkose."
     }
   },
   {

@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/gemglow/gemglowseed.object": [
-        "/description"
-      ],
-      "objects/farmables/gemglow/wildgemglowseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A salty plant that is resistant to gravity."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/gemglow/gemglowseed.object": [
         "/novakidDescription"
       ],
       "objects/farmables/gemglow/wildgemglowseed.object": [
@@ -39,6 +25,20 @@
     },
     "Texts": {
       "Eng": "Gemglow Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/gemglow/gemglowseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/gemglow/wildgemglowseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules."
     }
   },
   {
@@ -81,20 +81,6 @@
     },
     "Texts": {
       "Eng": "Sssalty outssside. Inssside tassstes like corn."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/gemglow/gemglowseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/gemglow/wildgemglowseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The faceted surface appears to be a mineral rind deposited by fibrous tubules."
     }
   },
   {

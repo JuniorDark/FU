@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousetiles.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousetiles.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Familiar. Similar tiles can often be found in traditional roof design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousetiles.matitem": [
         "/florandescription"
       ],
       "tiles/materials/dollhousetiles.material": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Floran appreciatess nice dollhouse tiling."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousetiles.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousetiles.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Similar tiles can often be found in traditional roof design."
     }
   },
   {

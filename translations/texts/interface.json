@@ -62,8 +62,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Damage Per Shot:",
-      "Por": "Dano Por Tiro:"
+      "Eng": "Damage Per Shot:"
     }
   },
   {
@@ -92,8 +91,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Energy Per Shot:",
-      "Por": "Energia Por Tiro:"
+      "Eng": "Energy Per Shot:"
     }
   },
   {
@@ -122,8 +120,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Input",
-      "Por": "Entrada"
+      "Eng": "Input"
     }
   },
   {
@@ -146,8 +143,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Knockback:",
-      "Por": "Knockback:"
+      "Eng": "Knockback:"
     }
   },
   {
@@ -167,8 +163,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Output",
-      "Por": "Saída"
+      "Eng": "Output"
     }
   },
   {
@@ -188,8 +183,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Shield Health:",
-      "Por": "Vida do Escudo:"
+      "Eng": "Shield Health:"
     }
   },
   {
@@ -209,8 +203,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Speed:",
-      "Por": "Velocidade:"
+      "Eng": "Speed:"
     }
   },
   {
@@ -275,8 +268,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Crit %^reset;",
-      "Por": "^orange;% Crit^reset;"
+      "Eng": "^orange;Crit %^reset;"
     }
   },
   {
@@ -341,8 +333,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Dmg +^reset;",
-      "Por": "^yellow;Dano +^reset;"
+      "Eng": "^yellow;Dmg +^reset;"
     }
   }
 ]

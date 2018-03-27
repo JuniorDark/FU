@@ -300,6 +300,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/fu_elder.radiomessages": [
+        "/shoggothmission16/senderName",
+        "/shoggothmission17/senderName",
+        "/shoggothmission18/senderName",
+        "/shoggothmission19/senderName",
+        "/shoggothmission20/senderName",
+        "/shoggothmission21/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/fu_elder.radiomessages": [
         "/shoggothmission3/text"
       ]
     },

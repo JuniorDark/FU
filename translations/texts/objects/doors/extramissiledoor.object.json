@@ -14,10 +14,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/doors/extramissiledoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. This door looks like it could be opened with a heavy explosive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/doors/extramissiledoor.object": [
         "/apexDescription",
         "/avianDescription",
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]

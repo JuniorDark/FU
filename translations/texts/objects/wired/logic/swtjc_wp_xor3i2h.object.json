@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_xor3i2h.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -20,6 +19,17 @@
     },
     "Texts": {
       "Eng": "An /'XOR'/ gate. Requiresss exxactly 2 inputsss to be on, and the ressst off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_xor3i2h.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. An /'XOR'/ gate. Requires exactly 2 inputs to be on, and the rest off."
     }
   },
   {

@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/doors/avalitechdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think this door is watching me..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/doors/avalitechdoor.object": [
         "/humanDescription"
       ]
     },
@@ -63,6 +52,17 @@
     },
     "Texts": {
       "Eng": "Plated Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/doors/avalitechdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicion. I think this door is watching me..."
     }
   },
   {

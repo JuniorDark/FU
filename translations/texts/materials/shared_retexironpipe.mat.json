@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/retexironpipe.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/retexironpipe.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Large pipe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/retexironpipe.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/retexironpipe.material": [
@@ -53,6 +39,20 @@
     },
     "Texts": {
       "Eng": "Metal pipes like Glitch organs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexironpipe.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/retexironpipe.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Large pipe."
     }
   }
 ]

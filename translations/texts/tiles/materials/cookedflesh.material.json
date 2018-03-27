@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/cookedflesh.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A block made of flesh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/cookedflesh.material": [
         "/description"
       ]
     },
@@ -30,6 +19,17 @@
     },
     "Texts": {
       "Eng": "Cooked Flesh Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/cookedflesh.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgust. A block made of flesh."
     }
   },
   {

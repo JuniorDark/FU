@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/mods/cloud.matmod": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A block of clouds."
+      "Eng": "Curious. A block of clouds."
     }
   },
   {

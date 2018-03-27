@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/retexaetherdustpillar.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/florandescription"
       ]
     },
     "Texts": {
-      "Eng": "Beige pillars."
+      "Eng": "Columnssss."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/retexaetherdustpillar.matitem": [
-        "/florandescription"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "Columnssss."
+      "Eng": "Statement. Beige pillars."
     }
   }
 ]

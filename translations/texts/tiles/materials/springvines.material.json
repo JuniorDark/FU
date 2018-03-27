@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/springvines.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Some flowering vines."
+      "Eng": "Spring Vine"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/springvines.material": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Spring Vine"
+      "Eng": "Statement. Some flowering vines."
     }
   }
 ]

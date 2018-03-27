@@ -31,14 +31,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/brittlejunk.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/brittlejunk.material": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "Compressed junk metal."
+      "Eng": "Statement. Compressed junk metal."
     }
   }
 ]

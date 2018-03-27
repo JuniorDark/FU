@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutestool/cutestool.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a metal stool."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutestool/cutestool.object": [
         "/avianDescription"
       ]
     },
@@ -96,6 +85,17 @@
     },
     "Texts": {
       "Eng": "Just a sssingle stool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutestool/cutestool.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It's a metal stool."
     }
   }
 ]

@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutedesk/cutedesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. This is a desk suitable for scholars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutedesk/cutedesk.object": [
         "/shortdescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "The Hylotl practice calligraphy on desks like these."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutedesk/cutedesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a desk suitable for scholars."
     }
   }
 ]

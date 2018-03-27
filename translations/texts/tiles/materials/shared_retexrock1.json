@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/retexrock12.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/retexrock17.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rock."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/retexrock12.material": [
         "/floranDescription"
       ],
       "tiles/materials/retexrock17.material": [
@@ -42,6 +28,20 @@
     },
     "Texts": {
       "Eng": "Rough, unrefined stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexrock12.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/retexrock17.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Rock."
     }
   }
 ]

@@ -17,6 +17,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byostechstation/fu_byostechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/fu_byostechstation/fu_byostechstationdeco.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This station allows me to talk to SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byostechstation/fu_byostechstation.object": [
         "/apexDescription"
       ],
       "objects/ship/fu_byostechstation/fu_byostechstationdeco.object": [
@@ -81,20 +95,6 @@
     },
     "Texts": {
       "Eng": "This station allows me to communicate with SAIL."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byostechstation/fu_byostechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/fu_byostechstation/fu_byostechstationdeco.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This station allows me to talk to SAIL."
     }
   }
 ]

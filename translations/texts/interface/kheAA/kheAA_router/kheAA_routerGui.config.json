@@ -183,7 +183,7 @@
     }
   },
   {
-    "Comment": "ExpressÃ£o regular (nÃ£o para traduÃ§Ã£o, mas para apoiar nomes em alfabeto cirÃ­lico)",
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
     "DeniedAlternatives": [],
     "Files": {
       "interface/kheAA/kheAA_router/kheAA_routerGui.config": [

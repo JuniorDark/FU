@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/redhotcobblestone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/redhotcobblestone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "High temperature cobblestones."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/redhotcobblestone.matitem": [
         "/florandescription"
       ],
       "tiles/materials/redhotcobblestone.material": [
@@ -53,6 +39,20 @@
     },
     "Texts": {
       "Eng": "Red-Hot Cobblestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redhotcobblestone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/redhotcobblestone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. High temperature cobblestones."
     }
   }
 ]

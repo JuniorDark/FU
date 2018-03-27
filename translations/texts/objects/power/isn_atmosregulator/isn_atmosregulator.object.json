@@ -47,22 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_atmosregulator/isn_atmosregulator.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "I won't die while standing near this machine."
+      "Eng": "I won't have to worry about the peril of death near this thing!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_atmosregulator/isn_atmosregulator.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I won't have to worry about the peril of death near this thing!"
+      "Eng": "Reassured. I won't die while standing near this machine."
     }
   },
   {

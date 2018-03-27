@@ -65,6 +65,68 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/questmaps/alienjunglemap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/ancienttemplemap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/avianhydromap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/evernightmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/forestoffaemap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/grandarenamap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/infiltrationmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/japaneseruinsmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/letheiafacilitymap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/lethialabsmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/magickaforestmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/pavillionmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/penguinhighwaymap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/skytemplemap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/snowcrashmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/sunsetridersmap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/towerinvinciblemap.object": [
+        "/glitchDescription"
+      ],
+      "objects/questmaps/verdantruinsmap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excitement. Where will the directions on this map take me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/questmaps/alienjunglemap.object": [
         "/floranDescription"
       ],
       "objects/questmaps/ancienttemplemap.object": [
@@ -493,68 +555,6 @@
     },
     "Texts": {
       "Eng": "This promises to be interesting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/questmaps/alienjunglemap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/ancienttemplemap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/avianhydromap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/evernightmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/forestoffaemap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/grandarenamap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/infiltrationmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/japaneseruinsmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/letheiafacilitymap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/lethialabsmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/magickaforestmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/pavillionmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/penguinhighwaymap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/skytemplemap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/snowcrashmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/sunsetridersmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/towerinvinciblemap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questmaps/verdantruinsmap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where will the directions on this map take me?"
     }
   }
 ]

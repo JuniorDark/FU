@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/gels/isn_accelgel/isn_accelgel.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_bouncegel/isn_bouncegel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. If it reduces friction, why don't I slip on it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_accelgel/isn_accelgel.object": [
         "/hylotlDescription"
       ],
       "objects/gels/isn_bouncegel/isn_bouncegel.object": [
@@ -11,20 +25,6 @@
     },
     "Texts": {
       "Eng": "How does this work, exactly?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/gels/isn_accelgel/isn_accelgel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_bouncegel/isn_bouncegel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If it reduces friction, why don't I slip on it?"
     }
   },
   {

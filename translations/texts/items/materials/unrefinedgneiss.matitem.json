@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedgneiss.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Gneiss."
+      "Eng": "Rough, unrefined gneiss."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedgneiss.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined gneiss."
+      "Eng": "Statement. Gneiss."
     }
   },
   {

@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;God Cleaver^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;God Cleaver^reset; ^yellow;^reset;"
     }
   },
   {
@@ -62,7 +62,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Wax Slasher^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Wax Slasher^reset; ^yellow;^reset;"
     }
   }
 ]

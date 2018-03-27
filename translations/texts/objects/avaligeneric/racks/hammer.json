@@ -117,38 +117,38 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/racks/hammer/avalitier10hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/avalitier1hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/avalitier2hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/avalitier3hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/avalitier4hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/avalitier8hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/unused/avalitier5hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/unused/avalitier6hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/unused/avalitier7hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/racks/hammer/unused/avalitier9hammerdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Our hammers display superior craftsmanship."
+      "Eng": "Pride. Our hammers display superior craftsmanship."
     }
   }
 ]

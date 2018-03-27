@@ -3,6 +3,41 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/advancedlogic/swtjc_wp_advancedand.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedand3i.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedor.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedor3i.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i12h.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i1h.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedlogic/swtjc_wp_advancedxor3i2h.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing. I'd wager that the input node to the right is the Data Latch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedlogic/swtjc_wp_advancedand.object": [
         "/floranDescription"
       ],
       "objects/wired/advancedlogic/swtjc_wp_advancedand3i.object": [
@@ -41,7 +76,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -51,7 +85,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -61,7 +94,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -71,7 +103,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -81,7 +112,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -91,7 +121,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -101,7 +130,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -111,7 +139,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -121,7 +148,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

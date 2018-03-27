@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/fugasgiant.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gas Giant"
+    }
+  }
+]

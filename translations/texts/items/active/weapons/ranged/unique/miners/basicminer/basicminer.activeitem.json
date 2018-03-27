@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Mining Laser^reset; ^cyan;î¤^reset;"
+      "Eng": "^cyan;Mining Laser^reset; ^cyan;^reset;"
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Mining Laser^reset; ^green;î¤^reset;"
+      "Eng": "^cyan;Mining Laser^reset; ^green;^reset;"
     }
   },
   {
@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Mining Laser^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Mining Laser^reset; ^yellow;^reset;"
     }
   }
 ]

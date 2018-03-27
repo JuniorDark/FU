@@ -3,20 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bleachedbonematerial.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "items/materials/charredbonematerial.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/bleachedbonematerial.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/charredbonematerial.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Bones from a variety of sources packed together."
+      "Eng": "Horrified. Bones from a variety of sources packed together."
     }
   }
 ]

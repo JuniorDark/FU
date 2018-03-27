@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/pixelgoods/fufloranbed.object": [
+        "/glitchDescription"
+      ],
+      "objects/pixelgoods/fuokeahitechbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blissful. Truly, there is no better bed than this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/pixelgoods/fufloranbed.object": [
         "/floranDescription"
       ],
       "objects/pixelgoods/fuokeahitechbed.object": [
@@ -84,20 +98,6 @@
     },
     "Texts": {
       "Eng": "The most fun I've had in bed since I ate cheese before going to sleep."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/pixelgoods/fufloranbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/pixelgoods/fuokeahitechbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Truly, there is no better bed than this."
     }
   }
 ]

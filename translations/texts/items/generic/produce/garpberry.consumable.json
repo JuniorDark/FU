@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Effect:\n^cyan;Radiation Resistance, Rad Burn Immunity^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/garpberry.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Garp Berry"
-    }
   }
 ]

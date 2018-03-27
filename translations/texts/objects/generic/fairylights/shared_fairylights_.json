@@ -115,6 +115,62 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fairylights/fairylights_blackorange.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_blue.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_green.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_lightblue.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_magenta.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_magentawhite.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_orange.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_pink.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_purple.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_purplewhite.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_red.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_redgreen.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_redyellow.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_teal.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_white.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/fairylights/fairylights_whiteblue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contentment. These twinkling lights help build a relaxed atmosphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fairylights/fairylights_blackorange.object": [
         "/humanDescription"
       ],
       "objects/generic/fairylights/fairylights_blue.object": [
@@ -389,62 +445,6 @@
     },
     "Texts": {
       "Eng": "These little lights are quite pretty."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/fairylights/fairylights_blackorange.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_blue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_green.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_lightblue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_magenta.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_magentawhite.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_orange.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_pink.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_purple.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_purplewhite.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_red.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_redgreen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_redyellow.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_teal.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_white.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/fairylights/fairylights_whiteblue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These twinkling lights help build a relaxed atmosphere."
     }
   }
 ]

@@ -69,11 +69,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/table/avalitable1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This shelf is grossly over-engineered."
+      "Eng": "Observation. This shelf is grossly over-engineered."
     }
   }
 ]

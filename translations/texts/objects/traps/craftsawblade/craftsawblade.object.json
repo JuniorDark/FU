@@ -80,11 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/craftsawblade/craftsawblade.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This appears to be spinning at several thousand RPM."
+      "Eng": "Worried. This appears to be spinning at several thousand RPM."
     }
   },
   {

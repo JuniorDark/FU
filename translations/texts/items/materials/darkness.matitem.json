@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darkness.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Solid darkness found in the Umbra... how?"
+      "Eng": "Confused. Solid darkness?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darkness.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Solid darkness?"
+      "Eng": "Solid darkness found in the Umbra... how?"
     }
   },
   {

@@ -69,22 +69,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avalicamp/cushions/avalicushion2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Is this for sitting or sleeping on?"
+      "Eng": "Pillow"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avalicamp/cushions/avalicushion2.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Pillow"
+      "Eng": "Uncertainty. Is this for sitting or sleeping on?"
     }
   },
   {

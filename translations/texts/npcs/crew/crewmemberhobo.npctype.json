@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberhobo.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Have some carbonated alcoholic beverage. This is not optional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberhobo.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
       ]
     },
@@ -19,17 +30,6 @@
     },
     "Texts": {
       "Eng": "Floran isss wildly intoxicated! Floran not drinking alone! You take some!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberhobo.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have some carbonated alcoholic beverage. This is not optional."
     }
   },
   {
@@ -80,11 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberhobo.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "My booze can help fuel your ship. It is super good."
+      "Eng": "Statement. My booze can help fuel your ship. It is super good."
     }
   }
 ]

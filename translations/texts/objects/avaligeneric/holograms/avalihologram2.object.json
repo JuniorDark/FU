@@ -47,6 +47,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologram2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recollective. y(t) = A sin (kx - omega t)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologram2.object": [
         "/description"
       ]
     },
@@ -74,17 +85,6 @@
     },
     "Texts": {
       "Eng": "Some kind of waveform analysis, not too sure of the source, the filename is just a jumble of numbers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/holograms/avalihologram2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "y(t) = A sin (kx - omega t)"
     }
   }
 ]

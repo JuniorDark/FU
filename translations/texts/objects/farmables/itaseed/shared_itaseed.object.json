@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/itaseed/itaseed.object": [
-        "/description"
-      ],
-      "objects/farmables/itaseed/wilditaseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A unique strain of Lotus, full of potent antitoxins."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/itaseed/itaseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/itaseed/wilditaseed.object": [

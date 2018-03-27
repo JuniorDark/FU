@@ -3,55 +3,55 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Didn't they tell ye, never aggro a smith?"
+      "Eng": "Curmudgeonly. You young'uns are always causin' trouble!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/6"
       ]
     },
     "Texts": {
-      "Eng": "Good chance to test me weapons out."
+      "Eng": "Eager. Good chance to test me weapons out."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Here we go again, then."
+      "Eng": "Grizzled. You'll not make a mockery of me!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Looks like I'll be messin' up me nice new weapon."
+      "Eng": "Gruff. Didn't they tell ye, never aggro a smith?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/7"
       ]
     },
     "Texts": {
-      "Eng": "Looks like I'll have to teach yeh a lesson."
+      "Eng": "Grumpy. Looks like I'll have to teach yeh a lesson."
     }
   },
   {
@@ -69,33 +69,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/5"
       ]
     },
     "Texts": {
-      "Eng": "Sigh. More disruption."
+      "Eng": "Resigned. Sigh. More disruption."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/4"
       ]
     },
     "Texts": {
-      "Eng": "You young'uns are always causin' trouble!"
+      "Eng": "Surly. Looks like I'll be messin' up me nice new weapon."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crystalminer.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "You'll not make a mockery of me!"
+      "Eng": "World-weary. Here we go again, then."
     }
   }
 ]

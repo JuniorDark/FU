@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wastestone.matitem": [
-        "/florandescription"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "Wastessstone."
+      "Eng": "Statement. Wastestone."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wastestone.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/florandescription"
       ]
     },
     "Texts": {
-      "Eng": "Wastestone."
+      "Eng": "Wastessstone."
     }
   }
 ]

@@ -25,11 +25,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecrusher/minecrusher.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The machine exists to crush rocks."
+      "Eng": "Observant. The machine exists to crush rocks."
     }
   }
 ]

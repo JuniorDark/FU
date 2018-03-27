@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/avaliplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/florandescription"
       ]
     },
     "Texts": {
-      "Eng": "An Avali platform."
+      "Eng": "Floorrr."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/avaliplatform.matitem": [
-        "/florandescription"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "Floorrr."
+      "Eng": "Statement. An Avali platform."
     }
   }
 ]

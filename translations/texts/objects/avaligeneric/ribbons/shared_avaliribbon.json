@@ -73,14 +73,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/ribbons/avaliribbon1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/ribbons/avaliribbon2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Reminds me of the flowing banners of my home."
+      "Eng": "Melancholy. Reminds me of the flowing banners of my home."
     }
   },
   {

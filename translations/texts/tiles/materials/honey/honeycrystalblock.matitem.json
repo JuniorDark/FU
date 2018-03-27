@@ -14,11 +14,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/honeycrystalblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This block is made of hardened honey."
+      "Eng": "Analysis. This block is made of hardened honey."
     }
   }
 ]

@@ -14,11 +14,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mines/poisonmine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An active land mine, I had better be careful."
+      "Eng": "Cautious. An active land mine, I had better be careful."
     }
   },
   {

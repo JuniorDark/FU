@@ -25,10 +25,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/advancedlogic/no_latch/swtjc_wp_advancedor_nolatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. Not all that different from a normal OR Gate, but the built-in Not Gate is convenient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedlogic/no_latch/swtjc_wp_advancedor_nolatch.object": [
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

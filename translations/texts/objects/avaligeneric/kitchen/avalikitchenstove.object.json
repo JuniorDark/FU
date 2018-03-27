@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalikitchenstove.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss."
+      "Eng": "Dubious. I doubt this device gets hot enough to properly melt microcheese until rust-brown."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalikitchenstove.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I doubt this device gets hot enough to properly melt microcheese until rust-brown."
+      "Eng": "Floran put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss."
     }
   },
   {

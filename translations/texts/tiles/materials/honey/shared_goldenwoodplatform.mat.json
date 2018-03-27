@@ -59,14 +59,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenwoodplatform.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/honey/goldenwoodplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This is like the basic wood platform, but it has a strange gold hue."
+      "Eng": "Uncommon. This is like the basic wood platform, but it has a strange gold hue."
     }
   }
 ]

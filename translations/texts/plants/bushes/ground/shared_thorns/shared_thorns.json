@@ -4,12 +4,10 @@
     "Files": {
       "plants/bushes/ground/thorns/thorns.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/thorns2/thorns2.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -31,6 +29,21 @@
     "Texts": {
       "Eng": "Ssspiky bush.",
       "Por": "Um arbusto espinhudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/thorns2/thorns2.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A thorn bush.",
+      "Por": "Relatório. Um arbusto com espinho."
     }
   }
 ]

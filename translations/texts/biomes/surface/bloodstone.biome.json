@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/bloodstone.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bloodstone"
+    }
+  }
+]

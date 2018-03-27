@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/tinylocker/tinylocker.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "A small amount of wall storage."
+      "Eng": "A storage locker."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/tinylocker/tinylocker.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A storage locker."
+      "Eng": "Neutral. A small amount of wall storage."
     }
   },
   {

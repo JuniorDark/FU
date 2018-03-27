@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/frozenvolcanic.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Volcanic"
+    }
+  }
+]

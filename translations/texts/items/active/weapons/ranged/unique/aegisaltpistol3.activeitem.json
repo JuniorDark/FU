@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Protectorate Decimator^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Protectorate Decimator^reset; ^yellow;^reset;"
     }
   },
   {
@@ -62,7 +62,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Protectorate Incapacitator^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Protectorate Incapacitator^reset; ^yellow;^reset;"
     }
   }
 ]

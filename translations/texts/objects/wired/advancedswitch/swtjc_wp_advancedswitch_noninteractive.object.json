@@ -14,10 +14,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/advancedswitch/swtjc_wp_advancedswitch_noninteractive.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. So many features! It doesn't help that I can't manually interact with it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch_noninteractive.object": [
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

@@ -17,14 +17,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/sweetscoop/sweetscoopseed.object": [
-        "/description"
+        "/glitchDescription"
       ],
       "objects/farmables/sweetscoop/wildsweetscoopseed.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A plant with fruit that tastes like dessert."
+      "Eng": "Delight. This must be what kineptic use to make all their food taste good."
     }
   },
   {
@@ -109,20 +109,6 @@
     },
     "Texts": {
       "Eng": "Sweetscoop Seed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/sweetscoop/sweetscoopseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/sweetscoop/wildsweetscoopseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This must be what kineptic use to make all their food taste good."
     }
   },
   {

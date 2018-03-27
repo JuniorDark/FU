@@ -36,6 +36,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/honey/fuhoneycrystaltable/fuhoneycrystaltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desire. I could go for some dinner about now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fuhoneycrystaltable/fuhoneycrystaltable.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "Honey Crystal Table"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/minibiome/honey/fuhoneycrystaltable/fuhoneycrystaltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I could go for some dinner about now."
     }
   },
   {

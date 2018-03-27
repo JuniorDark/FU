@@ -17,12 +17,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/heck/heckpillar1/heckpillar1.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ],
       "objects/biome/heck/heckpillar2/heckpillar2.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -97,6 +95,20 @@
     },
     "Texts": {
       "Eng": "Ssstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/heckpillar1/heckpillar1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/heck/heckpillar2/heckpillar2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A pillar."
     }
   }
 ]

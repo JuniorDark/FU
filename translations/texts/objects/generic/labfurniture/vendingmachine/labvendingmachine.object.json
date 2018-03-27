@@ -69,11 +69,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/labfurniture/vendingmachine/labvendingmachine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I can't decide what to buy."
+      "Eng": "Indecisive. I can't decide what to buy."
     }
   },
   {

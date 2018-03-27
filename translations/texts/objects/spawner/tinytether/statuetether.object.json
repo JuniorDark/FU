@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/tinytether/statuetether.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Captured creatures placed in this statue will stay nearby."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/tinytether/statuetether.object": [
         "/floranDescription"
       ]
     },
@@ -74,6 +63,17 @@
     },
     "Texts": {
       "Eng": "Once placed in this statue, captured creatures will not wander far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/tinytether/statuetether.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. Captured creatures placed in this statue will stay nearby."
     }
   },
   {

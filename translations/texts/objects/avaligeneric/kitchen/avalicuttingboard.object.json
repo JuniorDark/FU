@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalicuttingboard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a far cry from the castle pantry from the cycles I was a maid."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/kitchen/avalicuttingboard.object": [
         "/avianDescription"
       ]
     },
@@ -85,6 +74,17 @@
     },
     "Texts": {
       "Eng": "Wait, does that food preparation station have its own fume hood?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalicuttingboard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. It's a far cry from the castle pantry from the cycles I was a maid."
     }
   },
   {

@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_nxor3i1h.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "An /'XOR'/ gate. Remains on unless exactly 1 input is on, and the rest off."
+      "Eng": "An /'XOR'/ gate. Remainsss on unlesss exxactly 1 input isss on, and the ressst off."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_nxor3i1h.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An /'XOR'/ gate. Remainsss on unlesss exxactly 1 input isss on, and the ressst off."
+      "Eng": "Observation. An /'XOR'/ gate. Remains on unless exactly 1 input is on, and the rest off."
     }
   }
 ]

@@ -6,7 +6,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -37,6 +36,17 @@
     },
     "Texts": {
       "Eng": "Signal Emitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/emitter/swtjc_wp_emitter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skeptical. A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?"
     }
   },
   {

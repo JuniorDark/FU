@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coquettish. Well hello there~"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
         "/shortdescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "They have little metal punch marks, I guess that makes them hi-tech."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/kitchen/avalikitchendrawers.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Well hello there~"
     }
   }
 ]

@@ -3,56 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaliaerostat/sails/aerostatsail1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaliaerostat/sails/aerostatsail2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaliaerostat/sails/aerostatsail3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaliaerostat/sails/aerostatsail4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/slope/campslope1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/slope/campslope2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sheet of tightly woven carbon-nanofibre weave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaliaerostat/sails/aerostatsail1.object": [
         "/humanDescription"
       ],
       "objects/avaliaerostat/sails/aerostatsail2.object": [
@@ -197,6 +147,56 @@
     },
     "Texts": {
       "Eng": "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaliaerostat/sails/aerostatsail1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail3.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaliaerostat/sails/aerostatsail4.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/largeentry/camplargeentry2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/largewall/camplargewall2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/slope/campslope2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/smallentry/campsmallentry2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avalicamp/modulartent/smallwall/campsmallwall2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. A sheet of tightly woven carbon-nanofibre weave."
     }
   },
   {

@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darkstone.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hard darkness."
+      "Eng": "Sssstone of darknessss."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darkstone.matitem": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sssstone of darknessss."
+      "Eng": "Statement. Hard darkness."
     }
   }
 ]

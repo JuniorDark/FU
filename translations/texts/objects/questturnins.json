@@ -287,77 +287,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/questturnins/alienjungleturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/ancienttempleturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/avianhydroturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/challengelabs/extrachallengelabs1turnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/challengelabs/extrachallengelabs2turnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/challengelabs/extrachallengelabs3turnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/challengelabs/extrachallengelabs4turnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/evernightturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/forestoffaeturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/grandarenaturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/infiltrationturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/japaneseruinsturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/letheiafacilityturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/letheiafleetturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/lethialabsturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/magickaforestturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/penguinhighwayturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/skytempleturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/sunsetridersturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/towerinvincibleturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/questturnins/verdantruinsturnin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It seems my adventure is over already."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/questturnins/alienjungleturnin.object": [
         "/novakidDescription"
       ],
       "objects/questturnins/ancienttempleturnin.object": [
@@ -423,6 +352,77 @@
     },
     "Texts": {
       "Eng": "It's over already?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/questturnins/alienjungleturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/ancienttempleturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/avianhydroturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs1turnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs2turnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs3turnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/challengelabs/extrachallengelabs4turnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/evernightturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/forestoffaeturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/grandarenaturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/infiltrationturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/japaneseruinsturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/letheiafacilityturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/letheiafleetturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/lethialabsturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/magickaforestturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/penguinhighwayturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/skytempleturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/sunsetridersturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/towerinvincibleturnin.object": [
+        "/glitchDescription"
+      ],
+      "objects/questturnins/verdantruinsturnin.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saddened. It seems my adventure is over already."
     }
   },
   {

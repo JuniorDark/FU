@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/generic/crafting/starbooze/cinnamon.item": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cinnamon"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/crafting/starbooze/cinnamon.item": [
         "/description"
       ]
     },

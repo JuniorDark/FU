@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/heck/hecklight1/hecklight1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "A vile, fleshy light."
+      "Eng": "Floran think light look tasty."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/heck/hecklight1/hecklight1.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran think light look tasty."
+      "Eng": "Repulsion. A vile, fleshy light."
     }
   },
   {

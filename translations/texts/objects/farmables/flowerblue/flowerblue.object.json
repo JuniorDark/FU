@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerblue/flowerblue.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -22,18 +21,6 @@
     "Texts": {
       "Eng": "A delightful blue flower.",
       "Por": "Uma flor azul encantadora, bonita e útil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/flowerblue/flowerblue.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flower with bright blue petals. Useful for making dye.",
-      "Por": "Uma flor com pétalas azuis brilhantes. Útil para fazer tintura."
     }
   },
   {
@@ -64,11 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerblue/flowerblue.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Blue Flower"
+      "Eng": "Statement. A blue flower.",
+      "Por": "Pensativo. Uma flor azul. Ela tem um uso prático na fabricação de tintura."
     }
   }
 ]

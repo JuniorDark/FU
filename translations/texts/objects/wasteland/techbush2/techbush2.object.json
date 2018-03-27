@@ -69,22 +69,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush2/techbush2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is no way for a machine to wind up."
+      "Eng": "This technology is useless, and possibly a health hazard."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush2/techbush2.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This technology is useless, and possibly a health hazard."
+      "Eng": "Uneasy. This is no way for a machine to wind up."
     }
   }
 ]

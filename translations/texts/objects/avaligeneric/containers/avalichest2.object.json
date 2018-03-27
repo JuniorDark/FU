@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/containers/avalichest2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is a container."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/containers/avalichest2.object": [
         "/humanDescription"
       ]
     },
@@ -85,6 +74,17 @@
     },
     "Texts": {
       "Eng": "No... this really won't do at all. I'd never store my valuables in such a container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/containers/avalichest2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. It is a container."
     }
   },
   {

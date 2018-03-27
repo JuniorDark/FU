@@ -15,11 +15,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/cloudspin/cloudspin.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An attractive flower."
+      "Eng": "Statement. An attractive flower."
     }
   }
 ]

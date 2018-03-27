@@ -17,6 +17,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousewindow1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousewindow1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This window helps brighten the room."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewindow1.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/dollhousewindow1.material": [
@@ -53,20 +67,6 @@
     },
     "Texts": {
       "Eng": "Nice windowss, Floran can see outside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousewindow1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousewindow1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This window helps brighten the room."
     }
   }
 ]

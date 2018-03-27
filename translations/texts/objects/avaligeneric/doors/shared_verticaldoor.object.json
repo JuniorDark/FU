@@ -87,14 +87,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/doors/avalidarkverticaldoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/doors/avalitechverticaldoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This hatch is for vertical access."
+      "Eng": "Observant. This hatch is for vertical access."
     }
   }
 ]

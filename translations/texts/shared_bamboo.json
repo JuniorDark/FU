@@ -3,24 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bamboo.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "objects/farmables/bamboo/bambooseed.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/bamboo/wildbambooseed.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/bamboo.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Bamboo."
+      "Eng": "Statement. Bamboo.",
+      "Por": "Esperançoso. A cor do bambu indica que ele foi cortado recentemente."
     }
   }
 ]

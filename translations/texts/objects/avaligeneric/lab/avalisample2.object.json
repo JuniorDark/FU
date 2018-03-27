@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/lab/avalisample2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cutesy. Who's a squishy little blob creature? You are!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lab/avalisample2.object": [
         "/floranDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "The label says it was scraped off the floor of the toilets on an off-world colony. I'm not sure it bears much thinking about."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/lab/avalisample2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who's a squishy little blob creature? You are!"
     }
   }
 ]

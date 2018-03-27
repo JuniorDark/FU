@@ -1,0 +1,2804 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ignuschili/description"
+      ],
+      "objects/farmables/ignuschili/ignuschiliseed.object": [
+        "/description"
+      ],
+      "objects/farmables/ignuschili/wildignuschiliseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "200% spicier than a normal chili. Also makes a handy weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/blisterbush/description"
+      ],
+      "objects/farmables/blisterbush/blisterbushplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/blisterbush/wildblisterbushplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bioluminescent mutant plant, with numerous applications."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/nakati/description"
+      ],
+      "objects/farmables/a_avali/nakatiseed.object": [
+        "/description"
+      ],
+      "objects/farmables/a_avali/wildnakatiseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bioluminescent ovoid, eventually this'll grow into a colony."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/biscorn/description"
+      ],
+      "objects/farmables/biscorn/biscornseed.object": [
+        "/description"
+      ],
+      "objects/farmables/biscorn/wildbiscornseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A farmable dog treat. Boosts health and energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerblue/description"
+      ],
+      "objects/farmables/flowerblue/flowerblue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flower with bright blue petals. Useful for making dye.",
+      "Por": "Uma flor com pétalas azuis brilhantes. Útil para fazer tintura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerred/description"
+      ],
+      "objects/farmables/flowerred/flowerred.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flower with bright red petals. Useful for making dye.",
+      "Por": "Uma flor com pétalas vermelhas brilhantes. Útil para fazer tintura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/floweryellow/description"
+      ],
+      "objects/farmables/floweryellow/floweryellow.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flower with bright yellow petals. Useful for making dye.",
+      "Por": "Uma flor com pétalas amarelas brilhantes. Útil para fazer tintura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/teratomato/description"
+      ],
+      "objects/farmables/teratomato/teratomatoseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A freakish mutant plant with blood-filled tomatoes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid3/description"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gorgeous royal blue flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/silverleaf/description"
+      ],
+      "objects/farmables/silverleaf/silverleafseed.object": [
+        "/description"
+      ],
+      "objects/farmables/silverleaf/wildsilverleafseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A great way to boost energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/leafshell/description"
+      ],
+      "objects/farmables/leafshell/leafshellseed.object": [
+        "/description"
+      ],
+      "objects/farmables/leafshell/wildleafshellseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leafy egg vegetable that provides a protection boost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/isn_meatplant/description"
+      ],
+      "objects/farmables/isn_meatplant/isn_meatplant.object": [
+        "/description"
+      ],
+      "objects/farmables/isn_meatplant/isn_wildmeatplant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant that grows meat! Not for the squeamish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/sweetscoop/description"
+      ],
+      "objects/farmables/sweetscoop/sweetscoopseed.object": [
+        "/description"
+      ],
+      "objects/farmables/sweetscoop/wildsweetscoopseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant with fruit that tastes like dessert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/greenleaf/description"
+      ],
+      "objects/farmables/greenleaf/greenleafseed.object": [
+        "/description"
+      ],
+      "objects/farmables/greenleaf/wildgreenleafseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potent energy source that looks like grass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerbrown/description"
+      ],
+      "objects/farmables/flowerbrownseed/flowerbrown.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rare color for a flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/gemglow/description"
+      ],
+      "objects/farmables/gemglow/gemglowseed.object": [
+        "/description"
+      ],
+      "objects/farmables/gemglow/wildgemglowseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A salty plant that is resistant to gravity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/mutavisk/description"
+      ],
+      "objects/farmables/mutavisk/mutaviskseed.object": [
+        "/description"
+      ],
+      "objects/farmables/mutavisk/wildmutaviskseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange and wonderful plant that produces an unrivaled silk-like material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/beetlesprout/description"
+      ],
+      "objects/farmables/beetlesproutseed/beetlesproutseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange insect-jelly plant. Very tough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/garpberry/description"
+      ],
+      "objects/farmables/garpberryseed/garpberryseed.object": [
+        "/description"
+      ],
+      "objects/farmables/garpberryseed/wildgarpberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange radioactive stalk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/gurnonion/description"
+      ],
+      "objects/farmables/gurnonion/onionseed.object": [
+        "/description"
+      ],
+      "objects/farmables/gurnonion/wildonionseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sun-powered Gurn Onion. Quite useful, actually."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/zathiseed/description"
+      ],
+      "objects/farmables/zathiseed/zathiseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truly impossible floating plant capable of altering the effect of gravity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ita/description"
+      ],
+      "objects/farmables/itaseed/itaseed.object": [
+        "/description"
+      ],
+      "objects/farmables/itaseed/wilditaseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique strain of Lotus, full of potent antitoxins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/minkocoapod/description"
+      ],
+      "objects/farmables/minkocoapod/minkocoapodseed.object": [
+        "/description"
+      ],
+      "objects/farmables/minkocoapod/wildminkocoapodseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A variant of cocoa favored with mustelids. Provides speed boost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/rockroot/description"
+      ],
+      "objects/farmables/rockroot/rockrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/rockroot/wildrockrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very hard vegetable, capable of resisting damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ginseng/description"
+      ],
+      "objects/farmables/ginseng/ginsengseed.object": [
+        "/description"
+      ],
+      "objects/farmables/ginseng/wildginsengseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well-known medicinal plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/mireurchin/description"
+      ],
+      "objects/farmables/mireurchin/mireurchinseed.object": [
+        "/description"
+      ],
+      "objects/farmables/mireurchin/wildmireurchinseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Able to generate a static shield to repel predators."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/jillyroot/description"
+      ],
+      "objects/farmables/jillyroot/jillyrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/jillyroot/wildjillyrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Able to help speed healing of wounds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ignuschili2/title"
+      ],
+      "objects/farmables/ignuschili2/ignuschili2seed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adv. Ignus Chili"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/aenema/title"
+      ],
+      "objects/farmables/aenemaflower/aenemaflower.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aenema Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/algae/title"
+      ],
+      "objects/farmables/algaeseed/algaeseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/algaeseed/wildalgaeseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Algae Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/algae/description"
+      ],
+      "objects/farmables/algaeseed/algaeseed.object": [
+        "/description"
+      ],
+      "objects/farmables/algaeseed/wildalgaeseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interesting algae type. Excellent biofuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/energiflower/description"
+      ],
+      "objects/farmables/energiflower/energiflowerseed.object": [
+        "/description"
+      ],
+      "objects/farmables/energiflower/wildenergiflowerseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An orb of glowing energy growing from a plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/batterystem/title"
+      ],
+      "objects/farmables/batterystem/batterystem.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battery Stem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/darklightflower/description"
+      ],
+      "objects/farmables/darklightflower/darklightflower.object": [
+        "/description"
+      ],
+      "objects/farmables/darklightflower/wilddarklightflower.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautifully gleaming flowers that cure insanity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/beetlesprout/title"
+      ],
+      "objects/farmables/beetlesproutseed/beetlesproutseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beetle Sprout"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bellamorte/title"
+      ],
+      "objects/farmables/bellamorte/bellamorte.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bella Morte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerblack/title"
+      ],
+      "objects/farmables/flowerblackseed/flowerblack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Black Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid/title"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Black Orchid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bladetree/title"
+      ],
+      "objects/farmables/bladetree/bladetree.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blade Tree"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/blexcactus/description"
+      ],
+      "objects/farmables/blexcactus/blexplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/blexcactus/wildblexplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blex Cactus is known to be energizing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/blisterbush/title"
+      ],
+      "objects/farmables/blisterbush/blisterbushplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/blisterbush/wildblisterbushplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blister Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerblue/title"
+      ],
+      "objects/farmables/flowerblue/flowerblue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Flower",
+      "Por": "Blue Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid3/title"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Orchid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/yellowfoot/description"
+      ],
+      "objects/farmables/yellowfoot/wildyellowfootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/yellowfoot/yellowfootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boosts energy reserves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bluemelon/description"
+      ],
+      "objects/farmables/bluemelon/bluemelonseed.object": [
+        "/description"
+      ],
+      "objects/farmables/bluemelon/wildbluemelonseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Both delicious and pretty. Allows walking on liquids when eaten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerbrown/title"
+      ],
+      "objects/farmables/flowerbrownseed/flowerbrown.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brown Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/avikancactus/description"
+      ],
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/description"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti originating from Kadavan, but with variations in genetics that sets them apart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/porphis/description"
+      ],
+      "objects/farmables/porphis/porphisplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/porphis/wildporphisplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can increase power and health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/pinkloom/description"
+      ],
+      "objects/farmables/pinkloom/pinkloomseed.object": [
+        "/description"
+      ],
+      "objects/farmables/pinkloom/wildpinkloomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Causes rage while increasing energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/whitespine/description"
+      ],
+      "objects/farmables/whitespine/whitespine.object": [
+        "/description"
+      ],
+      "objects/farmables/whitespine/wildwhitespine.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completely immune to acid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/corvex/description"
+      ],
+      "objects/farmables/corvexsprout/corvexseed.object": [
+        "/description"
+      ],
+      "objects/farmables/corvexsprout/wildcorvexseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corvex is an alien plant with strange chemical properties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/crystallite/title"
+      ],
+      "objects/farmables/crystallite/crystallite.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystallite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/petrifiedroot/description"
+      ],
+      "objects/farmables/petrifiedroot/petrifiedrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/petrifiedroot/wildpetrifiedrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark matter meets flora. Increases defenses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/darklightflower/title"
+      ],
+      "objects/farmables/darklightflower/darklightflower.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/darklightflower/wilddarklightflower.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darklight Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/deathblossom/title"
+      ],
+      "objects/farmables/deathblossom/deathblossomseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/deathblossom/wilddeathblossomseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deathblossom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/deathblossom/description"
+      ],
+      "objects/farmables/deathblossom/deathblossomseed.object": [
+        "/description"
+      ],
+      "objects/farmables/deathblossom/wilddeathblossomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deathblossoms are not what you'd call a good snack. They do kill quite well, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/varanberry/description"
+      ],
+      "objects/farmables/varanberryseed/varanberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious and extremely nutritious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/shinyacorn/description"
+      ],
+      "objects/farmables/shinyacorn/shinyacornseed.object": [
+        "/description"
+      ],
+      "objects/farmables/shinyacorn/wildshinyacornseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious nuts that increase your vitality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowergrey/description"
+      ],
+      "objects/farmables/flowergreyseed/flowergrey.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drab in color, but smells nice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/dragonsbeard/title"
+      ],
+      "objects/farmables/dragonsbeard/dragonsbeardseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/dragonsbeard/wilddragonsbeardseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragonsbeard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorange/description"
+      ],
+      "objects/farmables/flowerorangeseed/flowerorange.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fiery and lovely"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldenroot/description"
+      ],
+      "objects/farmables/goldenroot/goldenrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/goldenroot/wildgoldenrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flecks of gold adorn this health-restoring vine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/fletchweed/title"
+      ],
+      "objects/farmables/fletchweed/fletchweed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fletchweed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/haleflower/description"
+      ],
+      "objects/farmables/haleflower/haleflowerseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For a plant, it stores an astounding amount of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/garikleaf/title"
+      ],
+      "objects/farmables/garikleaf/garikleaf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Garik Leaf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/talonseed/description"
+      ],
+      "objects/farmables/talonseedplant/talonseedseed.object": [
+        "/description"
+      ],
+      "objects/farmables/talonseedplant/wildtalonseedseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genetically improved! Resistant to cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldenseasponge/description"
+      ],
+      "objects/farmables/goldenseaspongeplant/goldenseaspongeplant.object": [
+        "/description"
+      ],
+      "objects/farmables/goldenseaspongeplant/wildgoldenseasponge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gleams under light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldshroom/description"
+      ],
+      "objects/farmables/goldshroom/goldshroomseed.object": [
+        "/description"
+      ],
+      "objects/farmables/goldshroom/wildgoldshroomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow in the dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldenseasponge/title"
+      ],
+      "objects/farmables/goldenseaspongeplant/goldenseaspongeplant.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/goldenseaspongeplant/wildgoldenseasponge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Goldensea Sponge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/garikleaf/description"
+      ],
+      "objects/farmables/garikleaf/garikleaf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grants a large boost to ground speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/miraclegrass/description"
+      ],
+      "objects/farmables/miraclegrassseed/miraclegrassseed.object": [
+        "/description"
+      ],
+      "objects/farmables/miraclegrassseed/wildmiraclegrassseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass renowned for its healing ability. Produces a weak long-term regeneration effect."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowergreen/title"
+      ],
+      "objects/farmables/flowergreenseed/flowergreen.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerpink/description"
+      ],
+      "objects/farmables/flowerpinkseed/flowerpink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy little flowers of pink hue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerpurple/description"
+      ],
+      "objects/farmables/flowerpurpleseed/flowerpurple.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy little flowers of purple hue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kamaranpod/description"
+      ],
+      "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
+        "/description"
+      ],
+      "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard to crack open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/dunestalk/description"
+      ],
+      "objects/farmables/dunestalk/dunestalkseed.object": [
+        "/description"
+      ],
+      "objects/farmables/dunestalk/wildedunestalkseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardy dunestalk, a wheat-like plant found growing in arid locations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/blizzberry/description"
+      ],
+      "objects/farmables/blizzberry/blizzberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Helps provide immunity to even the most extreme cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/hops/description"
+      ],
+      "objects/farmables/hops/hopsseed.object": [
+        "/description"
+      ],
+      "objects/farmables/hops/wildhopsseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hops, used in the making of beer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerblack/description"
+      ],
+      "objects/farmables/flowerblackseed/flowerblack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "How incredibly Gothic-pretentious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/diodiahybrid/description"
+      ],
+      "objects/farmables/diodiahybrid/diodiahybridseed.object": [
+        "/description"
+      ],
+      "objects/farmables/diodiahybrid/wilddiodiahybridseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hybridized Diodia. Still coppery, but helps resist poison."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/quellstem/description"
+      ],
+      "objects/farmables/quellstem/quellstem.object": [
+        "/description"
+      ],
+      "objects/farmables/quellstem/wildquellstem.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immune to all forms of heat, including lava."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/capriole/description"
+      ],
+      "objects/farmables/caprioleplant/caprioleplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/caprioleplant/wildcaprioleplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases your limb strength for jumping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldenglow/description"
+      ],
+      "objects/farmables/goldenglow/goldenglowseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It glows, but its real strength is in how it increases speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bamboo/description"
+      ],
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/description"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's bamboo. Makes for some nice furniture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/aquapod/description"
+      ],
+      "objects/farmables/aquapod/aquapodseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its fruit increases swim speed. Must be planted in liquid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/fletchweed/description"
+      ],
+      "objects/farmables/fletchweed/fletchweed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its produce is quite packed with energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/stranglevine/description"
+      ],
+      "objects/farmables/stranglevineseed/stranglevineseed.object": [
+        "/description"
+      ],
+      "objects/farmables/stranglevineseed/wildstranglevineseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its roots lash out when attacked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kramil/title"
+      ],
+      "objects/farmables/kramil/kramil.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kramil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kramil/description"
+      ],
+      "objects/farmables/kramil/kramil.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kramil is known for its potent anti-cold properties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/lactariusindigo/title"
+      ],
+      "objects/farmables/lactariusindigo/lactariusindigoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/lactariusindigo/wildlactariusindigoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lactarius Indigo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/lasher/description"
+      ],
+      "objects/farmables/lasherplant/lasherplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/lasherplant/wildlasherplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lashers are nasty things, and can induce rage. Their tongues are useful, too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tentacle/description"
+      ],
+      "objects/farmables/tentacleplant/tentacleplant.object": [
+        "/description"
+      ],
+      "objects/farmables/tentacleplant/wildtentacleplant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lashes out at enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/hellfireplant/description"
+      ],
+      "objects/farmables/hellfireplantseed/hellfireplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/hellfireplantseed/wildhellfireplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lethal when thrown, Hellfire nodules can also be used to create weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/melodistar/description"
+      ],
+      "objects/farmables/melodistar/melodistarseed.object": [
+        "/description"
+      ],
+      "objects/farmables/melodistar/wildmelodistarseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melodistar can increase your health and energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bamboo/title"
+      ],
+      "objects/farmables/bamboo/bambooseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Micro-Bamboo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/miraclegrass/title"
+      ],
+      "objects/farmables/miraclegrassseed/miraclegrassseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/miraclegrassseed/wildmiraclegrassseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miracle Grass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/erithianalgae/description"
+      ],
+      "objects/farmables/erithianalgae/erithianalgaeseed.object": [
+        "/description"
+      ],
+      "objects/farmables/erithianalgae/wilderithianalgaeseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mutant strain of algae loaded with energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/mutavisk/title"
+      ],
+      "objects/farmables/mutavisk/mutaviskseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mutavisk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/nailery/description"
+      ],
+      "objects/farmables/nailery/naileryseed.object": [
+        "/description"
+      ],
+      "objects/farmables/nailery/wildnaileryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nailery, a Glitch delight. Tastes a bit too much like iron. Can be thrown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/nakati/title"
+      ],
+      "objects/farmables/a_avali/nakatiseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/a_avali/wildnakatiseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nakati Ovoid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/dragonsbeard/description"
+      ],
+      "objects/farmables/dragonsbeard/dragonsbeardseed.object": [
+        "/description"
+      ],
+      "objects/farmables/dragonsbeard/wilddragonsbeardseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nearly immune to all forms of heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/batterystem/description"
+      ],
+      "objects/farmables/batterystem/batterystem.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not surprisingly, these are jammed with energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/floralytplant/description"
+      ],
+      "objects/farmables/floralytplantseed/floralytplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "One of the greatest healing agents known anywhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorange/title"
+      ],
+      "objects/farmables/flowerorangeseed/flowerorange.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orange Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/pasakavine/title"
+      ],
+      "objects/farmables/pasakavine/pasakavineseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pasakavine/wildpasakavineseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pasaka Vine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/pekkit/description"
+      ],
+      "objects/farmables/pekkit/pekkitseed.object": [
+        "/description"
+      ],
+      "objects/farmables/pekkit/wildpekkitseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pekkit. Can be tossed to freeze enemies or eaten to protect you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerpink/title"
+      ],
+      "objects/farmables/flowerpinkseed/flowerpink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pink Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/poetree/title"
+      ],
+      "objects/farmables/poetree/poetree.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/poetree/wildpoetree.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poe Tree"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/poetree/description"
+      ],
+      "objects/farmables/poetree/poetree.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poe trees actually produce a pure form of silicon. Handy, that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/thornitox/description"
+      ],
+      "objects/farmables/thornitoxplant/thornitoxseed.object": [
+        "/description"
+      ],
+      "objects/farmables/thornitoxplant/wildthornitoxseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poisonous and spiky. Thornitox could have use in weapons manufacture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/crystallite/description"
+      ],
+      "objects/farmables/crystallite/crystallite.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Produces dangerous little shards perfect for throwing at things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bellamorte/description"
+      ],
+      "objects/farmables/bellamorte/bellamorte.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Produces poisonous barbs great for killing stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/fayshroom/description"
+      ],
+      "objects/farmables/fayshroom/fayshroomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protects itself with spike-like cilia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/vanusflower/description"
+      ],
+      "objects/farmables/vanusflower/vanusflowerseed.object": [
+        "/description"
+      ],
+      "objects/farmables/vanusflower/wildvanusflowerseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protects the user from harm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/victorbush/description"
+      ],
+      "objects/farmables/victorbush/victorbush.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides a massive run boost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/fubioshroomblue/description",
+        "/collectables/fubioshroomgreen/description",
+        "/collectables/fubioshroompurple/description",
+        "/collectables/fubioshroomred/description",
+        "/collectables/fubioshroomyellow/description"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomblue.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomgreen.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/fubioshroompurple.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomred.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomyellow.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomblue.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomgreen.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroompurple.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomred.object": [
+        "/description"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomyellow.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides colored light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/wubstem/description"
+      ],
+      "objects/farmables/wubstem/wildwubstemseed.object": [
+        "/description"
+      ],
+      "objects/farmables/wubstem/wubstemseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides electric resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/herrodbush/description"
+      ],
+      "objects/farmables/herrodbush/herrodbush.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides immunity against Shadow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerpurple/title"
+      ],
+      "objects/farmables/flowerpurpleseed/flowerpurple.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid2/title"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple Orchid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/quellstem/title"
+      ],
+      "objects/farmables/quellstem/quellstem.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/quellstem/wildquellstem.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quell Stem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerred/title"
+      ],
+      "objects/farmables/flowerred/flowerred.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Flower",
+      "Por": "Red Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/reeds/title"
+      ],
+      "objects/farmables/reeds/reedseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/reeds/wildreedseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reeds"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/reeds/description"
+      ],
+      "objects/farmables/reeds/reedseed.object": [
+        "/description"
+      ],
+      "objects/farmables/reeds/wildreedseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reeds grow avidly wherever they can in a bog or swamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tetherhook/description"
+      ],
+      "objects/farmables/tetherhookseed/tetherhookseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Removes you from danger when near death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/lactariusindigo/description"
+      ],
+      "objects/farmables/lactariusindigo/lactariusindigoseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resistant to shadow effects"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/snowberry/description"
+      ],
+      "objects/farmables/snowberry/fusnowberryseed.object": [
+        "/description"
+      ],
+      "objects/farmables/snowberry/wildfusnowberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resistant to snow and ice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/mint/description"
+      ],
+      "objects/farmables/mint/mintseed.object": [
+        "/description"
+      ],
+      "objects/farmables/mint/wildmintseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores natural energy reserves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/shadowroot/description"
+      ],
+      "objects/farmables/shadowroot/shadowrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/shadowroot/wildshadowrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowroot temporarily increases your crit bonus damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/shockshroom/description"
+      ],
+      "objects/farmables/shockshroom/shockshroomseed.object": [
+        "/description"
+      ],
+      "objects/farmables/shockshroom/wildshockshroomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock shrooms make useful weapons when processed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/shockshroom/title"
+      ],
+      "objects/farmables/shockshroom/shockshroomseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/shockshroom/wildshockshroomseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock-Shroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/soulleaf/description"
+      ],
+      "objects/farmables/soulleaf/fusoulleafseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow to grow, but produces useful essence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/piru/description"
+      ],
+      "objects/farmables/a_avali/piruseed.object": [
+        "/description"
+      ],
+      "objects/farmables/a_avali/wildpiruseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small, barnacle-like colonies which grow long frond-like feeding filaments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/littlegoodberry/description"
+      ],
+      "objects/farmables/littlegoodberry/littlegoodberryseed.object": [
+        "/description"
+      ],
+      "objects/farmables/littlegoodberry/wildlittlegoodberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small, delicious berries that also increase your ability to cause pain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/cellpod/description"
+      ],
+      "objects/farmables/cellpodsplant/cellpodsplant.object": [
+        "/description"
+      ],
+      "objects/farmables/cellpodsplant/wildcellpodsplant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/cinnamon/description"
+      ],
+      "objects/farmables/cinnamon/cinnamonseed.object": [
+        "/description"
+      ],
+      "objects/farmables/cinnamon/wildcinnamonseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spice of life! Cinnamon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/avikanspice/description"
+      ],
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices can be made by drying this plants fruits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/springvault/description"
+      ],
+      "objects/farmables/springvault/springvaultseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Springvault intensifies leg-muscle effectiveness by a large amount."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/arkaen/description"
+      ],
+      "objects/farmables/arkaentree/arkaentree.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sprouts odd, dangerous dimensional darts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/wretchel/description"
+      ],
+      "objects/farmables/wretchelseed/wildwretchelseed.object": [
+        "/description"
+      ],
+      "objects/farmables/wretchelseed/wretchelseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Straddles dimensions and bends the laws of physics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/stranglevine/title"
+      ],
+      "objects/farmables/stranglevineseed/stranglevineseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strangler Vine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/talonseed/title"
+      ],
+      "objects/farmables/talonseedplant/talonseedseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/talonseedplant/wildtalonseedseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talon Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/niss/description"
+      ],
+      "objects/farmables/nissseed/nissseed.object": [
+        "/description"
+      ],
+      "objects/farmables/nissseed/wildnissseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrible taste, but utterly immune to tar, mud and clay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid2/description"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a nice rich purple, right there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/oonforta/description"
+      ],
+      "objects/farmables/oonfortaseed/oonfortaseed.object": [
+        "/description"
+      ],
+      "objects/farmables/oonfortaseed/wildoonfortaseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Oonforta grows glowing bulbs on tails that can be tossed for light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bladetree/description"
+      ],
+      "objects/farmables/bladetree/bladetree.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The barbs on this tree are as sharp as knives."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/aenema/description"
+      ],
+      "objects/farmables/aenemaflower/aenemaflower.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The buds on this plant produce shadow gas and are hot to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kirifruit/description"
+      ],
+      "objects/farmables/a_avali/kirifruitseed.object": [
+        "/description"
+      ],
+      "objects/farmables/a_avali/wildkirifruitseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fruiting body of a subterranean slime mold. This one has already begun sporing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/genesiberry/description"
+      ],
+      "objects/farmables/genesiberry/genesiberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The genesis of a new breed of plant. A strange, potent hybrid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ighant/description"
+      ],
+      "objects/farmables/ighant/ighantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/ighant/wildighantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ighant is a curious, fast-growing plant. Provides bounce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/gazelemon/description"
+      ],
+      "objects/farmables/gazelemon/gazelemonseed.object": [
+        "/description"
+      ],
+      "objects/farmables/gazelemon/wildgazelemonseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The iris is the best part. Helps eyesight in the dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ghostmushroom/description"
+      ],
+      "objects/farmables/ghostmushroom/ghostmushroomseed.object": [
+        "/description"
+      ],
+      "objects/farmables/ghostmushroom/wildghostmushroomseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These buggers are almost invisible!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerwhite/description"
+      ],
+      "objects/farmables/flowerwhiteseed/flowerwhite.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These flowers have a sweet and pleasant scent"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/spongeweed/description"
+      ],
+      "objects/farmables/spongeweed/fuspongeweedseed.object": [
+        "/description"
+      ],
+      "objects/farmables/spongeweed/wildfuspongeweedseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fragile plant is immune to poison."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/glarestalk/description"
+      ],
+      "objects/farmables/glarestalk/glarestalkseed.object": [
+        "/description"
+      ],
+      "objects/farmables/glarestalk/wildglarestalkseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is one ugly plant mutant. Immune to insanity, and increases damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/guam/description"
+      ],
+      "objects/farmables/guam/guamseed.object": [
+        "/description"
+      ],
+      "objects/farmables/guam/wildguamseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mutant strain of guam can filter any radiation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tyvokk/description"
+      ],
+      "objects/farmables/tyvokkseed/tyvokkseed.object": [
+        "/description"
+      ],
+      "objects/farmables/tyvokkseed/wildtyvokkseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant is a literal powerhouse of energy and vitality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/pasakavine/description"
+      ],
+      "objects/farmables/pasakavine/pasakavineseed.object": [
+        "/description"
+      ],
+      "objects/farmables/pasakavine/wildpasakavineseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vine gives off a useful miasma that cancels out radiation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/neuropod/description"
+      ],
+      "objects/farmables/neuropodseed/neuropodseed.object": [
+        "/description"
+      ],
+      "objects/farmables/neuropodseed/wildneuropodseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truly a mad-science creation. Extremely potent effects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tyvokk/title"
+      ],
+      "objects/farmables/tyvokkseed/tyvokkseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tyvokk Dart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/slimeplant/description"
+      ],
+      "objects/farmables/slimeplant/slimeplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/slimeplant/wildslimeplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful against slime and can protect against damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/vashta/title"
+      ],
+      "objects/farmables/vashta/vashtaplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/vashta/wildvashtaplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vashta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/vashta/description"
+      ],
+      "objects/farmables/vashta/vashtaplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/vashta/wildvashtaplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vashta is ugly stuff, but not as ugly as the rage it induces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/vextongue/description"
+      ],
+      "objects/farmables/vextongue/vextongueseed.object": [
+        "/description"
+      ],
+      "objects/farmables/vextongue/wildvextongueseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vextongue is a great natural healing alternative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowergreen/description"
+      ],
+      "objects/farmables/flowergreenseed/flowergreen.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vibrant, with sticky leaves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/victorbush/title"
+      ],
+      "objects/farmables/victorbush/victorbush.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Victorleaf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bloodroot/description"
+      ],
+      "objects/farmables/bloodroot/bloodrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/bloodroot/wildbloodrootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitality-increasing plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tinselbush/description"
+      ],
+      "objects/farmables/tinselbush/tinselbush.object": [
+        "/description"
+      ],
+      "objects/farmables/tinselbush/wildtinselbush.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "While it looks like tinsel, it's as sharp as razors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerwhite/title"
+      ],
+      "objects/farmables/flowerwhiteseed/flowerwhite.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "White Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/whitespine/title"
+      ],
+      "objects/farmables/whitespine/whitespine.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/whitespine/wildwhitespine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whitespine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/tentacle/title"
+      ],
+      "objects/farmables/tentacleplant/tentacleplant.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/tentacleplant/wildtentacleplant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Writhing Vine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/floweryellow/title"
+      ],
+      "objects/farmables/floweryellow/floweryellow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellow Flower",
+      "Por": "Yellow Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/yellowfoot/title"
+      ],
+      "objects/farmables/yellowfoot/wildyellowfootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/yellowfoot/yellowfootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellowfoot Shroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ignuschili2/description"
+      ],
+      "objects/farmables/ignuschili2/ignuschili2seed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yeowch! This is even hotter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/flowerorchid/description"
+      ],
+      "objects/farmables/flowerorchid/flowerorchid.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "c-c-c-commmmbo breaker!"
+    }
+  }
+]

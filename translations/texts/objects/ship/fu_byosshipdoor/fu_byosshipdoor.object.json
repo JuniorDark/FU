@@ -37,22 +37,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshipdoor/fu_byosshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "A standard ship door."
+      "Eng": "Doors like this are common on ships."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshipdoor/fu_byosshipdoor.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Doors like this are common on ships."
+      "Eng": "Informed. A standard ship door."
     }
   },
   {

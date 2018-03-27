@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flagkirhos/flagkirhos.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Kirhosi flag. I understand this identifies rebels and should have teleportation capabilities."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flagkirhos/flagkirhos.object": [
         "/avianDescription"
       ]
     },
@@ -74,6 +63,17 @@
     },
     "Texts": {
       "Eng": "Red for the blood spilled to satiate the rich.  Black for the shadows in which we operate.  The matrix in the corner for the power of cyberspace.  Down with the Zaibatsu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagkirhos/flagkirhos.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A Kirhosi flag. I understand this identifies rebels and should have teleportation capabilities."
     }
   },
   {

@@ -265,6 +265,56 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/crystalmoon/crystalcavebush10.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush11.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush12.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush13.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush14.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush15.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush16.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush17.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush5.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush6.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush7.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush8.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystalcavebush9.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/crystalmoon/crystallarge3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shrewd. This bush could be worth a lot on certain black markets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/crystalmoon/crystalcavebush10.object": [
         "/floranDescription"
       ],
       "objects/minibiome/crystalmoon/crystalcavebush11.object": [
@@ -309,56 +359,6 @@
     },
     "Texts": {
       "Eng": "Ssshiny bush."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/minibiome/crystalmoon/crystalcavebush10.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush11.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush12.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush13.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush14.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush15.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush16.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush17.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystalcavebush9.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/crystalmoon/crystallarge3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bush could be worth a lot on certain black markets."
     }
   },
   {

@@ -36,22 +36,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_fissionreactornew/isn_fissionreactornew.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rodsss go in, power comesss out."
+      "Eng": "Nervous. The consequences of using this unwisely are dire."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_fissionreactornew/isn_fissionreactornew.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "The consequences of using this unwisely are dire."
+      "Eng": "Rodsss go in, power comesss out."
     }
   },
   {

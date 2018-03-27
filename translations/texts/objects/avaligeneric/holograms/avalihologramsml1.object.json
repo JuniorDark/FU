@@ -58,11 +58,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologramsml1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "If the Avali have a network, why do they have optical interfaces too?"
+      "Eng": "Pondering. If the Avali have a network, why do they have optical interfaces too?"
     }
   },
   {

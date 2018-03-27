@@ -113,28 +113,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecrusher/cmineduct.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/mission/mining/minecrusher/hmineduct.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The duct exists to send rocks to the crusher."
+      "Eng": "Observant. The duct exists to send rocks to the crusher."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecrusher/mineduct.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/mission/mining/minecrusher/smineduct.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The machine exists to send rocks to the crusher."
+      "Eng": "Observant. The machine exists to send rocks to the crusher."
     }
   }
 ]

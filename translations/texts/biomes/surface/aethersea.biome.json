@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/aethersea.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether Sea"
+    }
+  }
+]

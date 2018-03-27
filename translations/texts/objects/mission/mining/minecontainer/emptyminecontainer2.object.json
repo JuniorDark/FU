@@ -37,11 +37,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecontainer/emptyminecontainer2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The container appears to be empty."
+      "Eng": "Observant. The container appears to be empty."
     }
   }
 ]

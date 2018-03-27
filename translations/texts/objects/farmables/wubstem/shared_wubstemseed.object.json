@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/wubstem/wildwubstemseed.object": [
-        "/description"
-      ],
-      "objects/farmables/wubstem/wubstemseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Provides electric resistance."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/wubstem/wildwubstemseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/wubstem/wubstemseed.object": [

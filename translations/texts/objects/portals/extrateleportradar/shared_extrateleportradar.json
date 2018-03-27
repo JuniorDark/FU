@@ -79,20 +79,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/portals/extrateleportradar/extrateleportradar.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/portals/extrateleportradar/extrateleportradarhome.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The signal emitted by this dish is unidentified."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/portals/extrateleportradar/extrateleportradar.object": [
         "/avianDescription"
       ],
       "objects/portals/extrateleportradar/extrateleportradarhome.object": [
@@ -129,6 +115,20 @@
     },
     "Texts": {
       "Eng": "This thing looks like it could fall apart any second."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/portals/extrateleportradar/extrateleportradar.object": [
+        "/glitchDescription"
+      ],
+      "objects/portals/extrateleportradar/extrateleportradarhome.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. The signal emitted by this dish is unidentified."
     }
   }
 ]

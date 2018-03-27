@@ -3,6 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/bamboo/bambooseed.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ],
+      "objects/farmables/bamboo/wildbambooseed.object": [
+        "/apexDescription",
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bamboo/bambooseed.object": [
         "/hylotlDescription"
       ],
       "objects/farmables/bamboo/wildbambooseed.object": [
@@ -25,34 +41,6 @@
     },
     "Texts": {
       "Eng": "Fresh Bamboo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/bamboo/bambooseed.object": [
-        "/description"
-      ],
-      "objects/farmables/bamboo/wildbambooseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's bamboo. Makes for some nice furniture."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/bamboo/bambooseed.object": [
-        "/shortdescription"
-      ],
-      "objects/farmables/bamboo/wildbambooseed.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Micro-Bamboo"
     }
   },
   {

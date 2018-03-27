@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door. It appears to be disabled."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": [
         "/humanDescription"
       ]
     },
@@ -41,6 +30,17 @@
     },
     "Texts": {
       "Eng": "Slot it all!  The door's jammed!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A door. It appears to be disabled."
     }
   },
   {

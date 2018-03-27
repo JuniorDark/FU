@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/silverleaf/silverleafseed.object": [
-        "/description"
-      ],
-      "objects/farmables/silverleaf/wildsilverleafseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A great way to boost energy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/silverleaf/silverleafseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/silverleaf/wildsilverleafseed.object": [

@@ -73,6 +73,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutechest/cutechest1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutechest/cutechest2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What could be inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutechest/cutechest1.object": [
         "/shortdescription"
       ],
       "a_notyetadded/cute/cutechest/cutechest2.object": [
@@ -109,20 +123,6 @@
     },
     "Texts": {
       "Eng": "This chest has an industrial look about it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutechest/cutechest1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutechest/cutechest2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What could be inside?"
     }
   }
 ]

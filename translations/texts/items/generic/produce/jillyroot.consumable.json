@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Effect:\n^cyan;Heal 30 health^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/jillyroot.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Jilly Root"
-    }
   }
 ]

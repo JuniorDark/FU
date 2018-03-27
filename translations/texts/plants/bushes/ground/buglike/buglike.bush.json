@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/buglike/buglike.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -21,6 +20,17 @@
     },
     "Texts": {
       "Eng": "Creepy crawly thingsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/buglike/buglike.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curiosity. An unusual bug-like structure."
     }
   }
 ]

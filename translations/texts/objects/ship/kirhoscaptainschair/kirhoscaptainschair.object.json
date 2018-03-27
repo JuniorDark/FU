@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhoscaptainschair/kirhoscaptainschair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anticipation. Where to next?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhoscaptainschair/kirhoscaptainschair.object": [
         "/avianDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "SSsmells of Apex butt."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/kirhoscaptainschair/kirhoscaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where to next?"
     }
   }
 ]

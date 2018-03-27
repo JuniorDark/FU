@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "BOLHA EXPLOSIVA"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "monsters/generated/skills/ranged/bubbleBlastAttack.monsterskill": [
         "/label"
@@ -13,7 +11,7 @@
     },
     "Texts": {
       "Eng": "BUBBLE BLAST",
-      "Por": "EXPLOSÃO DE BOLHAS"
+      "Por": "BOLHA EXPLOSIVA"
     }
   },
   {
@@ -36,8 +34,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Testing rotating monster",
-      "Por": "Testando monstro giratório"
+      "Eng": "Testing rotating monster"
     }
   }
 ]

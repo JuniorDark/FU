@@ -69,11 +69,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/vanity/bamboo/bamboobed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "My own awesome bed."
+      "Eng": "Proud. My own awesome bed."
     }
   },
   {

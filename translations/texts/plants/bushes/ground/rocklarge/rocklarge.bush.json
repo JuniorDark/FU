@@ -15,12 +15,22 @@
     "Files": {
       "plants/bushes/ground/rocklarge/rocklarge.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Large rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/rocklarge/rocklarge.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Large rocks."
     }
   }
 ]

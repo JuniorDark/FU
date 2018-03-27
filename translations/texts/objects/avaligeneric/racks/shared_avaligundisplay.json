@@ -45,6 +45,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/racks/avaligundisplay1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaligeneric/racks/avaligundisplay2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/racks/avaligundisplay1.object": [
         "/avaliDescription"
       ],
       "objects/avaligeneric/racks/avaligundisplay2.object": [
@@ -53,20 +67,6 @@
     },
     "Texts": {
       "Eng": "Our railguns have user recognition grips, only recognised users of this gun can fire it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/racks/avaligundisplay1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaligeneric/racks/avaligundisplay2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device appears to have 2 separated metal rails connected to a high voltage power source."
     }
   }
 ]

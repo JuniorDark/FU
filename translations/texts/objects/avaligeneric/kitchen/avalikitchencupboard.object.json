@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalikitchencupboard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Once you have seen one cupboard you have seen them all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchencupboard.object": [
         "/shortdescription"
       ]
     },
@@ -30,17 +41,6 @@
     },
     "Texts": {
       "Eng": "It's a cupboard, could probably get something similar at OKEA."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/kitchen/avalikitchencupboard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Once you have seen one cupboard you have seen them all."
     }
   },
   {

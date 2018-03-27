@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerspring/flowerspring.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -68,7 +67,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Spring Flower Seeds"
+      "Eng": "Spring Flower Seeds",
+      "Por": "Spring Flower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerspring/flowerspring.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A blue spring flower.",
+      "Por": "Alegre. Uma flor de primavera bonita."
     }
   },
   {

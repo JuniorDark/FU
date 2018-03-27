@@ -36,6 +36,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/extraavianaugments/extraavianaugments.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. The goods displayed on this stall are remarkably rare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extraavianaugments/extraavianaugments.object": [
         "/apexDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "Svetlana's Stall!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/extraavianaugments/extraavianaugments.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The goods displayed on this stall are remarkably rare."
     }
   },
   {

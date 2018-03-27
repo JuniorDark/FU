@@ -25,10 +25,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/emitter/swtjc_wp_brokenemitter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skeptical. What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/emitter/swtjc_wp_brokenemitter.object": [
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

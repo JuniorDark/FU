@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/avikancactus/avikancactusseed.object": [
-        "/description"
-      ],
-      "objects/farmables/avikancactus/wildavikancactusseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cacti originating from Kadavan, but with variations in genetics that sets them apart."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/avikancactus/avikancactusseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/avikancactus/wildavikancactusseed.object": [

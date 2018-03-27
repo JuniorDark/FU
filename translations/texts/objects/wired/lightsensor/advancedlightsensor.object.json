@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/lightsensor/advancedlightsensor.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -31,6 +30,17 @@
     },
     "Texts": {
       "Eng": "More advanccced light sssensssor that activatesss variousss nodesss if variousss brightnesssesss are exxxceeded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/advancedlightsensor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds."
     }
   }
 ]

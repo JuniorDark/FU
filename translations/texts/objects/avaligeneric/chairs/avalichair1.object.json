@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/chairs/avalichair1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distress. This chair is radiating a dangerously strong magnetic field!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/chairs/avalichair1.object": [
         "/avianDescription"
       ]
     },
@@ -63,17 +74,6 @@
     },
     "Texts": {
       "Eng": "Maglev Armchair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/chairs/avalichair1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair is radiating a dangerously strong magnetic field!"
     }
   },
   {

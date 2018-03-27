@@ -47,22 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "It is designed with replaceable parts to minimize repair costs."
+      "Eng": "Low-class Apex housing is usually near generators like these. The constant noise prevents you from getting any good sleep."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_thermalgenerator/isn_thermalgenerator.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Low-class Apex housing is usually near generators like these. The constant noise prevents you from getting any good sleep."
+      "Eng": "Observation. It is designed with replaceable parts to minimize repair costs."
     }
   },
   {

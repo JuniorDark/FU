@@ -37,6 +37,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosterflamekirhos/boosterflamekirhos.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/fu_largethruster/fu_largethruster.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/fu_smallthruster/fu_smallthruster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse. Temperature too high to measure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosterflamekirhos/boosterflamekirhos.object": [
         "/hylotlDescription"
       ],
       "objects/ship/fu_largethruster/fu_largethruster.object": [
@@ -65,23 +82,6 @@
     },
     "Texts": {
       "Eng": "Ssscary fire."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/boosterflamekirhos/boosterflamekirhos.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/fu_largethruster/fu_largethruster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/fu_smallthruster/fu_smallthruster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Temperature too high to measure."
     }
   },
   {

@@ -14,11 +14,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/warttile.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "A chunk of slimy warts."
+      "Eng": "Disgust. A chunk of slimy warts."
     }
   },
   {

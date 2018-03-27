@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosteleporter/fu_byosteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/fu_byosteleporter/fu_byosteleporterdeco.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A teleporter. I am able to enter a sleep mode during the teleport process."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byosteleporter/fu_byosteleporter.object": [
         "/hylotlDescription"
       ],
       "objects/ship/fu_byosteleporter/fu_byosteleporterdeco.object": [
@@ -53,6 +39,20 @@
     },
     "Texts": {
       "Eng": "Ship's teleporter. Let's take her for a spin!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosteleporter/fu_byosteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/fu_byosteleporter/fu_byosteleporterdeco.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug. A teleporter. I am able to enter a sleep mode during the teleport process."
     }
   },
   {

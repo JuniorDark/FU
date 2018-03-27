@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosfuelhatch/fu_byosfuelhatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosfuelhatch/fu_byosfuelhatch.object": [
         "/shortdescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byosfuelhatch/fu_byosfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system."
     }
   }
 ]

@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/dunestalk/dunestalkseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/dunestalk/wildedunestalkseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Does dunestalk have as many uses as wheat does?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/dunestalk/dunestalkseed.object": [
         "/drodenDescription"
       ],
       "objects/farmables/dunestalk/wildedunestalkseed.object": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Detected native Kadavan flora. Dunestalk confirmed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/dunestalk/dunestalkseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/dunestalk/wildedunestalkseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Does dunestalk have as many uses as wheat does?"
     }
   },
   {
@@ -109,20 +109,6 @@
     },
     "Texts": {
       "Eng": "Floran iss confused... Iss this wheat?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/dunestalk/dunestalkseed.object": [
-        "/description"
-      ],
-      "objects/farmables/dunestalk/wildedunestalkseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hardy dunestalk, a wheat-like plant found growing in arid locations."
     }
   },
   {

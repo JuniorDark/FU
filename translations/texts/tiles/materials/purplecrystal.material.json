@@ -3,11 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/purplecrystal.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful purple crystal."
+      "Eng": "Admiration. A beautiful purple crystal.",
+      "Por": "Impressionado. A luz parece dançar através deste cristal roxo."
     }
   },
   {

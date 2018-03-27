@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Massacre Blade^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Massacre Blade^reset; ^yellow;^reset;"
     }
   }
 ]

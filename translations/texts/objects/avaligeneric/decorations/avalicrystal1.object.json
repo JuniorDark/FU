@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/decorations/avalicrystal1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avarice. These crystals would look better on my own mantlepiece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/decorations/avalicrystal1.object": [
         "/shortdescription"
       ]
     },
@@ -74,17 +85,6 @@
     },
     "Texts": {
       "Eng": "Ssssshiny."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/decorations/avalicrystal1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These crystals would look better on my own mantlepiece."
     }
   },
   {

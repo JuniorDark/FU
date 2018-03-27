@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Blastmark^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Blastmark^reset; ^yellow;^reset;"
     }
   }
 ]

@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacipykretestrip.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This strip is made from a mixture of ice and finely ground wood pulp."
+      "Eng": "Analysis. This strip is made from a mixture of ice and finely ground wood pulp."
     }
   }
 ]

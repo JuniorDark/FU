@@ -59,14 +59,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenwood.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/honey/goldenwood.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This wooden log is an unnatural golden shade."
+      "Eng": "Unsettled. This wooden log is an unnatural golden shade."
     }
   }
 ]

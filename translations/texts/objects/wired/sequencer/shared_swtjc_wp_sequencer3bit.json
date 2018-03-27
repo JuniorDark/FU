@@ -59,12 +59,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/sequencer/swtjc_wp_sequencer3bithinputs.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/sequencer/swtjc_wp_sequencer3bitvinputs.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -75,16 +73,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/sequencer/swtjc_wp_sequencer3bith.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/sequencer/swtjc_wp_sequencer3bitv.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
       "Eng": "A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/sequencer/swtjc_wp_sequencer3bithinputs.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bitvinputs.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. A 3-bit sequencer. Can directly change to one of its 8 inputs, as well as cycle between them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/sequencer/swtjc_wp_sequencer3bith.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer3bitv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on."
     }
   }
 ]

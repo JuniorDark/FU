@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/ribbons/testribbon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "In a previous time, I served as a weaver for a cycle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/ribbons/testribbon.object": [
         "/floranDescription"
       ]
     },
@@ -52,6 +41,17 @@
     },
     "Texts": {
       "Eng": "Oh my, I have got to get one of these for my tailor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/ribbons/testribbon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. In a previous time, I served as a weaver for a cycle."
     }
   },
   {

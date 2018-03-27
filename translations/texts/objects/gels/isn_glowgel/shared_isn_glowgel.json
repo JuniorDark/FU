@@ -55,6 +55,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/gels/isn_glowgel/isn_glowgel.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_b.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_g.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_p.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_r.object": [
+        "/glitchDescription"
+      ],
+      "objects/gels/isn_glowgel/isn_glowgel_y.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiring. This glue has been designed to glow in the dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/gels/isn_glowgel/isn_glowgel.object": [
         "/humanDescription"
       ],
       "objects/gels/isn_glowgel/isn_glowgel_b.object": [
@@ -153,32 +179,6 @@
     },
     "Texts": {
       "Eng": "This gel stuff is really cool-looking."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/gels/isn_glowgel/isn_glowgel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_glowgel/isn_glowgel_b.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_glowgel/isn_glowgel_g.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_glowgel/isn_glowgel_p.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_glowgel/isn_glowgel_r.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/gels/isn_glowgel/isn_glowgel_y.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This glue has been designed to glow in the dark."
     }
   }
 ]

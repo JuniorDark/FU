@@ -87,6 +87,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/bandittent1/bandittent1.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/bandittent2/bandittent2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated. There isn't much room."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/bandittent1/bandittent1.object": [
         "/floranDescription"
       ],
       "objects/generic/bandittent2/bandittent2.object": [
@@ -95,20 +109,6 @@
     },
     "Texts": {
       "Eng": "Little black houssse."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/bandittent1/bandittent1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/bandittent2/bandittent2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There isn't much room."
     }
   }
 ]

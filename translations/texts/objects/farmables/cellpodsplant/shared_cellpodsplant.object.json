@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Cellpod Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/cellpodsplant/cellpodsplant.object": [
-        "/description"
-      ],
-      "objects/farmables/cellpodsplant/wildcellpodsplant.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Soft to the touch."
-    }
   }
 ]

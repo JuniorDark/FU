@@ -45,6 +45,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosbrokenfuelhatch/fu_byosbrokenfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/kirhosfuelhatch/kirhosfuelhatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Once filled, we may visit another planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosbrokenfuelhatch/fu_byosbrokenfuelhatch.object": [
         "/hylotlDescription"
       ],
       "objects/ship/kirhosfuelhatch/kirhosfuelhatch.object": [
@@ -81,20 +95,6 @@
     },
     "Texts": {
       "Eng": "Let'ss get going!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byosbrokenfuelhatch/fu_byosbrokenfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/kirhosfuelhatch/kirhosfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Once filled, we may visit another planet."
     }
   }
 ]

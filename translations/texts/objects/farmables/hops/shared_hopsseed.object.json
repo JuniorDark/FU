@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Hops Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/hops/hopsseed.object": [
-        "/description"
-      ],
-      "objects/farmables/hops/wildhopsseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hops, used in the making of beer."
-    }
   }
 ]

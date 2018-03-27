@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/aegisaltcrystal.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful aegisalt crystal."
+      "Eng": "Admiration. A beautiful aegisalt crystal."
     }
   }
 ]

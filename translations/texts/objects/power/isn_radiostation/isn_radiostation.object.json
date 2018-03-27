@@ -47,6 +47,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_radiostation/isn_radiostation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This is very cutting-edge technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_radiostation/isn_radiostation.object": [
         "/apexDescription"
       ]
     },
@@ -63,17 +74,6 @@
     },
     "Texts": {
       "Eng": "Only the Stargazers are allowed to use subwave communicators in Avos society."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/power/isn_radiostation/isn_radiostation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is very cutting-edge technology."
     }
   }
 ]

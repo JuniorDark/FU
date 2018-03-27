@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenwoodpanelling.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/honey/goldenwoodpanelling.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baffled. Why would someone use golden colored wood for decoration?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenwoodpanelling.material": [
         "/shortdescription"
       ],
       "tiles/materials/honey/goldenwoodpanelling.matitem": [
@@ -53,20 +67,6 @@
     },
     "Texts": {
       "Eng": "The golden tone of this wood panelling from shabby to chic."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/honey/goldenwoodpanelling.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/honey/goldenwoodpanelling.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why would someone use golden colored wood for decoration?"
     }
   }
 ]

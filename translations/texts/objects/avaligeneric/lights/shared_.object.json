@@ -97,6 +97,26 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/lights/avaliaerogellight.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaligeneric/lights/avalilightblock.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaligeneric/lights/avalilightpanel.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaligeneric/lights/avalisolidlightblock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/lights/avaliaerogellight.object": [
         "/humanDescription"
       ],
       "objects/avaligeneric/lights/avalilightblock.object": [
@@ -111,26 +131,6 @@
     },
     "Texts": {
       "Eng": "This light is flickering and giving me a headache..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/lights/avaliaerogellight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaligeneric/lights/avalilightblock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaligeneric/lights/avalilightpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaligeneric/lights/avalisolidlightblock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why do the Avali need strong lighting when they are primarily auditory-centered?"
     }
   }
 ]

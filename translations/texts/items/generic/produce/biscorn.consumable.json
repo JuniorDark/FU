@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/generic/produce/biscorn.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Biscorn"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/biscorn.consumable": [
         "/description"
       ]
     },

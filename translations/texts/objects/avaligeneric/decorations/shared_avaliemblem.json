@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/decorations/avaliemblem.object": [
+        "/glitchDescription"
+      ],
+      "objects/avaligeneric/decorations/avaliemblembig.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. The Avali flag seems to be a wing motif imposed upon a circle icon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/decorations/avaliemblem.object": [
         "/apexDescription"
       ],
       "objects/avaligeneric/decorations/avaliemblembig.object": [
@@ -67,20 +81,6 @@
     },
     "Texts": {
       "Eng": "The 3-feathered emblem of the Avali."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/decorations/avaliemblem.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avaligeneric/decorations/avaliemblembig.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Avali flag seems to be a wing motif imposed upon a circle icon."
     }
   },
   {

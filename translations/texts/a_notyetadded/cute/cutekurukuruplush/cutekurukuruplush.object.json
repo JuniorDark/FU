@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutekurukuruplush/cutekurukuruplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. I wander if theese squeak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutekurukuruplush/cutekurukuruplush.object": [
         "/novakidDescription"
       ]
     },
@@ -41,17 +52,6 @@
     },
     "Texts": {
       "Eng": "I plush based off a character from Sailor Kelp"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutekurukuruplush/cutekurukuruplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wander if theese squeak."
     }
   },
   {

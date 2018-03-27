@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/portals/extrateleportradar/extrateleportradarreturn.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A radar dish."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/portals/extrateleportradar/extrateleportradarreturn.object": [
         "/apexDescription"
       ]
     },
@@ -52,6 +41,17 @@
     },
     "Texts": {
       "Eng": "For going to mysterious places. It's still emitting a signal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/portals/extrateleportradar/extrateleportradarreturn.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. A radar dish."
     }
   },
   {

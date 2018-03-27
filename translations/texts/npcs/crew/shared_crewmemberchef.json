@@ -3,6 +3,40 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I can help you out with a fine delicacy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Perhaps you could do with a hot meal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchef.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1"
       ],
       "npcs/crew/crewmemberchef2.npctype": [
@@ -54,34 +88,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchef.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
       ],
       "npcs/crew/crewmemberchef2.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
       ],
       "npcs/crew/crewmemberchef3.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "I can help you out with a fine delicacy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberchef.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef2.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef3.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder if this delicious nourishment will help you?"
+      "Eng": "Helpful. Take this, it will help keep you fed!"
     }
   },
   {
@@ -105,6 +122,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchef.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2"
+      ],
+      "npcs/crew/crewmemberchef2.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2"
+      ],
+      "npcs/crew/crewmemberchef3.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I wonder if this delicious nourishment will help you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchef.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1"
       ],
       "npcs/crew/crewmemberchef2.npctype": [
@@ -116,40 +150,6 @@
     },
     "Texts": {
       "Eng": "Let me feed you!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberchef.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef2.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef3.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps you could do with a hot meal?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberchef.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef2.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
-      ],
-      "npcs/crew/crewmemberchef3.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Take this, it will help keep you fed!"
     }
   },
   {

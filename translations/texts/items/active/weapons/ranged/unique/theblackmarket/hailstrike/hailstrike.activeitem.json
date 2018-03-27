@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Deathstrike^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Deathstrike^reset; ^yellow;^reset;"
     }
   }
 ]

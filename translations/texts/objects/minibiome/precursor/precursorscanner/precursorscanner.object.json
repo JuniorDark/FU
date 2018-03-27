@@ -80,11 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/precursor/precursorscanner/precursorscanner.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This proximity scanner might be aware of me."
+      "Eng": "Suspicious. This proximity scanner might be aware of me."
     }
   },
   {

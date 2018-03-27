@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/moon_shadow.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Moon"
+    }
+  }
+]

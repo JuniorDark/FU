@@ -58,22 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/questmaps/zelpicture.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "The woman depicted here looks like what you'd get if you mashed a human and an avian together."
+      "Eng": "This reminds me of risque art my classmates would draw of humans when really bored."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/questmaps/zelpicture.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This reminds me of risque art my classmates would draw of humans when really bored."
+      "Eng": "Unsure. The woman depicted here looks like what you'd get if you mashed a human and an avian together."
     }
   },
   {

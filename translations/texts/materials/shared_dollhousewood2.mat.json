@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousewood2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousewood2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. These are well crafted wood planks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewood2.matitem": [
         "/apexdescription"
       ],
       "tiles/materials/dollhousewood2.material": [
@@ -67,20 +81,6 @@
     },
     "Texts": {
       "Eng": "Sssplintery wood plankss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousewood2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousewood2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These are well crafted wood planks."
     }
   },
   {

@@ -3,8 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthdlatch.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. The left, or 'Enable', node controls whether or not the latch can change states based on its right, or 'Data', node."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/compact_logic_horizontal/swtjc_wp_compacthdlatch.object": [
+        "/description"
       ]
     },
     "Texts": {

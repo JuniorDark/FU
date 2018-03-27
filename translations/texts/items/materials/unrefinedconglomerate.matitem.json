@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedconglomerate.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Conglomerate."
+      "Eng": "Rough, unrefined conglomerate."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedconglomerate.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined conglomerate."
+      "Eng": "Statement. Conglomerate."
     }
   },
   {

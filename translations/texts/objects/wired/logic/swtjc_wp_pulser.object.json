@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_pulser.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. Sends a short signal pulse whenever it becomes active."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_pulser.object": [
         "/shortdescription"
       ]
     },
@@ -14,8 +25,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_pulser.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {

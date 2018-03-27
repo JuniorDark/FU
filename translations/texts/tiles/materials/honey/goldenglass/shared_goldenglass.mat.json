@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenglass/goldenglass.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/honey/goldenglass/goldenglass.material": [
         "/shortdescription"
       ],
       "tiles/materials/honey/goldenglass/goldenglass.matitem": [
@@ -39,6 +25,20 @@
     },
     "Texts": {
       "Eng": "Golden Glass Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenglass/goldenglass.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/honey/goldenglass/goldenglass.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Glass."
     }
   }
 ]

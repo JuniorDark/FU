@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosteleporterTier0/fu_byosteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A teleporter without power. I need to power it up."
+      "Eng": "Disappointed. A teleporter without power. I need to power it up."
     }
   },
   {

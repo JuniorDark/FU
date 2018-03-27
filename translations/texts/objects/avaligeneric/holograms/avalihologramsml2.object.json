@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologramsml2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Whatever this display is linked to is likely malfunctioning, the output is highly irregular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramsml2.object": [
         "/apexDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "There's something familiar about the rhythm of the bars movement, but I can't put my feathers on it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/holograms/avalihologramsml2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Whatever this display is linked to is likely malfunctioning, the output is highly irregular."
     }
   }
 ]

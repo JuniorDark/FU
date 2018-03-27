@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Niss Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/nissseed/nissseed.object": [
-        "/description"
-      ],
-      "objects/farmables/nissseed/wildnissseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Terrible taste, but utterly immune to tar, mud and clay."
-    }
   }
 ]

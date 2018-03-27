@@ -37,11 +37,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/eggstra/eggincubator/eggincubator.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Egg Incubation."
+      "Eng": "Identify. Egg Incubation."
     }
   },
   {

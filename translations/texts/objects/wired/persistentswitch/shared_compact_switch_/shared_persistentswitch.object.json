@@ -17,6 +17,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Once triggered this switch will remain in its switched state."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitch.object": [
         "/floranDescription"
       ],
       "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitch.object": [
@@ -31,12 +45,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitch.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitch.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {

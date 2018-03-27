@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_incinerator/isn_incinerator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. This should allow me to dispose of anything cleanly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/power/isn_incinerator/isn_incinerator.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "Instantly destroys any item placed within. Good for mass disposal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/power/isn_incinerator/isn_incinerator.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This should allow me to dispose of anything cleanly."
     }
   },
   {

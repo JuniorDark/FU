@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousewall.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousewall.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. This wall is subtly decorated in a traditional method."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewall.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/dollhousewall.material": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "This is a real fancy lookin' wall."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousewall.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousewall.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wall is subtly decorated in a traditional method."
     }
   },
   {

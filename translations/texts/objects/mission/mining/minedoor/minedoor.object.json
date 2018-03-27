@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minedoor/minedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door made with tough metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/mining/minedoor/minedoor.object": [
         "/avianDescription"
       ]
     },
@@ -52,6 +41,17 @@
     },
     "Texts": {
       "Eng": "An ugly door designed with function in mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minedoor/minedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A door made with tough metal."
     }
   },
   {

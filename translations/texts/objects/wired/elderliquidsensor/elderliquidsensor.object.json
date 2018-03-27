@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/elderliquidsensor/elderliquidsensor.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Liquid Sensor"
+      "Eng": "Impressed. This trusty sensor indicates the presence of liquids."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/elderliquidsensor/elderliquidsensor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This trusty sensor indicates the presence of liquids."
+      "Eng": "Liquid Sensor"
     }
   }
 ]

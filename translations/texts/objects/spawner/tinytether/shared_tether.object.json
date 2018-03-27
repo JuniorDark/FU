@@ -20,23 +20,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/tinytether/multitether.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/spawner/tinytether/multitinytether.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/spawner/tinytether/tinytether.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A captured creature placed in this device will stay nearby."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/tinytether/multitether.object": [
         "/avianDescription"
       ],
       "objects/spawner/tinytether/multitinytether.object": [
@@ -116,6 +99,23 @@
     },
     "Texts": {
       "Eng": "Once placed in this device, a captured creature will not wander far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/tinytether/multitether.object": [
+        "/glitchDescription"
+      ],
+      "objects/spawner/tinytether/multitinytether.object": [
+        "/glitchDescription"
+      ],
+      "objects/spawner/tinytether/tinytether.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. A captured creature placed in this device will stay nearby."
     }
   }
 ]

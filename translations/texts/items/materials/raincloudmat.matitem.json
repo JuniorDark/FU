@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/raincloudmat.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A block of clouds. Wet."
+      "Eng": "Curious. A block of clouds. Wet."
     }
   },
   {

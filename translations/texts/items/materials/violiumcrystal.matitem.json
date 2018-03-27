@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/violiumcrystal.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful cluster of violium crystals."
+      "Eng": "Admiration. A beautiful cluster of violium crystals."
     }
   }
 ]

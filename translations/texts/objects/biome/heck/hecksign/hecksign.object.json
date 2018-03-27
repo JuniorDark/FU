@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/heck/hecksign/hecksign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Someone clearly wants me to feel at home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/hecksign/hecksign.object": [
         "/floranDescription"
       ]
     },
@@ -41,17 +52,6 @@
     },
     "Texts": {
       "Eng": "Heck Sign"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/heck/hecksign/hecksign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone clearly wants me to feel at home."
     }
   },
   {

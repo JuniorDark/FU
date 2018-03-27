@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutebin/cutebin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Garbage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutebin/cutebin.object": [
         "/floranDescription"
       ]
     },
@@ -85,6 +74,17 @@
     },
     "Texts": {
       "Eng": "Trash. Just trash. Or is it? Answer: Cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebin/cutebin.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Garbage."
     }
   },
   {

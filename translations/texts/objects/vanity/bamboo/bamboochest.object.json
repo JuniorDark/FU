@@ -80,11 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/vanity/bamboo/bamboochest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I endeavour to fill this chest."
+      "Eng": "Resolute. I endeavour to fill this chest."
     }
   }
 ]

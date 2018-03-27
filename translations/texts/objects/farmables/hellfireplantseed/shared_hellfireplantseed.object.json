@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Hellfire Plant Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/hellfireplantseed/hellfireplantseed.object": [
-        "/description"
-      ],
-      "objects/farmables/hellfireplantseed/wildhellfireplantseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lethal when thrown, Hellfire nodules can also be used to create weapons."
-    }
   }
 ]

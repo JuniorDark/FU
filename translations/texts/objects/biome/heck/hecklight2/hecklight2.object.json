@@ -14,6 +14,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/heck/hecklight2/hecklight2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. This light appears to be powered by some kind of organic fluid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/heck/hecklight2/hecklight2.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "There's something sickly about this light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/heck/hecklight2/hecklight2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light appears to be powered by some kind of organic fluid."
     }
   },
   {

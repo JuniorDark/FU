@@ -3,44 +3,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehostage.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "I wish I could do more to help you, but we are kept here all the time. I do not know much of the tower."
+      "Eng": "Encouraging. Slay the warlord and free us!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehostage.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Slay the warlord and free us!"
+      "Eng": "Resigned. I wish I could do more to help you, but we are kept here all the time. I do not know much of the tower."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehostage.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "The warlord has taken us hostage to insure our kingdoms' compliance."
+      "Eng": "Shocked. Who are you? Are you here to defeat the warlord?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehostage.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Who are you? Are you here to defeat the warlord?"
+      "Eng": "Upset. The warlord has taken us hostage to insure our kingdoms' compliance."
     }
   }
 ]

@@ -36,22 +36,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientconsole/fuancientconsole.object": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Let's see if I can't get this old thing workin'."
+      "Eng": "Impressed. The control panel for the gate, it looks very old indeed."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientconsole/fuancientconsole.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "The control panel for the gate, it looks very old indeed."
+      "Eng": "Let's see if I can't get this old thing workin'."
     }
   },
   {
@@ -96,17 +96,6 @@
     },
     "Texts": {
       "Eng": "This looks like the control panel for the gate. It still seems to work."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientconsole/fuancientconsole.object": [
-        "/noTricorderInteractData/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "Without a ^orange;Personal Tricorder^reset; you cannot properly interface with this ancient console to activate it. Please complete the FU intro mission to obtain one."
     }
   }
 ]

@@ -231,20 +231,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/aethersea.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/aethersea"
-      ]
-    },
-    "Texts": {
-      "Eng": "Aether Sea"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/throwables/beebriefcase/fu_beebriefcasecrucible.activeitem": [
         "/description"
       ],
@@ -259,16 +245,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/arcticdark.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/aquapod/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/arctic"
+      "monsters/flyers/pteropodish/aquapod/aquapodflyer.monstertype": [
+        "/shortdescription"
+      ],
+      "objects/farmables/aquapod/wildaquapodseed.object": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Arctic",
-      "Por": "√Årtico"
+      "Eng": "Aquapod"
     }
   },
   {
@@ -335,49 +323,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/space/iceasteroids.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/asteroids"
-      ]
-    },
-    "Texts": {
-      "Eng": "Asteroids",
-      "Por": "Aster√≥ides"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/atropus.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/atropus"
-      ]
-    },
-    "Texts": {
-      "Eng": "Atropus"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/bloodstonesea.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/bloodstonesea"
-      ]
-    },
-    "Texts": {
-      "Eng": "Atropus Sea"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "dialog/plurcombat.config": [
         "/attack/default/default/0"
       ],
@@ -425,24 +370,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/barren2.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/barren3.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/barren"
-      ]
-    },
-    "Texts": {
-      "Eng": "Barren",
-      "Por": "Est√©ril"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "interface/scripted/fu_tutorialQuestList/questData.config": [
         "/strings/questlines/battle/title"
       ],
@@ -458,6 +385,34 @@
     },
     "Texts": {
       "Eng": "Battle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/biscorn/title"
+      ],
+      "items/generic/produce/biscorn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biscorn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/blizzberry/title"
+      ],
+      "items/generic/produce/blizzberry.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blizzberry"
     }
   },
   {
@@ -509,29 +464,43 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/bloodstone.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/bloodroot/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/bloodstone"
+      "items/generic/produce/bloodroot.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Bloodstone"
+      "Eng": "Blood Root"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/bog.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/bluemelon/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/bog"
+      "items/generic/produce/bluemelon.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Bog"
+      "Eng": "Blue Melon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/bolbohn/title"
+      ],
+      "items/generic/produce/bolbohn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolbohn"
     }
   },
   {
@@ -563,6 +532,20 @@
     },
     "Texts": {
       "Eng": "Cinnabar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/cinnamon/title"
+      ],
+      "items/generic/crafting/starbooze/cinnamon.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cinnamon"
     }
   },
   {
@@ -723,89 +706,190 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/eden.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/dunestalk/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/eden"
+      "items/generic/produce/dunestalk.item": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Eden"
+      "Eng": "Dunestalk"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/icemoon.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/energiflower/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/icemoon"
+      "items/generic/produce/energiflower.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Frozen Moon"
+      "Eng": "Energiflower"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/frozenvolcanic.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/erithianalgae/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/frozenvolcanic"
+      "items/generic/produce/erithianalgae.item": [
+        "/shortdescription"
+      ],
+      "objects/farmables/erithianalgae/erithianalgaeseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/erithianalgae/wilderithianalgaeseed.object": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Frozen Volcanic"
+      "Eng": "Erithian Algae"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/fungus.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/fayshroom/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/fungus"
+      "items/generic/produce/fayshroom.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Fungal"
+      "Eng": "Fayshroom"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/fugasgiant.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/garpberry/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/fugasgiant",
-        "/planetTypeNames/fugasgiant2",
-        "/planetTypeNames/fugasgiant3",
-        "/planetTypeNames/fugasgiant4",
-        "/planetTypeNames/fugasgiant5"
+      "items/generic/produce/garpberry.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Gas Giant"
+      "Eng": "Garp Berry"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/slimeworld.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/gemglow/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/slimeworld"
+      "items/generic/produce/gemglow.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Gelatinous"
+      "Eng": "Gemglow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/genesiberry/title"
+      ],
+      "items/generic/produce/genesiberry.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genesiberry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ghostmushroom/title"
+      ],
+      "items/generic/produce/ghostmushroom.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ghostmushroom/ghostmushroomseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ghostmushroom/wildghostmushroomseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghost Mushroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/fubioshroomblue/title",
+        "/collectables/fubioshroomgreen/title",
+        "/collectables/fubioshroompurple/title",
+        "/collectables/fubioshroomred/title",
+        "/collectables/fubioshroomyellow/title"
+      ],
+      "items/materials/shroomblockglow.matitem": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomblue.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomgreen.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/fubioshroompurple.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomred.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/fubioshroomyellow.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomblue.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomgreen.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroompurple.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomred.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/bioshrooms/wildfubioshroomyellow.object": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shroomblockglow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing Mushroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldshroom/title"
+      ],
+      "items/generic/produce/goldshroom.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Shroom"
     }
   },
   {
@@ -847,6 +931,20 @@
     },
     "Texts": {
       "Eng": "Golden Moustache"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/goldenroot/title"
+      ],
+      "items/generic/produce/goldenroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Root"
     }
   },
   {
@@ -969,28 +1067,100 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/greg.config": [
+        "/accuse/default/default/0",
+        "/accuse/default/default/5",
+        "/accuse/default/default/9",
+        "/attack/default/default/13",
+        "/attack/default/default/4",
+        "/attack/default/default/8",
+        "/beacon/default/default/0",
+        "/beacon/default/default/5",
+        "/beacon/default/default/9",
+        "/cantReach/default/default/12",
+        "/cantReach/default/default/4",
+        "/cantReach/default/default/8",
+        "/cheerOn/default/default/12",
+        "/cheerOn/default/default/4",
+        "/cheerOn/default/default/8",
+        "/combatBenefit/default/default/12",
+        "/combatBenefit/default/default/4",
+        "/combatBenefit/default/default/8",
+        "/converse/default/default/0",
+        "/converse/default/default/4",
+        "/converse/default/default/8",
+        "/enclosedArea/default/default/0",
+        "/enclosedArea/default/default/4",
+        "/enclosedArea/default/default/8",
+        "/final/default/default/0",
+        "/final/default/default/4",
+        "/final/default/default/8",
+        "/killedTarget/default/default/12",
+        "/killedTarget/default/default/4",
+        "/killedTarget/default/default/8",
+        "/lostTarget/default/default/12",
+        "/lostTarget/default/default/4",
+        "/lostTarget/default/default/8",
+        "/otherDeed/default/default/0",
+        "/otherDeed/default/default/4",
+        "/otherDeed/default/default/8",
+        "/outOfSight/default/default/13",
+        "/outOfSight/default/default/4",
+        "/outOfSight/default/default/9",
+        "/reattack/default/default/12",
+        "/reattack/default/default/4",
+        "/reattack/default/default/8",
+        "/rent/default/default/0",
+        "/rent/default/default/4",
+        "/rent/default/default/8",
+        "/severe/default/default/0",
+        "/severe/default/default/4",
+        "/severe/default/default/8",
+        "/tagCriteria/default/default/0",
+        "/tagCriteria/default/default/4",
+        "/tagCriteria/default/default/8"
+      ],
+      "npcs/crew/crewmembergreg.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/greg.config": [
         "/converse/default/default/11"
       ],
       "npcs/crew/crewmembergreg.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
         "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
         "/scriptConfig/dialog/crewmember/follow/default/default/1",
         "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
         "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
         "/scriptConfig/dialog/crewmember/offer/apex/default/1",
         "/scriptConfig/dialog/crewmember/offer/avian/default/1",
         "/scriptConfig/dialog/crewmember/offer/default/default/1",
         "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
         "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
         "/scriptConfig/dialog/crewmember/penguin/default/1",
         "/scriptConfig/dialog/crewmember/respawned/default/default/1",
         "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
         "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1"
       ]
@@ -1025,23 +1195,28 @@
       "npcs/crew/crewmembergreg.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
         "/scriptConfig/dialog/crewmember/cantreach/floran/default/3",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/3",
         "/scriptConfig/dialog/crewmember/follow/default/default/3",
         "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
         "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
         "/scriptConfig/dialog/crewmember/offer/apex/default/3",
         "/scriptConfig/dialog/crewmember/offer/avian/default/3",
         "/scriptConfig/dialog/crewmember/offer/default/default/3",
         "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/3",
         "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
         "/scriptConfig/dialog/crewmember/penguin/default/3",
         "/scriptConfig/dialog/crewmember/respawned/default/default/3",
         "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
         "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3",
         "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/3"
       ]
@@ -1059,23 +1234,28 @@
       "npcs/crew/crewmembergreg.npctype": [
         "/scriptConfig/dialog/crewmember/cantreach/default/default/7",
         "/scriptConfig/dialog/crewmember/cantreach/floran/default/7",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/7",
         "/scriptConfig/dialog/crewmember/follow/default/default/7",
         "/scriptConfig/dialog/crewmember/follow/floran/default/7",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/7",
         "/scriptConfig/dialog/crewmember/follow/penguin/default/7",
         "/scriptConfig/dialog/crewmember/offer/apex/default/7",
         "/scriptConfig/dialog/crewmember/offer/avian/default/7",
         "/scriptConfig/dialog/crewmember/offer/default/default/7",
         "/scriptConfig/dialog/crewmember/offer/floran/default/7",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/7",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/7",
         "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
         "/scriptConfig/dialog/crewmember/penguin/default/7",
         "/scriptConfig/dialog/crewmember/respawned/default/default/7",
         "/scriptConfig/dialog/crewmember/respawned/floran/default/7",
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/7",
         "/scriptConfig/dialog/crewmember/respawned/penguin/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/avian/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/7",
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/7",
         "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/7"
       ]
@@ -1165,6 +1345,37 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/gurnonion/title"
+      ],
+      "items/generic/produce/onion.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/gurnonion/onionseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gurn Onion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/ginseng/title"
+      ],
+      "items/generic/produce/ginseng.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heartroot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/liquids/helium3gasliquid.liqitem": [
         "/shortdescription"
       ],
@@ -1191,6 +1402,20 @@
     },
     "Texts": {
       "Eng": "Hive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/hops/title"
+      ],
+      "items/generic/crafting/starbooze/hops.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hops"
     }
   },
   {
@@ -1248,23 +1473,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/infernus.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/infernusdark.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/infernus"
-      ]
-    },
-    "Texts": {
-      "Eng": "Infernus"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "biomes/surface_detached/futentacle.biome": [
         "/friendlyName"
       ],
@@ -1274,20 +1482,6 @@
     },
     "Texts": {
       "Eng": "Infested"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/irradiated.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/irradiated"
-      ]
-    },
-    "Texts": {
-      "Eng": "Irradiated"
     }
   },
   {
@@ -1316,6 +1510,90 @@
     },
     "Texts": {
       "Eng": "Isogen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/jillyroot/title"
+      ],
+      "items/generic/produce/jillyroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jilly Root"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kamaranpod/title"
+      ],
+      "items/generic/produce/kamaranpods.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kamaran Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/kirifruit/title"
+      ],
+      "items/generic/produce/avali/kirifruit.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kiri Fruit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/leafshell/title"
+      ],
+      "items/generic/produce/leafshell.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leafshell"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/littlegoodberry/title"
+      ],
+      "items/generic/produce/littlegoodberry.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Good Berry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/lumivine/title"
+      ],
+      "items/generic/produce/lumivine.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lumivine"
     }
   },
   {
@@ -1464,7 +1742,7 @@
     },
     "Texts": {
       "Eng": "MATERIALS AVAILABLE",
-      "Por": "MATERIAIS DISPON√çVEIS"
+      "Por": "MATERIAIS DISPONIVEIS"
     }
   },
   {
@@ -1484,24 +1762,29 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/mountainous.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/melodistar/title"
       ],
-      "biomes/surface/mountainous2.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/mountainous3.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/mountainous4.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/mountainous"
+      "items/generic/produce/melodistar.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Mountainous"
+      "Eng": "Melodistar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/nailery/title"
+      ],
+      "items/generic/produce/nailery.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nailery"
     }
   },
   {
@@ -1516,20 +1799,6 @@
     },
     "Texts": {
       "Eng": "Neptunium"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/nitrogenseafloor.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/nitrogensea"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nitrogen Sea"
     }
   },
   {
@@ -1570,15 +1839,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/penumbra.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/pekkit/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/penumbra"
+      "items/generic/produce/pekkit.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pekkit/pekkitseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pekkit/wildpekkitseed.object": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Penumbra"
+      "Eng": "Pekkit"
     }
   },
   {
@@ -1622,23 +1897,6 @@
     "Texts": {
       "Eng": "Pretty.",
       "Por": "Esta flor azul pode ser usada para colorir roupas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/arboreal.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/arboreal2.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/arboreal"
-      ]
-    },
-    "Texts": {
-      "Eng": "Primeval Forest"
     }
   },
   {
@@ -1723,20 +1981,6 @@
     },
     "Texts": {
       "Eng": "Rainbow."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/thickjungle.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/thickjungle"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rainforest"
     }
   },
   {
@@ -1939,6 +2183,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/rockroot/title"
+      ],
+      "items/generic/produce/rockroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rockroot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/windowconfig/avalibench.config": [
         "/paneLayout/lblSchematics/value"
       ],
@@ -2114,16 +2372,15 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/moon_shadow.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/petrifiedroot/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/moon_metallic",
-        "/planetTypeNames/moon_shadow"
+      "items/generic/produce/petrifiedroot.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Shadow Moon"
+      "Eng": "Shadow Stalk"
     }
   },
   {
@@ -2152,7 +2409,27 @@
     },
     "Texts": {
       "Eng": "Snow",
-      "Por": "Neve"
+      "Por": "Snow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/snowberry/title"
+      ],
+      "items/generic/produce/fusnowberry.consumable": [
+        "/shortdescription"
+      ],
+      "objects/farmables/snowberry/fusnowberryseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/snowberry/wildfusnowberryseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowberry"
     }
   },
   {
@@ -2167,6 +2444,20 @@
     },
     "Texts": {
       "Eng": "Spare Parts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/mint/title"
+      ],
+      "items/generic/produce/mint.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Star Mint"
     }
   },
   {
@@ -2301,49 +2592,29 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/strangesea.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/sweetscoop/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/strangesea"
+      "items/generic/produce/sweetscoop.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Strange Sea"
+      "Eng": "Sweetscoop"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/sulphuric.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/teratomato/title"
       ],
-      "biomes/surface/sulphuricdark.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/sulphuricocean.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/sulphuric"
+      "items/generic/produce/teratomato.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Sulphuric"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/tabularasa.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/tabularasa"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tabula Rasa"
+      "Eng": "Teratomato"
     }
   },
   {
@@ -2363,37 +2634,15 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/tundradark.biome": [
-        "/friendlyName"
+      "collections/fu_plant.collection": [
+        "/collectables/vanusflower/title"
       ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/tundra"
+      "items/generic/produce/vanusflower.consumable": [
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Tundra",
-      "Por": "Tundra"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/ffunknown",
-        "/threatLevelText/moon/0"
-      ],
-      "radiomessages/fu_elder.radiomessages": [
-        "/shoggothmission16/senderName",
-        "/shoggothmission17/senderName",
-        "/shoggothmission18/senderName",
-        "/shoggothmission19/senderName",
-        "/shoggothmission20/senderName",
-        "/shoggothmission21/senderName"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unknown",
-      "Por": "Desconhecida"
+      "Eng": "Vanus Flower"
     }
   },
   {
@@ -2523,29 +2772,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/urbanwasteland.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface/urbanwasteland2.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface_detached/wastelandmini.biome": [
-        "/friendlyName"
-      ],
-      "biomes/surface_detached/wastelandminimoon.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/urbanwasteland"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wasteland"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/augments/back/mobility/fuwaterwalk.augment": [
         "/shortdescription"
       ],
@@ -2572,6 +2798,20 @@
     },
     "Texts": {
       "Eng": "We found one of the dogs this morning. It had been strung up and vivisected. Its organs were in a neat pile beside it on the floor, stacked to resemble that malign aberration I found."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fu_plant.collection": [
+        "/collectables/wubstem/title"
+      ],
+      "items/generic/produce/wubstem.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wubstem"
     }
   },
   {
@@ -2684,7 +2924,7 @@
     }
   },
   {
-    "Comment": "Express√£o regular (n√£o para tradu√ß√£o, mas para apoiar nomes em alfabeto cir√≠lico)",
+    "Comment": "Express„o regular (n„o para traduÁ„o, mas para apoiar nomes em alfabeto cirÌlico)",
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/avalibench.config": [
@@ -2726,7 +2966,7 @@
     }
   },
   {
-    "Comment": "Express√£o regular (n√£o para tradu√ß√£o, mas para apoiar nomes em alfabeto cir√≠lico)",
+    "Comment": "Express„o regular (n„o para traduÁ„o, mas para apoiar nomes em alfabeto cirÌlico)",
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/armory.config": [
@@ -2810,7 +3050,7 @@
     },
     "Texts": {
       "Eng": "x?\\d{0,4}",
-      "Por": "x?\\d{0,4}"
+      "Por": "Outpost - 2 Stop Teleshop"
     }
   }
 ]

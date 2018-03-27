@@ -14,11 +14,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacigiantekblock.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An incomprehensibly dense panel - it's emitting a radio signal."
+      "Eng": "Analysis. An incomprehensibly dense panel - it's emitting a radio signal."
     }
   },
   {

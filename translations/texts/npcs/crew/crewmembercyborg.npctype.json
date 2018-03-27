@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembercyborg.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Floran hasss things to help you out in the Aether. I also excel at destructive tasks"
+      "Eng": "Eager. I can grant immunity to Aether and target enemies with glee"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembercyborg.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I can grant immunity to Aether and target enemies with glee"
+      "Eng": "Floran hasss things to help you out in the Aether. I also excel at destructive tasks"
     }
   },
   {

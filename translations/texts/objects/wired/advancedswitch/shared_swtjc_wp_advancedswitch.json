@@ -17,10 +17,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/advancedswitch/swtjc_wp_advancedswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch_nolatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedswitch/swtjc_wp_advancedswitch.object": [
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",
@@ -30,7 +43,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

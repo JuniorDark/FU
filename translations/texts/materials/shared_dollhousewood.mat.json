@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousewood.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousewood.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This wood was specially treated by a master craftsman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousewood.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/dollhousewood.material": [
@@ -53,20 +67,6 @@
     },
     "Texts": {
       "Eng": "This wood looks like it's been treated with somethin'."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousewood.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousewood.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wood was specially treated by a master craftsman."
     }
   }
 ]

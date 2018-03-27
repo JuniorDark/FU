@@ -36,6 +36,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologramtiny2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. Likely intended as a warning based on similar patterns."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramtiny2.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "Hologram, Alert"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/holograms/avalihologramtiny2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Likely intended as a warning based on similar patterns."
     }
   },
   {

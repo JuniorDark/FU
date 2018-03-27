@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/brittlemetal.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/brittlemetal.material": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarm. This metal makes me uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brittlemetal.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/brittlemetal.material": [
@@ -25,20 +39,6 @@
     },
     "Texts": {
       "Eng": "Old weakened metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/brittlemetal.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/brittlemetal.material": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This metal makes me uncomfortable."
     }
   }
 ]

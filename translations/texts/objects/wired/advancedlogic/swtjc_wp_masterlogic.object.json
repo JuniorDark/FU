@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/advancedlogic/swtjc_wp_masterlogic.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. They really went overboard with programming this thing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/advancedlogic/swtjc_wp_masterlogic.object": [
         "/description"
       ]
     },
@@ -28,7 +39,6 @@
         "/apexDescription",
         "/avaliDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription",

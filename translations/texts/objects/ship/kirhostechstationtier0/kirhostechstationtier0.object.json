@@ -58,22 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhostechstationtier0/kirhostechstationtier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rebooting this tech station should repair communication with my ship AI."
+      "Eng": "Rebooting this tech station will hopefully bring my ship AI back online."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhostechstationtier0/kirhostechstationtier0.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rebooting this tech station will hopefully bring my ship AI back online."
+      "Eng": "Statement. Rebooting this tech station should repair communication with my ship AI."
     }
   },
   {

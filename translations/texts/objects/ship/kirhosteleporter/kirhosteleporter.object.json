@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhosteleporter/kirhosteleporter.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran feel confusssed during teleport."
+      "Eng": "Educate. I set myself to sleep during the teleport process."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhosteleporter/kirhosteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I set myself to sleep during the teleport process."
+      "Eng": "Floran feel confusssed during teleport."
     }
   },
   {

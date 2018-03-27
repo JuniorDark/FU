@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousepillar.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousepillar.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. I believe this stone pillar is very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousepillar.matitem": [
         "/description"
       ],
       "tiles/materials/dollhousepillar.material": [
@@ -11,20 +25,6 @@
     },
     "Texts": {
       "Eng": "An old looking stone pillar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousepillar.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousepillar.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I believe this stone pillar is very old."
     }
   },
   {

@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshipdoorbroken/fu_byosshiphatchBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A hatch. It appears to be disabled currently."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byosshipdoorbroken/fu_byosshiphatchBroken.object": [
         "/avianDescription"
       ]
     },
@@ -41,6 +30,17 @@
     },
     "Texts": {
       "Eng": "Cool hatch. Too bad it isn't opening right now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshipdoorbroken/fu_byosshiphatchBroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. A hatch. It appears to be disabled currently."
     }
   },
   {

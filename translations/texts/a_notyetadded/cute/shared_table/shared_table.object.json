@@ -20,23 +20,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutebathroomtable/cutebathroomtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutetable/cutetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cuteteatable/cuteteatable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very simple table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutebathroomtable/cutebathroomtable.object": [
         "/apexDescription"
       ],
       "a_notyetadded/cute/cutetable/cutetable.object": [
@@ -48,6 +31,23 @@
     },
     "Texts": {
       "Eng": "A very simple wooden table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebathroomtable/cutebathroomtable.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutetable/cutetable.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cuteteatable/cuteteatable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A very simple table."
     }
   },
   {

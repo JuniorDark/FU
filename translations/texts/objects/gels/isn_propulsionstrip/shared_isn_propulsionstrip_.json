@@ -45,14 +45,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/gels/isn_propulsionstrip/isn_propulsionstrip_l.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/gels/isn_propulsionstrip/isn_propulsionstrip_r.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Science was not developed to invent stupid garbage like this."
+      "Eng": "Irritable. Science was not developed to invent stupid garbage like this."
     }
   },
   {

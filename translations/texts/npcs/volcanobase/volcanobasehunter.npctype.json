@@ -3,33 +3,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehunter.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I owe you nothing but an arrow through the eye."
+      "Eng": "Cryptic. I owe you nothing but an arrow through the eye."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehunter.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "One shot, intruder. That's all I'll need."
+      "Eng": "Grim. One shot, intruder. That's all I'll need."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/volcanobase/volcanobasehunter.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Stay back, or I'll put one through your knee!"
+      "Eng": "Menacing. Stay back, or I'll put one through your knee!"
     }
   }
 ]

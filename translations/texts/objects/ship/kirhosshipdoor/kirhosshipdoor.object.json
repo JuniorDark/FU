@@ -15,7 +15,6 @@
     "Files": {
       "objects/ship/kirhosshipdoor/kirhosshipdoor.object": [
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/novakidDescription"
       ]
     },
@@ -54,6 +53,17 @@
     },
     "Texts": {
       "Eng": "Radicool!  A state-of-the-art dual-sliding door!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhosshipdoor/kirhosshipdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A door."
     }
   },
   {

@@ -47,22 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/lab/avalisample3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears to be an organic central processing unit."
+      "Eng": "Mmm.... brainssss"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/lab/avalisample3.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Mmm.... brainssss"
+      "Eng": "Nonchalant. It appears to be an organic central processing unit."
     }
   },
   {

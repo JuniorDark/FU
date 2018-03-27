@@ -59,14 +59,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fustomachblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/fustomachblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This slimy mass looks and smells terrible."
+      "Eng": "Uncomforatble. This slimy mass looks and smells terrible."
     }
   }
 ]

@@ -31,14 +31,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousewindow2.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/dollhousewindow2.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This wood filters light and acts as a barrier."
+      "Eng": "Observant. This wood filters light and acts as a barrier."
     }
   }
 ]

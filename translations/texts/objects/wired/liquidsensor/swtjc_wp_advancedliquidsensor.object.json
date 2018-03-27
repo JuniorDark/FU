@@ -14,8 +14,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/liquidsensor/swtjc_wp_advancedliquidsensor.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This can detect and discriminate between the presence of various liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/liquidsensor/swtjc_wp_advancedliquidsensor.object": [
+        "/description"
       ]
     },
     "Texts": {

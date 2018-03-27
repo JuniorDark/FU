@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Fleshroaster^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Fleshroaster^reset; ^yellow;^reset;"
     }
   }
 ]

@@ -34,20 +34,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldensand.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/honey/goldensand.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/redsand2.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/retexsand2.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sand."
+      "Eng": "Statement. Sand."
     }
   }
 ]

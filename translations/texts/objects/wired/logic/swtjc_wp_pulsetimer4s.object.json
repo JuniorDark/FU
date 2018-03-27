@@ -14,8 +14,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_pulsetimer4s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. Sends a 4-second-long signal pulse whenever, and as soon as, it becomes active."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_pulsetimer4s.object": [
+        "/description"
       ]
     },
     "Texts": {

@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacicablenexus.matitem": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Looksss like a bunch of shiny vines."
+      "Eng": "Analysis. This is a stack of solid-state processors."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacicablenexus.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is a stack of solid-state processors."
+      "Eng": "Looksss like a bunch of shiny vines."
     }
   }
 ]

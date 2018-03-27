@@ -45,14 +45,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/honeystone.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/honey/honeystone.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "These smooth stones seem to be imbued with honey."
+      "Eng": "Watchful. These smooth stones seem to be imbued with honey."
     }
   },
   {

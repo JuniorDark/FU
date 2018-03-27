@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Effect:\n^cyan;+30% Physical Resistance^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/teratomato.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teratomato"
-    }
   }
 ]

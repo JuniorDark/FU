@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/eggstra/cowbell/cowbell.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informative. This bell signals food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/eggstra/cowbell/cowbell.object": [
         "/hylotlDescription"
       ]
     },
@@ -74,17 +85,6 @@
     },
     "Texts": {
       "Eng": "This bell calls the livestock home."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/eggstra/cowbell/cowbell.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bell signals food."
     }
   }
 ]

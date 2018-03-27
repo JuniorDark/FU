@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/power/isn_solarpanel/isn_solarpanel.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Atmospheric interference means this panel will generate less power at low altitudes."
+      "Eng": "Analytical. Atmospheric interference means this panel will generate less power at low altitudes."
     }
   },
   {

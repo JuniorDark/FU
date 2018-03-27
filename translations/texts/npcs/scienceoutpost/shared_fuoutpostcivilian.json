@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distinguished. I have obtained no less than 11 scientific accolades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
         "/scriptConfig/dialog/converse/fudarkizku/default/1"
       ],
       "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
@@ -133,23 +150,6 @@
     },
     "Texts": {
       "Eng": "I have no qualms about flight. It's the landing that presents the issue."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ],
-      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ],
-      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have obtained no less than 11 scientific accolades."
     }
   },
   {
@@ -431,6 +431,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informative. There are 1,682 follicles on your nose. Each more hateful than the last."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
         "/scriptConfig/dialog/converse/fuizku/default/0"
       ],
       "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
@@ -499,6 +513,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ],
+      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You are a well respected member of this research community."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
         "/scriptConfig/dialog/converse/hylotl/default/0"
       ],
       "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
@@ -527,20 +558,6 @@
     },
     "Texts": {
       "Eng": "Sometimes I sneak into your ship at night and watch you sleep. For science. You understand, I'm sure."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are 1,682 follicles on your nose. Each more hateful than the last."
     }
   },
   {
@@ -660,23 +677,6 @@
     },
     "Texts": {
       "Eng": "We should hang out sometime. Get smashed. Eat garflipps. Avoid Kevin."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/scienceoutpost/fuoutpostcivilian.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/scienceoutpost/fuoutpostcivilian2.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/scienceoutpost/fuoutpostcivilian3.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are a well respected member of this research community."
     }
   },
   {

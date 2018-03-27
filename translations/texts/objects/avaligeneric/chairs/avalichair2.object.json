@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/chairs/avalichair2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It wobbles when I sit on it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/chairs/avalichair2.object": [
         "/floranDescription"
       ]
     },
@@ -96,6 +85,17 @@
     },
     "Texts": {
       "Eng": "Sometimes it's fun to spin myself around while sitting in this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/chairs/avalichair2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trepidation. It wobbles when I sit on it."
     }
   }
 ]

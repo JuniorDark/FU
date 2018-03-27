@@ -3,23 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/retexredsandstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/retexsandstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/retexsandstone01.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sandstone."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/retexredsandstone.matitem": [
         "/florandescription"
       ],
       "items/materials/retexsandstone.matitem": [
@@ -34,6 +17,23 @@
     },
     "Texts": {
       "Eng": "Sssandstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/retexredsandstone.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/retexsandstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/retexsandstone01.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Sandstone."
     }
   },
   {

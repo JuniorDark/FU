@@ -47,22 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologram1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "My kin would consider this heretical, they believe the world is flat."
+      "Eng": "So much information is all very tedious."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologram1.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "So much information is all very tedious."
+      "Eng": "Studious. My kin would consider this heretical, they believe the world is flat."
     }
   },
   {

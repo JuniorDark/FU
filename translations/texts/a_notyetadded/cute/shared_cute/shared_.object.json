@@ -77,6 +77,55 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "a_notyetadded/cute/cutearmoire/cutearmoire1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutearmoire/cutearmoire2.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutebathroomcabinet/cutebathroomcabinet.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutebathroomsink/cutebathroomsink.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser2.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutedresser/cutedresser3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. There is a lot of storage space inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutedrape/cutedrape1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutedrape/cutedrape2.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cuteribbons/cuteribbons1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cuteribbons/cuteribbons2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. These are quite pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "a_notyetadded/cute/cutedrape/cutedrape1.object": [
         "/novakidDescription"
       ],
@@ -256,35 +305,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutearmoire/cutearmoire1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutearmoire/cutearmoire2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutebathroomcabinet/cutebathroomcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutebathroomsink/cutebathroomsink.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutedresser/cutedresser1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutedresser/cutedresser2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutedresser/cutedresser3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is a lot of storage space inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutearmoire/cutearmoire1.object": [
         "/novakidDescription"
       ],
       "a_notyetadded/cute/cutearmoire/cutearmoire2.object": [
@@ -308,26 +328,6 @@
     },
     "Texts": {
       "Eng": "There's a lot of space here for storin' things."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutedrape/cutedrape1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutedrape/cutedrape2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cuteribbons/cuteribbons1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cuteribbons/cuteribbons2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These are quite pretty."
     }
   }
 ]

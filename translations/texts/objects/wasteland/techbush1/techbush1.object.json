@@ -36,6 +36,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush1/techbush1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. What a sorry fate for a machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush1/techbush1.object": [
         "/description"
       ]
     },
@@ -74,17 +85,6 @@
     },
     "Texts": {
       "Eng": "This technology is in an awful state."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wasteland/techbush1/techbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a sorry fate for a machine."
     }
   }
 ]

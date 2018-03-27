@@ -3,14 +3,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/retexwallcables.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/retexwallcables.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cables!"
+      "Eng": "Excited. Cables!"
     }
   },
   {

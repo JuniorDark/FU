@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/honey/fugoldenoakcabinet/fugoldenoakcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A wooden cabinet. Likely belongs to a commoner."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/minibiome/honey/fugoldenoakcabinet/fugoldenoakcabinet.object": [
         "/hylotlDescription"
       ]
     },
@@ -74,6 +63,17 @@
     },
     "Texts": {
       "Eng": "I wonder if there's a gateway to another hive in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/honey/fugoldenoakcabinet/fugoldenoakcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. A wooden cabinet. Likely belongs to a commoner."
     }
   },
   {

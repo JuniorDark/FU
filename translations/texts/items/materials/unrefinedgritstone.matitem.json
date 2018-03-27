@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedgritstone.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Gritstone."
+      "Eng": "Rough, unrefined gritstone."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedgritstone.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined gritstone."
+      "Eng": "Statement. Gritstone."
     }
   },
   {

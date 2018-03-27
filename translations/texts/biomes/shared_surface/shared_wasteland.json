@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/urbanwasteland.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/urbanwasteland2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/wastelandmini.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface_detached/wastelandminimoon.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wasteland"
+    }
+  }
+]

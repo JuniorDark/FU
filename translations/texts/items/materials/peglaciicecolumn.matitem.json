@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglaciicecolumn.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This column is made of ice with some metallic impurities."
+      "Eng": "Analysis. This column is made of ice with some metallic impurities."
     }
   }
 ]

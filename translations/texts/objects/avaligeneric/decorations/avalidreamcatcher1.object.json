@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/decorations/avalidreamcatcher1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A primitive hanging decoration with audible properties."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/decorations/avalidreamcatcher1.object": [
         "/description"
       ]
     },
@@ -52,6 +41,17 @@
     },
     "Texts": {
       "Eng": "I hope none of these feathers are Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/decorations/avalidreamcatcher1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. A primitive hanging decoration with audible properties."
     }
   },
   {

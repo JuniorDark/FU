@@ -31,14 +31,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenplanks/goldenplank.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/honey/goldenplanks/goldenplank.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "These golden wood planks are well crafted."
+      "Eng": "Satisfied. These golden wood planks are well crafted."
     }
   },
   {

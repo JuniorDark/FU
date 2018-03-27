@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/violiumcrystal.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful patak crystal."
+      "Eng": "Admiration. A beautiful patak crystal."
     }
   }
 ]

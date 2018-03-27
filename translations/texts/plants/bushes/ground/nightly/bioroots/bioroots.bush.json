@@ -36,11 +36,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/nightly/bioroots/bioroots.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These look like roots."
+      "Eng": "Statement. These look like roots."
     }
   }
 ]

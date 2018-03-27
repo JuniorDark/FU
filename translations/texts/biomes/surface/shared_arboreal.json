@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arboreal.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/arboreal2.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primeval Forest"
+    }
+  }
+]

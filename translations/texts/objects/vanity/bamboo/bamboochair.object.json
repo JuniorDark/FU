@@ -80,11 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/vanity/bamboo/bamboochair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chair is exceptionally comfortable for the Glitch."
+      "Eng": "Relaxed. This chair is exceptionally comfortable for the Glitch."
     }
   }
 ]

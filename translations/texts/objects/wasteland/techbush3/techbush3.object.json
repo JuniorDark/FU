@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush3/techbush3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pondering. Who would make such technology only to abandon it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush3/techbush3.object": [
         "/shortdescription"
       ]
     },
@@ -63,17 +74,6 @@
     },
     "Texts": {
       "Eng": "This technology is impressive; what happened to its creators?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wasteland/techbush3/techbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who would make such technology only to abandon it?"
     }
   },
   {

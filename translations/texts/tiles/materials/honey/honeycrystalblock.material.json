@@ -14,11 +14,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/honeycrystalblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This block is made of crystal."
+      "Eng": "Analysis. This block is made of crystal."
     }
   }
 ]

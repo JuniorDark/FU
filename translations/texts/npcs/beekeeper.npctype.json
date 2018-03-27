@@ -3,19 +3,51 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/safe/glitch/3/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/glitch/2"
       ]
     },
     "Texts": {
-      "Eng": "Am I safe?"
+      "Eng": "Abused. Guards! I've been accosted!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/encourage/default/1",
-        "/scriptConfig/flee/dialog/encourage/glitch/1/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid. Get away from me! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpthem/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid. Leave me be! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive. Strike him down!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/default/1"
       ]
     },
     "Texts": {
@@ -26,12 +58,66 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/encourage/default/3",
-        "/scriptConfig/flee/dialog/encourage/glitch/3/glitchEmotedText"
+        "/scriptConfig/flee/dialog/encourage/default/3"
       ]
     },
     "Texts": {
       "Eng": "Don't let 'em get away!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarrassed. I think I leaked a little oil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encourage. Put 'em to the sword!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excitement. Avenge me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpthem/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fear. Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpme/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fear. Guards! Help me!"
     }
   },
   {
@@ -106,17 +192,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/glitch/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Get away from me! Guards!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/beekeeper.npctype": [
         "/scriptConfig/flee/dialog/encourage/floran/3"
       ]
     },
@@ -140,19 +215,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpthem/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Guards!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/default/0",
-        "/scriptConfig/flee/dialog/helpme/glitch/0/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/default/0"
       ]
     },
     "Texts": {
@@ -163,8 +226,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/default/2",
-        "/scriptConfig/flee/dialog/helpme/glitch/2/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/default/2"
       ]
     },
     "Texts": {
@@ -186,30 +248,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/safe/glitch/4/glitchEmotedText"
+        "/scriptConfig/flee/dialog/safe/glitch/3"
       ]
     },
     "Texts": {
-      "Eng": "I think I leaked a little oil."
+      "Eng": "Hopeful. Am I safe?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpthem/glitch/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will write an electronic letter in protest!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/safe/default/1",
-        "/scriptConfig/flee/dialog/safe/glitch/1/glitchEmotedText"
+        "/scriptConfig/flee/dialog/safe/default/1"
       ]
     },
     "Texts": {
@@ -220,11 +270,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/safe/glitch/2/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/glitch/1",
+        "/scriptConfig/flee/dialog/helpthem/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "If only I could afford a keep."
+      "Eng": "Intimidated. Please don't hurt me!"
     }
   },
   {
@@ -242,30 +293,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpthem/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Leave me be! Guards!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/glitch/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "No! Get away from me!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/safe/default/0",
-        "/scriptConfig/flee/dialog/safe/glitch/0/glitchEmotedText"
+        "/scriptConfig/flee/dialog/safe/default/0"
       ]
     },
     "Texts": {
@@ -276,35 +304,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/glitch/1/glitchEmotedText",
-        "/scriptConfig/flee/dialog/helpthem/glitch/1/glitchEmotedText"
+        "/scriptConfig/flee/dialog/safe/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Please don't hurt me!"
+      "Eng": "Relieved. Phew, I think I got away."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/encourage/glitch/0/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpthem/glitch/5"
       ]
     },
     "Texts": {
-      "Eng": "Put 'em to the sword!"
+      "Eng": "Righteous. I will write an electronic letter in protest!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpme/glitch/4/glitchEmotedText",
-        "/scriptConfig/flee/dialog/helpthem/glitch/3/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/glitch/5"
       ]
     },
     "Texts": {
-      "Eng": "Save me!"
+      "Eng": "Shocked. No! Get away from me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/helpthem/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What have you done?!"
     }
   },
   {
@@ -367,11 +404,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/encourage/glitch/2/glitchEmotedText"
+        "/scriptConfig/flee/dialog/helpme/glitch/4",
+        "/scriptConfig/flee/dialog/helpthem/glitch/3"
       ]
     },
     "Texts": {
-      "Eng": "Strike him down!"
+      "Eng": "Terrified. Save me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/safe/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankful. I've escaped with my life!"
     }
   },
   {
@@ -389,6 +438,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
+        "/scriptConfig/flee/dialog/encourage/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vengeful. Don't let 'em get away!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/beekeeper.npctype": [
         "/scriptConfig/flee/dialog/helpthem/default/0"
       ]
     },
@@ -400,11 +460,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/beekeeper.npctype": [
-        "/scriptConfig/flee/dialog/helpthem/glitch/4/glitchEmotedText"
+        "/scriptConfig/flee/dialog/safe/glitch/2"
       ]
     },
     "Texts": {
-      "Eng": "What have you done?!"
+      "Eng": "Wishful. If only I could afford a keep."
     }
   }
 ]

@@ -15,25 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/floweryellow/floweryellow.object": [
-        "/description"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "A flower with bright yellow petals. Useful for making dye.",
-      "Por": "Uma flor com pétalas amarelas brilhantes. Útil para fazer tintura."
+      "Eng": "A yellow flower.",
+      "Por": "Com esta flor eu posso finalmente deixar todas as minhas roupas amarelas."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/floweryellow/floweryellow.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A yellow flower.",
-      "Por": "Com esta flor eu posso finalmente deixar todas as minhas roupas amarelas."
+      "Eng": "Enthusiastic. A yellow flower.",
+      "Por": "Entusiasmado. Uma flor amarela vibrante."
     }
   },
   {
@@ -58,17 +57,6 @@
     "Texts": {
       "Eng": "Why do you build me up, yellow flower of unknown species.",
       "Por": "Por que você me animou, flor amarela de espécie desconhecida?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/floweryellow/floweryellow.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Yellow Flower"
     }
   }
 ]

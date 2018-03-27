@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;A-7C Miner^reset; ^cyan;î¤^reset;"
+      "Eng": "^cyan;A-7C Miner^reset; ^cyan;^reset;"
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;A-7C Miner^reset; ^green;î¤^reset;"
+      "Eng": "^cyan;A-7C Miner^reset; ^green;^reset;"
     }
   },
   {
@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;A-7C Miner^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;A-7C Miner^reset; ^yellow;^reset;"
     }
   }
 ]

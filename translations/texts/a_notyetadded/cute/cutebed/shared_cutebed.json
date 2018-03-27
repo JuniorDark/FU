@@ -71,6 +71,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutebed/cutebed1.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutebed/cutebed2.object": [
+        "/glitchDescription"
+      ],
+      "a_notyetadded/cute/cutebed/cutebed3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drowsy. My power levels are low. This bed looks inviting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutebed/cutebed1.object": [
         "/floranDescription"
       ],
       "a_notyetadded/cute/cutebed/cutebed2.object": [
@@ -82,23 +99,6 @@
     },
     "Texts": {
       "Eng": "Floran rarely ssleep in ssuch nice bed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutebed/cutebed1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutebed/cutebed2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "a_notyetadded/cute/cutebed/cutebed3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My power levels are low. This bed looks inviting."
     }
   },
   {

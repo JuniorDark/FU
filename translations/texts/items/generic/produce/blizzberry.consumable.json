@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/generic/produce/blizzberry.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Blizzberry"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/blizzberry.consumable": [
         "/description"
       ]
     },

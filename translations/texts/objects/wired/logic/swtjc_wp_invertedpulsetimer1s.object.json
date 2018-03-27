@@ -14,8 +14,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_invertedpulsetimer1s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. Stops transmitting signals for 1 second whenever it becomes active."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_invertedpulsetimer1s.object": [
+        "/description"
       ]
     },
     "Texts": {

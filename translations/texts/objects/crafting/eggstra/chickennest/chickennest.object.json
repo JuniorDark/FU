@@ -48,11 +48,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/eggstra/chickennest/chickennest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Egg Nest."
+      "Eng": "Identify. Egg Nest."
     }
   }
 ]

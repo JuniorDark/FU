@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/generic/produce/bluemelon.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Blue Melon"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/bluemelon.consumable": [
         "/description"
       ]
     },

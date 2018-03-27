@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Can be used as fuel.\nEffect:\n^cyan;+35% Energy Regen^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/energiflower.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Energiflower"
-    }
   }
 ]

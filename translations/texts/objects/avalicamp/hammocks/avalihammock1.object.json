@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avalicamp/hammocks/avalihammock1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Bed displays low structural integrity."
+      "Eng": "Cheat the creepy-crawlies by sleeping suspended in the air."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avalicamp/hammocks/avalihammock1.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cheat the creepy-crawlies by sleeping suspended in the air."
+      "Eng": "Concern. Bed displays low structural integrity."
     }
   },
   {

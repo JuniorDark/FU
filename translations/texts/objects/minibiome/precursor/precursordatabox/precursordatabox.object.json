@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/precursor/precursordatabox/precursordatabox.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can plug right into this to learn ancient precursor secrets."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/minibiome/precursor/precursordatabox/precursordatabox.object": [
         "/thelusianDescription"
       ]
     },
@@ -63,6 +52,17 @@
     },
     "Texts": {
       "Eng": "Precursor Data Box"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/precursor/precursordatabox/precursordatabox.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprise. I can plug right into this to learn ancient precursor secrets."
     }
   },
   {

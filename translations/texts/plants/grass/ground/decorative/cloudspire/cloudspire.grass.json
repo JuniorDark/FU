@@ -15,22 +15,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "A twisted spike plant."
+      "Eng": "Ssspinny and ssspiky."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/cloudspire/cloudspire.grass": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssspinny and ssspiky."
+      "Eng": "Statement. A twisted spike plant."
     }
   }
 ]

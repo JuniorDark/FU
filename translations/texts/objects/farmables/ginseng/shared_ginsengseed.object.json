@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/ginseng/ginsengseed.object": [
-        "/description"
-      ],
-      "objects/farmables/ginseng/wildginsengseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A well-known medicinal plant."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/ginseng/ginsengseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/ginseng/wildginsengseed.object": [

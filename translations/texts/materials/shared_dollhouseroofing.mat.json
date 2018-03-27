@@ -45,14 +45,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhouseroofing.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/dollhouseroofing.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This dollhouse roofing is structurally sound."
+      "Eng": "Impressed. This dollhouse roofing is structurally sound."
     }
   },
   {

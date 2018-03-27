@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/treatedgoldenwood.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/honey/treatedgoldenwood.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This carefully treated wood has a golden hue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/treatedgoldenwood.material": [
         "/description"
       ],
       "tiles/materials/honey/treatedgoldenwood.matitem": [
@@ -11,20 +25,6 @@
     },
     "Texts": {
       "Eng": "Carefully treated golden wood that maintains a freshly chopped appearance."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/honey/treatedgoldenwood.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/honey/treatedgoldenwood.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This carefully treated wood has a golden hue."
     }
   },
   {

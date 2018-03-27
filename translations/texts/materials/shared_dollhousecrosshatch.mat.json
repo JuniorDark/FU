@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhousecrosshatch.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dollhousecrosshatch.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. This lattice functions well as either a fence or window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dollhousecrosshatch.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/dollhousecrosshatch.material": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Thin wood strips all criss crossin' together."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dollhousecrosshatch.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dollhousecrosshatch.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lattice functions well as either a fence or window."
     }
   }
 ]

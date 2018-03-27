@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedlimestone.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Limestone."
+      "Eng": "Rough, unrefined limestone."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefinedlimestone.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined limestone."
+      "Eng": "Statement. Limestone."
     }
   },
   {

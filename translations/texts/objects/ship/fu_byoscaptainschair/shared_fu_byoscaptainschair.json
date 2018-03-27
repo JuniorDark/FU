@@ -31,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschairdeco.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Sitting on the Captain's chair allows me to fly this ship. Where to next?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
         "/hylotlDescription"
       ],
       "objects/ship/fu_byoscaptainschair/fu_byoscaptainschairdeco.object": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Sitting on the Captain's chair allows me to fly this ship."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/fu_byoscaptainschair/fu_byoscaptainschairdeco.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sitting on the Captain's chair allows me to fly this ship. Where to next?"
     }
   },
   {

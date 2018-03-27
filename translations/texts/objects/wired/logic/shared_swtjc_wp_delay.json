@@ -3,28 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/swtjc_wp_delay1s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/logic/swtjc_wp_delay2s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/logic/swtjc_wp_delay3s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/logic/swtjc_wp_delay4s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/logic/swtjc_wp_delay5s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/logic/swtjc_wp_delayqs.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -55,6 +49,32 @@
     },
     "Texts": {
       "Eng": "A circuit that relays signalsss after a sset delay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/swtjc_wp_delay1s.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/logic/swtjc_wp_delay2s.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/logic/swtjc_wp_delay3s.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/logic/swtjc_wp_delay4s.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/logic/swtjc_wp_delay5s.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/logic/swtjc_wp_delayqs.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A circuit that relays signals after a set delay."
     }
   }
 ]

@@ -36,22 +36,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush5/techbush5.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is that symbol a ship?"
+      "Eng": "Is this an evacuation warning?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush5/techbush5.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is this an evacuation warning?"
+      "Eng": "Puzzled. Is that symbol a ship?"
     }
   },
   {

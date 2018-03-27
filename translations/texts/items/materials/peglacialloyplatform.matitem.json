@@ -25,11 +25,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacialloyplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This platform is sturdy beneath my feet."
+      "Eng": "Statement. This platform is sturdy beneath my feet."
     }
   }
 ]

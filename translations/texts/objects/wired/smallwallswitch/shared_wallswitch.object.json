@@ -16,23 +16,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/wired/smallwallswitch/swtjc_wp_brokencompacthwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/smallwallswitch/swtjc_wp_brokencompactvwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/smallwallswitch/swtjc_wp_brokenwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A broken switch that can only be toggled when its input node is /'on'/."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/wired/smallwallswitch/swtjc_wp_compacthwallswitch.object": [
         "/apexDescription"
       ],
@@ -42,6 +25,23 @@
     },
     "Texts": {
       "Eng": "A switch. It activates something. It can even be toggled when its input node is /'on'/."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/swtjc_wp_brokencompacthwallswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_brokencompactvwallswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/smallwallswitch/swtjc_wp_brokenwallswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/."
     }
   },
   {
@@ -152,14 +152,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/smallwallswitch/swtjc_wp_compacthwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/smallwallswitch/swtjc_wp_compactvwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/."
+      "Eng": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/."
     }
   },
   {

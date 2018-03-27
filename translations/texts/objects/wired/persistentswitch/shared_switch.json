@@ -3,16 +3,13 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitchinteractive.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitchinteractive.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/persistentswitch/swtjc_wp_persistentswitchinteractive.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -34,6 +31,23 @@
     },
     "Texts": {
       "Eng": "Persssissstent ssswitch that Floran can alssso toggle manually."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/compact_switch_horizontal/swtjc_wp_compacthpersistentswitchinteractive.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/persistentswitch/compact_switch_vertical/swtjc_wp_compactvpersistentswitchinteractive.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/persistentswitch/swtjc_wp_persistentswitchinteractive.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A persistent switch that I can also toggle manually."
     }
   }
 ]

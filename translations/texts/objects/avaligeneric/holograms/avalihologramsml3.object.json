@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/holograms/avalihologramsml3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Model is consistent with amino/polysaccharide chains seen in organic life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/holograms/avalihologramsml3.object": [
         "/floranDescription"
       ]
     },
@@ -41,17 +52,6 @@
     },
     "Texts": {
       "Eng": "Looks like software for programming custom bacteria, they're useful for a whole range of applications, like biofuels or cleaning."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/holograms/avalihologramsml3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Model is consistent with amino/polysaccharide chains seen in organic life."
     }
   },
   {

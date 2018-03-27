@@ -6,12 +6,10 @@
     "Files": {
       "plants/bushes/ground/swampplant/swampplant.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/swampshrub/swampshrub.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -33,6 +31,23 @@
     "Texts": {
       "Eng": "Sswampy.",
       "Por": "Pantanoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Relatório. Um arbusto pantanoso."
+    ],
+    "Files": {
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/swampshrub/swampshrub.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A swampy plant.",
+      "Por": "Relatório. Uma planta pantanosa."
     }
   }
 ]

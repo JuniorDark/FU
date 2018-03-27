@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/wretchelseed/wildwretchelseed.object": [
-        "/description"
-      ],
-      "objects/farmables/wretchelseed/wretchelseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Straddles dimensions and bends the laws of physics."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/wretchelseed/wildwretchelseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/wretchelseed/wretchelseed.object": [

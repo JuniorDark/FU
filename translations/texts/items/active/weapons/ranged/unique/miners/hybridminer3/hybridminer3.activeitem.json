@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;D4-B Miner^reset; ^cyan;î¤^reset;"
+      "Eng": "^cyan;D4-B Miner^reset; ^cyan;^reset;"
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;D4-B Miner^reset; ^green;î¤^reset;"
+      "Eng": "^cyan;D4-B Miner^reset; ^green;^reset;"
     }
   },
   {
@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;D4-B Miner^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;D4-B Miner^reset; ^yellow;^reset;"
     }
   }
 ]

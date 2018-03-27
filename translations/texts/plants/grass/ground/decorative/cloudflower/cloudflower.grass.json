@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/cloudflower/cloudflower.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -21,6 +20,17 @@
     },
     "Texts": {
       "Eng": "Pretty flower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/cloudflower/cloudflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A cloudy spiral flower."
     }
   }
 ]

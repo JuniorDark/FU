@@ -19,22 +19,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byostechstationTier0/fu_byostechstationTier0.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran fix thisss panel to wake ship up!"
+      "Eng": "Distressed. I first need to reboot this station to communicate with SAIL."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byostechstationTier0/fu_byostechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I first need to reboot this station to communicate with SAIL."
+      "Eng": "Floran fix thisss panel to wake ship up!"
     }
   },
   {

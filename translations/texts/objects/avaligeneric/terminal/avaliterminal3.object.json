@@ -69,11 +69,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/terminal/avaliterminal3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Look, it says 01101001 01101110 01100110 01101111 on it!"
+      "Eng": "Surprise. Look, it says 01101001 01101110 01100110 01101111 on it!"
     }
   },
   {

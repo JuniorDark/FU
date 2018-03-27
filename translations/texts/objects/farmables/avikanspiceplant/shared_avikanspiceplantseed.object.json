@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Kadavan Spice Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
-        "/description"
-      ],
-      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Spices can be made by drying this plants fruits."
-    }
   }
 ]

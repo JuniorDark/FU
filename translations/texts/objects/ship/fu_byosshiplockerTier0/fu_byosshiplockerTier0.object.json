@@ -36,22 +36,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshiplockerTier0/fu_byosshiplockerTier0.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssstorage. It'sss not working."
+      "Eng": "Distressed. This ship's storage system is malfunctioning."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byosshiplockerTier0/fu_byosshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This ship's storage system is malfunctioning."
+      "Eng": "Ssstorage. It'sss not working."
     }
   }
 ]

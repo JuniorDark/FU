@@ -9,5 +9,38 @@
     "Texts": {
       "Eng": "Demolitionist"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello adventurer, mind if I join you and KICK SOME ASS?!?!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'M ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE ME, DON'T YOU, YOU WEAK SISSY?!?!?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberbountyhunter.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look at that gear! Let me travel with you, and we can DECIMATE THE OPPOSITION!"
+    }
   }
 ]

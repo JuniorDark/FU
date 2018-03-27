@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/ignuschili2/ignuschili2seed.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Adv. Ignus Chili"
+      "Eng": "Fearful. Two hundred and forty times as spicy as ordinary Chili."
     }
   },
   {
@@ -16,7 +16,6 @@
       "objects/farmables/ignuschili2/ignuschili2seed.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]
@@ -34,17 +33,6 @@
     },
     "Texts": {
       "Eng": "Two hundred and forty timesss asss hot as ordinary Chili."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/ignuschili2/ignuschili2seed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Yeowch! This is even hotter!"
     }
   }
 ]

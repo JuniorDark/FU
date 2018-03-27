@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;CT-4^reset; ^cyan;î¤^reset;"
+      "Eng": "^cyan;CT-4^reset; ^cyan;^reset;"
     }
   },
   {
@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;CT-4^reset; ^green;î¤^reset;"
+      "Eng": "^cyan;CT-4^reset; ^green;^reset;"
     }
   },
   {
@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;CT-4^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;CT-4^reset; ^yellow;^reset;"
     }
   }
 ]

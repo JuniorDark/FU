@@ -157,6 +157,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/bolbohn/bolbohnseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/bolbohn/wildbolbohnseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. This plant seems oddly familiar, yet very alien at the same time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/bolbohn/bolbohnseed.object": [
         "/erixianDescription"
       ],
       "objects/farmables/bolbohn/wildbolbohnseed.object": [
@@ -179,20 +193,6 @@
     },
     "Texts": {
       "Eng": "This plant has an odd taste. I'm not a fan of it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/bolbohn/bolbohnseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/bolbohn/wildbolbohnseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant seems oddly familiar, yet very alien at the same time."
     }
   },
   {

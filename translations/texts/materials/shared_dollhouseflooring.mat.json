@@ -3,14 +3,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dollhouseflooring.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/dollhouseflooring.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful dollhouse wooden floor."
+      "Eng": "Charmed. A beautiful dollhouse wooden floor."
     }
   },
   {

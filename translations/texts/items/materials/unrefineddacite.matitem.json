@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefineddacite.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Dacite."
+      "Eng": "Rough, unrefined dacite."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/unrefineddacite.matitem": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rough, unrefined dacite."
+      "Eng": "Statement. Dacite."
     }
   },
   {

@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/aegisaltcrystal.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful cluster of stellara crystals."
+      "Eng": "Admiration. A beautiful cluster of stellara crystals."
     }
   }
 ]

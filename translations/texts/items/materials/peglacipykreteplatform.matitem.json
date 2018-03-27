@@ -25,11 +25,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacipykreteplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This Pykrete platform looks somewhat slippery."
+      "Eng": "Statement. This Pykrete platform looks somewhat slippery."
     }
   }
 ]

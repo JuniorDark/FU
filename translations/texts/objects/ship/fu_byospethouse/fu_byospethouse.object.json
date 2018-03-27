@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/fu_byospethouse/fu_byospethouse.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This kennel would suit my prized piglet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byospethouse/fu_byospethouse.object": [
         "/apexDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "This isn't a conventional house for a crasberry, but it will do."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byospethouse/fu_byospethouse.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This kennel would suit my prized piglet."
     }
   }
 ]

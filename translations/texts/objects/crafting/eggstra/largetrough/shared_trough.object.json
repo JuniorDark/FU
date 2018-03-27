@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/eggstra/largetrough/irontrough.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/crafting/eggstra/largetrough/largetrough.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A trough, like many used for feeding livestock."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/eggstra/largetrough/irontrough.object": [
         "/apexDescription"
       ],
       "objects/crafting/eggstra/largetrough/largetrough.object": [
@@ -53,6 +39,20 @@
     },
     "Texts": {
       "Eng": "An empty wooden container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/eggstra/largetrough/irontrough.object": [
+        "/glitchDescription"
+      ],
+      "objects/crafting/eggstra/largetrough/largetrough.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A trough, like many used for feeding livestock."
     }
   },
   {

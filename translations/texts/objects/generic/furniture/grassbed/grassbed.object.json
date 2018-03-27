@@ -47,6 +47,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/furniture/grassbed/grassbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Why would someone mamke a bed out of grass?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/furniture/grassbed/grassbed.object": [
         "/floranDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "This bed's kinda itchy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/furniture/grassbed/grassbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why would someone mamke a bed out of grass?"
     }
   }
 ]

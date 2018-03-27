@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutemirror/cutemirror.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The quality of this reflection is as hazy as looking through water."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutemirror/cutemirror.object": [
         "/novakidDescription"
       ]
     },
@@ -85,6 +74,17 @@
     },
     "Texts": {
       "Eng": "The reflection quality of this mirror is terrible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutemirror/cutemirror.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsatisfied. The quality of this reflection is as hazy as looking through water."
     }
   },
   {

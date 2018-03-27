@@ -17,6 +17,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/beesilkwallpaper.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/honey/beesilkwallpaper.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disquieted. This silk wall paper is overwhelmingly gaudy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/beesilkwallpaper.material": [
         "/floranDescription"
       ],
       "tiles/materials/honey/beesilkwallpaper.matitem": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Ostentatious silk wallpaper."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/honey/beesilkwallpaper.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/honey/beesilkwallpaper.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This silk wall paper is overwhelmingly gaudy."
     }
   },
   {

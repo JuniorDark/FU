@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/swtjc_wp_persistentswitch_withnot.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -20,6 +19,17 @@
     },
     "Texts": {
       "Eng": "A modified Persssissstent Ssswitch with a built-in NOT Gate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/swtjc_wp_persistentswitch_withnot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A modified Persistent Switch with a built-in NOT Gate."
     }
   },
   {

@@ -31,34 +31,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "All your cooking needs, right here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/3/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Allow me to share my produce with you, friend."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/start/human/default/1"
       ],
       "npcs/fucultist.npctype": [
@@ -73,6 +45,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/4"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bragging. Glitch grow the best produce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/start/hylotl/default/2"
       ],
       "npcs/fucultist.npctype": [
@@ -81,20 +67,6 @@
     },
     "Texts": {
       "Eng": "Can you stomach the beauty of Hylotl cuisine?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Come back any time."
     }
   },
   {
@@ -153,6 +125,20 @@
     },
     "Texts": {
       "Eng": "Don't be a stranger!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/1"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encouraging. Go forth and become hungry."
     }
   },
   {
@@ -313,6 +299,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. If you're hungry, you came to the right place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/start/human/default/0"
       ],
       "npcs/fucultist.npctype": [
@@ -321,34 +321,6 @@
     },
     "Texts": {
       "Eng": "Get yer veggies right yere!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/4/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch grow the best produce."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Go forth and become hungry."
     }
   },
   {
@@ -442,20 +414,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If you're hungry, you came to the right place."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/start/avian/default/1"
       ],
       "npcs/fucultist.npctype": [
@@ -534,20 +492,6 @@
     },
     "Texts": {
       "Eng": "My produce is to die for. Not in a bad way!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My produce is top class."
     }
   },
   {
@@ -638,6 +582,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/1"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. My produce is top class."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. You will enjoy my produce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/end/avian/default/0"
       ],
       "npcs/fucultist.npctype": [
@@ -652,6 +624,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/0"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. All your cooking needs, right here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Come back any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
         "/scriptConfig/dialog/merchant/start/avian/default/2"
       ],
       "npcs/fucultist.npctype": [
@@ -660,6 +660,20 @@
     },
     "Texts": {
       "Eng": "Tonight you shall eat better than Kluex himself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avianchef.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/3"
+      ],
+      "npcs/fucultist.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Allow me to share my produce with you, friend."
     }
   },
   {
@@ -746,20 +760,6 @@
     },
     "Texts": {
       "Eng": "You will be back, I'm sure of it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/avianchef.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/fucultist.npctype": [
-        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You will enjoy my produce."
     }
   },
   {

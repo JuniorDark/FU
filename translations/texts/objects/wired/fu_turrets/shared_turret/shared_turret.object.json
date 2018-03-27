@@ -84,6 +84,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/fu_turrets/fu_cripplerturret/fu_cripplerturret.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/fu_turrets/fu_flameturret/fu_flameturret.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/fu_turrets/fu_gaussturret/fu_gaussturret.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/fu_turrets/fu_laserturret/fu_laserturret.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/fu_turrets/fu_rocketturret/fu_rocketturret.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/fu_turrets/fu_teslaturret/fu_teslaturret.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Must not disrupt my brother in his vigilance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/fu_turrets/fu_cripplerturret/fu_cripplerturret.object": [
         "/floranDescription"
       ],
       "objects/wired/fu_turrets/fu_flameturret/fu_flameturret.object": [
@@ -156,32 +182,6 @@
     },
     "Texts": {
       "Eng": "Looks like this thing sure could do some damage!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wired/fu_turrets/fu_cripplerturret/fu_cripplerturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/fu_turrets/fu_flameturret/fu_flameturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/fu_turrets/fu_gaussturret/fu_gaussturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/fu_turrets/fu_laserturret/fu_laserturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/fu_turrets/fu_rocketturret/fu_rocketturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wired/fu_turrets/fu_teslaturret/fu_teslaturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Must not disrupt my brother in his vigilance."
     }
   },
   {

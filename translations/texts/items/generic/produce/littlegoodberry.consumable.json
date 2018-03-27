@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Effect:\n^cyan;+15% Damage^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/littlegoodberry.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Little Good Berry"
-    }
   }
 ]

@@ -48,17 +48,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/table/avalitable2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/table/avalitable3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avaligeneric/table/avalitable4.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Not even a servant would eat off such a lowly table."
+      "Eng": "Snark. Not even a servant would eat off such a lowly table."
     }
   },
   {

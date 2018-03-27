@@ -72,6 +72,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bees/candle/bluecandle.object": [
+        "/glitchDescription"
+      ],
+      "objects/bees/candle/flowercandle.object": [
+        "/glitchDescription"
+      ],
+      "objects/bees/candle/ghostcandle.object": [
+        "/glitchDescription"
+      ],
+      "objects/bees/candle/redcandle.object": [
+        "/glitchDescription"
+      ],
+      "objects/bees/candle/waxcandle.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explanation. The Glitch do not yet have the technology to produce electric lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bees/candle/bluecandle.object": [
         "/floranDescription"
       ],
       "objects/bees/candle/flowercandle.object": [
@@ -112,29 +135,6 @@
     },
     "Texts": {
       "Eng": "Little is as beautiful as the flickering of a candle flame."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/bees/candle/bluecandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/bees/candle/flowercandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/bees/candle/ghostcandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/bees/candle/redcandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/bees/candle/waxcandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch do not yet have the technology to produce electric lights."
     }
   }
 ]

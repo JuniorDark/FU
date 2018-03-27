@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Effect:\n^cyan;Craft into bombs^reset;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/nailery.consumable": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nailery"
-    }
   }
 ]

@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/honey/goldenwoodbridge.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/honey/goldenwoodbridge.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. This aged wood has a pleasing golden hue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/honey/goldenwoodbridge.material": [
         "/shortdescription"
       ],
       "tiles/materials/honey/goldenwoodbridge.matitem": [
@@ -39,20 +53,6 @@
     },
     "Texts": {
       "Eng": "The gold colored wood is very old and creaks in the wind."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/honey/goldenwoodbridge.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/honey/goldenwoodbridge.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This aged wood has a pleasing golden hue."
     }
   },
   {

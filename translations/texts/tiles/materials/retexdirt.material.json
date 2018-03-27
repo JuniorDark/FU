@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/retexdirt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dirt. Clarification. Just dirt."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/retexdirt.material": [
         "/description"
       ]
     },
@@ -41,6 +30,17 @@
     },
     "Texts": {
       "Eng": "Filthy dirt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/retexdirt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Dirt. Clarification. Just dirt."
     }
   }
 ]

@@ -29,7 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Ultrum Boomerang^reset; ^yellow;î¤^reset;"
+      "Eng": "^cyan;Ultrum Boomerang^reset; ^yellow;^reset;"
     }
   }
 ]

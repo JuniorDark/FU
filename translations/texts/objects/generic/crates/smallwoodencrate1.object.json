@@ -25,8 +25,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/crates/smallwoodencrate1.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -75,6 +74,17 @@
     },
     "Texts": {
       "Eng": "It's just a crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/crates/smallwoodencrate1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. A wooden crate."
     }
   }
 ]

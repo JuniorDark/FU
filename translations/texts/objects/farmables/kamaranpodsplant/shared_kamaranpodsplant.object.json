@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
-        "/description"
-      ],
-      "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hard to crack open."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
         "/shortdescription"
       ],
       "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
@@ -45,6 +31,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation. The kamaran pod can generate electricity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
         "/humanDescription"
       ],
       "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
@@ -53,20 +53,6 @@
     },
     "Texts": {
       "Eng": "Stupid alien stuff. Looks like a good replacement to a baseball."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/kamaranpodsplant/kamaranpodsplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/kamaranpodsplant/wildkamaranpodsplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The kamaran pod can generate electricity."
     }
   },
   {

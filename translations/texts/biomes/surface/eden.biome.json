@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/eden.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eden"
+    }
+  }
+]

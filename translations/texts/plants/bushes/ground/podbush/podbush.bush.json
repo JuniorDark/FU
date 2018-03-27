@@ -15,22 +15,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/podbush/podbush.bush": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Funny sssquishy pod."
+      "Eng": "Analysis. This pod appears to be organic."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/podbush/podbush.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This pod appears to be organic."
+      "Eng": "Funny sssquishy pod."
     }
   }
 ]

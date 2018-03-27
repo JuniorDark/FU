@@ -59,12 +59,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/sequencer/swtjc_wp_sequencer4bithinputs.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/sequencer/swtjc_wp_sequencer4bitvinputs.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -75,16 +73,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/sequencer/swtjc_wp_sequencer4bith.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/wired/sequencer/swtjc_wp_sequencer4bitv.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
       "Eng": "A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/sequencer/swtjc_wp_sequencer4bithinputs.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bitvinputs.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/sequencer/swtjc_wp_sequencer4bith.object": [
+        "/glitchDescription"
+      ],
+      "objects/wired/sequencer/swtjc_wp_sequencer4bitv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on."
     }
   }
 ]

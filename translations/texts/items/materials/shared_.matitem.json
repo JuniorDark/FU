@@ -23,14 +23,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/redsand.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "items/materials/redsand2.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "Red sand."
+      "Eng": "Statement. Red sand."
     }
   }
 ]

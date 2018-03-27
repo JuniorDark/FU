@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avaligeneric/kitchen/avalikitchenfridge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch food needs to be kept from rusting instead of rotting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avaligeneric/kitchen/avalikitchenfridge.object": [
         "/avianDescription"
       ]
     },
@@ -52,6 +41,17 @@
     },
     "Texts": {
       "Eng": "Looking at the controls, I suspect this doubles as storage too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avaligeneric/kitchen/avalikitchenfridge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. Glitch food needs to be kept from rusting instead of rotting."
     }
   },
   {

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/generic/crafting/starbooze/hops.item": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hops"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/crafting/starbooze/hops.item": [
         "/description"
       ]
     },

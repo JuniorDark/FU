@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/extraweaponupgradeanvil/extraweaponupgradeanvil.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This anvil appears to serve different purposes in different realities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/extraweaponupgradeanvil/extraweaponupgradeanvil.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "This advanced ancient technology can raise the effectiveness of some weapons."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/extraweaponupgradeanvil/extraweaponupgradeanvil.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This anvil appears to serve different purposes in different realities."
     }
   },
   {

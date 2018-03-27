@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/radmodelportrait/radmodelportrait.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This painting is beautifully made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/radmodelportrait/radmodelportrait.object": [
         "/avianDescription"
       ]
     },
@@ -96,17 +107,6 @@
     },
     "Texts": {
       "Eng": "That's an old Radien model. Don't think they're around no more."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/radmodelportrait/radmodelportrait.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This painting is beautifully made."
     }
   }
 ]

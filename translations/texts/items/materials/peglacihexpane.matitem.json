@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacihexpane.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Appears to be ice, but is actually a sturdier crystalline metal."
+      "Eng": "Analysis. Appears to be ice, but is actually a sturdier crystalline metal."
     }
   },
   {

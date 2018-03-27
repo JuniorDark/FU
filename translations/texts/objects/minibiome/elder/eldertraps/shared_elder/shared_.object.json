@@ -3,6 +3,62 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/elder/eldertraps/elderceilingspike1/elderceilingspike1.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike2/elderceilingspike2.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike3/elderceilingspike3.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike4/elderceilingspike4.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike5/elderceilingspike5.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike6/elderceilingspike6.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike7/elderceilingspike7.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderceilingspike8/elderceilingspike8.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike1/elderfloorspike1.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike2/elderfloorspike2.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike3/elderfloorspike3.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike4/elderfloorspike4.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike5/elderfloorspike5.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike6/elderfloorspike6.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike7/elderfloorspike7.object": [
+        "/glitchDescription"
+      ],
+      "objects/minibiome/elder/eldertraps/elderfloorspike8/elderfloorspike8.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Sharp rock could penetrate Glitch shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/minibiome/elder/eldertraps/elderceilingspike1/elderceilingspike1.object": [
         "/shortdescription"
       ],
       "objects/minibiome/elder/eldertraps/elderceilingspike2/elderceilingspike2.object": [
@@ -53,62 +109,6 @@
     },
     "Texts": {
       "Eng": "Sharp Spikes"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/minibiome/elder/eldertraps/elderceilingspike1/elderceilingspike1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike2/elderceilingspike2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike3/elderceilingspike3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike4/elderceilingspike4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike5/elderceilingspike5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike6/elderceilingspike6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike7/elderceilingspike7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderceilingspike8/elderceilingspike8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike1/elderfloorspike1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike2/elderfloorspike2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike3/elderfloorspike3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike4/elderfloorspike4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike5/elderfloorspike5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike6/elderfloorspike6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike7/elderfloorspike7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/minibiome/elder/eldertraps/elderfloorspike8/elderfloorspike8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sharp rock could penetrate Glitch shell."
     }
   },
   {

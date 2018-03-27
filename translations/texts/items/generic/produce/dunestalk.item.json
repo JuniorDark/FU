@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "A hardy crop, found growing in arid locations."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/generic/produce/dunestalk.item": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dunestalk"
-    }
   }
 ]

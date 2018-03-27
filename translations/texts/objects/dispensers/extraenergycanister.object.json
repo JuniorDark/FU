@@ -14,22 +14,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/dispensers/extraenergycanister.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "A mech could utilise the energy in this canister."
+      "Eng": "A useful battery for quick mech recharging."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/dispensers/extraenergycanister.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A useful battery for quick mech recharging."
+      "Eng": "Enthused. A mech could utilise the energy in this canister."
     }
   },
   {

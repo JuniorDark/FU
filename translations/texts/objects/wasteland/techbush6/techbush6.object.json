@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wasteland/techbush6/techbush6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Arrow could indicate several possibilites."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wasteland/techbush6/techbush6.object": [
         "/humanDescription"
       ]
     },
@@ -74,6 +63,17 @@
     },
     "Texts": {
       "Eng": "Is this a mandate? Perhaps to flee? Or for some other purpose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wasteland/techbush6/techbush6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. Arrow could indicate several possibilites."
     }
   },
   {

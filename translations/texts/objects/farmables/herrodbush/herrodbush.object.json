@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Herrod Bush"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/herrodbush/herrodbush.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Provides immunity against Shadow"
-    }
   }
 ]

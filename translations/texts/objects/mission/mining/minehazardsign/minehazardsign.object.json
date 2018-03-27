@@ -36,22 +36,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minehazardsign/minehazardsign.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Hazard!"
+      "Eng": "Mining Hazard Sign"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minehazardsign/minehazardsign.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Mining Hazard Sign"
+      "Eng": "Reading. Hazard!"
     }
   },
   {

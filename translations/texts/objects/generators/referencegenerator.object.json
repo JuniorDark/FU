@@ -14,8 +14,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generators/referencegenerator.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -31,6 +30,17 @@
     },
     "Texts": {
       "Eng": "A shield generator. Protective!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/referencegenerator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. A shield generator."
     }
   },
   {

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/strangesea.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange Sea"
+    }
+  }
+]

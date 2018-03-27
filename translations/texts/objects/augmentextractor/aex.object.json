@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/augmentextractor/aex.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This device can extract any augment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/augmentextractor/aex.object": [
         "/apexDescription"
       ]
     },
@@ -85,17 +96,6 @@
     },
     "Texts": {
       "Eng": "Such things are useful for extracting augments."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/augmentextractor/aex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device can extract any augment."
     }
   },
   {

@@ -15,25 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerred/flowerred.object": [
-        "/description"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "A flower with bright red petals. Useful for making dye.",
-      "Por": "Uma flor com pétalas vermelhas brilhantes. Útil para fazer tintura."
+      "Eng": "A red flower.",
+      "Por": "Uma flor vermelha, usada para fazer tintura vermelha. A melhor cor!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerred/flowerred.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A red flower.",
-      "Por": "Uma flor vermelha, usada para fazer tintura vermelha. A melhor cor!"
+      "Eng": "Enthusiastic. A red flower.",
+      "Por": "Respeitoso. As pétalas vermelhas da flor são usadas na fabricação da tintura vermelha, uma cor real."
     }
   },
   {
@@ -46,17 +45,6 @@
     "Texts": {
       "Eng": "Floran weak to colour red.",
       "Por": "Esta flor é um vermelho escuro. Lembra Floran de um amigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/flowerred/flowerred.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Red Flower"
     }
   },
   {

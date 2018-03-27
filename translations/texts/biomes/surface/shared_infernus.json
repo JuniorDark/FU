@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/infernus.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/infernusdark.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernus"
+    }
+  }
+]

@@ -58,22 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minebelt/minebelt2.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Mining Conveyer Belt"
+      "Eng": "Indifferent. The conveyer belt is seemingly functional."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minebelt/minebelt2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The conveyer belt is seemingly functional."
+      "Eng": "Mining Conveyer Belt"
     }
   }
 ]

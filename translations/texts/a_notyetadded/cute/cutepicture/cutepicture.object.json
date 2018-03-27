@@ -25,6 +25,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "a_notyetadded/cute/cutepicture/cutepicture.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. The artist was able to capture the cuteness perfectly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "a_notyetadded/cute/cutepicture/cutepicture.object": [
         "/floranDescription"
       ]
     },
@@ -52,17 +63,6 @@
     },
     "Texts": {
       "Eng": "Some one watches too much Sailor Kelp."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "a_notyetadded/cute/cutepicture/cutepicture.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The artist was able to capture the cuteness perfectly."
     }
   },
   {

@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Nailery Seed"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/nailery/naileryseed.object": [
-        "/description"
-      ],
-      "objects/farmables/nailery/wildnaileryseed.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nailery, a Glitch delight. Tastes a bit too much like iron. Can be thrown."
-    }
   }
 ]

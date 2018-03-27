@@ -25,11 +25,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/extraforcepad/extrajumppad.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Repels objects with a strong elastic force"
+      "Eng": "Impressed. Repels objects with a strong elastic force"
     }
   },
   {

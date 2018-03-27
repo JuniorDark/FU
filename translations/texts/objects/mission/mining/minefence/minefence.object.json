@@ -69,11 +69,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minefence/minefence.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The railing is implemented for safety."
+      "Eng": "Observant. The railing is implemented for safety."
     }
   }
 ]

@@ -58,12 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembergeologist.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "I've got things to sell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembergeologist.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. I've got things to sell."
     }
   }
 ]

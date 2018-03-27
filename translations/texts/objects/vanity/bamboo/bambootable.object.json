@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/vanity/bamboo/bambootable.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "A very well-made bamboo table."
+      "Eng": "An immensely sturdy bamboo table."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/vanity/bamboo/bambootable.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An immensely sturdy bamboo table."
+      "Eng": "Approving. A very well-made bamboo table."
     }
   },
   {

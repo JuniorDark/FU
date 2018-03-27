@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacicableconnector.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A block that connects to many cables. Tightly packed."
+      "Eng": "Analysis. A block that connects to many cables. Tightly packed."
     }
   },
   {

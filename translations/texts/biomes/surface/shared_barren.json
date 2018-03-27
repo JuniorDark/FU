@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/barren2.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/barren3.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barren"
+    }
+  }
+]

@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/retexcobblestone.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Cobblestones."
+      "Eng": "Hard stones, smooth to the touch."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/retexcobblestone.material": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hard stones, smooth to the touch."
+      "Eng": "Statement. Cobblestones."
     }
   }
 ]

@@ -130,11 +130,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/kirhostechstation/kirhostechstation.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This tech station allows me to choose tech and talk to S.A.I.L."
+      "Eng": "Informative. This tech station allows me to choose tech and talk to S.A.I.L."
     }
   },
   {

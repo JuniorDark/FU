@@ -3,14 +3,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacimetalblock.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "items/materials/peglacimetalpanel.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A complex alloy - no stronger than steel, but well suited for cold temperatures."
+      "Eng": "Analysis. A complex alloy - no stronger than steel, but well suited for cold temperatures."
     }
   }
 ]

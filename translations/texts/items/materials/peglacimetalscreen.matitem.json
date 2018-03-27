@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacimetalscreen.matitem": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Colors and shapes on this ssscreen."
+      "Eng": "Analysis. This cold-resistant display screen seems to be displaying some sort of code."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/peglacimetalscreen.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This cold-resistant display screen seems to be displaying some sort of code."
+      "Eng": "Colors and shapes on this ssscreen."
     }
   },
   {
