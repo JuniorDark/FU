@@ -16,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can see my reflection... it's hideous!"
+      "Eng": "I can see my reflection... it's hideous!",
+      "Por": "Eu posso ver o meu reflexo... é horrível!"
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssand."
+      "Eng": "Sssand.",
+      "Por": "Areia."
     }
   },
   {
@@ -56,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thickened jelly. It's really tempting to eat it."
+      "Eng": "Thickened jelly. It's really tempting to eat it.",
+      "Por": "Geleia espessa. É realmente tentador comer isso."
     }
   }
 ]
