@@ -3032,7 +3032,7 @@
     }
   },
   {
-    "Comment": "Express√£o regular (n√£o para tradu√ß√£o, mas para apoiar nomes em alfabeto cir√≠lico)",
+    "Comment": "Express„o regular (n„o para traduÁ„o, mas para apoiar nomes em alfabeto cirÌlico)",
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/avalibench.config": [
@@ -3075,7 +3075,7 @@
     }
   },
   {
-    "Comment": "Express√£o regular (n√£o para tradu√ß√£o, mas para apoiar nomes em alfabeto cir√≠lico)",
+    "Comment": "Express„o regular (n„o para traduÁ„o, mas para apoiar nomes em alfabeto cirÌlico)",
     "DeniedAlternatives": [
       "Outpost - 2 Stop Teleshop"
     ],

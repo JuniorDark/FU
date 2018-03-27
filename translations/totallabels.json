@@ -3134,7 +3134,7 @@
           },
           "fubountyhunter": {
             "fubountyhunter.chest.json": 1,
-            "fubountyhunter.head.json": 1,
+            "fubountyhunter.head.json": 2,
             "fubountyhunter.legs.json": 1,
             "shared_fubountyhunter..json": 1
           },
@@ -5804,8 +5804,8 @@
           "raptorstrikeattack.monsterskill.json": 1,
           "robotRocketAttack.monsterskill.json": 1,
           "robotgaussAttack.monsterskill.json": 1,
-          "shared_Attack.monsterskill.json": 1,
           "shared_PoisonBlastAttack.monsterskill.json": 1,
+          "shared_attack.monsterskill.json": 1,
           "slimePoisonSpewAttack.monsterskill.json": 1,
           "slimegun2Attack.monsterskill.json": 1,
           "slimegunAttack.monsterskill.json": 1,
@@ -9912,7 +9912,6 @@
     },
     "shared_tion.json": 2,
     "shared_weapon.json": 1,
-    "wide_spread_fields.json": 113,
     "spawners": {
       "sentrybotcapturebot": {
         "sentrybotcapturebot.object.json": 1

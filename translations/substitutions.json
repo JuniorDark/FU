@@ -3521,9 +3521,6 @@
   "items/armors/tier4/fubountyhunter/fubountyhunter.chest": {
     "/description": "texts/items/armors/tier4/fubountyhunter/shared_fubountyhunter..json"
   },
-  "items/armors/tier4/fubountyhunter/fubountyhunter.head": {
-    "/description": "texts/items/armors/tier4/fubountyhunter/shared_fubountyhunter..json"
-  },
   "items/armors/tier4/fubountyhunter/fubountyhunter.legs": {
     "/description": "texts/items/armors/tier4/fubountyhunter/shared_fubountyhunter..json"
   },
