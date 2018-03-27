@@ -563,7 +563,7 @@
       "towndrunk.config.json": 0
     },
     "fm_musicplayer": {
-      "shared_fm_musicplayer..json": 0
+      "shared_fm_musicplayer..json": 1
     },
     "generic.json": 0,
     "interface": {
