@@ -9912,7 +9912,7 @@
     },
     "shared_tion.json": 2,
     "shared_weapon.json": 1,
-    "wide_spread_fields.json": 113
+    "wide_spread_fields.json": 113,
     "spawners": {
       "sentrybotcapturebot": {
         "sentrybotcapturebot.object.json": 1
