@@ -1958,7 +1958,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta flor azul pode ser usada para colorir roupas!"
+    ],
     "Files": {
       "objects/farmables/flowerblue/flowerblue.object": [
         "/floranDescription"
@@ -2484,7 +2486,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Snow"
+    ],
     "Files": {
       "biomes/surface/snowdark.biome": [
         "/friendlyName"
@@ -3072,7 +3076,9 @@
   },
   {
     "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Outpost - 2 Stop Teleshop"
+    ],
     "Files": {
       "interface/windowconfig/armory.config": [
         "/paneLayout/tbSpinCount/regex"
