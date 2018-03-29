@@ -2670,7 +2670,6 @@
     "/description": "texts/items/active/weapons/ranged/unique/shared_furepairgun.json"
   },
   "items/active/weapons/ranged/unique/invisiswarmgun.activeitem": {
-    "/description": "texts/items/active/weapons/ranged/unique/shared_swarmgun.activeitem.json",
     "/shortdescription": "texts/items/active/weapons/ranged/unique/shared_swarmgun.activeitem.json"
   },
   "items/active/weapons/ranged/unique/longarm.activeitem": {
@@ -2720,7 +2719,6 @@
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/ranged/unique/swarmgun.activeitem": {
-    "/description": "texts/items/active/weapons/ranged/unique/shared_swarmgun.activeitem.json",
     "/shortdescription": "texts/items/active/weapons/ranged/unique/shared_swarmgun.activeitem.json"
   },
   "items/active/weapons/ranged/unique/theblackmarket/sentryguns/mobiusrifle.activeitem": {

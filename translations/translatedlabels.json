@@ -898,6 +898,9 @@
             "furelocator3.activeitem.json": 0,
             "furelocator4.activeitem.json": 0
           },
+          "researchvoxel": {
+            "researchvoxel.activeitem.json": 0
+          },
           "shared_translocator": {
             "shared_translocator.json": 1
           },
@@ -2071,6 +2074,7 @@
               "hellfirecannon.activeitem.json": 0,
               "hellfiregun.activeitem.json": 0,
               "invisipuke.activeitem.json": 0,
+              "invisiswarmgun.activeitem.json": 0,
               "ionrifle.activeitem.json": 0,
               "irradiumrifle.activeitem.json": 0,
               "isn_magmavulcan.activeitem.json": 0,
@@ -2248,6 +2252,7 @@
               "snubber.activeitem.json": 0,
               "spawngun.activeitem.json": 0,
               "stormwarden.activeitem.json": 0,
+              "swarmgun.activeitem.json": 0,
               "swarmgun2.activeitem.json": 0,
               "tentabane.activeitem.json": 0,
               "teslagun.activeitem.json": 0,
