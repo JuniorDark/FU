@@ -271,17 +271,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/brewmaster.config": [
-        "/greeting/default/default/2"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hello."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/brewmaster.config": [
         "/beacon/default/default/3"
       ]
     },

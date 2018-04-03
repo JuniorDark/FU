@@ -1009,6 +1009,7 @@
     "/collectables/zathiseed/description": "texts/shared_ect.json"
   },
   "dialog/brewmaster.config": {
+    "/greeting/default/default/2": "texts/dialog/shared_.config.json",
     "/lostTarget/default/default/0": "texts/dialog/shared_.config.json",
     "/lostTarget/default/default/1": "texts/dialog/shared_.config.json",
     "/outOfSight/default/default/0": "texts/dialog/shared_.config.json",
@@ -1117,7 +1118,15 @@
     "/tagCriteria/default/default/9": "texts/wide_spread_fields.json"
   },
   "dialog/plurcombat.config": {
-    "/attack/default/default/0": "texts/wide_spread_fields.json"
+    "/attack/default/default/0": "texts/wide_spread_fields.json",
+    "/killedTarget/default/default/2": "texts/dialog/shared_.config.json"
+  },
+  "dialog/slimenpchuman.config": {
+    "/converse/default/default/0": "texts/dialog/shared_.config.json",
+    "/converse/default/default/1": "texts/wide_spread_fields.json",
+    "/converse/default/default/15": "texts/wide_spread_fields.json",
+    "/encourage/default/default/1": "texts/shared_npc.json",
+    "/safe/default/default/0": "texts/dialog/shared_.config.json"
   },
   "dialog/towndrunk.config": {
     "/converse/default/default/13": "texts/wide_spread_fields.json",
@@ -2061,8 +2070,32 @@
   "items/active/weapons/melee/broadsword/fucultistbroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_broadsword.activeitem.json"
   },
+  "items/active/weapons/melee/broadsword/slimebroadsword/slimenpcbroadsword.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/slimebroadsword/shared_broadsword.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/slimebroadsword/slimepersonbroadsword.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/slimebroadsword/shared_broadsword.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/slimesword.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/slimesword2.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/slimesword3.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
+  },
   "items/active/weapons/melee/broadsword/stonebroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/wavyslimesword.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_wavyslimesword.json"
+  },
+  "items/active/weapons/melee/broadsword/wavyslimesword2.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_wavyslimesword.json"
+  },
+  "items/active/weapons/melee/broadsword/wavyslimesword3.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_wavyslimesword.json"
   },
   "items/active/weapons/melee/broadsword/xithricitebroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_sword.activeitem.json"
@@ -2307,6 +2340,12 @@
   },
   "items/active/weapons/melee/shortsword/stoneshortsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_.activeitem.json"
+  },
+  "items/active/weapons/melee/slimedagger/slimedagger.activeitem": {
+    "/description": "texts/items/active/weapons/melee/slimedagger/shared_dagger.activeitem.json"
+  },
+  "items/active/weapons/melee/slimedagger/slimenpcdagger.activeitem": {
+    "/description": "texts/items/active/weapons/melee/slimedagger/shared_dagger.activeitem.json"
   },
   "items/active/weapons/melee/spear/advalloyspear.activeitem": {
     "/description": "texts/items/active/weapons/melee/spear/shared_spear.activeitem.json"
@@ -5535,6 +5574,18 @@
   "monsters/farming/pangolinbaby/pangobaby.monstertype": {
     "/shortdescription": "texts/monsters/farming/shared_pangolin/shared_.monstertype.json"
   },
+  "monsters/farming/shoatbaby/gooshoatbaby.monstertype": {
+    "/description": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json",
+    "/shortdescription": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json"
+  },
+  "monsters/farming/shoatbaby/greenshoatbaby.monstertype": {
+    "/description": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json",
+    "/shortdescription": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json"
+  },
+  "monsters/farming/shoatbaby/slimeshoatbaby.monstertype": {
+    "/description": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json",
+    "/shortdescription": "texts/monsters/farming/shoatbaby/shared_shoatbaby.monstertype.json"
+  },
   "monsters/flyers/bighairyfrank/bighairyfrank.monstertype": {
     "/description": "texts/monsters/shared_bighairyfrank.json"
   },
@@ -6592,11 +6643,11 @@
   },
   "monsters/walkers/slimes/slime/microslime/microslime.monstertype": {
     "/description": "texts/monsters/walkers/slimes/shared_slime/shared_slime.json",
-    "/shortdescription": "texts/monsters/walkers/slimes/slime/shared_slime.json"
+    "/shortdescription": "texts/shared_ers.json"
   },
   "monsters/walkers/slimes/slime/slime.monstertype": {
     "/description": "texts/monsters/walkers/slimes/shared_slime/shared_slime.json",
-    "/shortdescription": "texts/monsters/walkers/slimes/slime/shared_slime.json"
+    "/shortdescription": "texts/shared_ers.json"
   },
   "monsters/walkers/slimes/slimeecto/ectoslime.monstertype": {
     "/description": "texts/monsters/walkers/slimes/shared_slime/shared_slime.json",
@@ -6732,6 +6783,9 @@
     "/scriptConfig/dialog/converse/apex/apex/0": "texts/npcs/shared_nge.json",
     "/scriptConfig/dialog/converse/apex/default/0": "texts/npcs/shared_nge.json",
     "/scriptConfig/dialog/converse/default/default/0": "texts/npcs/shared_nge.json"
+  },
+  "npcs/beekeeper.npctype": {
+    "/scriptConfig/flee/dialog/encourage/default/0": "texts/shared_npc.json"
   },
   "npcs/crew/crewmemberLoveliusSmythe.npctype": {
     "/scriptConfig/crew/ranks/0": "texts/npcs/crew/shared_crewmember.json",
@@ -7120,6 +7174,7 @@
     "/scriptConfig/dialog/crewmember/follow/glitch/default/2": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/follow/glitch/default/3": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/follow/glitch/default/4": "texts/npcs/crew/shared_crewmember.json",
+    "/scriptConfig/dialog/crewmember/offer/default/default/3": "texts/wide_spread_fields.json",
     "/scriptConfig/dialog/crewmember/offer/floran/default/0": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/offer/floran/default/1": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/offer/floran/default/2": "texts/npcs/crew/shared_crewmember.json",
@@ -10971,6 +11026,12 @@
     "/upgradeStages/1/itemSpawnParameters/description": "texts/objects/crafting/powerstation/shared_powerstatio.json",
     "/upgradeStages/1/itemSpawnParameters/shortdescription": "texts/objects/crafting/powerstation/shared_powerstatio.json"
   },
+  "objects/crafting/sciencelaptop/sciencelaptop1.object": {
+    "/description": "texts/objects/crafting/sciencelaptop/shared_sciencelaptop.json"
+  },
+  "objects/crafting/sciencelaptop/sciencelaptop2.object": {
+    "/description": "texts/objects/crafting/sciencelaptop/shared_sciencelaptop.json"
+  },
   "objects/crafting/sproutingtable/sproutingtable.config": {
     "/paneLayout/btnCraft/caption": "texts/wide_spread_fields.json",
     "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
@@ -11384,6 +11445,42 @@
     "/novakidDescription": "texts/objects/farmables/dunestalk/shared_dunestalkseed.object.json",
     "/shortdescription": "texts/objects/farmables/dunestalk/shared_dunestalkseed.object.json",
     "/trinkDescription": "texts/objects/farmables/dunestalk/shared_dunestalkseed.object.json"
+  },
+  "objects/farmables/eggs/shoategg/gooshoategg.object": {
+    "/apexDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/avianDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/description": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/floranDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/glitchDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/humanDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/hylotlDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/novakidDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/shortdescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/slimepersondescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json"
+  },
+  "objects/farmables/eggs/shoategg/greenshoategg.object": {
+    "/apexDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/avianDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/description": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/floranDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/glitchDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/humanDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/hylotlDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/novakidDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/shortdescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/slimepersondescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json"
+  },
+  "objects/farmables/eggs/shoategg/slimeshoategg .object": {
+    "/apexDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/avianDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/description": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/floranDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/glitchDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/humanDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/hylotlDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/novakidDescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/shortdescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json",
+    "/slimepersondescription": "texts/objects/farmables/eggs/shoategg/shared_shoategg.json"
   },
   "objects/farmables/energiflower/energiflowerseed.object": {
     "/description": "texts/shared_ect.json",
@@ -13721,14 +13818,12 @@
     "/shortdescription": "texts/objects/minibiome/metallic/shared_.object.json"
   },
   "objects/minibiome/monolith1.object": {
-    "/description": "texts/objects/minibiome.json",
     "/shortdescription": "texts/objects/minibiome.json"
   },
   "objects/minibiome/monolith2.object": {
     "/shortdescription": "texts/objects/minibiome.json"
   },
   "objects/minibiome/monolith3.object": {
-    "/description": "texts/objects/minibiome.json",
     "/shortdescription": "texts/objects/minibiome.json"
   },
   "objects/minibiome/monolith4.object": {
@@ -15203,6 +15298,15 @@
     "/humanDescription": "texts/objects/ship/shared_ster/shared_.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_ster/shared_.object.json"
   },
+  "objects/ship/fu_precursorguns/Bigcannonsml_totalblazing.object": {
+    "/description": "texts/objects/ship/fu_precursorguns/shared__totalblazing.object.json"
+  },
+  "objects/ship/fu_precursorguns/PrecursorRailgunsmll_totalblazing.object": {
+    "/description": "texts/objects/ship/fu_precursorguns/shared__totalblazing.object.json"
+  },
+  "objects/ship/fu_precursorguns/PrecursorSmallGun_totalblazing.object": {
+    "/description": "texts/objects/ship/fu_precursorguns/shared__totalblazing.object.json"
+  },
   "objects/ship/fu_smallthruster/fu_smallthruster.object": {
     "/apexDescription": "texts/objects/ship/shared_ster/shared_.object.json",
     "/avianDescription": "texts/objects/ship/shared_ster/shared_.object.json",
@@ -16349,6 +16453,19 @@
   "radiomessages/fu_isotopes.radiomessages": {
     "/pickupEnrichedplutonium/text": "texts/radiomessages/shared_es.radiomessages.json"
   },
+  "radiomessages/fu_kevin.radiomessages": {
+    "/fu_kevin1/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin2/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin3/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_gasgiant/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity1/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity2/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity2/text": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity3/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity4/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity5/senderName": "texts/wide_spread_fields.json",
+    "/fu_kevin_insanity6/senderName": "texts/wide_spread_fields.json"
+  },
   "radiomessages/fu_quests.radiomessages": {
     "/fu_outpost1/senderName": "texts/wide_spread_fields.json",
     "/fu_outpost2/senderName": "texts/wide_spread_fields.json",
@@ -16487,9 +16604,24 @@
     "/charGenTextLabels/8": "texts/species/shared_.species.json",
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
   },
-  "species/nightar.species": {
+  "species/fuslimeperson.species": {
+    "/charCreationTooltip/subTitle": "texts/wide_spread_fields.json",
+    "/charCreationTooltip/title": "texts/shared_ers.json",
+    "/charGenTextLabels/0": "texts/species/shared_.species.json",
+    "/charGenTextLabels/1": "texts/species/shared_.species.json",
     "/charGenTextLabels/2": "texts/species/shared_.species.json",
     "/charGenTextLabels/3": "texts/species/shared_.species.json",
+    "/charGenTextLabels/5": "texts/species/shared_.species.json",
+    "/charGenTextLabels/6": "texts/species/shared_.species.json",
+    "/charGenTextLabels/7": "texts/species/shared_.species.json",
+    "/charGenTextLabels/9": "texts/species/shared_.species.json"
+  },
+  "species/nightar.species": {
+    "/charGenTextLabels/0": "texts/species/shared_.species.json",
+    "/charGenTextLabels/1": "texts/species/shared_.species.json",
+    "/charGenTextLabels/2": "texts/species/shared_.species.json",
+    "/charGenTextLabels/3": "texts/species/shared_.species.json",
+    "/charGenTextLabels/5": "texts/species/shared_.species.json",
     "/charGenTextLabels/6": "texts/species/shared_.species.json",
     "/charGenTextLabels/7": "texts/species/shared_.species.json",
     "/charGenTextLabels/9": "texts/species/shared_.species.json"
@@ -16693,7 +16825,7 @@
     "/label": "texts/stats/effects/fu_armoreffects/set_bonuses/shared_slimesetbonuseffect.json"
   },
   "stats/effects/fu_effects/bandage2/bandage2fu.statuseffect": {
-    "/label": "texts/stats/effects/shared_effects/shared_.statuseffect.json"
+    "/label": "texts/stats/effects.json"
   },
   "stats/effects/fu_effects/energyregenfu/energyregenfu10.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/energyregenfu/shared_energyregenfu.json"
@@ -16915,7 +17047,7 @@
     "/label": "texts/stats/effects/fu_tileeffects/webstick/shared_.statuseffect.json"
   },
   "stats/effects/fu_weaponeffects/bleeding/bleeding05.statuseffect": {
-    "/label": "texts/stats/effects/shared_effects/shared_.statuseffect.json"
+    "/label": "texts/stats/effects.json"
   },
   "stats/effects/fu_weaponeffects/bleeding/bleedinglong.statuseffect": {
     "/label": "texts/stats/effects/fu_weaponeffects/bleeding/shared_.statuseffect.json"
@@ -16979,6 +17111,9 @@
   },
   "stats/effects/heal/heal_long3.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
+  },
+  "stats/effects/heal/slimedaggerheal.statuseffect": {
+    "/label": "texts/stats/effects.json"
   },
   "stats/effects/iceblock/iceblock1.statuseffect": {
     "/label": "texts/stats/effects/iceblock/shared_.statuseffect.json"

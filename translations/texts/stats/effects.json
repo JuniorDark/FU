@@ -7,6 +7,9 @@
       ],
       "stats/effects/fu_weaponeffects/bleeding/bleeding05.statuseffect": [
         "/label"
+      ],
+      "stats/effects/heal/slimedaggerheal.statuseffect": [
+        "/label"
       ]
     },
     "Texts": {

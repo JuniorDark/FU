@@ -84,6 +84,37 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/5"
+      ],
+      "species/nightar.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/nightar.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair style"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/3"
+      ],
       "species/nightar.species": [
         "/charGenTextLabels/3"
       ],
@@ -98,6 +129,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/7"
+      ],
       "species/nightar.species": [
         "/charGenTextLabels/7"
       ],
@@ -268,6 +302,9 @@
       "species/fukirhos.species": [
         "/charGenTextLabels/9"
       ],
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/9"
+      ],
       "species/nightar.species": [
         "/charGenTextLabels/9"
       ],
@@ -375,6 +412,9 @@
       "species/fukirhos.species": [
         "/charGenTextLabels/2"
       ],
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/2"
+      ],
       "species/nightar.species": [
         "/charGenTextLabels/2"
       ],
@@ -406,6 +446,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/6"
+      ],
       "species/nightar.species": [
         "/charGenTextLabels/6"
       ],
@@ -415,6 +458,20 @@
     },
     "Texts": {
       "Eng": "Shirt colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/fuslimeperson.species": [
+        "/charGenTextLabels/0"
+      ],
+      "species/nightar.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skin colour"
     }
   },
   {

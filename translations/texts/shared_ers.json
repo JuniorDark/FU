@@ -54,5 +54,22 @@
     "Texts": {
       "Eng": "Servitor mkIII"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/slimes/slime/microslime/microslime.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/walkers/slimes/slime/slime.monstertype": [
+        "/shortdescription"
+      ],
+      "species/fuslimeperson.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime"
+    }
   }
 ]

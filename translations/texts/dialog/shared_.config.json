@@ -87,6 +87,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/brewmaster.config": [
+        "/greeting/default/default/2"
+      ],
+      "dialog/slimenpchuman.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/brewmaster.config": [
         "/reattack/default/default/0"
       ],
       "dialog/towndrunk.config": [
@@ -112,6 +126,20 @@
     },
     "Texts": {
       "Eng": "Only looshers like ya pick on people when they're drunk!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/plurcombat.config": [
+        "/killedTarget/default/default/2"
+      ],
+      "dialog/slimenpchuman.config": [
+        "/safe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew!"
     }
   },
   {
