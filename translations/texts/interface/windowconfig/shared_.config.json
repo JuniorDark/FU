@@ -25,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ARMORY"
+      "Eng": "ARMORY",
+      "Por": "ARSENAL"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Create deadly weapons & armor."
+      "Eng": "Create deadly weapons & armor.",
+      "Por": "Crie armas e armaduras mortais."
     }
   },
   {
@@ -122,7 +124,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#ffffff;BLUEPRINTS"
+      "Eng": "^#ffffff;BLUEPRINTS",
+      "Por": "^#ffffff;MODELOS"
     }
   },
   {
@@ -142,7 +145,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#ffffff;PRODUCT"
+      "Eng": "^#ffffff;PRODUCT",
+      "Por": "^#ffffff;PRODUTO"
     }
   }
 ]
