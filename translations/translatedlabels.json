@@ -560,6 +560,7 @@
       "macready.config.json": 0,
       "plurcombat.config.json": 0,
       "shared_.config.json": 0,
+      "slimenpchuman.config.json": 0,
       "towndrunk.config.json": 0
     },
     "fm_musicplayer": {
@@ -695,7 +696,7 @@
         "radienshop.config.json": 0,
         "radienshopdrug.config.json": 0,
         "samplingarray2.config.json": 0,
-        "shared_.config.json": 7,
+        "shared_.config.json": 3,
         "teambar.config.json": 1,
         "xenostation.config.json": 0
       }
@@ -789,6 +790,11 @@
           "lasherhook2": {
             "lasherhook2.activeitem.json": 0
           },
+          "slimegrapplinghook": {
+            "guslimegrapplinghook.activeitem.json": 0,
+            "slimegrapplinghook.activeitem.json": 0,
+            "xelslimegrapplinghook.activeitem.json": 0
+          },
           "tethersnap": {
             "tethersnap.activeitem.json": 0
           },
@@ -826,6 +832,9 @@
           "reptileshield.activeitem.json": 0,
           "shadowshield.activeitem.json": 0,
           "shared_shield.activeitem.json": 0,
+          "slimeactiveshield": {
+            "slimeactiveshield.activeitem.json": 0
+          },
           "titaniumshield.activeitem.json": 0,
           "tritaniumshield.activeitem.json": 0,
           "tungstenshield.activeitem.json": 0,
@@ -903,6 +912,9 @@
           },
           "shared_translocator": {
             "shared_translocator.json": 1
+          },
+          "shoategg": {
+            "shoategg.activeitem.json": 0
           },
           "statusTablet": {
             "statustablet.activeitem.json": 0
@@ -1051,6 +1063,9 @@
                 "shared_.weaponability.json": 0
               },
               "broadsword": {
+                "flipslash": {
+                  "slimeflipslash.weaponability.json": 0
+                },
                 "fubladecharge": {
                   "fubladecharge.weaponability.json": 0
                 },
@@ -1106,6 +1121,7 @@
               "shortspear": {
                 "shortspearcombo.weaponability.json": 0
               },
+              "slimedaggerstab.weaponability.json": 0,
               "spear": {
                 "fucharge": {
                   "fucharge.weaponability.json": 0
@@ -1197,11 +1213,23 @@
               "quietusknight.activeitem.json": 0,
               "shared_.activeitem.json": 0,
               "shared_broadsword.activeitem.json": 0,
+              "shared_wavyslimesword.json": 0,
+              "slimebroadsword": {
+                "shared_broadsword.activeitem.json": 0,
+                "slimenpcbroadsword.activeitem.json": 0,
+                "slimepersonbroadsword.activeitem.json": 0
+              },
+              "slimesword.activeitem.json": 0,
+              "slimesword2.activeitem.json": 0,
+              "slimesword3.activeitem.json": 0,
               "spikesword.activeitem.json": 0,
               "stonebroadsword.activeitem.json": 0,
               "telebriumbroadsword.activeitem.json": 0,
               "uraniumbroadsword.activeitem.json": 0,
               "warcleaver.activeitem.json": 0,
+              "wavyslimesword.activeitem.json": 0,
+              "wavyslimesword2.activeitem.json": 0,
+              "wavyslimesword3.activeitem.json": 0,
               "xithricitebroadsword.activeitem.json": 0,
               "zerchesiumbroadsword.activeitem.json": 0
             },
@@ -1519,6 +1547,11 @@
               "xithriciteshortsword.activeitem.json": 0,
               "zerchesiumsword.activeitem.json": 0
             },
+            "slimedagger": {
+              "shared_dagger.activeitem.json": 0,
+              "slimedagger.activeitem.json": 0,
+              "slimenpcdagger.activeitem.json": 0
+            },
             "spear": {
               "advalloyspear.activeitem.json": 0,
               "ancientspear.activeitem.json": 0,
@@ -1673,6 +1706,9 @@
               "precursorpistolice.activeitem.json": 0,
               "precursorpistolshock.activeitem.json": 0,
               "precursorpistolxray.activeitem.json": 0
+            },
+            "remotegrenadelauncher": {
+              "slimegrenadelauncher.activeitem.json": 0
             },
             "skittlegun": {
               "skittlegun.activeitem.json": 0
@@ -2399,7 +2435,8 @@
           },
           "wand": {
             "floatwand": {
-              "floatstaff.activeitem.json": 0
+              "floatstaff.activeitem.json": 0,
+              "floatstaff2.activeitem.json": 0
             },
             "fubiowand": {
               "fubiowand.activeitem.json": 0
@@ -4452,7 +4489,8 @@
         "other": {
           "medkit2.consumable.json": 0,
           "medkit3.consumable.json": 0,
-          "medkit4.consumable.json": 0
+          "medkit4.consumable.json": 0,
+          "slimegoo.item.json": 0
         },
         "petfood": {
           "petfood1.consumable.json": 0,
@@ -5400,6 +5438,9 @@
         },
         "shared_pangolin": {
           "shared_.monstertype.json": 0
+        },
+        "shoatbaby": {
+          "shared_shoatbaby.monstertype.json": 0
         }
       },
       "fish": {
@@ -6235,9 +6276,6 @@
           "shared_slime": {
             "shared_slime.json": 0
           },
-          "slime": {
-            "shared_slime.json": 0
-          },
           "slimemagma": {
             "magmaslime.monstertype.json": 0
           }
@@ -6886,6 +6924,11 @@
           "powerstation.object.json": 0,
           "shared_powerstatio.json": 0
         },
+        "sciencelaptop": {
+          "sciencelaptop1.object.json": 0,
+          "sciencelaptop2.object.json": 0,
+          "shared_sciencelaptop.json": 0
+        },
         "servitorloader": {
           "servitorloader.config.json": 0,
           "servitorloader.object.json": 0
@@ -7036,6 +7079,9 @@
           },
           "poptopegg": {
             "poptopegg.object.json": 0
+          },
+          "shoategg": {
+            "shared_shoategg.json": 0
           }
         },
         "energiflower": {
@@ -8161,7 +8207,9 @@
           "tech2.object.json": 0,
           "tetrapod.object.json": 0
         },
+        "monolith1.object.json": 0,
         "monolith2.object.json": 0,
+        "monolith3.object.json": 0,
         "penum": {
           "penumbrachest.object.json": 0,
           "shared_penumball.json": 0
@@ -8736,6 +8784,9 @@
         "boosterflamekirhos": {
           "boosterflamekirhos.object.json": 0
         },
+        "fu_antennae": {
+          "Antena_Things_smll_totalblazingTop.object.json": 0
+        },
         "fu_byosbrokenfuelhatch": {
           "fu_byosbrokenfuelhatch.object.json": 0
         },
@@ -8812,8 +8863,17 @@
         "fu_fueltank": {
           "fu_fueltank.object.json": 0
         },
+        "fu_fueltank2": {
+          "fu_fueltank2.object.json": 0
+        },
         "fu_largethruster": {
           "fu_largethruster.object.json": 0
+        },
+        "fu_precursorguns": {
+          "Bigcannonsml_totalblazing.object.json": 0,
+          "PrecursorRailgunsmll_totalblazing.object.json": 0,
+          "PrecursorSmallGun_totalblazing.object.json": 0,
+          "shared__totalblazing.object.json": 0
         },
         "fu_shipengine": {
           "fu_shipengine.object.json": 0
@@ -9897,6 +9957,7 @@
     "shared_lic.json": 0,
     "shared_mat.json": 0,
     "shared_matmod.json": 1,
+    "shared_npc.json": 0,
     "shared_peglacialloyplatform.mat.json": 0,
     "shared_peglacipykreteplatform.mat.json": 0,
     "shared_platform.mat.json": 0,
@@ -9960,6 +10021,7 @@
       "fumantizi.species.json": 0,
       "fupeglaci.species.json": 0,
       "fuphotonpoptop.species.json": 0,
+      "fuslimeperson.species.json": 0,
       "nightar.species.json": 0,
       "precursor.species.json": 0,
       "radien.species.json": 0,
@@ -10650,13 +10712,13 @@
         "shadowblock": {
           "shared_.statuseffect.json": 0
         },
-        "shared_effects": {
-          "shared_.statuseffect.json": 0
-        },
         "shared_energyboost": {
           "shared_energyboostneg100.json": 0
         },
         "shared_slow.json": 0,
+        "slimeleech": {
+          "slimeleech.statuseffect.json": 0
+        },
         "swimboost": {
           "swimboost1.statuseffect.json": 0,
           "swimboost2.statuseffect.json": 0,
@@ -10669,6 +10731,9 @@
           "novax10.statuseffect.json": 0,
           "shared_.statuseffect.json": 0
         },
+        "timefreeze": {
+          "timefreezeSkittles.statuseffect.json": 0
+        },
         "tsmd": {
           "mage_shield": {
             "shared_mage_shield_lvl.json": 0,
@@ -10678,7 +10743,8 @@
         "wet": {
           "wet.statuseffect.json": 1
         }
-      }
+      },
+      "effects.json": 0
     },
     "tech": {
       "dash": {
