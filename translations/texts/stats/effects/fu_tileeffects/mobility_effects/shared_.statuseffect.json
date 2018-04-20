@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/fu_tileeffects/mobility_effects/honeyslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_tileeffects/mobility_effects/honeyslow2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honey"
+    }
+  }
+]

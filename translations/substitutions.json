@@ -2214,12 +2214,6 @@
   "items/active/weapons/melee/longsword/rarelongsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/longsword/shared_longsword.activeitem.json"
   },
-  "items/active/weapons/melee/longsword/telebriumlongsword.activeitem": {
-    "/shortdescription": "texts/items/active/weapons/melee/longsword/shared_longsword.activeitem.json"
-  },
-  "items/active/weapons/melee/longsword/theluslongsword.activeitem": {
-    "/shortdescription": "texts/items/active/weapons/melee/longsword/shared_longsword.activeitem.json"
-  },
   "items/active/weapons/melee/longsword/uncommonlongsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/longsword/shared_longsword.activeitem.json"
   },
@@ -2776,7 +2770,7 @@
     "/ability/name": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/staff/abilities/entropicwarding/entropicwarding.weaponability": {
-    "/ability/name": "texts/shared_sta.json"
+    "/ability/name": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/staff/cultiststaff/cultiststaff1.activeitem": {
     "/description": "texts/items/active/weapons/staff/shared_staff/shared_.activeitem.json"
@@ -4290,7 +4284,7 @@
     "/shortdescription": "texts/shared_booze/shared_wort..json"
   },
   "items/generic/crafting/xenostation/gene_stealth.item": {
-    "/shortdescription": "texts/shared_stat.json"
+    "/shortdescription": "texts/shared_ost.json"
   },
   "items/generic/desserts/peachpie.consumable": {
     "/description": "texts/items/generic/desserts/shared_pie.consumable.json"
@@ -5270,6 +5264,13 @@
   },
   "items/materials/redslate2.matitem": {
     "/shortdescription": "texts/materials/shared_redslate2.mat.json"
+  },
+  "items/materials/redwoodbark.matitem": {
+    "/description": "texts/materials/shared_redwoodbark.mat.json",
+    "/floranDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/glitchDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/novakidDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/shortdescription": "texts/materials/shared_redwoodbark.mat.json"
   },
   "items/materials/retexaetherdust.matitem": {
     "/shortdescription": "texts/materials/shared_retexaetherdust.mat.json"
@@ -6624,6 +6625,12 @@
   "monsters/walkers/poptopish/firetop/firetopsummon.monstertype": {
     "/description": "texts/monsters/walkers/poptopish/firetop/shared_.monstertype.json",
     "/shortdescription": "texts/monsters/walkers/poptopish/firetop/shared_.monstertype.json"
+  },
+  "monsters/walkers/poptopish/slimetop/slimetop.monstertype": {
+    "/description": "texts/monsters/walkers/poptopish/slimetop/shared_.monstertype.json"
+  },
+  "monsters/walkers/poptopish/slimetop/zoro.monstertype": {
+    "/description": "texts/monsters/walkers/poptopish/slimetop/shared_.monstertype.json"
   },
   "monsters/walkers/seedspawn/seedspawn.monstertype": {
     "/description": "texts/monsters/walkers/seedspawn/shared_.monstertype.json",
@@ -12545,6 +12552,14 @@
     "/description": "texts/objects/shared_temp/shared_temp.object.json",
     "/shortdescription": "texts/objects/shared_temp/shared_temp.object.json"
   },
+  "objects/generic/futoolbox/futoolbox.object": {
+    "/description": "texts/objects/generic/futoolbox/shared_futoolbox.json",
+    "/shortdescription": "texts/objects/generic/futoolbox/shared_futoolbox.json"
+  },
+  "objects/generic/futoolbox/futoolbox2.object": {
+    "/description": "texts/objects/generic/futoolbox/shared_futoolbox.json",
+    "/shortdescription": "texts/objects/generic/futoolbox/shared_futoolbox.json"
+  },
   "objects/generic/gravgenerator/gravgenfield.statuseffect": {
     "/label": "texts/objects/shared_gravgen/shared_gravgenfield.statuseffect.json"
   },
@@ -15172,13 +15187,13 @@
     "/description": "texts/objects/ship/shared_fu_byosshipdoor/shared_fu_byosshiphatch.json",
     "/shortdescription": "texts/objects/shared_shiphatch.json"
   },
-  "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": {
-    "/avianDescription": "texts/objects/ship/shared_osshipdoorbroken/shared_roken.object.json",
+  "objects/ship/fu_byosshipdoorBroken/fu_byosshipdoorBroken.object": {
+    "/avianDescription": "texts/objects/ship/shared_osshipdoor/shared_roken.object.json",
     "/description": "texts/objects/ship/shared_fu_byosshipdoor/shared_fu_byosshipdoor.json",
-    "/floranDescription": "texts/objects/ship/shared_osshipdoorbroken/shared_roken.object.json",
+    "/floranDescription": "texts/objects/ship/shared_osshipdoor/shared_roken.object.json",
     "/shortdescription": "texts/objects/ship/shared_fu_byosshipdoor/shared_fu_byosshipdoor.json"
   },
-  "objects/ship/fu_byosshipdoorbroken/fu_byosshiphatchBroken.object": {
+  "objects/ship/fu_byosshipdoorBroken/fu_byosshiphatchBroken.object": {
     "/description": "texts/objects/ship/shared_fu_byosshipdoor/shared_fu_byosshiphatch.json",
     "/shortdescription": "texts/objects/shared_shiphatch.json"
   },
@@ -15351,9 +15366,9 @@
     "/shortdescription": "texts/objects/ship/shared_kirhosshipdoor/shared_kirhosshipdoor.json"
   },
   "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": {
-    "/avianDescription": "texts/objects/ship/shared_osshipdoorbroken/shared_roken.object.json",
+    "/avianDescription": "texts/objects/ship/shared_osshipdoor/shared_roken.object.json",
     "/description": "texts/objects/ship/shared_kirhosshipdoor/shared_kirhosshipdoor.json",
-    "/floranDescription": "texts/objects/ship/shared_osshipdoorbroken/shared_roken.object.json",
+    "/floranDescription": "texts/objects/ship/shared_osshipdoor/shared_roken.object.json",
     "/shortdescription": "texts/objects/ship/shared_kirhosshipdoor/shared_kirhosshipdoor.json"
   },
   "objects/ship/kirhosshiplocker/kirhosshiplocker.object": {
@@ -15397,10 +15412,25 @@
   "objects/smartbox/splitter/splitter.object": {
     "/subtitle": "texts/objects/smartbox/shared_r.object.json"
   },
+  "objects/spacestationguiconsole/racial/racialspacestationconsole.object": {
+    "/description": "texts/objects/spacestationguiconsole.json"
+  },
+  "objects/spacestationguiconsole/racial/racialspacestationconsole_medical.object": {
+    "/description": "texts/objects/spacestationguiconsole.json"
+  },
+  "objects/spacestationguiconsole/racial/racialspacestationconsole_military.object": {
+    "/description": "texts/objects/spacestationguiconsole.json"
+  },
+  "objects/spacestationguiconsole/racial/racialspacestationconsole_scientific.object": {
+    "/description": "texts/objects/spacestationguiconsole.json"
+  },
+  "objects/spacestationguiconsole/racial/racialspacestationconsole_trading.object": {
+    "/description": "texts/objects/spacestationguiconsole.json"
+  },
   "objects/spacestationguiconsole/spacestationguiconsole.object": {
     "/apexDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/avianDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
-    "/description": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
+    "/description": "texts/objects/spacestationguiconsole.json",
     "/floranDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/glitchDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/humanDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
@@ -15410,7 +15440,7 @@
   "objects/spacestationguiconsole/spacestationguiconsole_medical.object": {
     "/apexDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/avianDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
-    "/description": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
+    "/description": "texts/objects/spacestationguiconsole.json",
     "/floranDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/glitchDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/humanDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
@@ -15420,7 +15450,7 @@
   "objects/spacestationguiconsole/spacestationguiconsole_military.object": {
     "/apexDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/avianDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
-    "/description": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
+    "/description": "texts/objects/spacestationguiconsole.json",
     "/floranDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/glitchDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/humanDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
@@ -15430,7 +15460,7 @@
   "objects/spacestationguiconsole/spacestationguiconsole_scientific.object": {
     "/apexDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/avianDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
-    "/description": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
+    "/description": "texts/objects/spacestationguiconsole.json",
     "/floranDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/glitchDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/humanDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
@@ -15440,7 +15470,7 @@
   "objects/spacestationguiconsole/spacestationguiconsole_trading.object": {
     "/apexDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/avianDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
-    "/description": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
+    "/description": "texts/objects/spacestationguiconsole.json",
     "/floranDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/glitchDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
     "/humanDescription": "texts/objects/spacestationguiconsole/shared_spacestationguiconsole.json",
@@ -16692,18 +16722,6 @@
   "stats/effects/augments/pushback3.statuseffect": {
     "/label": "texts/stats/effects/augments/shared_.statuseffect.json"
   },
-  "stats/effects/beesting/fubeesting.statuseffect": {
-    "/label": "texts/stats/effects/beesting/shared_.statuseffect.json"
-  },
-  "stats/effects/beesting/fubeesting2.statuseffect": {
-    "/label": "texts/stats/effects/beesting/shared_.statuseffect.json"
-  },
-  "stats/effects/beesting/fubeesting3.statuseffect": {
-    "/label": "texts/stats/effects/beesting/shared_.statuseffect.json"
-  },
-  "stats/effects/beesting/fubeesting4.statuseffect": {
-    "/label": "texts/stats/effects/beesting/shared_.statuseffect.json"
-  },
   "stats/effects/camouflage/camouflage05.statuseffect": {
     "/label": "texts/stats/effects/camouflage/shared_.statuseffect.json"
   },
@@ -16724,12 +16742,6 @@
   },
   "stats/effects/cosmicblock/cosmicblock3.statuseffect": {
     "/label": "texts/stats/effects/cosmicblock/shared_.statuseffect.json"
-  },
-  "stats/effects/critbonus/critchance1.statuseffect": {
-    "/label": "texts/stats/effects/critbonus/shared_.statuseffect.json"
-  },
-  "stats/effects/critbonus/critchance2.statuseffect": {
-    "/label": "texts/stats/effects/critbonus/shared_.statuseffect.json"
   },
   "stats/effects/defenseboost/defense6.statuseffect": {
     "/label": "texts/stats/effects/defenseboost/shared_.statuseffect.json"
@@ -16776,24 +16788,6 @@
   "stats/effects/electricblock/electricblock3.statuseffect": {
     "/label": "texts/stats/effects/electricblock/shared_electricblock.json"
   },
-  "stats/effects/energytickup/strongcoffee1.statuseffect": {
-    "/label": "texts/stats/effects/energytickup/shared_.statuseffect.json"
-  },
-  "stats/effects/energytickup/strongcoffee2.statuseffect": {
-    "/label": "texts/stats/effects/energytickup/shared_.statuseffect.json"
-  },
-  "stats/effects/energytickup/strongcoffee3.statuseffect": {
-    "/label": "texts/stats/effects/energytickup/shared_.statuseffect.json"
-  },
-  "stats/effects/energytickup/strongcoffee4.statuseffect": {
-    "/label": "texts/stats/effects/energytickup/shared_.statuseffect.json"
-  },
-  "stats/effects/entropicward/entropicward.statuseffect": {
-    "/label": "texts/shared_sta.json"
-  },
-  "stats/effects/entropicward/myphisfx.statuseffect": {
-    "/label": "texts/shared_sta.json"
-  },
   "stats/effects/fireblock/fireblock1.statuseffect": {
     "/label": "texts/stats/effects/fireblock/shared_.statuseffect.json"
   },
@@ -16802,15 +16796,6 @@
   },
   "stats/effects/fireblock/fireblock3.statuseffect": {
     "/label": "texts/stats/effects/fireblock/shared_.statuseffect.json"
-  },
-  "stats/effects/freeze/freeze.statuseffect": {
-    "/label": "texts/stats/effects/freeze/shared_.statuseffect.json"
-  },
-  "stats/effects/freeze/freezefu.statuseffect": {
-    "/label": "texts/stats/effects/freeze/shared_.statuseffect.json"
-  },
-  "stats/effects/freeze/freezefu2.statuseffect": {
-    "/label": "texts/stats/effects/freeze/shared_.statuseffect.json"
   },
   "stats/effects/fu_armoreffects/brainslug.statuseffect": {
     "/label": "texts/shared_brainslug.json"
@@ -16826,6 +16811,27 @@
   },
   "stats/effects/fu_effects/bandage2/bandage2fu.statuseffect": {
     "/label": "texts/stats/effects.json"
+  },
+  "stats/effects/fu_effects/beesting/beesting.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/beesting/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/beesting/fubeesting.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/beesting/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/beesting/fubeesting2.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/beesting/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/beesting/fubeesting3.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/beesting/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/beesting/fubeesting4.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/beesting/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/critbonus/critchance1.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/critbonus/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/critbonus/critchance2.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/critbonus/shared_.statuseffect.json"
   },
   "stats/effects/fu_effects/energyregenfu/energyregenfu10.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/energyregenfu/shared_energyregenfu.json"
@@ -16914,6 +16920,24 @@
   "stats/effects/fu_effects/energyrestorepercentage/energy_armor_4.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/energyrestorepercentage/shared_.statuseffect.json"
   },
+  "stats/effects/fu_effects/energytickup/strongcoffee1.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/energytickup/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/energytickup/strongcoffee2.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/energytickup/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/energytickup/strongcoffee3.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/energytickup/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/energytickup/strongcoffee4.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/energytickup/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/entropicward/entropicward.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "stats/effects/fu_effects/entropicward/myphisfx.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
   "stats/effects/fu_effects/feedpack/feedpackcrew1.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/feedpack/shared_.statuseffect.json"
   },
@@ -16922,6 +16946,15 @@
   },
   "stats/effects/fu_effects/feedpack/feedpackcrew3.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/feedpack/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/freeze/freeze.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/freeze/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/freeze/freezefu.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/freeze/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/freeze/freezefu2.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/freeze/shared_.statuseffect.json"
   },
   "stats/effects/fu_effects/glow/glowblue.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/glow/shared_.statuseffect.json"
@@ -16959,6 +16992,66 @@
   "stats/effects/fu_effects/glow/ultraglow.statuseffect": {
     "/label": "texts/stats/effects/fu_effects/glow/shared_.statuseffect.json"
   },
+  "stats/effects/fu_effects/intoxicated/booze.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/intoxicated/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/intoxicated/booze2.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/intoxicated/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/intoxicated/booze3.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/intoxicated/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_effects/mage_shield/mage_shield_lvl1.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/mage_shield/shared_mage_shield_lvl.json"
+  },
+  "stats/effects/fu_effects/mage_shield/mage_shield_lvl1shadowcrab.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/mage_shield/shared_mage_shield_lvl.json"
+  },
+  "stats/effects/fu_effects/mage_shield/mage_shield_lvl4.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/mage_shield/shared_mage_shield_lvl.json"
+  },
+  "stats/effects/fu_effects/mage_shield/mage_shield_lvl4starspawn.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/mage_shield/shared_mage_shield_lvl.json"
+  },
+  "stats/effects/fu_effects/percentarmorboost/percentarmorboostneg1.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percentarmorboost/shared_percentarmorboostneg.json"
+  },
+  "stats/effects/fu_effects/percentarmorboost/percentarmorboostnegproto.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percentarmorboost/shared_percentarmorboostneg.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergyboost20.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percentenergyboost/shared_percentenergyboost.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergyboost25.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percentenergyboost/shared_percentenergyboost.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergyboostneg100.statuseffect": {
+    "/label": "texts/stats/effects/shared_energyboost.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergyboostneg100_2.statuseffect": {
+    "/label": "texts/stats/effects/shared_energyboost.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergyboostneg100_3.statuseffect": {
+    "/label": "texts/stats/effects/shared_energyboost.json"
+  },
+  "stats/effects/fu_effects/percentenergyboost/percentenergybooststim.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percentenergyboost/shared_percentenergyboost.json"
+  },
+  "stats/effects/fu_effects/percenthealthboost/negativehealth.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percenthealthboost/shared_negativehealth.json"
+  },
+  "stats/effects/fu_effects/percenthealthboost/negativehealthirradiated.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percenthealthboost/shared_negativehealth.json"
+  },
+  "stats/effects/fu_effects/percenthealthboost/percenthealthboost25.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percenthealthboost/shared_percenthealthboost.json"
+  },
+  "stats/effects/fu_effects/percenthealthboost/percenthealthbooststim.statuseffect": {
+    "/label": "texts/stats/effects/fu_effects/percenthealthboost/shared_percenthealthboost.json"
+  },
+  "stats/effects/fu_effects/powerboost/powerboost.statuseffect": {
+    "/label": "texts/shared_ost.json"
+  },
   "stats/effects/fu_immunityeffects/poisonimmunity.statuseffect": {
     "/label": "texts/stats/effects/fu_immunityeffects/shared_poisonimmunity.json"
   },
@@ -16968,83 +17061,92 @@
   "stats/effects/fu_immunityeffects/poisonimmunityspongeweed.statuseffect": {
     "/label": "texts/stats/effects/fu_immunityeffects/shared_poisonimmunity.json"
   },
-  "stats/effects/fu_tileeffects/biooozepoison/biooozepoison.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/biooozepoison/shared_biooozepoison.json"
-  },
-  "stats/effects/fu_tileeffects/biooozepoison/biooozepoison2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/biooozepoison/shared_biooozepoison.json"
-  },
-  "stats/effects/fu_tileeffects/biooozepoison/biooozepoisonshort.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/biooozepoison/shared_biooozepoison.json"
-  },
-  "stats/effects/fu_tileeffects/blacktarslow/blacktarslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_slow.json"
-  },
-  "stats/effects/fu_tileeffects/gravrain/gravrain.statuseffect": {
+  "stats/effects/fu_tileeffects/gas_effects/helium3/helium3.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
-  "stats/effects/fu_tileeffects/helium3/helium3.statuseffect": {
+  "stats/effects/fu_tileeffects/gas_effects/shadowgas/shadowgasfx.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/gas_effects/shadowgas/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_tileeffects/gas_effects/shadowgas/shadowgasfx2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/gas_effects/shadowgas/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_tileeffects/gravity_effects/gravrain/gravrain.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
-  "stats/effects/fu_tileeffects/honeyslow/honeyslow.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/honeyslow/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/mobility_effects/blacktarslow.statuseffect": {
+    "/label": "texts/stats/effects/shared_effect.json"
   },
-  "stats/effects/fu_tileeffects/honeyslow/honeyslow2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/honeyslow/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/mobility_effects/honeyslow.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/mobility_effects/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/insanity/insanity.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/insanity/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/mobility_effects/honeyslow2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/mobility_effects/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/insanity/insanity2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/insanity/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/mobility_effects/slushslow.statuseffect": {
+    "/label": "texts/stats/effects/shared_effect.json"
   },
-  "stats/effects/fu_tileeffects/moltenmetal/moltenmetal.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/moltenmetal/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/mobility_effects/snowslow.statuseffect": {
+    "/label": "texts/stats/effects/shared_effect.json"
   },
-  "stats/effects/fu_tileeffects/moltenmetal/moltenmetal2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/moltenmetal/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/poison_effects/biooozepoison/biooozepoison.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/biooozepoison/shared_biooozepoison.json"
   },
-  "stats/effects/fu_tileeffects/moltenmetal/moltenmetal3.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/moltenmetal/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/poison_effects/biooozepoison/biooozepoison2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/biooozepoison/shared_biooozepoison.json"
   },
-  "stats/effects/fu_tileeffects/nitrogenfreeze/nitrogenfreeze.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/nitrogenfreeze/shared_nitrogenfreeze.json"
+  "stats/effects/fu_tileeffects/poison_effects/biooozepoison/biooozepoisonshort.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/biooozepoison/shared_biooozepoison.json"
   },
-  "stats/effects/fu_tileeffects/nitrogenfreeze/nitrogenfreeze2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/nitrogenfreeze/shared_nitrogenfreeze.json"
+  "stats/effects/fu_tileeffects/poison_effects/moltenmetal/moltenmetal.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/moltenmetal/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/nitrogenfreeze/nitrogenfreeze3.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/nitrogenfreeze/shared_nitrogenfreeze.json"
+  "stats/effects/fu_tileeffects/poison_effects/moltenmetal/moltenmetal2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/moltenmetal/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/shadowgas/shadowgasfx.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/shadowgas/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/poison_effects/moltenmetal/moltenmetal3.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/moltenmetal/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/shadowgas/shadowgasfx2.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/shadowgas/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/nitrogenfreeze.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/shared_nitrogenfreeze.json"
   },
-  "stats/effects/fu_tileeffects/slushslow/slushslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_slow.json"
+  "stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/nitrogenfreeze2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/shared_nitrogenfreeze.json"
   },
-  "stats/effects/fu_tileeffects/snowslow/snowslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_slow.json"
+  "stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/nitrogenfreeze3.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/shared_nitrogenfreeze.json"
   },
-  "stats/effects/fu_tileeffects/superdark/superdarkstat.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/superdark/shared_superdarkstat.json"
+  "stats/effects/fu_tileeffects/specialty_effects/darkstalker/darkstalker.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/darkstalker/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/superdark/superdarkstatlarge.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/superdark/shared_superdarkstat.json"
+  "stats/effects/fu_tileeffects/specialty_effects/darkstalker/darkstalkerUnblockable.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/darkstalker/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/superdark/superdarkstatmid.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/superdark/shared_superdarkstat.json"
+  "stats/effects/fu_tileeffects/specialty_effects/insanity/insanity.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/insanity/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/superdark/superdarkstatshoggoth.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/superdark/shared_superdarkstat.json"
+  "stats/effects/fu_tileeffects/specialty_effects/insanity/insanity2.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/insanity/shared_.statuseffect.json"
   },
-  "stats/effects/fu_tileeffects/webstick/webstick.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/webstick/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/specialty_effects/superdark/superdarkstat.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/superdark/shared_superdarkstat.json"
   },
-  "stats/effects/fu_tileeffects/webstick/webstickgrappler.statuseffect": {
-    "/label": "texts/stats/effects/fu_tileeffects/webstick/shared_.statuseffect.json"
+  "stats/effects/fu_tileeffects/specialty_effects/superdark/superdarkstatUnblockable.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/superdark/shared_superdarkstat.json"
+  },
+  "stats/effects/fu_tileeffects/specialty_effects/superdark/superdarkstatlarge.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/superdark/shared_superdarkstat.json"
+  },
+  "stats/effects/fu_tileeffects/specialty_effects/superdark/superdarkstatmid.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/superdark/shared_superdarkstat.json"
+  },
+  "stats/effects/fu_tileeffects/specialty_effects/superdark/superdarkstatshoggoth.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/superdark/shared_superdarkstat.json"
+  },
+  "stats/effects/fu_tileeffects/specialty_effects/webstick/webstick.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/webstick/shared_.statuseffect.json"
+  },
+  "stats/effects/fu_tileeffects/specialty_effects/webstick/webstickgrappler.statuseffect": {
+    "/label": "texts/stats/effects/fu_tileeffects/specialty_effects/webstick/shared_.statuseffect.json"
   },
   "stats/effects/fu_weaponeffects/bleeding/bleeding05.statuseffect": {
     "/label": "texts/stats/effects.json"
@@ -17124,15 +17226,6 @@
   "stats/effects/iceblock/iceblock3.statuseffect": {
     "/label": "texts/stats/effects/iceblock/shared_.statuseffect.json"
   },
-  "stats/effects/intoxicated/booze.statuseffect": {
-    "/label": "texts/stats/effects/intoxicated/shared_.statuseffect.json"
-  },
-  "stats/effects/intoxicated/booze2.statuseffect": {
-    "/label": "texts/stats/effects/intoxicated/shared_.statuseffect.json"
-  },
-  "stats/effects/intoxicated/booze3.statuseffect": {
-    "/label": "texts/stats/effects/intoxicated/shared_.statuseffect.json"
-  },
   "stats/effects/lowgrav/lowgrav_fallspeed.statuseffect": {
     "/label": "texts/stats/effects/lowgrav/shared_lowgrav_fallspeed.json"
   },
@@ -17152,49 +17245,13 @@
     "/label": "texts/stats/effects/lowgrav/shared_.statuseffect.json"
   },
   "stats/effects/maxenergyboost/maxenergyboostneg100.statuseffect": {
-    "/label": "texts/stats/effects/shared_energyboost/shared_energyboostneg100.json"
+    "/label": "texts/stats/effects/shared_energyboost.json"
   },
   "stats/effects/partytime/partytime3.statuseffect": {
     "/label": "texts/stats/effects/partytime/shared_.statuseffect.json"
   },
   "stats/effects/partytime/partytime5.statuseffect": {
     "/label": "texts/stats/effects/partytime/shared_.statuseffect.json"
-  },
-  "stats/effects/percentarmorboost/percentarmorboostneg1.statuseffect": {
-    "/label": "texts/stats/effects/percentarmorboost/shared_percentarmorboostneg.json"
-  },
-  "stats/effects/percentarmorboost/percentarmorboostnegproto.statuseffect": {
-    "/label": "texts/stats/effects/percentarmorboost/shared_percentarmorboostneg.json"
-  },
-  "stats/effects/percentenergyboost/percentenergyboost20.statuseffect": {
-    "/label": "texts/stats/effects/percentenergyboost/shared_percentenergyboost.json"
-  },
-  "stats/effects/percentenergyboost/percentenergyboost25.statuseffect": {
-    "/label": "texts/stats/effects/percentenergyboost/shared_percentenergyboost.json"
-  },
-  "stats/effects/percentenergyboost/percentenergyboostneg100.statuseffect": {
-    "/label": "texts/stats/effects/shared_energyboost/shared_energyboostneg100.json"
-  },
-  "stats/effects/percentenergyboost/percentenergyboostneg100_2.statuseffect": {
-    "/label": "texts/stats/effects/shared_energyboost/shared_energyboostneg100.json"
-  },
-  "stats/effects/percentenergyboost/percentenergyboostneg100_3.statuseffect": {
-    "/label": "texts/stats/effects/shared_energyboost/shared_energyboostneg100.json"
-  },
-  "stats/effects/percentenergyboost/percentenergybooststim.statuseffect": {
-    "/label": "texts/stats/effects/percentenergyboost/shared_percentenergyboost.json"
-  },
-  "stats/effects/percenthealthboost/negativehealth.statuseffect": {
-    "/label": "texts/stats/effects/percenthealthboost/shared_negativehealth.json"
-  },
-  "stats/effects/percenthealthboost/negativehealthirradiated.statuseffect": {
-    "/label": "texts/stats/effects/percenthealthboost/shared_negativehealth.json"
-  },
-  "stats/effects/percenthealthboost/percenthealthboost25.statuseffect": {
-    "/label": "texts/stats/effects/percenthealthboost/shared_percenthealthboost.json"
-  },
-  "stats/effects/percenthealthboost/percenthealthbooststim.statuseffect": {
-    "/label": "texts/stats/effects/percenthealthboost/shared_percenthealthboost.json"
   },
   "stats/effects/physicalblock/physicalblock.statuseffect": {
     "/label": "texts/stats/effects/physicalblock/shared_physicalblock.json"
@@ -17213,9 +17270,6 @@
   },
   "stats/effects/poisonblock/poisonblock3.statuseffect": {
     "/label": "texts/stats/effects/poisonblock/shared_.statuseffect.json"
-  },
-  "stats/effects/powerboost/powerboost.statuseffect": {
-    "/label": "texts/shared_stat.json"
   },
   "stats/effects/radioactiveblock/radioactiveblock.statuseffect": {
     "/label": "texts/stats/effects/radioactiveblock/shared_radioactiveblock.json"
@@ -17275,10 +17329,10 @@
     "/label": "texts/stats/effects/shadowblock/shared_.statuseffect.json"
   },
   "stats/effects/slow/slow.statuseffect": {
-    "/label": "texts/stats/effects/shared_slow.json"
+    "/label": "texts/stats/effects/shared_effect.json"
   },
   "stats/effects/staffslow/staffslow2.statuseffect": {
-    "/label": "texts/stats/effects/shared_slow.json"
+    "/label": "texts/stats/effects/shared_effect.json"
   },
   "stats/effects/thorns/burstfayshroom.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"
@@ -17297,18 +17351,6 @@
   },
   "stats/effects/thorns/thornsstranglevinesuper.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"
-  },
-  "stats/effects/tsmd/mage_shield/mage_shield_lvl1.statuseffect": {
-    "/label": "texts/stats/effects/tsmd/mage_shield/shared_mage_shield_lvl.json"
-  },
-  "stats/effects/tsmd/mage_shield/mage_shield_lvl1shadowcrab.statuseffect": {
-    "/label": "texts/stats/effects/tsmd/mage_shield/shared_mage_shield_lvl.json"
-  },
-  "stats/effects/tsmd/mage_shield/mage_shield_lvl4.statuseffect": {
-    "/label": "texts/stats/effects/tsmd/mage_shield/shared_mage_shield_lvl.json"
-  },
-  "stats/effects/tsmd/mage_shield/mage_shield_lvl4starspawn.statuseffect": {
-    "/label": "texts/stats/effects/tsmd/mage_shield/shared_mage_shield_lvl.json"
   },
   "stats/effects/waterwalk/waterwalk.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
@@ -18261,6 +18303,13 @@
   },
   "tiles/materials/redslate2.material": {
     "/shortdescription": "texts/materials/shared_redslate2.mat.json"
+  },
+  "tiles/materials/redwoodbark.material": {
+    "/description": "texts/materials/shared_redwoodbark.mat.json",
+    "/floranDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/glitchDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/novakidDescription": "texts/materials/shared_redwoodbark.mat.json",
+    "/shortdescription": "texts/materials/shared_redwoodbark.mat.json"
   },
   "tiles/materials/retexaetherdust.material": {
     "/shortdescription": "texts/materials/shared_retexaetherdust.mat.json"

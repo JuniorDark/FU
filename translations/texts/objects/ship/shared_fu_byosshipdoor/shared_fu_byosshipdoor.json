@@ -5,7 +5,7 @@
       "objects/ship/fu_byosshipdoor/fu_byosshipdoor.object": [
         "/description"
       ],
-      "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
+      "objects/ship/fu_byosshipdoorBroken/fu_byosshipdoorBroken.object": [
         "/description"
       ]
     },
@@ -19,7 +19,7 @@
       "objects/ship/fu_byosshipdoor/fu_byosshipdoor.object": [
         "/shortdescription"
       ],
-      "objects/ship/fu_byosshipdoorbroken/fu_byosshipdoorBroken.object": [
+      "objects/ship/fu_byosshipdoorBroken/fu_byosshipdoorBroken.object": [
         "/shortdescription"
       ]
     },

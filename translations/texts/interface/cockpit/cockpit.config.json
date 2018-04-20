@@ -486,6 +486,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/displayWeathers/mountainmass/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "High-Mass Event"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/hurricane/displayName"
       ]
     },

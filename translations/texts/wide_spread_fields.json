@@ -785,6 +785,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/weapons/staff/abilities/entropicwarding/entropicwarding.weaponability": [
+        "/ability/name"
+      ],
+      "stats/effects/fu_effects/entropicward/entropicward.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/fu_effects/entropicward/myphisfx.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entropic Warding"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "collections/fu_plant.collection": [
         "/collectables/erithianalgae/title"
       ],
@@ -1014,7 +1031,7 @@
       "interface/cockpit/cockpit.config": [
         "/displayWeathers/gravrain/displayName"
       ],
-      "stats/effects/fu_tileeffects/gravrain/gravrain.statuseffect": [
+      "stats/effects/fu_tileeffects/gravity_effects/gravrain/gravrain.statuseffect": [
         "/label"
       ]
     },
@@ -1452,7 +1469,7 @@
       "items/liquids/helium3gasliquid.liqitem": [
         "/shortdescription"
       ],
-      "stats/effects/fu_tileeffects/helium3/helium3.statuseffect": [
+      "stats/effects/fu_tileeffects/gas_effects/helium3/helium3.statuseffect": [
         "/label"
       ]
     },
